@@ -33,7 +33,7 @@ pyanaconda/network.py                                     1021    806    556    
 pyanaconda/nm.py                                           512    429    168      3    13%
 pyanaconda/ntp.py                                          112     89     33      0    16%
 pyanaconda/orderedset.py                                    48     32     16      1    27%
-pyanaconda/packaging/__init__.py                           684    527    259      1    17%
+pyanaconda/packaging/__init__.py                           680    523    255      1    17%
 pyanaconda/packaging/dnfpayload.py                         645    645    229      0     0%
 pyanaconda/packaging/livepayload.py                        311    311    110      0     0%
 pyanaconda/packaging/rpmostreepayload.py                   159    129     36      0    15%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        203     48     98    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24376  21514   8683    112    10%
+TOTAL                                                    24372  21510   8679    112    10%
