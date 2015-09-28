@@ -1,6 +1,6 @@
 Name                                                     Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------
-dracut/driver_updates.py                                   367     75    138     21    76%
+dracut/driver_updates.py                                   370     77    138     21    76%
 dracut/parse-kickstart                                     402    332    206      1    12%
 pyanaconda/__init__.py                                       0      0      0      0   100%
 pyanaconda/addons.py                                        76     51     28      0    24%
@@ -11,7 +11,7 @@ pyanaconda/bootloader.py                                  1358   1041    510    
 pyanaconda/constants.py                                    102      1      4      1    96%
 pyanaconda/constants_text.py                                 3      3      0      0     0%
 pyanaconda/desktop.py                                       27     16      8      0    31%
-pyanaconda/errors.py                                       148     94     30      2    31%
+pyanaconda/errors.py                                       138     93     26      0    27%
 pyanaconda/exception.py                                    145    145     34      0     0%
 pyanaconda/flags.py                                        128     37     50     10    62%
 pyanaconda/geoloc.py                                       347    347     74      0     0%
@@ -90,10 +90,10 @@ pyanaconda/ui/gui/spokes/lib/resize.py                     281    281    105    
 pyanaconda/ui/gui/spokes/lib/summary.py                     37     37     10      0     0%
 pyanaconda/ui/gui/spokes/network.py                       1055   1055    420      0     0%
 pyanaconda/ui/gui/spokes/password.py                       158    158     63      0     0%
-pyanaconda/ui/gui/spokes/software.py                       314    314    114      0     0%
+pyanaconda/ui/gui/spokes/software.py                       312    312    112      0     0%
 pyanaconda/ui/gui/spokes/source.py                         950    950    354      0     0%
 pyanaconda/ui/gui/spokes/storage.py                        586    586    224      0     0%
-pyanaconda/ui/gui/spokes/user.py                           363    363    149      0     0%
+pyanaconda/ui/gui/spokes/user.py                           362    362    149      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
 pyanaconda/ui/gui/utils.py                                 190    190     44      0     0%
 pyanaconda/ui/gui/xkl_wrapper.py                           161    161     44      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        203     48     98    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24372  21510   8679    112    10%
+TOTAL                                                    24362  21508   8673    110    10%
