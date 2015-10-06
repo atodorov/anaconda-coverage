@@ -92,7 +92,7 @@ pyanaconda/ui/gui/spokes/network.py                       1055   1055    420    
 pyanaconda/ui/gui/spokes/password.py                       158    158     63      0     0%
 pyanaconda/ui/gui/spokes/software.py                       312    312    112      0     0%
 pyanaconda/ui/gui/spokes/source.py                         950    950    354      0     0%
-pyanaconda/ui/gui/spokes/storage.py                        586    586    224      0     0%
+pyanaconda/ui/gui/spokes/storage.py                        598    598    228      0     0%
 pyanaconda/ui/gui/spokes/user.py                           327    327    127      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
 pyanaconda/ui/gui/utils.py                                 190    190     44      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        223     48    110    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24352  21478   8667    111    10%
+TOTAL                                                    24364  21490   8671    111    10%
