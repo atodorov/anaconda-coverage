@@ -73,7 +73,7 @@ pyanaconda/ui/gui/spokes/advstorage/iscsi.py               254    254     74    
 pyanaconda/ui/gui/spokes/advstorage/zfcp.py                 84     84     10      0     0%
 pyanaconda/ui/gui/spokes/custom.py                        1577   1577    602      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                 647    647    211      0     0%
-pyanaconda/ui/gui/spokes/filter.py                         426    426    133      0     0%
+pyanaconda/ui/gui/spokes/filter.py                         429    429    135      0     0%
 pyanaconda/ui/gui/spokes/keyboard.py                       374    374     98      0     0%
 pyanaconda/ui/gui/spokes/langsupport.py                    101    101     18      0     0%
 pyanaconda/ui/gui/spokes/lib/__init__.py                     0      0      0      0   100%
@@ -92,7 +92,7 @@ pyanaconda/ui/gui/spokes/network.py                       1063   1063    420    
 pyanaconda/ui/gui/spokes/password.py                       159    159     65      0     0%
 pyanaconda/ui/gui/spokes/software.py                       312    312    112      0     0%
 pyanaconda/ui/gui/spokes/source.py                         953    953    358      0     0%
-pyanaconda/ui/gui/spokes/storage.py                        598    598    228      0     0%
+pyanaconda/ui/gui/spokes/storage.py                        600    600    230      0     0%
 pyanaconda/ui/gui/spokes/user.py                           325    325    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
 pyanaconda/ui/gui/utils.py                                 199    199     50      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        223     48    110    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24418  21387   8673    119    11%
+TOTAL                                                    24423  21392   8677    119    11%
