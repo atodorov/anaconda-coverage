@@ -27,7 +27,7 @@ pyanaconda/isys/__init__.py                                 90     64     27    
 pyanaconda/iutil.py                                        588    249    227     28    54%
 pyanaconda/kexec.py                                         48     48     12      0     0%
 pyanaconda/keyboard.py                                     208    155     57      0    22%
-pyanaconda/kickstart.py                                   1311   1079    627      4    12%
+pyanaconda/kickstart.py                                   1315   1083    634      4    12%
 pyanaconda/localization.py                                 262    158    124      4    36%
 pyanaconda/network.py                                      998    785    540      7    19%
 pyanaconda/nm.py                                           512    429    168      3    13%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        223     48    110    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24436  21405   8677    119    11%
+TOTAL                                                    24440  21409   8684    119    11%
