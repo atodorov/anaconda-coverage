@@ -7,7 +7,7 @@ pyanaconda/addons.py                                        76     51     28    
 pyanaconda/anaconda.py                                     153    153     46      0     0%
 pyanaconda/anaconda_argparse.py                            206     46     84     10    70%
 pyanaconda/anaconda_log.py                                 125     83     11      0    31%
-pyanaconda/bootloader.py                                  1358   1041    512      0    17%
+pyanaconda/bootloader.py                                  1351   1033    510      0    18%
 pyanaconda/constants.py                                    102      1      4      1    96%
 pyanaconda/constants_text.py                                 3      3      0      0     0%
 pyanaconda/desktop.py                                       27     16      8      0    31%
@@ -30,13 +30,13 @@ pyanaconda/keyboard.py                                     208    155     57    
 pyanaconda/kickstart.py                                   1315   1083    634      4    12%
 pyanaconda/localization.py                                 262    158    124      4    36%
 pyanaconda/network.py                                      998    785    540      7    19%
-pyanaconda/nm.py                                           512    429    168      3    13%
+pyanaconda/nm.py                                           516    433    168      3    13%
 pyanaconda/ntp.py                                          112     89     33      0    16%
 pyanaconda/orderedset.py                                    48     32     16      1    27%
-pyanaconda/packaging/__init__.py                           680    523    255      1    17%
+pyanaconda/packaging/__init__.py                           681    524    255      1    17%
 pyanaconda/packaging/dnfpayload.py                         658    658    229      0     0%
 pyanaconda/packaging/livepayload.py                        313    313    112      0     0%
-pyanaconda/packaging/rpmostreepayload.py                   159    129     36      0    15%
+pyanaconda/packaging/rpmostreepayload.py                   169    137     38      0    15%
 pyanaconda/packaging/tarpayload.py                          39     39      6      0     0%
 pyanaconda/product.py                                       26      4      4      2    80%
 pyanaconda/progress.py                                      25      9      0      0    64%
@@ -71,7 +71,7 @@ pyanaconda/ui/gui/spokes/advstorage/dasd.py                 75     75      8    
 pyanaconda/ui/gui/spokes/advstorage/fcoe.py                 73     73     12      0     0%
 pyanaconda/ui/gui/spokes/advstorage/iscsi.py               254    254     74      0     0%
 pyanaconda/ui/gui/spokes/advstorage/zfcp.py                 84     84     10      0     0%
-pyanaconda/ui/gui/spokes/custom.py                        1577   1577    602      0     0%
+pyanaconda/ui/gui/spokes/custom.py                        1579   1579    604      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                 647    647    211      0     0%
 pyanaconda/ui/gui/spokes/filter.py                         429    429    135      0     0%
 pyanaconda/ui/gui/spokes/keyboard.py                       374    374     98      0     0%
@@ -122,8 +122,8 @@ pyanaconda/ui/tui/spokes/time_spoke.py                      89     89     40    
 pyanaconda/ui/tui/spokes/user.py                            81     81     43      0     0%
 pyanaconda/ui/tui/spokes/warnings_spoke.py                  25     25      0      0     0%
 pyanaconda/ui/tui/tuiobject.py                              80     80      8      0     0%
-pyanaconda/users.py                                        223     48    110     16    75%
+pyanaconda/users.py                                        215     48    106     15    74%
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24440  21409   8684    119    11%
+TOTAL                                                    24442  21416   8682    118    11%
