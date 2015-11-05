@@ -10,18 +10,24 @@ fi
 
 pushd $DIRNAME
 
-wget "$JENKINS/job/anaconda-x86_64/lastSuccessfulBuild/artifact/tests/coverage-report.log" -O coverage-report.log 2>/dev/null
-if [ "$?" -ne "0" ]; then
-    echo "Download failed, exitting ..."
-    exit 2
-fi
+for f in ".coverage" \
+        "tests/coverage-report.log" \
+        "tests/cppcheck/runcppcheck.log" \
+        "tests/glade/run_glade_tests.log" \
+        "tests/kickstart_tests/scripts/run_kickstart_tests.log" \
+        "tests/nosetests.log" \
+        "tests/nosetests_root.log" \
+        "tests/pylint/runpylint.py.log" \
+        "tests/storage/run_storage_tests.py.log" \
+        "tests/test-suite.log"; do
 
-wget "$JENKINS/job/anaconda-x86_64/lastSuccessfulBuild/artifact/.coverage" -O .coverage 2>/dev/null
-if [ "$?" -ne "0" ]; then
-    echo "Download failed, exitting ..."
-    exit 2
-fi
-
+    tgt=`basename $f`
+    wget "$JENKINS/job/anaconda-x86_64/lastSuccessfulBuild/artifact/$f" -O "$tgt" 2>/dev/null
+    if [ "$?" -ne "0" ]; then
+        echo "Downloading $f failed, exitting ..."
+        exit 2
+    fi
+done
 
 DATE=`date --rfc-3339=date`
 DIFF=`git diff`
