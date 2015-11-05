@@ -75,7 +75,7 @@ pyanaconda/ui/gui/spokes/custom.py                        1579   1579    604    
 pyanaconda/ui/gui/spokes/datetime_spoke.py                 647    647    211      0     0%
 pyanaconda/ui/gui/spokes/filter.py                         429    429    135      0     0%
 pyanaconda/ui/gui/spokes/keyboard.py                       374    374     98      0     0%
-pyanaconda/ui/gui/spokes/langsupport.py                    101    101     18      0     0%
+pyanaconda/ui/gui/spokes/langsupport.py                    102    102     16      0     0%
 pyanaconda/ui/gui/spokes/lib/__init__.py                     0      0      0      0   100%
 pyanaconda/ui/gui/spokes/lib/accordion.py                  205    205     50      0     0%
 pyanaconda/ui/gui/spokes/lib/cart.py                       127    127     58      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    106    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24442  21416   8682    118    11%
+TOTAL                                                    24443  21417   8680    118    11%
