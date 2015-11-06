@@ -14,6 +14,7 @@ for f in ".coverage" \
         "tests/coverage-report.log" \
         "tests/cppcheck/runcppcheck.log" \
         "tests/glade/run_glade_tests.log" \
+        "tests/install/run_install_test.log" \
         "tests/kickstart_tests/scripts/run_kickstart_tests.log" \
         "tests/nosetests.log" \
         "tests/nosetests_root.log" \
