@@ -132,6 +132,7 @@ Should correctly parse keyboard layout and variant string specs. ... ok
 Test that anaconda uses the right versions of kickstart commands ... ok
 Test that anaconda uses the right versions of kickstart data ... ok
 Test that anaconda uses the right versions of kickstart commands ... ok
+Test if ANACONDA_WIDGETS_DATA is used if specified. ... ok
 Finding best locale matches should work as expected. ... ok
 Langcode-locale matching should work as expected. ... ok
 All locales' date formats should be properly resolved. ... ok
@@ -202,7 +203,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 202 tests in 11.640s
+Ran 203 tests in 11.049s
 
 OK (SKIP=19)
 PASS nosetests.sh (exit status: 0)

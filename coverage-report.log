@@ -16,7 +16,7 @@ pyanaconda/exception.py                                    145    145     34    
 pyanaconda/flags.py                                        128     36     50      9    63%
 pyanaconda/geoloc.py                                       347    347     74      0     0%
 pyanaconda/i18n.py                                          18     10     12      2    47%
-pyanaconda/ihelp.py                                         45     45     18      0     0%
+pyanaconda/ihelp.py                                         45     32     18      0    21%
 pyanaconda/image.py                                        113     98     43      0    10%
 pyanaconda/install.py                                      122    122     41      0     0%
 pyanaconda/installclass.py                                 129    129     56      0     0%
@@ -28,7 +28,7 @@ pyanaconda/iutil.py                                        588    249    227    
 pyanaconda/kexec.py                                         48     48     12      0     0%
 pyanaconda/keyboard.py                                     208    155     57      0    22%
 pyanaconda/kickstart.py                                   1315   1083    634      4    12%
-pyanaconda/localization.py                                 262    158    124      4    36%
+pyanaconda/localization.py                                 262    134    124      7    45%
 pyanaconda/network.py                                      998    785    540      7    19%
 pyanaconda/nm.py                                           516    433    168      3    13%
 pyanaconda/ntp.py                                          112     89     33      0    16%
@@ -51,7 +51,7 @@ pyanaconda/startup_utils.py                                 22     22      8    
 pyanaconda/storage_utils.py                                190    190     90      0     0%
 pyanaconda/threads.py                                      111     84     26      0    20%
 pyanaconda/timezone.py                                      93     49     32      2    45%
-pyanaconda/ui/__init__.py                                   52     34     18      0    26%
+pyanaconda/ui/__init__.py                                   52     27     18      0    39%
 pyanaconda/ui/categories/__init__.py                         7      7      0      0     0%
 pyanaconda/ui/categories/customization.py                    8      8      0      0     0%
 pyanaconda/ui/categories/localization.py                     8      8      0      0     0%
@@ -60,12 +60,12 @@ pyanaconda/ui/categories/system.py                           8      8      0    
 pyanaconda/ui/categories/user_settings.py                    8      8      0      0     0%
 pyanaconda/ui/common.py                                    197    136     66      0    23%
 pyanaconda/ui/communication.py                               8      8      0      0     0%
-pyanaconda/ui/gui/__init__.py                              478    478    117      0     0%
+pyanaconda/ui/gui/__init__.py                              480    360    117      0    21%
 pyanaconda/ui/gui/helpers.py                                71     71     16      0     0%
 pyanaconda/ui/gui/hubs/__init__.py                         218    218     97      0     0%
 pyanaconda/ui/gui/hubs/progress.py                         164    164     42      0     0%
 pyanaconda/ui/gui/hubs/summary.py                           14     14      2      0     0%
-pyanaconda/ui/gui/spokes/__init__.py                        24     24      0      0     0%
+pyanaconda/ui/gui/spokes/__init__.py                        24     10      0      0    58%
 pyanaconda/ui/gui/spokes/advstorage/__init__.py              0      0      0      0   100%
 pyanaconda/ui/gui/spokes/advstorage/dasd.py                 75     75      8      0     0%
 pyanaconda/ui/gui/spokes/advstorage/fcoe.py                 73     73     12      0     0%
@@ -83,7 +83,7 @@ pyanaconda/ui/gui/spokes/lib/custom_storage_helpers.py     390    390    138    
 pyanaconda/ui/gui/spokes/lib/dasdfmt.py                     64     64     10      0     0%
 pyanaconda/ui/gui/spokes/lib/detailederror.py               29     29      8      0     0%
 pyanaconda/ui/gui/spokes/lib/entropy_dialog.py              49     49      2      0     0%
-pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py         78     78     18      0     0%
+pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py         78     39     18      0    43%
 pyanaconda/ui/gui/spokes/lib/passphrase.py                 129    129     29      0     0%
 pyanaconda/ui/gui/spokes/lib/refresh.py                     46     46      4      0     0%
 pyanaconda/ui/gui/spokes/lib/resize.py                     281    281    105      0     0%
@@ -95,7 +95,7 @@ pyanaconda/ui/gui/spokes/source.py                         953    953    358    
 pyanaconda/ui/gui/spokes/storage.py                        600    600    230      0     0%
 pyanaconda/ui/gui/spokes/user.py                           325    325    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
-pyanaconda/ui/gui/utils.py                                 199    199     50      0     0%
+pyanaconda/ui/gui/utils.py                                 199    139     50      1    24%
 pyanaconda/ui/gui/xkl_wrapper.py                           161    161     44      0     0%
 pyanaconda/ui/helpers.py                                   126    126     38      0     0%
 pyanaconda/ui/lib/__init__.py                                0      0      0      0   100%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    106    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24443  21417   8680    118    11%
+TOTAL                                                    24445  21142   8680    122    12%
