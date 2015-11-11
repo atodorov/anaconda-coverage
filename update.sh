@@ -14,7 +14,7 @@ for f in ".coverage" \
         "tests/coverage-report.log" \
         "tests/cppcheck/runcppcheck.log" \
         "tests/gettext_tests/gettext_tests.log" \
-        "tests/glade/run_glade_tests.log" \
+        "tests/glade/run_glade_tests.py.log" \
         "tests/install/run_install_test.log" \
         "tests/kickstart_tests/scripts/run_kickstart_tests.log" \
         "tests/nosetests.log" \
