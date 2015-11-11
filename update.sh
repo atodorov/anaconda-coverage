@@ -27,7 +27,8 @@ for f in ".coverage" \
     wget "$JENKINS/job/anaconda-x86_64/lastSuccessfulBuild/artifact/$f" -O "$tgt" 2>/dev/null
     if [ "$?" -ne "0" ]; then
         echo "Downloading $f failed, exitting ..."
-        exit 2
+# don't exit if some of the downloads fail
+#        exit 2
     fi
 done
 
