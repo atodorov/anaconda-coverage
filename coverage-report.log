@@ -12,7 +12,7 @@ pyanaconda/constants.py                                    102      1      4    
 pyanaconda/constants_text.py                                 3      3      0      0     0%
 pyanaconda/desktop.py                                       27     16      8      0    31%
 pyanaconda/errors.py                                       138     93     26      0    27%
-pyanaconda/exception.py                                    153    153     36      0     0%
+pyanaconda/exception.py                                    145    145     34      0     0%
 pyanaconda/flags.py                                        128     36     50      9    63%
 pyanaconda/geoloc.py                                       347    347     74      0     0%
 pyanaconda/i18n.py                                          18     10     12      2    47%
@@ -22,19 +22,19 @@ pyanaconda/install.py                                      122    122     41    
 pyanaconda/installclass.py                                 129    129     56      0     0%
 pyanaconda/installclasses/__init__.py                        0      0      0      0   100%
 pyanaconda/installclasses/fedora.py                         31     31     10      0     0%
-pyanaconda/installclasses/rhel.py                           31     31      8      0     0%
+pyanaconda/installclasses/rhel.py                           33     33     10      0     0%
 pyanaconda/isys/__init__.py                                 90     64     27      1    23%
 pyanaconda/iutil.py                                        588    249    227     28    54%
 pyanaconda/kexec.py                                         48     48     12      0     0%
 pyanaconda/keyboard.py                                     208    155     57      0    22%
-pyanaconda/kickstart.py                                   1327   1094    640      4    12%
+pyanaconda/kickstart.py                                   1315   1083    634      4    12%
 pyanaconda/localization.py                                 262    134    124      7    45%
-pyanaconda/network.py                                     1039    823    570      7    18%
+pyanaconda/network.py                                      998    785    540      7    19%
 pyanaconda/nm.py                                           516    433    168      3    13%
 pyanaconda/ntp.py                                          112     89     33      0    16%
 pyanaconda/orderedset.py                                    48     32     16      1    27%
 pyanaconda/packaging/__init__.py                           681    524    255      1    17%
-pyanaconda/packaging/dnfpayload.py                         659    659    229      0     0%
+pyanaconda/packaging/dnfpayload.py                         658    658    229      0     0%
 pyanaconda/packaging/livepayload.py                        313    313    112      0     0%
 pyanaconda/packaging/rpmostreepayload.py                   169    137     38      0    15%
 pyanaconda/packaging/tarpayload.py                          39     39      6      0     0%
@@ -91,7 +91,7 @@ pyanaconda/ui/gui/spokes/lib/summary.py                     37     37     10    
 pyanaconda/ui/gui/spokes/network.py                       1063   1063    420      0     0%
 pyanaconda/ui/gui/spokes/password.py                       159    159     65      0     0%
 pyanaconda/ui/gui/spokes/software.py                       312    312    112      0     0%
-pyanaconda/ui/gui/spokes/source.py                         954    954    360      0     0%
+pyanaconda/ui/gui/spokes/source.py                         953    953    358      0     0%
 pyanaconda/ui/gui/spokes/storage.py                        600    600    230      0     0%
 pyanaconda/ui/gui/spokes/user.py                           325    325    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
@@ -111,7 +111,7 @@ pyanaconda/ui/tui/simpleline/widgets.py                     76     76     14    
 pyanaconda/ui/tui/spokes/__init__.py                       186    186     71      0     0%
 pyanaconda/ui/tui/spokes/askvnc.py                          95     95     22      0     0%
 pyanaconda/ui/tui/spokes/langsupport.py                     61     61     26      0     0%
-pyanaconda/ui/tui/spokes/network.py                        210    210     80      0     0%
+pyanaconda/ui/tui/spokes/network.py                        198    198     76      0     0%
 pyanaconda/ui/tui/spokes/password.py                        40     40      8      0     0%
 pyanaconda/ui/tui/spokes/progress.py                        69     69     16      0     0%
 pyanaconda/ui/tui/spokes/shell_spoke.py                     27     27      0      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    106    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24518  21211   8722    122    12%
+TOTAL                                                    24445  21142   8680    122    12%
