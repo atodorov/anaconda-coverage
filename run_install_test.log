@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:00 ago on Fri Nov  6 15:10:06 2015.
+Last metadata expiration check performed 0:00:00 ago on Wed Nov 11 12:07:19 2015.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -6,7 +6,7 @@ Dependencies resolved.
 Installing:
  GConf2                  x86_64 3.2.6-15.fc23            anaconda-rawhide 1.0 M
  GeoIP                   x86_64 1.6.7-1.fc24             anaconda-rawhide 119 k
- GeoIP-GeoLite-data      noarch 2015.09-1.fc24           anaconda-rawhide 353 k
+ GeoIP-GeoLite-data      noarch 2015.11-1.fc24           anaconda-rawhide 363 k
  ModemManager-glib       x86_64 1.4.10-2.fc24            anaconda-rawhide 217 k
  NetworkManager          x86_64 1:1.2.0-0.3.20151023gite01c175.fc24
                                                          anaconda-rawhide 2.4 M
@@ -22,18 +22,18 @@ Installing:
  acl                     x86_64 2.2.52-10.fc24           anaconda-rawhide  77 k
  adwaita-cursor-theme    noarch 3.18.0-1.fc23            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-1.fc23            anaconda-rawhide  12 M
- alsa-lib                x86_64 1.1.0-2.fc24             anaconda-rawhide 408 k
- anaconda                x86_64 24.6-0.1.20151106195305.fc24
-                                                         anaconda          56 k
- anaconda-core           x86_64 24.6-0.1.20151106195305.fc24
-                                                         anaconda         637 k
- anaconda-gui            x86_64 24.6-0.1.20151106195305.fc24
-                                                         anaconda         375 k
- anaconda-tui            x86_64 24.6-0.1.20151106195305.fc24
-                                                         anaconda         149 k
+ alsa-lib                x86_64 1.1.0-3.fc24             anaconda-rawhide 408 k
+ anaconda                x86_64 24.7-0.1.20151111164850.fc24
+                                                         anaconda          58 k
+ anaconda-core           x86_64 24.7-0.1.20151111164850.fc24
+                                                         anaconda         642 k
+ anaconda-gui            x86_64 24.7-0.1.20151111164850.fc24
+                                                         anaconda         377 k
+ anaconda-tui            x86_64 24.7-0.1.20151111164850.fc24
+                                                         anaconda         151 k
  anaconda-user-help      noarch 22.4-2.fc23              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.6-0.1.20151106195305.fc24
-                                                         anaconda          82 k
+ anaconda-widgets        x86_64 24.7-0.1.20151111164850.fc24
+                                                         anaconda          84 k
  at-spi2-atk             x86_64 2.18.1-1.fc24            anaconda-rawhide  85 k
  at-spi2-core            x86_64 2.19.1-1.fc24            anaconda-rawhide 163 k
  atk                     x86_64 2.18.0-1.fc24            anaconda-rawhide 259 k
@@ -131,9 +131,9 @@ Installing:
  geoclue2                x86_64 2.4.0-1.fc24             anaconda-rawhide 109 k
  glade-libs              x86_64 3.19.0-3.fc23            anaconda-rawhide 663 k
  glib-networking         x86_64 2.47.1-1.fc24            anaconda-rawhide 134 k
- glib2                   x86_64 2.47.1-1.fc24            anaconda-rawhide 2.3 M
- glibc                   x86_64 2.22.90-13.fc24          anaconda-rawhide 3.7 M
- glibc-common            x86_64 2.22.90-13.fc24          anaconda-rawhide  12 M
+ glib2                   x86_64 2.47.1-2.fc24            anaconda-rawhide 2.3 M
+ glibc                   x86_64 2.22.90-16.fc24          anaconda-rawhide 3.7 M
+ glibc-common            x86_64 2.22.90-16.fc24          anaconda-rawhide  12 M
  gmp                     x86_64 1:6.0.0-14.fc24          anaconda-rawhide 310 k
  gnupg                   x86_64 1.4.19-3.fc23            anaconda-rawhide 1.3 M
  gnupg2                  x86_64 2.1.9-1.fc24             anaconda-rawhide 1.8 M
@@ -184,7 +184,7 @@ Installing:
  kbd                     x86_64 2.0.3-2.fc24             anaconda-rawhide 385 k
  kbd-legacy              noarch 2.0.3-2.fc24             anaconda-rawhide 478 k
  kbd-misc                noarch 2.0.3-2.fc24             anaconda-rawhide 1.4 M
- kexec-tools             x86_64 2.0.10-9.fc24            anaconda-rawhide 407 k
+ kexec-tools             x86_64 2.0.11-1.fc24            anaconda-rawhide 407 k
  keybinder3              x86_64 0.3.0-5.fc23             anaconda-rawhide  19 k
  keyutils-libs           x86_64 1.5.9-7.fc24             anaconda-rawhide  45 k
  kmod                    x86_64 21-3.fc23                anaconda-rawhide 112 k
@@ -252,7 +252,7 @@ Installing:
  libfdisk                x86_64 2.27.1-1.fc24            anaconda-rawhide 221 k
  libffi                  x86_64 3.1-8.fc23               anaconda-rawhide  34 k
  libfontenc              x86_64 1.1.3-2.fc23             anaconda-rawhide  35 k
- libgcc                  x86_64 5.2.1-4.fc24             anaconda-rawhide  86 k
+ libgcc                  x86_64 5.2.1-5.fc24             anaconda-rawhide  86 k
  libgcrypt               x86_64 1.6.4-1.fc24             anaconda-rawhide 376 k
  libgnomekbd             x86_64 3.6.0-8.fc23             anaconda-rawhide 163 k
  libgpg-error            x86_64 1.20-1.fc24              anaconda-rawhide 148 k
@@ -307,7 +307,7 @@ Installing:
  libsoup                 x86_64 2.53.1-1.fc24            anaconda-rawhide 386 k
  libss                   x86_64 1.42.13-3.fc23           anaconda-rawhide  49 k
  libssh2                 x86_64 1.6.0-2.fc23             anaconda-rawhide 147 k
- libstdc++               x86_64 5.2.1-4.fc24             anaconda-rawhide 423 k
+ libstdc++               x86_64 5.2.1-5.fc24             anaconda-rawhide 423 k
  libtar                  x86_64 1.2.20-7.fc23            anaconda-rawhide  38 k
  libtasn1                x86_64 4.7-1.fc24               anaconda-rawhide 325 k
  libteam                 x86_64 1.22-1.fc24              anaconda-rawhide  55 k
@@ -315,7 +315,7 @@ Installing:
  libtheora               x86_64 1:1.1.1-13.fc23          anaconda-rawhide 191 k
  libtiff                 x86_64 4.0.6-1.fc24             anaconda-rawhide 173 k
  libtimezonemap          x86_64 0.4.4-2.fc23             anaconda-rawhide 2.2 M
- libtool-ltdl            x86_64 2.4.6-5.fc23             anaconda-rawhide  54 k
+ libtool-ltdl            x86_64 2.4.6-6.fc24             anaconda-rawhide  54 k
  libunistring            x86_64 0.9.4-2.fc23             anaconda-rawhide 315 k
  libusb                  x86_64 1:0.1.5-6.fc23           anaconda-rawhide  40 k
  libusbx                 x86_64 1.0.20-1.fc24            anaconda-rawhide  66 k
@@ -362,7 +362,7 @@ Installing:
                                                          anaconda-rawhide  39 k
  mobile-broadband-provider-info
                          noarch 1.20150421git-2.fc23     anaconda-rawhide  55 k
- mozjs17                 x86_64 17.0.0-12.fc23           anaconda-rawhide 1.4 M
+ mozjs17                 x86_64 17.0.0-14.fc24           anaconda-rawhide 1.4 M
  ncurses                 x86_64 6.0-1.20150810.fc24      anaconda-rawhide 335 k
  ncurses-base            noarch 6.0-1.20150810.fc24      anaconda-rawhide  77 k
  ncurses-compat-libs     x86_64 6.0-1.20150810.fc24      anaconda-rawhide 306 k
@@ -395,7 +395,7 @@ Installing:
  pinentry                x86_64 0.9.6-4.fc24             anaconda-rawhide  81 k
  pixman                  x86_64 0.33.4-1.fc24            anaconda-rawhide 255 k
  pkgconfig               x86_64 1:0.28-9.fc23            anaconda-rawhide  60 k
- policycoreutils         x86_64 2.4-14.fc24              anaconda-rawhide 922 k
+ policycoreutils         x86_64 2.4-16.fc24              anaconda-rawhide 922 k
  polkit                  x86_64 0.113-4.fc23             anaconda-rawhide 127 k
  polkit-libs             x86_64 0.113-4.fc23             anaconda-rawhide  70 k
  polkit-pkla-compat      x86_64 0.1-6.fc23               anaconda-rawhide  43 k
@@ -408,7 +408,7 @@ Installing:
  python3-blockdev        x86_64 1.3-2.fc24               anaconda-rawhide  37 k
  python3-cairo           x86_64 1.10.0-12.fc23           anaconda-rawhide 503 k
  python3-chardet         noarch 2.2.1-3.fc23             anaconda-rawhide 240 k
- python3-coverage        x86_64 4.0.1-1.fc24             anaconda-rawhide 223 k
+ python3-coverage        x86_64 4.0.2-1.fc24             anaconda-rawhide 224 k
  python3-dbus            x86_64 1.2.0-10.fc24            anaconda-rawhide 124 k
  python3-decorator       noarch 4.0.4-1.fc24             anaconda-rawhide  59 k
  python3-dnf             noarch 1.1.3-1.fc24             anaconda-rawhide 450 k
@@ -420,7 +420,7 @@ Installing:
  python3-iscsi-initiator-utils
                          x86_64 6.2.0.873-29.git4c9d6f9.fc24
                                                          anaconda-rawhide  22 k
- python3-kickstart       noarch 2.19-1.fc24              anaconda-rawhide 371 k
+ python3-kickstart       noarch 2.20-1.fc24              anaconda-rawhide 371 k
  python3-libcomps        x86_64 0.1.7-1.fc24             anaconda-rawhide  47 k
  python3-librepo         x86_64 1.7.17-1.fc24            anaconda-rawhide  56 k
  python3-libs            x86_64 3.4.3-5.fc24             anaconda-rawhide 6.7 M
@@ -447,29 +447,29 @@ Installing:
  readline                x86_64 6.3-7.fc24               anaconda-rawhide 203 k
  realmd                  x86_64 0.16.2-2.fc24            anaconda-rawhide 210 k
  rest                    x86_64 0.7.93-2.fc23            anaconda-rawhide  67 k
- rpm                     x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide 510 k
- rpm-build-libs          x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide 117 k
- rpm-libs                x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide 294 k
- rpm-plugin-selinux      x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide  52 k
+ rpm                     x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide 510 k
+ rpm-build-libs          x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide 117 k
+ rpm-libs                x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide 294 k
+ rpm-plugin-selinux      x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide  52 k
  rpm-plugin-systemd-inhibit
-                         x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide  52 k
- rpm-python3             x86_64 4.13.0-0.rc1.9.fc24      anaconda-rawhide 101 k
- rsync                   x86_64 3.1.1-7.fc23             anaconda-rawhide 392 k
+                         x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide  52 k
+ rpm-python3             x86_64 4.13.0-0.rc1.11.fc24     anaconda-rawhide 101 k
+ rsync                   x86_64 3.1.1-8.fc24             anaconda-rawhide 392 k
  satyr                   x86_64 0.20-1.fc24              anaconda-rawhide 106 k
  sed                     x86_64 4.2.2-11.fc23            anaconda-rawhide 237 k
  setup                   noarch 2.9.8-2.fc23             anaconda-rawhide 172 k
  sgpio                   x86_64 1.2.0.10-15.fc23         anaconda-rawhide  18 k
- shadow-utils            x86_64 2:4.2.1-3.fc24           anaconda-rawhide 1.1 M
+ shadow-utils            x86_64 2:4.2.1-4.fc24           anaconda-rawhide 1.1 M
  shared-mime-info        x86_64 1.5-2.fc24               anaconda-rawhide 302 k
  slang                   x86_64 2.3.0-4.fc24             anaconda-rawhide 346 k
  snappy                  x86_64 1.1.3-1.fc23             anaconda-rawhide  61 k
  sqlite                  x86_64 3.9.0-1.fc24             anaconda-rawhide 474 k
- systemd                 x86_64 227-3.fc24               anaconda-rawhide 6.5 M
- systemd-libs            x86_64 227-3.fc24               anaconda-rawhide 481 k
+ systemd                 x86_64 227-5.fc24               anaconda-rawhide 6.5 M
+ systemd-libs            x86_64 227-5.fc24               anaconda-rawhide 481 k
  teamd                   x86_64 1.22-1.fc24              anaconda-rawhide 119 k
  tigervnc-license        noarch 1.5.0-3.fc24             anaconda-rawhide  32 k
  tigervnc-server-minimal x86_64 1.5.0-3.fc24             anaconda-rawhide 1.0 M
- timedatex               x86_64 0.3-3.fc24               anaconda-rawhide  30 k
+ timedatex               x86_64 0.4-1.fc24               anaconda-rawhide  30 k
  trousers                x86_64 0.3.13-5.fc23            anaconda-rawhide 151 k
  trousers-lib            x86_64 0.3.13-5.fc23            anaconda-rawhide 158 k
  tzdata                  noarch 2015g-1.fc24             anaconda-rawhide 408 k
@@ -501,13 +501,13 @@ Total download size: 225 M
 Installed size: 822 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           8.5 MB/s | 225 MB     00:26     
+Total                                           9.1 MB/s | 225 MB     00:24     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
 Transaction test succeeded.
 Running transaction
-  Installing  : libgcc-5.2.1-4.fc24.x86_64                                1/452 
+  Installing  : libgcc-5.2.1-5.fc24.x86_64                                1/452 
   Installing  : fedora-repos-rawhide-24-0.2.noarch                        2/452 
   Installing  : fedora-repos-24-0.2.noarch                                3/452 
   Installing  : fedora-release-24-0.6.noarch                              4/452 
@@ -526,9 +526,9 @@ warning: langtable-data-0.0.34-1.fc23.noarch: Header V3 RSA/SHA256 Signature, ke
   Installing  : basesystem-11-1.fc23.noarch                              14/452 
 warning: basesystem-11-1.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  15/452 
-  Installing  : glibc-common-2.22.90-13.fc24.x86_64                      16/452 
-  Installing  : glibc-2.22.90-13.fc24.x86_64                             17/452 
-  Installing  : libstdc++-5.2.1-4.fc24.x86_64                            18/452 
+  Installing  : glibc-common-2.22.90-16.fc24.x86_64                      16/452 
+  Installing  : glibc-2.22.90-16.fc24.x86_64                             17/452 
+  Installing  : libstdc++-5.2.1-5.fc24.x86_64                            18/452 
   Installing  : ncurses-libs-6.0-1.20150810.fc24.x86_64                  19/452 
   Installing  : bash-4.3.42-1.fc24.x86_64                                20/452 
   Installing  : libsepol-2.4-3.fc24.x86_64                               21/452 
@@ -668,8 +668,7 @@ warning: diffutils-3.3-12.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34
 warning: libunistring-0.9.4-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : psmisc-22.21-7.fc23.x86_64                              114/452 
 warning: psmisc-22.21-7.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : rsync-3.1.1-7.fc23.x86_64                               115/452 
-warning: rsync-3.1.1-7.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
+  Installing  : rsync-3.1.1-8.fc24.x86_64                               115/452 
   Installing  : acl-2.2.52-10.fc24.x86_64                               116/452 
   Installing  : libdb-utils-5.3.28-13.fc23.x86_64                       117/452 
 warning: libdb-utils-5.3.28-13.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
@@ -678,8 +677,7 @@ warning: libdb-utils-5.3.28-13.fc23.x86_64: Header V3 RSA/SHA256 Signature, key 
 warning: libss-1.42.13-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : libksba-1.3.3-2.fc23.x86_64                             120/452 
 warning: libksba-1.3.3-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : mozjs17-17.0.0-12.fc23.x86_64                           121/452 
-warning: mozjs17-17.0.0-12.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
+  Installing  : mozjs17-17.0.0-14.fc24.x86_64                           121/452 
   Installing  : isomd5sum-1:1.0.12-6.fc24.x86_64                        122/452 
   Installing  : libcomps-0.1.7-1.fc24.x86_64                            123/452 
   Installing  : libmetalink-0.1.2-8.fc23.x86_64                         124/452 
@@ -699,7 +697,7 @@ warning: libfontenc-1.1.3-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 
   Installing  : elfutils-libs-0.164-1.fc24.x86_64                       134/452 
   Installing  : aajohan-comfortaa-fonts-2.004-5.fc23.noarch             135/452 
 warning: aajohan-comfortaa-fonts-2.004-5.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : GeoIP-GeoLite-data-2015.09-1.fc24.noarch                136/452 
+  Installing  : GeoIP-GeoLite-data-2015.11-1.fc24.noarch                136/452 
   Installing  : ncurses-6.0-1.20150810.fc24.x86_64                      137/452 
   Installing  : snappy-1.1.3-1.fc23.x86_64                              138/452 
 warning: snappy-1.1.3-1.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
@@ -749,7 +747,7 @@ warning: python3-six-1.9.0-3.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID
   Installing  : libselinux-python3-2.4-4.fc24.x86_64                    168/452 
   Installing  : python3-hawkey-0.6.2-1.fc24.x86_64                      169/452 
   Installing  : python3-decorator-4.0.4-1.fc24.noarch                   170/452 
-  Installing  : glib2-2.47.1-1.fc24.x86_64                              171/452 
+  Installing  : glib2-2.47.1-2.fc24.x86_64                              171/452 
   Installing  : shared-mime-info-1.5-2.fc24.x86_64                      172/452 
   Installing  : gdk-pixbuf2-2.33.1-1.fc24.x86_64                        173/452 
   Installing  : atk-2.18.0-1.fc24.x86_64                                174/452 
@@ -784,7 +782,7 @@ warning: enchant-1:1.6.0-12.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 
   Installing  : python3-iniparse-0.4-16.fc23.noarch                     197/452 
 warning: python3-iniparse-0.4-16.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : python3-urllib3-1.10.4-6.fc24.noarch                    198/452 
-  Installing  : python3-coverage-4.0.1-1.fc24.x86_64                    199/452 
+  Installing  : python3-coverage-4.0.2-1.fc24.x86_64                    199/452 
   Installing  : langtable-python3-0.0.34-1.fc23.noarch                  200/452 
 warning: langtable-python3-0.0.34-1.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : python3-ntplib-0.3.3-1.fc24.noarch                      201/452 
@@ -798,7 +796,7 @@ warning: newt-python3-0.52.18-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key
   Installing  : python3-chardet-2.2.1-3.fc23.noarch                     208/452 
 warning: python3-chardet-2.2.1-3.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : python3-requests-2.7.0-7.fc24.noarch                    209/452 
-  Installing  : python3-kickstart-2.19-1.fc24.noarch                    210/452 
+  Installing  : python3-kickstart-2.20-1.fc24.noarch                    210/452 
   Installing  : python3-requests-file-1.4-1.fc24.noarch                 211/452 
   Installing  : python3-requests-ftp-0.3.1-1.fc24.noarch                212/452 
   Installing  : bcache-tools-1.0.8-4.fc23.x86_64                        213/452 
@@ -815,7 +813,7 @@ warning: e2fsprogs-1.42.13-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID
   Installing  : openldap-2.4.41-1.fc24.x86_64                           222/452 
   Installing  : libuser-0.62-1.fc24.x86_64                              223/452 
   Installing  : passwd-0.79-7.fc24.x86_64                               224/452 
-  Installing  : alsa-lib-1.1.0-2.fc24.x86_64                            225/452 
+  Installing  : alsa-lib-1.1.0-3.fc24.x86_64                            225/452 
   Installing  : fedora-logos-22.0.0-2.fc23.x86_64                       226/452 
 warning: fedora-logos-22.0.0-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : hfsplus-tools-540.1.linux3-10.fc23.x86_64               227/452 
@@ -832,7 +830,7 @@ warning: hyphen-2.8.8-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec
   Installing  : libwebp-0.4.4-1.fc24.x86_64                             233/452 
   Installing  : ustr-1.0.4-20.fc24.x86_64                               234/452 
   Installing  : libsemanage-2.4-4.fc24.x86_64                           235/452 
-  Installing  : shadow-utils-2:4.2.1-3.fc24.x86_64                      236/452 
+  Installing  : shadow-utils-2:4.2.1-4.fc24.x86_64                      236/452 
 warning: libutempter-1.1.6-7.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : libutempter-1.1.6-7.fc23.x86_64                         237/452 
   Installing  : npth-1.2-2.fc23.x86_64                                  238/452 
@@ -857,8 +855,7 @@ warning: orc-0.4.24-1.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9c
 warning: libatomic_ops-7.4.2-6.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : gc-7.4.2-4.fc23.x86_64                                  249/452 
 warning: gc-7.4.2-4.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : libtool-ltdl-2.4.6-5.fc23.x86_64                        250/452 
-warning: libtool-ltdl-2.4.6-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
+  Installing  : libtool-ltdl-2.4.6-6.fc24.x86_64                        250/452 
   Installing  : guile-5:2.0.11-6.fc23.x86_64                            251/452 
 warning: guile-5:2.0.11-6.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : make-1:4.1-4.fc24.x86_64                                252/452 
@@ -919,14 +916,14 @@ warning: libXt-1.1.5-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9
 warning: mobile-broadband-provider-info-1.20150421git-2.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : emacs-filesystem-1:24.5-7.fc24.noarch                   285/452 
   Installing  : libidn-1.32-1.fc24.x86_64                               286/452 
-  Installing  : systemd-libs-227-3.fc24.x86_64                          287/452 
+  Installing  : systemd-libs-227-5.fc24.x86_64                          287/452 
   Installing  : dbus-libs-1:1.10.2-1.fc24.x86_64                        288/452 
   Installing  : util-linux-2.27.1-1.fc24.x86_64                         289/452 
   Installing  : libcurl-7.45.0-1.fc24.x86_64                            290/452 
   Installing  : device-mapper-1.02.110-2.fc24.x86_64                    291/452 
   Installing  : device-mapper-libs-1.02.110-2.fc24.x86_64               292/452 
   Installing  : cryptsetup-libs-1.7.0-1.fc24.x86_64                     293/452 
-  Installing  : systemd-227-3.fc24.x86_64                               294/452 
+  Installing  : systemd-227-5.fc24.x86_64                               294/452 
 grep: /etc/fstab: No such file or directory
 sed: can't read /etc/fstab: No such file or directory
   Installing  : dbus-1:1.10.2-1.fc24.x86_64                             295/452 
@@ -1031,9 +1028,9 @@ warning: ebtables-2.0.10-17.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 
   Installing  : device-mapper-multipath-0.4.9-80.fc24.x86_64            372/452 
   Installing  : libblockdev-mpath-1.3-2.fc24.x86_64                     373/452 
   Installing  : curl-7.45.0-1.fc24.x86_64                               374/452 
-  Installing  : rpm-plugin-selinux-4.13.0-0.rc1.9.fc24.x86_64           375/452 
-  Installing  : rpm-libs-4.13.0-0.rc1.9.fc24.x86_64                     376/452 
-  Installing  : rpm-4.13.0-0.rc1.9.fc24.x86_64                          377/452 
+  Installing  : rpm-plugin-selinux-4.13.0-0.rc1.11.fc24.x86_64          375/452 
+  Installing  : rpm-libs-4.13.0-0.rc1.11.fc24.x86_64                    376/452 
+  Installing  : rpm-4.13.0-0.rc1.11.fc24.x86_64                         377/452 
   Installing  : satyr-0.20-1.fc24.x86_64                                378/452 
   Installing  : libreport-2.6.3-1.fc24.x86_64                           379/452 
   Installing  : libreport-web-2.6.3-1.fc24.x86_64                       380/452 
@@ -1044,14 +1041,14 @@ warning: ebtables-2.0.10-17.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 
   Installing  : libreport-plugin-bugzilla-2.6.3-1.fc24.x86_64           385/452 
   Installing  : libreport-anaconda-2.6.3-1.fc24.x86_64                  386/452 
   Installing  : libreport-cli-2.6.3-1.fc24.x86_64                       387/452 
-  Installing  : policycoreutils-2.4-14.fc24.x86_64                      388/452 
+  Installing  : policycoreutils-2.4-16.fc24.x86_64                      388/452 
   Installing  : authconfig-6.2.10-10.fc23.x86_64                        389/452 
 warning: authconfig-6.2.10-10.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : realmd-0.16.2-2.fc24.x86_64                             390/452 
   Installing  : deltarpm-3.6-11.fc24.x86_64                             391/452 
-  Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.9.fc24.x86_64   392/452 
-  Installing  : rpm-build-libs-4.13.0-0.rc1.9.fc24.x86_64               393/452 
-  Installing  : rpm-python3-4.13.0-0.rc1.9.fc24.x86_64                  394/452 
+  Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.11.fc24.x86_6   392/452 
+  Installing  : rpm-build-libs-4.13.0-0.rc1.11.fc24.x86_64              393/452 
+  Installing  : rpm-python3-4.13.0-0.rc1.11.fc24.x86_64                 394/452 
   Installing  : python3-dnf-1.1.3-1.fc24.noarch                         395/452 
   Installing  : dnf-1.1.3-1.fc24.noarch                                 396/452 
   Installing  : libreport-python3-2.6.3-1.fc24.x86_64                   397/452 
@@ -1084,7 +1081,7 @@ warning: adwaita-icon-theme-3.18.0-1.fc23.noarch: Header V3 RSA/SHA256 Signature
   Installing  : nm-connection-editor-1.2.0-0.1.20150903git807cbdf.fc2   419/452 
   Installing  : glade-libs-3.19.0-3.fc23.x86_64                         420/452 
 warning: glade-libs-3.19.0-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-widgets-24.6-0.1.20151106195305.fc24.x86_64    421/452 
+  Installing  : anaconda-widgets-24.7-0.1.20151111164850.fc24.x86_64    421/452 
   Installing  : keybinder3-0.3.0-5.fc23.x86_64                          422/452 
 warning: keybinder3-0.3.0-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : libgnomekbd-3.6.0-8.fc23.x86_64                         423/452 
@@ -1106,14 +1103,14 @@ warning: libtimezonemap-0.4.4-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key
   Installing  : NetworkManager-team-1:1.2.0-0.3.20151023gite01c175.fc   437/452 
   Installing  : NetworkManager-wifi-1:1.2.0-0.3.20151023gite01c175.fc   438/452 
   Installing  : dracut-network-043-60.git20150811.fc24.x86_64           439/452 
-  Installing  : kexec-tools-2.0.10-9.fc24.x86_64                        440/452 
-  Installing  : anaconda-tui-24.6-0.1.20151106195305.fc24.x86_64        441/452 
-  Installing  : anaconda-core-24.6-0.1.20151106195305.fc24.x86_64       442/452 
+  Installing  : kexec-tools-2.0.11-1.fc24.x86_64                        440/452 
+  Installing  : anaconda-tui-24.7-0.1.20151111164850.fc24.x86_64        441/452 
+  Installing  : anaconda-core-24.7-0.1.20151111164850.fc24.x86_64       442/452 
   Installing  : anaconda-user-help-22.4-2.fc23.noarch                   443/452 
 warning: anaconda-user-help-22.4-2.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-gui-24.6-0.1.20151106195305.fc24.x86_64        444/452 
-  Installing  : anaconda-24.6-0.1.20151106195305.fc24.x86_64            445/452 
-  Installing  : timedatex-0.3-3.fc24.x86_64                             446/452 
+  Installing  : anaconda-gui-24.7-0.1.20151111164850.fc24.x86_64        444/452 
+  Installing  : anaconda-24.7-0.1.20151111164850.fc24.x86_64            445/452 
+  Installing  : timedatex-0.4-1.fc24.x86_64                             446/452 
 warning: trousers-0.3.13-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : trousers-0.3.13-5.fc23.x86_64                           447/452 
   Installing  : bash-completion-1:2.1-8.20150513git1950590.fc23.noarc   448/452 
@@ -1125,19 +1122,12 @@ warning: grubby-8.40-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9
 warning: pigz-2.3.3-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : hardlink-1:1.0-22.fc23.x86_64                           452/452 
 warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-Error in GnuTLS initialization: Failed to acquire random data.
-warning: Schema 'org.gnome.system.locale' has path '/system/locale/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-warning: Schema 'org.gnome.system.proxy' has path '/system/proxy/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-warning: Schema 'org.gnome.system.proxy.http' has path '/system/proxy/http/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-warning: Schema 'org.gnome.system.proxy.https' has path '/system/proxy/https/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-warning: Schema 'org.gnome.system.proxy.ftp' has path '/system/proxy/ftp/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'.  Paths starting with '/apps/', '/desktop/' or '/system/' are deprecated.
-  Verifying   : anaconda-24.6-0.1.20151106195305.fc24.x86_64              1/452 
+  Verifying   : anaconda-24.7-0.1.20151111164850.fc24.x86_64              1/452 
   Verifying   : bash-4.3.42-1.fc24.x86_64                                 2/452 
-  Verifying   : anaconda-core-24.6-0.1.20151106195305.fc24.x86_64         3/452 
-  Verifying   : anaconda-gui-24.6-0.1.20151106195305.fc24.x86_64          4/452 
-  Verifying   : anaconda-tui-24.6-0.1.20151106195305.fc24.x86_64          5/452 
-  Verifying   : glibc-2.22.90-13.fc24.x86_64                              6/452 
+  Verifying   : anaconda-core-24.7-0.1.20151111164850.fc24.x86_64         3/452 
+  Verifying   : anaconda-gui-24.7-0.1.20151111164850.fc24.x86_64          4/452 
+  Verifying   : anaconda-tui-24.7-0.1.20151111164850.fc24.x86_64          5/452 
+  Verifying   : glibc-2.22.90-16.fc24.x86_64                              6/452 
   Verifying   : ncurses-libs-6.0-1.20150810.fc24.x86_64                   7/452 
   Verifying   : audit-libs-2.4.4-2.fc24.x86_64                            8/452 
   Verifying   : authconfig-6.2.10-10.fc23.x86_64                          9/452 
@@ -1149,7 +1139,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : hfsplus-tools-540.1.linux3-10.fc23.x86_64                15/452 
   Verifying   : isomd5sum-1:1.0.12-6.fc24.x86_64                         16/452 
   Verifying   : kbd-2.0.3-2.fc24.x86_64                                  17/452 
-  Verifying   : kexec-tools-2.0.10-9.fc24.x86_64                         18/452 
+  Verifying   : kexec-tools-2.0.11-1.fc24.x86_64                         18/452 
   Verifying   : langtable-data-0.0.34-1.fc23.noarch                      19/452 
   Verifying   : langtable-python3-0.0.34-1.fc23.noarch                   20/452 
   Verifying   : libreport-anaconda-2.6.3-1.fc24.x86_64                   21/452 
@@ -1157,11 +1147,11 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : NetworkManager-1:1.2.0-0.3.20151023gite01c175.fc24.x8    23/452 
   Verifying   : NetworkManager-team-1:1.2.0-0.3.20151023gite01c175.fc    24/452 
   Verifying   : python3-blivet-1:1.16-1.fc24.noarch                      25/452 
-  Verifying   : python3-coverage-4.0.1-1.fc24.x86_64                     26/452 
+  Verifying   : python3-coverage-4.0.2-1.fc24.x86_64                     26/452 
   Verifying   : python3-dbus-1.2.0-10.fc24.x86_64                        27/452 
   Verifying   : python3-dnf-1.1.3-1.fc24.noarch                          28/452 
   Verifying   : python3-iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9    29/452 
-  Verifying   : python3-kickstart-2.19-1.fc24.noarch                     30/452 
+  Verifying   : python3-kickstart-2.20-1.fc24.noarch                     30/452 
   Verifying   : python3-libs-3.4.3-5.fc24.x86_64                         31/452 
   Verifying   : python3-meh-0.43-1.fc24.noarch                           32/452 
   Verifying   : python3-ntplib-0.3.3-1.fc24.noarch                       33/452 
@@ -1173,9 +1163,9 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : python3-requests-file-1.4-1.fc24.noarch                  39/452 
   Verifying   : python3-requests-ftp-0.3.1-1.fc24.noarch                 40/452 
   Verifying   : realmd-0.16.2-2.fc24.x86_64                              41/452 
-  Verifying   : rpm-python3-4.13.0-0.rc1.9.fc24.x86_64                   42/452 
-  Verifying   : rsync-3.1.1-7.fc23.x86_64                                43/452 
-  Verifying   : systemd-227-3.fc24.x86_64                                44/452 
+  Verifying   : rpm-python3-4.13.0-0.rc1.11.fc24.x86_64                  42/452 
+  Verifying   : rsync-3.1.1-8.fc24.x86_64                                43/452 
+  Verifying   : systemd-227-5.fc24.x86_64                                44/452 
   Verifying   : usermode-1.111-7.fc23.x86_64                             45/452 
   Verifying   : adwaita-icon-theme-3.18.0-1.fc23.noarch                  46/452 
   Verifying   : anaconda-user-help-22.4-2.fc23.noarch                    47/452 
@@ -1185,33 +1175,33 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : tigervnc-server-minimal-1.5.0-3.fc24.x86_64              51/452 
   Verifying   : yelp-2:3.19.1-2.fc24.x86_64                              52/452 
   Verifying   : zenity-3.18.1.1-1.fc24.x86_64                            53/452 
-  Verifying   : anaconda-widgets-24.6-0.1.20151106195305.fc24.x86_64     54/452 
+  Verifying   : anaconda-widgets-24.7-0.1.20151111164850.fc24.x86_64     54/452 
   Verifying   : basesystem-11-1.fc23.noarch                              55/452 
-  Verifying   : glibc-common-2.22.90-13.fc24.x86_64                      56/452 
+  Verifying   : glibc-common-2.22.90-16.fc24.x86_64                      56/452 
   Verifying   : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  57/452 
-  Verifying   : libgcc-5.2.1-4.fc24.x86_64                               58/452 
-  Verifying   : libstdc++-5.2.1-4.fc24.x86_64                            59/452 
+  Verifying   : libgcc-5.2.1-5.fc24.x86_64                               58/452 
+  Verifying   : libstdc++-5.2.1-5.fc24.x86_64                            59/452 
   Verifying   : ncurses-base-6.0-1.20150810.fc24.noarch                  60/452 
   Verifying   : newt-python3-0.52.18-3.fc23.x86_64                       61/452 
   Verifying   : openssl-1:1.0.2d-2.fc24.x86_64                           62/452 
-  Verifying   : policycoreutils-2.4-14.fc24.x86_64                       63/452 
+  Verifying   : policycoreutils-2.4-16.fc24.x86_64                       63/452 
   Verifying   : python3-sssdconfig-1.13.1-4.fc24.noarch                  64/452 
   Verifying   : info-6.0-2.fc24.x86_64                                   65/452 
   Verifying   : libcap-2.24-8.fc23.x86_64                                66/452 
   Verifying   : libedit-3.1-13.20150325cvs.fc23.x86_64                   67/452 
   Verifying   : libseccomp-2.2.3-0.fc23.x86_64                           68/452 
-  Verifying   : shadow-utils-2:4.2.1-3.fc24.x86_64                       69/452 
+  Verifying   : shadow-utils-2:4.2.1-4.fc24.x86_64                       69/452 
   Verifying   : bzip2-libs-1.0.6-17.fc24.x86_64                          70/452 
   Verifying   : createrepo_c-libs-0.9.1-1.fc24.x86_64                    71/452 
   Verifying   : drpm-0.2.0-3.fc24.x86_64                                 72/452 
   Verifying   : expat-2.1.0-12.fc23.x86_64                               73/452 
   Verifying   : file-libs-5.25-1.fc24.x86_64                             74/452 
-  Verifying   : glib2-2.47.1-1.fc24.x86_64                               75/452 
+  Verifying   : glib2-2.47.1-2.fc24.x86_64                               75/452 
   Verifying   : libcurl-7.45.0-1.fc24.x86_64                             76/452 
   Verifying   : libxml2-2.9.2-8.fc24.x86_64                              77/452 
   Verifying   : openssl-libs-1:1.0.2d-2.fc24.x86_64                      78/452 
-  Verifying   : rpm-4.13.0-0.rc1.9.fc24.x86_64                           79/452 
-  Verifying   : rpm-libs-4.13.0-0.rc1.9.fc24.x86_64                      80/452 
+  Verifying   : rpm-4.13.0-0.rc1.11.fc24.x86_64                          79/452 
+  Verifying   : rpm-libs-4.13.0-0.rc1.11.fc24.x86_64                     80/452 
   Verifying   : sqlite-3.9.0-1.fc24.x86_64                               81/452 
   Verifying   : xz-libs-5.2.2-1.fc24.x86_64                              82/452 
   Verifying   : zlib-1.2.8-9.fc24.x86_64                                 83/452 
@@ -1227,7 +1217,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : iputils-20150815-1.fc24.x86_64                           93/452 
   Verifying   : libcap-ng-0.7.7-2.fc23.x86_64                            94/452 
   Verifying   : sed-4.2.2-11.fc23.x86_64                                 95/452 
-  Verifying   : systemd-libs-227-3.fc24.x86_64                           96/452 
+  Verifying   : systemd-libs-227-5.fc24.x86_64                           96/452 
   Verifying   : device-mapper-multipath-0.4.9-80.fc24.x86_64             97/452 
   Verifying   : libhbaapi-2.2.9-7.fc23.x86_64                            98/452 
   Verifying   : ebtables-2.0.10-17.fc23.x86_64                           99/452 
@@ -1280,7 +1270,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : python3-libcomps-0.1.7-1.fc24.x86_64                    146/452 
   Verifying   : python3-librepo-1.7.17-1.fc24.x86_64                    147/452 
   Verifying   : python3-pygpgme-0.3-13.fc24.x86_64                      148/452 
-  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.9.fc24.x86_64   149/452 
+  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.11.fc24.x86_6   149/452 
   Verifying   : iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9.fc24.x8   150/452 
   Verifying   : gdbm-1.11-6.fc23.x86_64                                 151/452 
   Verifying   : libffi-3.1-8.fc23.x86_64                                152/452 
@@ -1295,7 +1285,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : krb5-libs-1.14-7.fc24.x86_64                            161/452 
   Verifying   : libcom_err-1.42.13-3.fc23.x86_64                        162/452 
   Verifying   : openldap-2.4.41-1.fc24.x86_64                           163/452 
-  Verifying   : rpm-build-libs-4.13.0-0.rc1.9.fc24.x86_64               164/452 
+  Verifying   : rpm-build-libs-4.13.0-0.rc1.11.fc24.x86_64              164/452 
   Verifying   : libacl-2.2.52-10.fc24.x86_64                            165/452 
   Verifying   : libattr-2.4.47-14.fc24.x86_64                           166/452 
   Verifying   : acl-2.2.52-10.fc24.x86_64                               167/452 
@@ -1365,7 +1355,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : libdb-5.3.28-13.fc23.x86_64                             231/452 
   Verifying   : libdb-utils-5.3.28-13.fc23.x86_64                       232/452 
   Verifying   : lua-5.3.0-4.fc23.x86_64                                 233/452 
-  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.9.fc24.x86_64           234/452 
+  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.11.fc24.x86_64          234/452 
   Verifying   : bind99-license-9.9.7-7.P3.fc24.noarch                   235/452 
   Verifying   : gmp-1:6.0.0-14.fc24.x86_64                              236/452 
   Verifying   : ncurses-6.0-1.20150810.fc24.x86_64                      237/452 
@@ -1508,7 +1498,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : libdatrie-0.2.8-6.fc23.x86_64                           374/452 
   Verifying   : libpciaccess-0.13.4-2.fc23.x86_64                       375/452 
   Verifying   : hunspell-1.3.3-8.fc24.x86_64                            376/452 
-  Verifying   : alsa-lib-1.1.0-2.fc24.x86_64                            377/452 
+  Verifying   : alsa-lib-1.1.0-3.fc24.x86_64                            377/452 
   Verifying   : cdparanoia-libs-10.2-20.fc23.x86_64                     378/452 
   Verifying   : libXv-1.0.10-3.fc23.x86_64                              379/452 
   Verifying   : libogg-2:1.3.2-4.fc23.x86_64                            380/452 
@@ -1518,7 +1508,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : orc-0.4.24-1.fc23.x86_64                                384/452 
   Verifying   : xml-common-0.6.3-43.fc23.noarch                         385/452 
   Verifying   : libatomic_ops-7.4.2-6.fc23.x86_64                       386/452 
-  Verifying   : libtool-ltdl-2.4.6-5.fc23.x86_64                        387/452 
+  Verifying   : libtool-ltdl-2.4.6-6.fc24.x86_64                        387/452 
   Verifying   : libunistring-0.9.4-2.fc23.x86_64                        388/452 
   Verifying   : gnupg-1.4.19-3.fc23.x86_64                              389/452 
   Verifying   : device-mapper-event-libs-1.02.110-2.fc24.x86_64         390/452 
@@ -1572,13 +1562,13 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
   Verifying   : fedora-repos-24-0.2.noarch                              438/452 
   Verifying   : fedora-repos-rawhide-24-0.2.noarch                      439/452 
   Verifying   : aajohan-comfortaa-fonts-2.004-5.fc23.noarch             440/452 
-  Verifying   : timedatex-0.3-3.fc24.x86_64                             441/452 
+  Verifying   : timedatex-0.4-1.fc24.x86_64                             441/452 
   Verifying   : polkit-0.113-4.fc23.x86_64                              442/452 
-  Verifying   : mozjs17-17.0.0-12.fc23.x86_64                           443/452 
+  Verifying   : mozjs17-17.0.0-14.fc24.x86_64                           443/452 
   Verifying   : polkit-pkla-compat-0.1-6.fc23.x86_64                    444/452 
   Verifying   : bash-completion-1:2.1-8.20150513git1950590.fc23.noarc   445/452 
   Verifying   : GeoIP-1.6.7-1.fc24.x86_64                               446/452 
-  Verifying   : GeoIP-GeoLite-data-2015.09-1.fc24.noarch                447/452 
+  Verifying   : GeoIP-GeoLite-data-2015.11-1.fc24.noarch                447/452 
   Verifying   : grubby-8.40-2.fc23.x86_64                               448/452 
   Verifying   : pigz-2.3.3-3.fc23.x86_64                                449/452 
   Verifying   : hardlink-1:1.0-22.fc23.x86_64                           450/452 
@@ -1588,7 +1578,7 @@ warning: Schema 'org.gnome.system.proxy.socks' has path '/system/proxy/socks/'. 
 Installed:
   GConf2.x86_64 3.2.6-15.fc23                                                   
   GeoIP.x86_64 1.6.7-1.fc24                                                     
-  GeoIP-GeoLite-data.noarch 2015.09-1.fc24                                      
+  GeoIP-GeoLite-data.noarch 2015.11-1.fc24                                      
   ModemManager-glib.x86_64 1.4.10-2.fc24                                        
   NetworkManager.x86_64 1:1.2.0-0.3.20151023gite01c175.fc24                     
   NetworkManager-glib.x86_64 1:1.2.0-0.3.20151023gite01c175.fc24                
@@ -1599,13 +1589,13 @@ Installed:
   acl.x86_64 2.2.52-10.fc24                                                     
   adwaita-cursor-theme.noarch 3.18.0-1.fc23                                     
   adwaita-icon-theme.noarch 3.18.0-1.fc23                                       
-  alsa-lib.x86_64 1.1.0-2.fc24                                                  
-  anaconda.x86_64 24.6-0.1.20151106195305.fc24                                  
-  anaconda-core.x86_64 24.6-0.1.20151106195305.fc24                             
-  anaconda-gui.x86_64 24.6-0.1.20151106195305.fc24                              
-  anaconda-tui.x86_64 24.6-0.1.20151106195305.fc24                              
+  alsa-lib.x86_64 1.1.0-3.fc24                                                  
+  anaconda.x86_64 24.7-0.1.20151111164850.fc24                                  
+  anaconda-core.x86_64 24.7-0.1.20151111164850.fc24                             
+  anaconda-gui.x86_64 24.7-0.1.20151111164850.fc24                              
+  anaconda-tui.x86_64 24.7-0.1.20151111164850.fc24                              
   anaconda-user-help.noarch 22.4-2.fc23                                         
-  anaconda-widgets.x86_64 24.6-0.1.20151106195305.fc24                          
+  anaconda-widgets.x86_64 24.7-0.1.20151111164850.fc24                          
   at-spi2-atk.x86_64 2.18.1-1.fc24                                              
   at-spi2-core.x86_64 2.19.1-1.fc24                                             
   atk.x86_64 2.18.0-1.fc24                                                      
@@ -1697,9 +1687,9 @@ Installed:
   geoclue2.x86_64 2.4.0-1.fc24                                                  
   glade-libs.x86_64 3.19.0-3.fc23                                               
   glib-networking.x86_64 2.47.1-1.fc24                                          
-  glib2.x86_64 2.47.1-1.fc24                                                    
-  glibc.x86_64 2.22.90-13.fc24                                                  
-  glibc-common.x86_64 2.22.90-13.fc24                                           
+  glib2.x86_64 2.47.1-2.fc24                                                    
+  glibc.x86_64 2.22.90-16.fc24                                                  
+  glibc-common.x86_64 2.22.90-16.fc24                                           
   gmp.x86_64 1:6.0.0-14.fc24                                                    
   gnupg.x86_64 1.4.19-3.fc23                                                    
   gnupg2.x86_64 2.1.9-1.fc24                                                    
@@ -1746,7 +1736,7 @@ Installed:
   kbd.x86_64 2.0.3-2.fc24                                                       
   kbd-legacy.noarch 2.0.3-2.fc24                                                
   kbd-misc.noarch 2.0.3-2.fc24                                                  
-  kexec-tools.x86_64 2.0.10-9.fc24                                              
+  kexec-tools.x86_64 2.0.11-1.fc24                                              
   keybinder3.x86_64 0.3.0-5.fc23                                                
   keyutils-libs.x86_64 1.5.9-7.fc24                                             
   kmod.x86_64 21-3.fc23                                                         
@@ -1814,7 +1804,7 @@ Installed:
   libfdisk.x86_64 2.27.1-1.fc24                                                 
   libffi.x86_64 3.1-8.fc23                                                      
   libfontenc.x86_64 1.1.3-2.fc23                                                
-  libgcc.x86_64 5.2.1-4.fc24                                                    
+  libgcc.x86_64 5.2.1-5.fc24                                                    
   libgcrypt.x86_64 1.6.4-1.fc24                                                 
   libgnomekbd.x86_64 3.6.0-8.fc23                                               
   libgpg-error.x86_64 1.20-1.fc24                                               
@@ -1866,7 +1856,7 @@ Installed:
   libsoup.x86_64 2.53.1-1.fc24                                                  
   libss.x86_64 1.42.13-3.fc23                                                   
   libssh2.x86_64 1.6.0-2.fc23                                                   
-  libstdc++.x86_64 5.2.1-4.fc24                                                 
+  libstdc++.x86_64 5.2.1-5.fc24                                                 
   libtar.x86_64 1.2.20-7.fc23                                                   
   libtasn1.x86_64 4.7-1.fc24                                                    
   libteam.x86_64 1.22-1.fc24                                                    
@@ -1874,7 +1864,7 @@ Installed:
   libtheora.x86_64 1:1.1.1-13.fc23                                              
   libtiff.x86_64 4.0.6-1.fc24                                                   
   libtimezonemap.x86_64 0.4.4-2.fc23                                            
-  libtool-ltdl.x86_64 2.4.6-5.fc23                                              
+  libtool-ltdl.x86_64 2.4.6-6.fc24                                              
   libunistring.x86_64 0.9.4-2.fc23                                              
   libusb.x86_64 1:0.1.5-6.fc23                                                  
   libusbx.x86_64 1.0.20-1.fc24                                                  
@@ -1913,7 +1903,7 @@ Installed:
   mesa-libglapi.x86_64 11.1.0-0.devel.13.5ae37ae.fc24                           
   mesa-libwayland-egl.x86_64 11.1.0-0.devel.13.5ae37ae.fc24                     
   mobile-broadband-provider-info.noarch 1.20150421git-2.fc23                    
-  mozjs17.x86_64 17.0.0-12.fc23                                                 
+  mozjs17.x86_64 17.0.0-14.fc24                                                 
   ncurses.x86_64 6.0-1.20150810.fc24                                            
   ncurses-base.noarch 6.0-1.20150810.fc24                                       
   ncurses-compat-libs.x86_64 6.0-1.20150810.fc24                                
@@ -1945,7 +1935,7 @@ Installed:
   pinentry.x86_64 0.9.6-4.fc24                                                  
   pixman.x86_64 0.33.4-1.fc24                                                   
   pkgconfig.x86_64 1:0.28-9.fc23                                                
-  policycoreutils.x86_64 2.4-14.fc24                                            
+  policycoreutils.x86_64 2.4-16.fc24                                            
   polkit.x86_64 0.113-4.fc23                                                    
   polkit-libs.x86_64 0.113-4.fc23                                               
   polkit-pkla-compat.x86_64 0.1-6.fc23                                          
@@ -1958,7 +1948,7 @@ Installed:
   python3-blockdev.x86_64 1.3-2.fc24                                            
   python3-cairo.x86_64 1.10.0-12.fc23                                           
   python3-chardet.noarch 2.2.1-3.fc23                                           
-  python3-coverage.x86_64 4.0.1-1.fc24                                          
+  python3-coverage.x86_64 4.0.2-1.fc24                                          
   python3-dbus.x86_64 1.2.0-10.fc24                                             
   python3-decorator.noarch 4.0.4-1.fc24                                         
   python3-dnf.noarch 1.1.3-1.fc24                                               
@@ -1968,7 +1958,7 @@ Installed:
   python3-hawkey.x86_64 0.6.2-1.fc24                                            
   python3-iniparse.noarch 0.4-16.fc23                                           
   python3-iscsi-initiator-utils.x86_64 6.2.0.873-29.git4c9d6f9.fc24             
-  python3-kickstart.noarch 2.19-1.fc24                                          
+  python3-kickstart.noarch 2.20-1.fc24                                          
   python3-libcomps.x86_64 0.1.7-1.fc24                                          
   python3-librepo.x86_64 1.7.17-1.fc24                                          
   python3-libs.x86_64 3.4.3-5.fc24                                              
@@ -1995,28 +1985,28 @@ Installed:
   readline.x86_64 6.3-7.fc24                                                    
   realmd.x86_64 0.16.2-2.fc24                                                   
   rest.x86_64 0.7.93-2.fc23                                                     
-  rpm.x86_64 4.13.0-0.rc1.9.fc24                                                
-  rpm-build-libs.x86_64 4.13.0-0.rc1.9.fc24                                     
-  rpm-libs.x86_64 4.13.0-0.rc1.9.fc24                                           
-  rpm-plugin-selinux.x86_64 4.13.0-0.rc1.9.fc24                                 
-  rpm-plugin-systemd-inhibit.x86_64 4.13.0-0.rc1.9.fc24                         
-  rpm-python3.x86_64 4.13.0-0.rc1.9.fc24                                        
-  rsync.x86_64 3.1.1-7.fc23                                                     
+  rpm.x86_64 4.13.0-0.rc1.11.fc24                                               
+  rpm-build-libs.x86_64 4.13.0-0.rc1.11.fc24                                    
+  rpm-libs.x86_64 4.13.0-0.rc1.11.fc24                                          
+  rpm-plugin-selinux.x86_64 4.13.0-0.rc1.11.fc24                                
+  rpm-plugin-systemd-inhibit.x86_64 4.13.0-0.rc1.11.fc24                        
+  rpm-python3.x86_64 4.13.0-0.rc1.11.fc24                                       
+  rsync.x86_64 3.1.1-8.fc24                                                     
   satyr.x86_64 0.20-1.fc24                                                      
   sed.x86_64 4.2.2-11.fc23                                                      
   setup.noarch 2.9.8-2.fc23                                                     
   sgpio.x86_64 1.2.0.10-15.fc23                                                 
-  shadow-utils.x86_64 2:4.2.1-3.fc24                                            
+  shadow-utils.x86_64 2:4.2.1-4.fc24                                            
   shared-mime-info.x86_64 1.5-2.fc24                                            
   slang.x86_64 2.3.0-4.fc24                                                     
   snappy.x86_64 1.1.3-1.fc23                                                    
   sqlite.x86_64 3.9.0-1.fc24                                                    
-  systemd.x86_64 227-3.fc24                                                     
-  systemd-libs.x86_64 227-3.fc24                                                
+  systemd.x86_64 227-5.fc24                                                     
+  systemd-libs.x86_64 227-5.fc24                                                
   teamd.x86_64 1.22-1.fc24                                                      
   tigervnc-license.noarch 1.5.0-3.fc24                                          
   tigervnc-server-minimal.x86_64 1.5.0-3.fc24                                   
-  timedatex.x86_64 0.3-3.fc24                                                   
+  timedatex.x86_64 0.4-1.fc24                                                   
   trousers.x86_64 0.3.13-5.fc23                                                 
   trousers-lib.x86_64 0.3.13-5.fc23                                             
   tzdata.noarch 2015g-1.fc24                                                    
@@ -2042,5 +2032,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.6-0.1.20151106195305.fc24.x86_64
+anaconda-24.7-0.1.20151111164850.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)

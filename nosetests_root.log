@@ -5,6 +5,7 @@ Create a group. ... ok
 Create a user with a specific password algorithm. ... ok
 Create a user that already exists. ... ok
 Create a user with a GID of an existing group. ... ok
+Create a user with a GID equal to that of one of the requested groups ... ok
 Create a user with a specific GID. ... ok
 Create a user with a bad list of groups. ... ok
 Create a user with a list of groups. ... ok
@@ -19,7 +20,7 @@ set_root_password_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) 
 set_user_ssh_key_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... ok
 
 ----------------------------------------------------------------------
-Ran 19 tests in 9.615s
+Ran 20 tests in 9.972s
 
 OK
 PASS nosetests_root.sh (exit status: 0)
