@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:00 ago on Wed Nov 11 12:07:19 2015.
+Last metadata expiration check performed 0:00:00 ago on Wed Nov 11 18:15:03 2015.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -23,16 +23,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.18.0-1.fc23            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-1.fc23            anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-3.fc24             anaconda-rawhide 408 k
- anaconda                x86_64 24.7-0.1.20151111164850.fc24
+ anaconda                x86_64 24.7-0.1.20151111224858.fc24
                                                          anaconda          58 k
- anaconda-core           x86_64 24.7-0.1.20151111164850.fc24
+ anaconda-core           x86_64 24.7-0.1.20151111224858.fc24
                                                          anaconda         642 k
- anaconda-gui            x86_64 24.7-0.1.20151111164850.fc24
+ anaconda-gui            x86_64 24.7-0.1.20151111224858.fc24
                                                          anaconda         377 k
- anaconda-tui            x86_64 24.7-0.1.20151111164850.fc24
+ anaconda-tui            x86_64 24.7-0.1.20151111224858.fc24
                                                          anaconda         151 k
  anaconda-user-help      noarch 22.4-2.fc23              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.7-0.1.20151111164850.fc24
+ anaconda-widgets        x86_64 24.7-0.1.20151111224858.fc24
                                                          anaconda          84 k
  at-spi2-atk             x86_64 2.18.1-1.fc24            anaconda-rawhide  85 k
  at-spi2-core            x86_64 2.19.1-1.fc24            anaconda-rawhide 163 k
@@ -501,7 +501,7 @@ Total download size: 225 M
 Installed size: 822 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           9.1 MB/s | 225 MB     00:24     
+Total                                           8.2 MB/s | 225 MB     00:27     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -1081,7 +1081,7 @@ warning: adwaita-icon-theme-3.18.0-1.fc23.noarch: Header V3 RSA/SHA256 Signature
   Installing  : nm-connection-editor-1.2.0-0.1.20150903git807cbdf.fc2   419/452 
   Installing  : glade-libs-3.19.0-3.fc23.x86_64                         420/452 
 warning: glade-libs-3.19.0-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-widgets-24.7-0.1.20151111164850.fc24.x86_64    421/452 
+  Installing  : anaconda-widgets-24.7-0.1.20151111224858.fc24.x86_64    421/452 
   Installing  : keybinder3-0.3.0-5.fc23.x86_64                          422/452 
 warning: keybinder3-0.3.0-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : libgnomekbd-3.6.0-8.fc23.x86_64                         423/452 
@@ -1104,12 +1104,12 @@ warning: libtimezonemap-0.4.4-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key
   Installing  : NetworkManager-wifi-1:1.2.0-0.3.20151023gite01c175.fc   438/452 
   Installing  : dracut-network-043-60.git20150811.fc24.x86_64           439/452 
   Installing  : kexec-tools-2.0.11-1.fc24.x86_64                        440/452 
-  Installing  : anaconda-tui-24.7-0.1.20151111164850.fc24.x86_64        441/452 
-  Installing  : anaconda-core-24.7-0.1.20151111164850.fc24.x86_64       442/452 
+  Installing  : anaconda-tui-24.7-0.1.20151111224858.fc24.x86_64        441/452 
+  Installing  : anaconda-core-24.7-0.1.20151111224858.fc24.x86_64       442/452 
   Installing  : anaconda-user-help-22.4-2.fc23.noarch                   443/452 
 warning: anaconda-user-help-22.4-2.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-gui-24.7-0.1.20151111164850.fc24.x86_64        444/452 
-  Installing  : anaconda-24.7-0.1.20151111164850.fc24.x86_64            445/452 
+  Installing  : anaconda-gui-24.7-0.1.20151111224858.fc24.x86_64        444/452 
+  Installing  : anaconda-24.7-0.1.20151111224858.fc24.x86_64            445/452 
   Installing  : timedatex-0.4-1.fc24.x86_64                             446/452 
 warning: trousers-0.3.13-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : trousers-0.3.13-5.fc23.x86_64                           447/452 
@@ -1122,11 +1122,11 @@ warning: grubby-8.40-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9
 warning: pigz-2.3.3-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : hardlink-1:1.0-22.fc23.x86_64                           452/452 
 warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Verifying   : anaconda-24.7-0.1.20151111164850.fc24.x86_64              1/452 
+  Verifying   : anaconda-24.7-0.1.20151111224858.fc24.x86_64              1/452 
   Verifying   : bash-4.3.42-1.fc24.x86_64                                 2/452 
-  Verifying   : anaconda-core-24.7-0.1.20151111164850.fc24.x86_64         3/452 
-  Verifying   : anaconda-gui-24.7-0.1.20151111164850.fc24.x86_64          4/452 
-  Verifying   : anaconda-tui-24.7-0.1.20151111164850.fc24.x86_64          5/452 
+  Verifying   : anaconda-core-24.7-0.1.20151111224858.fc24.x86_64         3/452 
+  Verifying   : anaconda-gui-24.7-0.1.20151111224858.fc24.x86_64          4/452 
+  Verifying   : anaconda-tui-24.7-0.1.20151111224858.fc24.x86_64          5/452 
   Verifying   : glibc-2.22.90-16.fc24.x86_64                              6/452 
   Verifying   : ncurses-libs-6.0-1.20150810.fc24.x86_64                   7/452 
   Verifying   : audit-libs-2.4.4-2.fc24.x86_64                            8/452 
@@ -1175,7 +1175,7 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : tigervnc-server-minimal-1.5.0-3.fc24.x86_64              51/452 
   Verifying   : yelp-2:3.19.1-2.fc24.x86_64                              52/452 
   Verifying   : zenity-3.18.1.1-1.fc24.x86_64                            53/452 
-  Verifying   : anaconda-widgets-24.7-0.1.20151111164850.fc24.x86_64     54/452 
+  Verifying   : anaconda-widgets-24.7-0.1.20151111224858.fc24.x86_64     54/452 
   Verifying   : basesystem-11-1.fc23.noarch                              55/452 
   Verifying   : glibc-common-2.22.90-16.fc24.x86_64                      56/452 
   Verifying   : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  57/452 
@@ -1590,12 +1590,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.18.0-1.fc23                                     
   adwaita-icon-theme.noarch 3.18.0-1.fc23                                       
   alsa-lib.x86_64 1.1.0-3.fc24                                                  
-  anaconda.x86_64 24.7-0.1.20151111164850.fc24                                  
-  anaconda-core.x86_64 24.7-0.1.20151111164850.fc24                             
-  anaconda-gui.x86_64 24.7-0.1.20151111164850.fc24                              
-  anaconda-tui.x86_64 24.7-0.1.20151111164850.fc24                              
+  anaconda.x86_64 24.7-0.1.20151111224858.fc24                                  
+  anaconda-core.x86_64 24.7-0.1.20151111224858.fc24                             
+  anaconda-gui.x86_64 24.7-0.1.20151111224858.fc24                              
+  anaconda-tui.x86_64 24.7-0.1.20151111224858.fc24                              
   anaconda-user-help.noarch 22.4-2.fc23                                         
-  anaconda-widgets.x86_64 24.7-0.1.20151111164850.fc24                          
+  anaconda-widgets.x86_64 24.7-0.1.20151111224858.fc24                          
   at-spi2-atk.x86_64 2.18.1-1.fc24                                              
   at-spi2-core.x86_64 2.19.1-1.fc24                                             
   atk.x86_64 2.18.0-1.fc24                                                      
@@ -2032,5 +2032,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.7-0.1.20151111164850.fc24.x86_64
+anaconda-24.7-0.1.20151111224858.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)

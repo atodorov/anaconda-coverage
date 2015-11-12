@@ -104,7 +104,7 @@ pyanaconda/ui/lib/entropy.py                                57     57     12    
 pyanaconda/ui/lib/space.py                                  38     38      4      0     0%
 pyanaconda/ui/tui/__init__.py                              102    102     18      0     0%
 pyanaconda/ui/tui/hubs/__init__.py                          57     57     24      0     0%
-pyanaconda/ui/tui/hubs/summary.py                           69     69     39      0     0%
+pyanaconda/ui/tui/hubs/summary.py                           68     68     37      0     0%
 pyanaconda/ui/tui/simpleline/__init__.py                     2      2      0      0     0%
 pyanaconda/ui/tui/simpleline/base.py                       318    318    122      0     0%
 pyanaconda/ui/tui/simpleline/widgets.py                     76     76     14      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    109    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24520  21214   8725    122    12%
+TOTAL                                                    24519  21213   8723    122    12%
