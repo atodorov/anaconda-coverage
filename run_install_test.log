@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:00 ago on Wed Nov 11 18:15:03 2015.
+Last metadata expiration check performed 0:00:16 ago on Thu Nov 12 12:08:32 2015.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -23,16 +23,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.18.0-1.fc23            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-1.fc23            anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-3.fc24             anaconda-rawhide 408 k
- anaconda                x86_64 24.7-0.1.20151111224858.fc24
+ anaconda                x86_64 24.7-0.1.20151112164844.fc24
                                                          anaconda          58 k
- anaconda-core           x86_64 24.7-0.1.20151111224858.fc24
+ anaconda-core           x86_64 24.7-0.1.20151112164844.fc24
                                                          anaconda         642 k
- anaconda-gui            x86_64 24.7-0.1.20151111224858.fc24
+ anaconda-gui            x86_64 24.7-0.1.20151112164844.fc24
                                                          anaconda         377 k
- anaconda-tui            x86_64 24.7-0.1.20151111224858.fc24
+ anaconda-tui            x86_64 24.7-0.1.20151112164844.fc24
                                                          anaconda         151 k
  anaconda-user-help      noarch 22.4-2.fc23              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.7-0.1.20151111224858.fc24
+ anaconda-widgets        x86_64 24.7-0.1.20151112164844.fc24
                                                          anaconda          84 k
  at-spi2-atk             x86_64 2.18.1-1.fc24            anaconda-rawhide  85 k
  at-spi2-core            x86_64 2.19.1-1.fc24            anaconda-rawhide 163 k
@@ -306,7 +306,7 @@ Installing:
  libsolv                 x86_64 0.6.14-2.fc24            anaconda-rawhide 346 k
  libsoup                 x86_64 2.53.1-1.fc24            anaconda-rawhide 386 k
  libss                   x86_64 1.42.13-3.fc23           anaconda-rawhide  49 k
- libssh2                 x86_64 1.6.0-2.fc23             anaconda-rawhide 147 k
+ libssh2                 x86_64 1.6.0-3.fc24             anaconda-rawhide 147 k
  libstdc++               x86_64 5.2.1-5.fc24             anaconda-rawhide 423 k
  libtar                  x86_64 1.2.20-7.fc23            anaconda-rawhide  38 k
  libtasn1                x86_64 4.7-1.fc24               anaconda-rawhide 325 k
@@ -501,7 +501,7 @@ Total download size: 225 M
 Installed size: 822 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           8.2 MB/s | 225 MB     00:27     
+Total                                           6.6 MB/s | 225 MB     00:34     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -516,13 +516,13 @@ warning: setup-2.9.8-2.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9
   Installing  : libreport-filesystem-2.6.3-1.fc24.x86_64                  6/452 
   Installing  : filesystem-3.2-35.fc24.x86_64                             7/452 
   Installing  : fontpackages-filesystem-1.44-15.fc24.noarch               8/452 
-  Installing  : xkeyboard-config-2.16-1.fc24.noarch                       9/452 
-  Installing  : tzdata-2015g-1.fc24.noarch                               10/452 
-  Installing  : langtable-0.0.34-1.fc23.noarch                           11/452 
+  Installing  : ncurses-base-6.0-1.20150810.fc24.noarch                   9/452 
+  Installing  : xkeyboard-config-2.16-1.fc24.noarch                      10/452 
+  Installing  : tzdata-2015g-1.fc24.noarch                               11/452 
+  Installing  : langtable-0.0.34-1.fc23.noarch                           12/452 
 warning: langtable-0.0.34-1.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : langtable-data-0.0.34-1.fc23.noarch                      12/452 
+  Installing  : langtable-data-0.0.34-1.fc23.noarch                      13/452 
 warning: langtable-data-0.0.34-1.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : ncurses-base-6.0-1.20150810.fc24.noarch                  13/452 
   Installing  : basesystem-11-1.fc23.noarch                              14/452 
 warning: basesystem-11-1.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  15/452 
@@ -818,8 +818,7 @@ warning: e2fsprogs-1.42.13-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID
 warning: fedora-logos-22.0.0-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : hfsplus-tools-540.1.linux3-10.fc23.x86_64               227/452 
 warning: hfsplus-tools-540.1.linux3-10.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : libssh2-1.6.0-2.fc23.x86_64                             228/452 
-warning: libssh2-1.6.0-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
+  Installing  : libssh2-1.6.0-3.fc24.x86_64                             228/452 
   Installing  : libarchive-3.1.2-13.fc23.x86_64                         229/452 
 warning: libarchive-3.1.2-13.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : trousers-lib-0.3.13-5.fc23.x86_64                       230/452 
@@ -1077,19 +1076,19 @@ warning: adwaita-icon-theme-3.18.0-1.fc23.noarch: Header V3 RSA/SHA256 Signature
   Installing  : yelp-libs-2:3.19.1-2.fc24.x86_64                        415/452 
   Installing  : yelp-2:3.19.1-2.fc24.x86_64                             416/452 
   Installing  : zenity-3.18.1.1-1.fc24.x86_64                           417/452 
-  Installing  : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         418/452 
-  Installing  : nm-connection-editor-1.2.0-0.1.20150903git807cbdf.fc2   419/452 
-  Installing  : glade-libs-3.19.0-3.fc23.x86_64                         420/452 
+  Installing  : glade-libs-3.19.0-3.fc23.x86_64                         418/452 
 warning: glade-libs-3.19.0-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-widgets-24.7-0.1.20151111224858.fc24.x86_64    421/452 
-  Installing  : keybinder3-0.3.0-5.fc23.x86_64                          422/452 
+  Installing  : anaconda-widgets-24.7-0.1.20151112164844.fc24.x86_64    419/452 
+  Installing  : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         420/452 
+  Installing  : nm-connection-editor-1.2.0-0.1.20150903git807cbdf.fc2   421/452 
+  Installing  : libreport-gtk-2.6.3-1.fc24.x86_64                       422/452 
+  Installing  : python3-meh-gui-0.43-1.fc24.noarch                      423/452 
+  Installing  : keybinder3-0.3.0-5.fc23.x86_64                          424/452 
 warning: keybinder3-0.3.0-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : libgnomekbd-3.6.0-8.fc23.x86_64                         423/452 
+  Installing  : libgnomekbd-3.6.0-8.fc23.x86_64                         425/452 
 warning: libgnomekbd-3.6.0-8.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : libtimezonemap-0.4.4-2.fc23.x86_64                      424/452 
+  Installing  : libtimezonemap-0.4.4-2.fc23.x86_64                      426/452 
 warning: libtimezonemap-0.4.4-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : libreport-gtk-2.6.3-1.fc24.x86_64                       425/452 
-  Installing  : python3-meh-gui-0.43-1.fc24.noarch                      426/452 
   Installing  : blivet-data-1:1.16-1.fc24.noarch                        427/452 
   Installing  : python3-blivet-1:1.16-1.fc24.noarch                     428/452 
   Installing  : kbd-misc-2.0.3-2.fc24.noarch                            429/452 
@@ -1104,12 +1103,12 @@ warning: libtimezonemap-0.4.4-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key
   Installing  : NetworkManager-wifi-1:1.2.0-0.3.20151023gite01c175.fc   438/452 
   Installing  : dracut-network-043-60.git20150811.fc24.x86_64           439/452 
   Installing  : kexec-tools-2.0.11-1.fc24.x86_64                        440/452 
-  Installing  : anaconda-tui-24.7-0.1.20151111224858.fc24.x86_64        441/452 
-  Installing  : anaconda-core-24.7-0.1.20151111224858.fc24.x86_64       442/452 
+  Installing  : anaconda-tui-24.7-0.1.20151112164844.fc24.x86_64        441/452 
+  Installing  : anaconda-core-24.7-0.1.20151112164844.fc24.x86_64       442/452 
   Installing  : anaconda-user-help-22.4-2.fc23.noarch                   443/452 
 warning: anaconda-user-help-22.4-2.fc23.noarch: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Installing  : anaconda-gui-24.7-0.1.20151111224858.fc24.x86_64        444/452 
-  Installing  : anaconda-24.7-0.1.20151111224858.fc24.x86_64            445/452 
+  Installing  : anaconda-gui-24.7-0.1.20151112164844.fc24.x86_64        444/452 
+  Installing  : anaconda-24.7-0.1.20151112164844.fc24.x86_64            445/452 
   Installing  : timedatex-0.4-1.fc24.x86_64                             446/452 
 warning: trousers-0.3.13-5.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : trousers-0.3.13-5.fc23.x86_64                           447/452 
@@ -1122,51 +1121,51 @@ warning: grubby-8.40-2.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9
 warning: pigz-2.3.3-3.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
   Installing  : hardlink-1:1.0-22.fc23.x86_64                           452/452 
 warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 34ec9cba: NOKEY
-  Verifying   : anaconda-24.7-0.1.20151111224858.fc24.x86_64              1/452 
-  Verifying   : bash-4.3.42-1.fc24.x86_64                                 2/452 
-  Verifying   : anaconda-core-24.7-0.1.20151111224858.fc24.x86_64         3/452 
-  Verifying   : anaconda-gui-24.7-0.1.20151111224858.fc24.x86_64          4/452 
-  Verifying   : anaconda-tui-24.7-0.1.20151111224858.fc24.x86_64          5/452 
-  Verifying   : glibc-2.22.90-16.fc24.x86_64                              6/452 
-  Verifying   : ncurses-libs-6.0-1.20150810.fc24.x86_64                   7/452 
-  Verifying   : audit-libs-2.4.4-2.fc24.x86_64                            8/452 
-  Verifying   : authconfig-6.2.10-10.fc23.x86_64                          9/452 
-  Verifying   : chrony-2.2-1.fc24.x86_64                                 10/452 
-  Verifying   : createrepo_c-0.9.1-1.fc24.x86_64                         11/452 
-  Verifying   : dhcp-client-12:4.3.3-6.fc24.x86_64                       12/452 
-  Verifying   : fcoe-utils-1.0.30-3.git91c0c8c.fc23.x86_64               13/452 
-  Verifying   : firewalld-0.3.14.2-4.fc24.noarch                         14/452 
-  Verifying   : hfsplus-tools-540.1.linux3-10.fc23.x86_64                15/452 
-  Verifying   : isomd5sum-1:1.0.12-6.fc24.x86_64                         16/452 
-  Verifying   : kbd-2.0.3-2.fc24.x86_64                                  17/452 
-  Verifying   : kexec-tools-2.0.11-1.fc24.x86_64                         18/452 
-  Verifying   : langtable-data-0.0.34-1.fc23.noarch                      19/452 
-  Verifying   : langtable-python3-0.0.34-1.fc23.noarch                   20/452 
-  Verifying   : libreport-anaconda-2.6.3-1.fc24.x86_64                   21/452 
-  Verifying   : libselinux-python3-2.4-4.fc24.x86_64                     22/452 
-  Verifying   : NetworkManager-1:1.2.0-0.3.20151023gite01c175.fc24.x8    23/452 
-  Verifying   : NetworkManager-team-1:1.2.0-0.3.20151023gite01c175.fc    24/452 
-  Verifying   : python3-blivet-1:1.16-1.fc24.noarch                      25/452 
-  Verifying   : python3-coverage-4.0.2-1.fc24.x86_64                     26/452 
-  Verifying   : python3-dbus-1.2.0-10.fc24.x86_64                        27/452 
-  Verifying   : python3-dnf-1.1.3-1.fc24.noarch                          28/452 
-  Verifying   : python3-iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9    29/452 
-  Verifying   : python3-kickstart-2.20-1.fc24.noarch                     30/452 
-  Verifying   : python3-libs-3.4.3-5.fc24.x86_64                         31/452 
-  Verifying   : python3-meh-0.43-1.fc24.noarch                           32/452 
-  Verifying   : python3-ntplib-0.3.3-1.fc24.noarch                       33/452 
-  Verifying   : python3-pid-2.0.1-2.fc24.noarch                          34/452 
-  Verifying   : python3-pwquality-1.3.0-2.fc24.x86_64                    35/452 
-  Verifying   : python3-pyparted-1:3.10.7-1.fc24.x86_64                  36/452 
-  Verifying   : python3-pytz-2015.7-1.fc24.noarch                        37/452 
-  Verifying   : python3-requests-2.7.0-7.fc24.noarch                     38/452 
-  Verifying   : python3-requests-file-1.4-1.fc24.noarch                  39/452 
-  Verifying   : python3-requests-ftp-0.3.1-1.fc24.noarch                 40/452 
-  Verifying   : realmd-0.16.2-2.fc24.x86_64                              41/452 
-  Verifying   : rpm-python3-4.13.0-0.rc1.11.fc24.x86_64                  42/452 
-  Verifying   : rsync-3.1.1-8.fc24.x86_64                                43/452 
-  Verifying   : systemd-227-5.fc24.x86_64                                44/452 
-  Verifying   : usermode-1.111-7.fc23.x86_64                             45/452 
+  Verifying   : anaconda-24.7-0.1.20151112164844.fc24.x86_64              1/452 
+  Verifying   : anaconda-core-24.7-0.1.20151112164844.fc24.x86_64         2/452 
+  Verifying   : anaconda-gui-24.7-0.1.20151112164844.fc24.x86_64          3/452 
+  Verifying   : anaconda-tui-24.7-0.1.20151112164844.fc24.x86_64          4/452 
+  Verifying   : bash-4.3.42-1.fc24.x86_64                                 5/452 
+  Verifying   : audit-libs-2.4.4-2.fc24.x86_64                            6/452 
+  Verifying   : authconfig-6.2.10-10.fc23.x86_64                          7/452 
+  Verifying   : chrony-2.2-1.fc24.x86_64                                  8/452 
+  Verifying   : createrepo_c-0.9.1-1.fc24.x86_64                          9/452 
+  Verifying   : dhcp-client-12:4.3.3-6.fc24.x86_64                       10/452 
+  Verifying   : fcoe-utils-1.0.30-3.git91c0c8c.fc23.x86_64               11/452 
+  Verifying   : firewalld-0.3.14.2-4.fc24.noarch                         12/452 
+  Verifying   : glibc-2.22.90-16.fc24.x86_64                             13/452 
+  Verifying   : hfsplus-tools-540.1.linux3-10.fc23.x86_64                14/452 
+  Verifying   : isomd5sum-1:1.0.12-6.fc24.x86_64                         15/452 
+  Verifying   : kbd-2.0.3-2.fc24.x86_64                                  16/452 
+  Verifying   : kexec-tools-2.0.11-1.fc24.x86_64                         17/452 
+  Verifying   : langtable-data-0.0.34-1.fc23.noarch                      18/452 
+  Verifying   : langtable-python3-0.0.34-1.fc23.noarch                   19/452 
+  Verifying   : libreport-anaconda-2.6.3-1.fc24.x86_64                   20/452 
+  Verifying   : libselinux-python3-2.4-4.fc24.x86_64                     21/452 
+  Verifying   : NetworkManager-1:1.2.0-0.3.20151023gite01c175.fc24.x8    22/452 
+  Verifying   : NetworkManager-team-1:1.2.0-0.3.20151023gite01c175.fc    23/452 
+  Verifying   : python3-blivet-1:1.16-1.fc24.noarch                      24/452 
+  Verifying   : python3-coverage-4.0.2-1.fc24.x86_64                     25/452 
+  Verifying   : python3-dbus-1.2.0-10.fc24.x86_64                        26/452 
+  Verifying   : python3-dnf-1.1.3-1.fc24.noarch                          27/452 
+  Verifying   : python3-iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9    28/452 
+  Verifying   : python3-kickstart-2.20-1.fc24.noarch                     29/452 
+  Verifying   : python3-libs-3.4.3-5.fc24.x86_64                         30/452 
+  Verifying   : python3-meh-0.43-1.fc24.noarch                           31/452 
+  Verifying   : python3-ntplib-0.3.3-1.fc24.noarch                       32/452 
+  Verifying   : python3-pid-2.0.1-2.fc24.noarch                          33/452 
+  Verifying   : python3-pwquality-1.3.0-2.fc24.x86_64                    34/452 
+  Verifying   : python3-pyparted-1:3.10.7-1.fc24.x86_64                  35/452 
+  Verifying   : python3-pytz-2015.7-1.fc24.noarch                        36/452 
+  Verifying   : python3-requests-2.7.0-7.fc24.noarch                     37/452 
+  Verifying   : python3-requests-file-1.4-1.fc24.noarch                  38/452 
+  Verifying   : python3-requests-ftp-0.3.1-1.fc24.noarch                 39/452 
+  Verifying   : realmd-0.16.2-2.fc24.x86_64                              40/452 
+  Verifying   : rpm-python3-4.13.0-0.rc1.11.fc24.x86_64                  41/452 
+  Verifying   : rsync-3.1.1-8.fc24.x86_64                                42/452 
+  Verifying   : systemd-227-5.fc24.x86_64                                43/452 
+  Verifying   : usermode-1.111-7.fc23.x86_64                             44/452 
+  Verifying   : anaconda-widgets-24.7-0.1.20151112164844.fc24.x86_64     45/452 
   Verifying   : adwaita-icon-theme-3.18.0-1.fc23.noarch                  46/452 
   Verifying   : anaconda-user-help-22.4-2.fc23.noarch                    47/452 
   Verifying   : NetworkManager-wifi-1:1.2.0-0.3.20151023gite01c175.fc    48/452 
@@ -1175,142 +1174,142 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : tigervnc-server-minimal-1.5.0-3.fc24.x86_64              51/452 
   Verifying   : yelp-2:3.19.1-2.fc24.x86_64                              52/452 
   Verifying   : zenity-3.18.1.1-1.fc24.x86_64                            53/452 
-  Verifying   : anaconda-widgets-24.7-0.1.20151111224858.fc24.x86_64     54/452 
-  Verifying   : basesystem-11-1.fc23.noarch                              55/452 
-  Verifying   : glibc-common-2.22.90-16.fc24.x86_64                      56/452 
-  Verifying   : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  57/452 
-  Verifying   : libgcc-5.2.1-5.fc24.x86_64                               58/452 
-  Verifying   : libstdc++-5.2.1-5.fc24.x86_64                            59/452 
-  Verifying   : ncurses-base-6.0-1.20150810.fc24.noarch                  60/452 
-  Verifying   : newt-python3-0.52.18-3.fc23.x86_64                       61/452 
-  Verifying   : openssl-1:1.0.2d-2.fc24.x86_64                           62/452 
-  Verifying   : policycoreutils-2.4-16.fc24.x86_64                       63/452 
-  Verifying   : python3-sssdconfig-1.13.1-4.fc24.noarch                  64/452 
-  Verifying   : info-6.0-2.fc24.x86_64                                   65/452 
-  Verifying   : libcap-2.24-8.fc23.x86_64                                66/452 
-  Verifying   : libedit-3.1-13.20150325cvs.fc23.x86_64                   67/452 
-  Verifying   : libseccomp-2.2.3-0.fc23.x86_64                           68/452 
-  Verifying   : shadow-utils-2:4.2.1-4.fc24.x86_64                       69/452 
-  Verifying   : bzip2-libs-1.0.6-17.fc24.x86_64                          70/452 
-  Verifying   : createrepo_c-libs-0.9.1-1.fc24.x86_64                    71/452 
-  Verifying   : drpm-0.2.0-3.fc24.x86_64                                 72/452 
-  Verifying   : expat-2.1.0-12.fc23.x86_64                               73/452 
-  Verifying   : file-libs-5.25-1.fc24.x86_64                             74/452 
-  Verifying   : glib2-2.47.1-2.fc24.x86_64                               75/452 
-  Verifying   : libcurl-7.45.0-1.fc24.x86_64                             76/452 
-  Verifying   : libxml2-2.9.2-8.fc24.x86_64                              77/452 
-  Verifying   : openssl-libs-1:1.0.2d-2.fc24.x86_64                      78/452 
-  Verifying   : rpm-4.13.0-0.rc1.11.fc24.x86_64                          79/452 
-  Verifying   : rpm-libs-4.13.0-0.rc1.11.fc24.x86_64                     80/452 
-  Verifying   : sqlite-3.9.0-1.fc24.x86_64                               81/452 
-  Verifying   : xz-libs-5.2.2-1.fc24.x86_64                              82/452 
-  Verifying   : zlib-1.2.8-9.fc24.x86_64                                 83/452 
-  Verifying   : bind99-libs-9.9.7-7.P3.fc24.x86_64                       84/452 
-  Verifying   : coreutils-8.24-4.fc24.x86_64                             85/452 
-  Verifying   : dhcp-common-12:4.3.3-6.fc24.noarch                       86/452 
-  Verifying   : dhcp-libs-12:4.3.3-6.fc24.x86_64                         87/452 
-  Verifying   : gawk-4.1.3-2.fc23.x86_64                                 88/452 
-  Verifying   : grep-2.22-2.fc24.x86_64                                  89/452 
-  Verifying   : hostname-3.15-6.fc23.x86_64                              90/452 
-  Verifying   : ipcalc-0.1.4-2.fc24.x86_64                               91/452 
-  Verifying   : iproute-4.2.0-4.fc24.x86_64                              92/452 
-  Verifying   : iputils-20150815-1.fc24.x86_64                           93/452 
-  Verifying   : libcap-ng-0.7.7-2.fc23.x86_64                            94/452 
-  Verifying   : sed-4.2.2-11.fc23.x86_64                                 95/452 
-  Verifying   : systemd-libs-227-5.fc24.x86_64                           96/452 
-  Verifying   : device-mapper-multipath-0.4.9-80.fc24.x86_64             97/452 
-  Verifying   : libhbaapi-2.2.9-7.fc23.x86_64                            98/452 
-  Verifying   : ebtables-2.0.10-17.fc23.x86_64                           99/452 
-  Verifying   : firewalld-filesystem-0.3.14.2-4.fc24.noarch             100/452 
-  Verifying   : python3-firewall-0.3.14.2-4.fc24.noarch                 101/452 
-  Verifying   : popt-1.16-6.fc23.x86_64                                 102/452 
-  Verifying   : initscripts-9.64-1.fc24.x86_64                          103/452 
-  Verifying   : kbd-legacy-2.0.3-2.fc24.noarch                          104/452 
-  Verifying   : kbd-misc-2.0.3-2.fc24.noarch                            105/452 
-  Verifying   : pam-1.2.1-3.fc24.x86_64                                 106/452 
-  Verifying   : dracut-043-60.git20150811.fc24.x86_64                   107/452 
-  Verifying   : dracut-network-043-60.git20150811.fc24.x86_64           108/452 
-  Verifying   : elfutils-libelf-0.164-1.fc24.x86_64                     109/452 
-  Verifying   : elfutils-libs-0.164-1.fc24.x86_64                       110/452 
-  Verifying   : ethtool-2:4.0-2.fc23.x86_64                             111/452 
-  Verifying   : lzo-2.08-5.fc24.x86_64                                  112/452 
-  Verifying   : snappy-1.1.3-1.fc23.x86_64                              113/452 
-  Verifying   : langtable-0.0.34-1.fc23.noarch                          114/452 
-  Verifying   : libreport-plugin-bugzilla-2.6.3-1.fc24.x86_64           115/452 
-  Verifying   : libreport-plugin-reportuploader-2.6.3-1.fc24.x86_64     116/452 
-  Verifying   : libselinux-2.4-4.fc24.x86_64                            117/452 
-  Verifying   : dnsmasq-2.75-2.fc24.x86_64                              118/452 
-  Verifying   : libgudev-230-2.fc23.x86_64                              119/452 
-  Verifying   : libndp-1.5-2.fc23.x86_64                                120/452 
-  Verifying   : libnl3-3.2.27-1.fc24.x86_64                             121/452 
-  Verifying   : libsoup-2.53.1-1.fc24.x86_64                            122/452 
-  Verifying   : libuuid-2.27.1-1.fc24.x86_64                            123/452 
-  Verifying   : NetworkManager-libnm-1:1.2.0-0.3.20151023gite01c175.f   124/452 
-  Verifying   : nspr-4.10.10-1.fc24.x86_64                              125/452 
-  Verifying   : nss-3.20.1-2.fc24.x86_64                                126/452 
-  Verifying   : nss-util-3.20.1-1.fc24.x86_64                           127/452 
-  Verifying   : polkit-libs-0.113-4.fc23.x86_64                         128/452 
-  Verifying   : readline-6.3-7.fc24.x86_64                              129/452 
-  Verifying   : teamd-1.22-1.fc24.x86_64                                130/452 
-  Verifying   : blivet-data-1:1.16-1.fc24.noarch                        131/452 
-  Verifying   : dosfstools-3.0.28-1.fc24.x86_64                         132/452 
-  Verifying   : e2fsprogs-1.42.13-3.fc23.x86_64                         133/452 
-  Verifying   : libblockdev-plugins-all-1.3-2.fc24.x86_64               134/452 
-  Verifying   : lsof-4.89-1.fc24.x86_64                                 135/452 
-  Verifying   : python3-blockdev-1.3-2.fc24.x86_64                      136/452 
-  Verifying   : python3-hawkey-0.6.2-1.fc24.x86_64                      137/452 
-  Verifying   : python3-pyudev-0.17-2.fc24.noarch                       138/452 
-  Verifying   : python3-six-1.9.0-3.fc23.noarch                         139/452 
-  Verifying   : python3-setuptools-18.3.2-1.fc24.noarch                 140/452 
-  Verifying   : dbus-glib-0.104-3.fc23.x86_64                           141/452 
-  Verifying   : dbus-libs-1:1.10.2-1.fc24.x86_64                        142/452 
-  Verifying   : deltarpm-3.6-11.fc24.x86_64                             143/452 
-  Verifying   : dnf-conf-1.1.3-1.fc24.noarch                            144/452 
-  Verifying   : python3-iniparse-0.4-16.fc23.noarch                     145/452 
-  Verifying   : python3-libcomps-0.1.7-1.fc24.x86_64                    146/452 
-  Verifying   : python3-librepo-1.7.17-1.fc24.x86_64                    147/452 
-  Verifying   : python3-pygpgme-0.3-13.fc24.x86_64                      148/452 
-  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.11.fc24.x86_6   149/452 
-  Verifying   : iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9.fc24.x8   150/452 
-  Verifying   : gdbm-1.11-6.fc23.x86_64                                 151/452 
-  Verifying   : libffi-3.1-8.fc23.x86_64                                152/452 
-  Verifying   : ncurses-compat-libs-6.0-1.20150810.fc24.x86_64          153/452 
-  Verifying   : libreport-cli-2.6.3-1.fc24.x86_64                       154/452 
-  Verifying   : libreport-python3-2.6.3-1.fc24.x86_64                   155/452 
-  Verifying   : libpwquality-1.3.0-2.fc24.x86_64                        156/452 
-  Verifying   : parted-3.2-13.fc24.x86_64                               157/452 
-  Verifying   : tzdata-2015g-1.fc24.noarch                              158/452 
-  Verifying   : python3-chardet-2.2.1-3.fc23.noarch                     159/452 
-  Verifying   : python3-urllib3-1.10.4-6.fc24.noarch                    160/452 
-  Verifying   : krb5-libs-1.14-7.fc24.x86_64                            161/452 
-  Verifying   : libcom_err-1.42.13-3.fc23.x86_64                        162/452 
-  Verifying   : openldap-2.4.41-1.fc24.x86_64                           163/452 
-  Verifying   : rpm-build-libs-4.13.0-0.rc1.11.fc24.x86_64              164/452 
-  Verifying   : libacl-2.2.52-10.fc24.x86_64                            165/452 
-  Verifying   : libattr-2.4.47-14.fc24.x86_64                           166/452 
-  Verifying   : acl-2.2.52-10.fc24.x86_64                               167/452 
-  Verifying   : cryptsetup-libs-1.7.0-1.fc24.x86_64                     168/452 
-  Verifying   : iptables-1.4.21-15.fc23.x86_64                          169/452 
-  Verifying   : kmod-21-3.fc23.x86_64                                   170/452 
-  Verifying   : kmod-libs-21-3.fc23.x86_64                              171/452 
-  Verifying   : libblkid-2.27.1-1.fc24.x86_64                           172/452 
-  Verifying   : libgcrypt-1.6.4-1.fc24.x86_64                           173/452 
-  Verifying   : libidn-1.32-1.fc24.x86_64                               174/452 
-  Verifying   : libmount-2.27.1-1.fc24.x86_64                           175/452 
-  Verifying   : libxkbcommon-0.5.0-2.fc23.x86_64                        176/452 
-  Verifying   : qrencode-libs-3.4.2-5.fc23.x86_64                       177/452 
-  Verifying   : libuser-0.62-1.fc24.x86_64                              178/452 
-  Verifying   : passwd-0.79-7.fc24.x86_64                               179/452 
-  Verifying   : adwaita-cursor-theme-3.18.0-1.fc23.noarch               180/452 
-  Verifying   : wpa_supplicant-1:2.5-3.fc24.x86_64                      181/452 
-  Verifying   : atk-2.18.0-1.fc24.x86_64                                182/452 
-  Verifying   : cairo-1.14.4-1.fc24.x86_64                              183/452 
-  Verifying   : cairo-gobject-1.14.4-1.fc24.x86_64                      184/452 
-  Verifying   : gdk-pixbuf2-2.33.1-1.fc24.x86_64                        185/452 
-  Verifying   : gtk-update-icon-cache-3.19.1-1.fc24.x86_64              186/452 
-  Verifying   : gtk3-3.19.1-1.fc24.x86_64                               187/452 
-  Verifying   : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         188/452 
-  Verifying   : pango-1.38.1-1.fc24.x86_64                              189/452 
+  Verifying   : ncurses-libs-6.0-1.20150810.fc24.x86_64                  54/452 
+  Verifying   : newt-python3-0.52.18-3.fc23.x86_64                       55/452 
+  Verifying   : openssl-1:1.0.2d-2.fc24.x86_64                           56/452 
+  Verifying   : policycoreutils-2.4-16.fc24.x86_64                       57/452 
+  Verifying   : python3-sssdconfig-1.13.1-4.fc24.noarch                  58/452 
+  Verifying   : info-6.0-2.fc24.x86_64                                   59/452 
+  Verifying   : libcap-2.24-8.fc23.x86_64                                60/452 
+  Verifying   : libedit-3.1-13.20150325cvs.fc23.x86_64                   61/452 
+  Verifying   : libseccomp-2.2.3-0.fc23.x86_64                           62/452 
+  Verifying   : nss-softokn-freebl-3.20.1-1.fc24.x86_64                  63/452 
+  Verifying   : shadow-utils-2:4.2.1-4.fc24.x86_64                       64/452 
+  Verifying   : bzip2-libs-1.0.6-17.fc24.x86_64                          65/452 
+  Verifying   : createrepo_c-libs-0.9.1-1.fc24.x86_64                    66/452 
+  Verifying   : drpm-0.2.0-3.fc24.x86_64                                 67/452 
+  Verifying   : expat-2.1.0-12.fc23.x86_64                               68/452 
+  Verifying   : file-libs-5.25-1.fc24.x86_64                             69/452 
+  Verifying   : glib2-2.47.1-2.fc24.x86_64                               70/452 
+  Verifying   : libcurl-7.45.0-1.fc24.x86_64                             71/452 
+  Verifying   : libgcc-5.2.1-5.fc24.x86_64                               72/452 
+  Verifying   : libxml2-2.9.2-8.fc24.x86_64                              73/452 
+  Verifying   : openssl-libs-1:1.0.2d-2.fc24.x86_64                      74/452 
+  Verifying   : rpm-4.13.0-0.rc1.11.fc24.x86_64                          75/452 
+  Verifying   : rpm-libs-4.13.0-0.rc1.11.fc24.x86_64                     76/452 
+  Verifying   : sqlite-3.9.0-1.fc24.x86_64                               77/452 
+  Verifying   : xz-libs-5.2.2-1.fc24.x86_64                              78/452 
+  Verifying   : zlib-1.2.8-9.fc24.x86_64                                 79/452 
+  Verifying   : bind99-libs-9.9.7-7.P3.fc24.x86_64                       80/452 
+  Verifying   : coreutils-8.24-4.fc24.x86_64                             81/452 
+  Verifying   : dhcp-common-12:4.3.3-6.fc24.noarch                       82/452 
+  Verifying   : dhcp-libs-12:4.3.3-6.fc24.x86_64                         83/452 
+  Verifying   : gawk-4.1.3-2.fc23.x86_64                                 84/452 
+  Verifying   : grep-2.22-2.fc24.x86_64                                  85/452 
+  Verifying   : hostname-3.15-6.fc23.x86_64                              86/452 
+  Verifying   : ipcalc-0.1.4-2.fc24.x86_64                               87/452 
+  Verifying   : iproute-4.2.0-4.fc24.x86_64                              88/452 
+  Verifying   : iputils-20150815-1.fc24.x86_64                           89/452 
+  Verifying   : libcap-ng-0.7.7-2.fc23.x86_64                            90/452 
+  Verifying   : sed-4.2.2-11.fc23.x86_64                                 91/452 
+  Verifying   : systemd-libs-227-5.fc24.x86_64                           92/452 
+  Verifying   : device-mapper-multipath-0.4.9-80.fc24.x86_64             93/452 
+  Verifying   : libhbaapi-2.2.9-7.fc23.x86_64                            94/452 
+  Verifying   : ebtables-2.0.10-17.fc23.x86_64                           95/452 
+  Verifying   : firewalld-filesystem-0.3.14.2-4.fc24.noarch              96/452 
+  Verifying   : python3-firewall-0.3.14.2-4.fc24.noarch                  97/452 
+  Verifying   : basesystem-11-1.fc23.noarch                              98/452 
+  Verifying   : glibc-common-2.22.90-16.fc24.x86_64                      99/452 
+  Verifying   : popt-1.16-6.fc23.x86_64                                 100/452 
+  Verifying   : initscripts-9.64-1.fc24.x86_64                          101/452 
+  Verifying   : kbd-legacy-2.0.3-2.fc24.noarch                          102/452 
+  Verifying   : kbd-misc-2.0.3-2.fc24.noarch                            103/452 
+  Verifying   : pam-1.2.1-3.fc24.x86_64                                 104/452 
+  Verifying   : dracut-043-60.git20150811.fc24.x86_64                   105/452 
+  Verifying   : dracut-network-043-60.git20150811.fc24.x86_64           106/452 
+  Verifying   : elfutils-libelf-0.164-1.fc24.x86_64                     107/452 
+  Verifying   : elfutils-libs-0.164-1.fc24.x86_64                       108/452 
+  Verifying   : ethtool-2:4.0-2.fc23.x86_64                             109/452 
+  Verifying   : lzo-2.08-5.fc24.x86_64                                  110/452 
+  Verifying   : snappy-1.1.3-1.fc23.x86_64                              111/452 
+  Verifying   : langtable-0.0.34-1.fc23.noarch                          112/452 
+  Verifying   : libreport-plugin-bugzilla-2.6.3-1.fc24.x86_64           113/452 
+  Verifying   : libreport-plugin-reportuploader-2.6.3-1.fc24.x86_64     114/452 
+  Verifying   : libselinux-2.4-4.fc24.x86_64                            115/452 
+  Verifying   : dnsmasq-2.75-2.fc24.x86_64                              116/452 
+  Verifying   : libgudev-230-2.fc23.x86_64                              117/452 
+  Verifying   : libndp-1.5-2.fc23.x86_64                                118/452 
+  Verifying   : libnl3-3.2.27-1.fc24.x86_64                             119/452 
+  Verifying   : libsoup-2.53.1-1.fc24.x86_64                            120/452 
+  Verifying   : libuuid-2.27.1-1.fc24.x86_64                            121/452 
+  Verifying   : NetworkManager-libnm-1:1.2.0-0.3.20151023gite01c175.f   122/452 
+  Verifying   : nspr-4.10.10-1.fc24.x86_64                              123/452 
+  Verifying   : nss-3.20.1-2.fc24.x86_64                                124/452 
+  Verifying   : nss-util-3.20.1-1.fc24.x86_64                           125/452 
+  Verifying   : polkit-libs-0.113-4.fc23.x86_64                         126/452 
+  Verifying   : readline-6.3-7.fc24.x86_64                              127/452 
+  Verifying   : teamd-1.22-1.fc24.x86_64                                128/452 
+  Verifying   : blivet-data-1:1.16-1.fc24.noarch                        129/452 
+  Verifying   : dosfstools-3.0.28-1.fc24.x86_64                         130/452 
+  Verifying   : e2fsprogs-1.42.13-3.fc23.x86_64                         131/452 
+  Verifying   : libblockdev-plugins-all-1.3-2.fc24.x86_64               132/452 
+  Verifying   : lsof-4.89-1.fc24.x86_64                                 133/452 
+  Verifying   : python3-blockdev-1.3-2.fc24.x86_64                      134/452 
+  Verifying   : python3-hawkey-0.6.2-1.fc24.x86_64                      135/452 
+  Verifying   : python3-pyudev-0.17-2.fc24.noarch                       136/452 
+  Verifying   : python3-six-1.9.0-3.fc23.noarch                         137/452 
+  Verifying   : python3-setuptools-18.3.2-1.fc24.noarch                 138/452 
+  Verifying   : dbus-glib-0.104-3.fc23.x86_64                           139/452 
+  Verifying   : dbus-libs-1:1.10.2-1.fc24.x86_64                        140/452 
+  Verifying   : deltarpm-3.6-11.fc24.x86_64                             141/452 
+  Verifying   : dnf-conf-1.1.3-1.fc24.noarch                            142/452 
+  Verifying   : python3-iniparse-0.4-16.fc23.noarch                     143/452 
+  Verifying   : python3-libcomps-0.1.7-1.fc24.x86_64                    144/452 
+  Verifying   : python3-librepo-1.7.17-1.fc24.x86_64                    145/452 
+  Verifying   : python3-pygpgme-0.3-13.fc24.x86_64                      146/452 
+  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.11.fc24.x86_6   147/452 
+  Verifying   : iscsi-initiator-utils-6.2.0.873-29.git4c9d6f9.fc24.x8   148/452 
+  Verifying   : gdbm-1.11-6.fc23.x86_64                                 149/452 
+  Verifying   : libffi-3.1-8.fc23.x86_64                                150/452 
+  Verifying   : ncurses-compat-libs-6.0-1.20150810.fc24.x86_64          151/452 
+  Verifying   : libreport-cli-2.6.3-1.fc24.x86_64                       152/452 
+  Verifying   : libreport-python3-2.6.3-1.fc24.x86_64                   153/452 
+  Verifying   : libpwquality-1.3.0-2.fc24.x86_64                        154/452 
+  Verifying   : parted-3.2-13.fc24.x86_64                               155/452 
+  Verifying   : tzdata-2015g-1.fc24.noarch                              156/452 
+  Verifying   : python3-chardet-2.2.1-3.fc23.noarch                     157/452 
+  Verifying   : python3-urllib3-1.10.4-6.fc24.noarch                    158/452 
+  Verifying   : krb5-libs-1.14-7.fc24.x86_64                            159/452 
+  Verifying   : libcom_err-1.42.13-3.fc23.x86_64                        160/452 
+  Verifying   : openldap-2.4.41-1.fc24.x86_64                           161/452 
+  Verifying   : rpm-build-libs-4.13.0-0.rc1.11.fc24.x86_64              162/452 
+  Verifying   : libacl-2.2.52-10.fc24.x86_64                            163/452 
+  Verifying   : libattr-2.4.47-14.fc24.x86_64                           164/452 
+  Verifying   : acl-2.2.52-10.fc24.x86_64                               165/452 
+  Verifying   : cryptsetup-libs-1.7.0-1.fc24.x86_64                     166/452 
+  Verifying   : iptables-1.4.21-15.fc23.x86_64                          167/452 
+  Verifying   : kmod-21-3.fc23.x86_64                                   168/452 
+  Verifying   : kmod-libs-21-3.fc23.x86_64                              169/452 
+  Verifying   : libblkid-2.27.1-1.fc24.x86_64                           170/452 
+  Verifying   : libgcrypt-1.6.4-1.fc24.x86_64                           171/452 
+  Verifying   : libidn-1.32-1.fc24.x86_64                               172/452 
+  Verifying   : libmount-2.27.1-1.fc24.x86_64                           173/452 
+  Verifying   : libxkbcommon-0.5.0-2.fc23.x86_64                        174/452 
+  Verifying   : qrencode-libs-3.4.2-5.fc23.x86_64                       175/452 
+  Verifying   : libuser-0.62-1.fc24.x86_64                              176/452 
+  Verifying   : passwd-0.79-7.fc24.x86_64                               177/452 
+  Verifying   : atk-2.18.0-1.fc24.x86_64                                178/452 
+  Verifying   : cairo-1.14.4-1.fc24.x86_64                              179/452 
+  Verifying   : cairo-gobject-1.14.4-1.fc24.x86_64                      180/452 
+  Verifying   : gdk-pixbuf2-2.33.1-1.fc24.x86_64                        181/452 
+  Verifying   : glade-libs-3.19.0-3.fc23.x86_64                         182/452 
+  Verifying   : gtk3-3.19.1-1.fc24.x86_64                               183/452 
+  Verifying   : libxklavier-5.4-5.fc23.x86_64                           184/452 
+  Verifying   : pango-1.38.1-1.fc24.x86_64                              185/452 
+  Verifying   : adwaita-cursor-theme-3.18.0-1.fc23.noarch               186/452 
+  Verifying   : wpa_supplicant-1:2.5-3.fc24.x86_64                      187/452 
+  Verifying   : gtk-update-icon-cache-3.19.1-1.fc24.x86_64              188/452 
+  Verifying   : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         189/452 
   Verifying   : chkconfig-1.6-1.fc24.x86_64                             190/452 
   Verifying   : gnutls-3.4.6-1.fc24.x86_64                              191/452 
   Verifying   : libICE-1.0.9-3.fc23.x86_64                              192/452 
@@ -1321,53 +1320,53 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : libXext-1.3.3-3.fc23.x86_64                             197/452 
   Verifying   : libXfont-1.5.1-3.fc24.x86_64                            198/452 
   Verifying   : libjpeg-turbo-1.4.2-2.fc24.x86_64                       199/452 
-  Verifying   : libxshmfence-1.2-2.fc23.x86_64                          200/452 
-  Verifying   : mesa-libGL-11.1.0-0.devel.13.5ae37ae.fc24.x86_64        201/452 
-  Verifying   : nettle-3.1.1-4.fc24.x86_64                              202/452 
-  Verifying   : pixman-0.33.4-1.fc24.x86_64                             203/452 
-  Verifying   : tigervnc-license-1.5.0-3.fc24.noarch                    204/452 
-  Verifying   : xkeyboard-config-2.16-1.fc24.noarch                     205/452 
-  Verifying   : xorg-x11-xkb-utils-7.7-16.fc24.x86_64                   206/452 
-  Verifying   : libgpg-error-1.20-1.fc24.x86_64                         207/452 
-  Verifying   : libxslt-1.1.28-11.fc23.x86_64                           208/452 
-  Verifying   : webkitgtk4-2.11.1-1.fc24.x86_64                         209/452 
-  Verifying   : yelp-libs-2:3.19.1-2.fc24.x86_64                        210/452 
-  Verifying   : yelp-xsl-3.18.1-1.fc24.noarch                           211/452 
-  Verifying   : libnotify-0.7.6-7.fc23.x86_64                           212/452 
-  Verifying   : glade-libs-3.19.0-3.fc23.x86_64                         213/452 
-  Verifying   : libxklavier-5.4-5.fc23.x86_64                           214/452 
-  Verifying   : filesystem-3.2-35.fc24.x86_64                           215/452 
-  Verifying   : setup-2.9.8-2.fc23.noarch                               216/452 
-  Verifying   : newt-0.52.18-3.fc23.x86_64                              217/452 
-  Verifying   : slang-2.3.0-4.fc24.x86_64                               218/452 
-  Verifying   : make-1:4.1-4.fc24.x86_64                                219/452 
-  Verifying   : diffutils-3.3-12.fc23.x86_64                            220/452 
-  Verifying   : libselinux-utils-2.4-4.fc24.x86_64                      221/452 
-  Verifying   : libsemanage-2.4-4.fc24.x86_64                           222/452 
-  Verifying   : libsepol-2.4-3.fc24.x86_64                              223/452 
-  Verifying   : shared-mime-info-1.5-2.fc24.x86_64                      224/452 
-  Verifying   : libnghttp2-1.4.0-1.fc24.x86_64                          225/452 
-  Verifying   : libssh2-1.6.0-2.fc23.x86_64                             226/452 
-  Verifying   : ca-certificates-2015.2.5-2.fc24.noarch                  227/452 
-  Verifying   : crypto-policies-20151104-1.gitf1cba5f.fc24.noarch       228/452 
-  Verifying   : curl-7.45.0-1.fc24.x86_64                               229/452 
-  Verifying   : libarchive-3.1.2-13.fc23.x86_64                         230/452 
-  Verifying   : libdb-5.3.28-13.fc23.x86_64                             231/452 
-  Verifying   : libdb-utils-5.3.28-13.fc23.x86_64                       232/452 
-  Verifying   : lua-5.3.0-4.fc23.x86_64                                 233/452 
-  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.11.fc24.x86_64          234/452 
-  Verifying   : bind99-license-9.9.7-7.P3.fc24.noarch                   235/452 
-  Verifying   : gmp-1:6.0.0-14.fc24.x86_64                              236/452 
-  Verifying   : ncurses-6.0-1.20150810.fc24.x86_64                      237/452 
-  Verifying   : pcre-8.38-0.1.RC1.fc24.x86_64                           238/452 
-  Verifying   : libmnl-1.0.3-10.fc23.x86_64                             239/452 
-  Verifying   : linux-atm-libs-2.5.1-13.fc23.x86_64                     240/452 
-  Verifying   : device-mapper-1.02.110-2.fc24.x86_64                    241/452 
-  Verifying   : device-mapper-libs-1.02.110-2.fc24.x86_64               242/452 
-  Verifying   : device-mapper-multipath-libs-0.4.9-80.fc24.x86_64       243/452 
-  Verifying   : kpartx-0.4.9-80.fc24.x86_64                             244/452 
-  Verifying   : python3-decorator-4.0.4-1.fc24.noarch                   245/452 
-  Verifying   : python3-slip-dbus-0.6.4-1.fc24.noarch                   246/452 
+  Verifying   : libstdc++-5.2.1-5.fc24.x86_64                           200/452 
+  Verifying   : libxshmfence-1.2-2.fc23.x86_64                          201/452 
+  Verifying   : mesa-libGL-11.1.0-0.devel.13.5ae37ae.fc24.x86_64        202/452 
+  Verifying   : nettle-3.1.1-4.fc24.x86_64                              203/452 
+  Verifying   : pixman-0.33.4-1.fc24.x86_64                             204/452 
+  Verifying   : tigervnc-license-1.5.0-3.fc24.noarch                    205/452 
+  Verifying   : xkeyboard-config-2.16-1.fc24.noarch                     206/452 
+  Verifying   : xorg-x11-xkb-utils-7.7-16.fc24.x86_64                   207/452 
+  Verifying   : libgpg-error-1.20-1.fc24.x86_64                         208/452 
+  Verifying   : libxslt-1.1.28-11.fc23.x86_64                           209/452 
+  Verifying   : webkitgtk4-2.11.1-1.fc24.x86_64                         210/452 
+  Verifying   : yelp-libs-2:3.19.1-2.fc24.x86_64                        211/452 
+  Verifying   : yelp-xsl-3.18.1-1.fc24.noarch                           212/452 
+  Verifying   : libnotify-0.7.6-7.fc23.x86_64                           213/452 
+  Verifying   : ncurses-base-6.0-1.20150810.fc24.noarch                 214/452 
+  Verifying   : newt-0.52.18-3.fc23.x86_64                              215/452 
+  Verifying   : slang-2.3.0-4.fc24.x86_64                               216/452 
+  Verifying   : make-1:4.1-4.fc24.x86_64                                217/452 
+  Verifying   : diffutils-3.3-12.fc23.x86_64                            218/452 
+  Verifying   : libselinux-utils-2.4-4.fc24.x86_64                      219/452 
+  Verifying   : libsemanage-2.4-4.fc24.x86_64                           220/452 
+  Verifying   : libsepol-2.4-3.fc24.x86_64                              221/452 
+  Verifying   : setup-2.9.8-2.fc23.noarch                               222/452 
+  Verifying   : shared-mime-info-1.5-2.fc24.x86_64                      223/452 
+  Verifying   : libnghttp2-1.4.0-1.fc24.x86_64                          224/452 
+  Verifying   : libssh2-1.6.0-3.fc24.x86_64                             225/452 
+  Verifying   : ca-certificates-2015.2.5-2.fc24.noarch                  226/452 
+  Verifying   : crypto-policies-20151104-1.gitf1cba5f.fc24.noarch       227/452 
+  Verifying   : curl-7.45.0-1.fc24.x86_64                               228/452 
+  Verifying   : libarchive-3.1.2-13.fc23.x86_64                         229/452 
+  Verifying   : libdb-5.3.28-13.fc23.x86_64                             230/452 
+  Verifying   : libdb-utils-5.3.28-13.fc23.x86_64                       231/452 
+  Verifying   : lua-5.3.0-4.fc23.x86_64                                 232/452 
+  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.11.fc24.x86_64          233/452 
+  Verifying   : bind99-license-9.9.7-7.P3.fc24.noarch                   234/452 
+  Verifying   : gmp-1:6.0.0-14.fc24.x86_64                              235/452 
+  Verifying   : ncurses-6.0-1.20150810.fc24.x86_64                      236/452 
+  Verifying   : pcre-8.38-0.1.RC1.fc24.x86_64                           237/452 
+  Verifying   : libmnl-1.0.3-10.fc23.x86_64                             238/452 
+  Verifying   : linux-atm-libs-2.5.1-13.fc23.x86_64                     239/452 
+  Verifying   : device-mapper-1.02.110-2.fc24.x86_64                    240/452 
+  Verifying   : device-mapper-libs-1.02.110-2.fc24.x86_64               241/452 
+  Verifying   : device-mapper-multipath-libs-0.4.9-80.fc24.x86_64       242/452 
+  Verifying   : kpartx-0.4.9-80.fc24.x86_64                             243/452 
+  Verifying   : python3-decorator-4.0.4-1.fc24.noarch                   244/452 
+  Verifying   : python3-slip-dbus-0.6.4-1.fc24.noarch                   245/452 
+  Verifying   : filesystem-3.2-35.fc24.x86_64                           246/452 
   Verifying   : cpio-2.12-2.fc24.x86_64                                 247/452 
   Verifying   : findutils-1:4.5.14-7.fc23.x86_64                        248/452 
   Verifying   : cracklib-2.9.6-1.fc24.x86_64                            249/452 
@@ -1443,31 +1442,31 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : libwayland-cursor-1.9.0-1.fc24.x86_64                   319/452 
   Verifying   : mesa-libwayland-egl-11.1.0-0.devel.13.5ae37ae.fc24.x8   320/452 
   Verifying   : rest-0.7.93-2.fc23.x86_64                               321/452 
-  Verifying   : mobile-broadband-provider-info-1.20150421git-2.fc23.n   322/452 
-  Verifying   : harfbuzz-1.0.6-2.fc24.x86_64                            323/452 
-  Verifying   : libXft-2.3.2-3.fc23.x86_64                              324/452 
-  Verifying   : libthai-0.1.21-2.fc23.x86_64                            325/452 
-  Verifying   : libtasn1-4.7-1.fc24.x86_64                              326/452 
-  Verifying   : p11-kit-0.23.1-4.fc23.x86_64                            327/452 
-  Verifying   : p11-kit-trust-0.23.1-4.fc23.x86_64                      328/452 
-  Verifying   : libX11-common-1.6.3-2.fc23.noarch                       329/452 
-  Verifying   : libfontenc-1.1.3-2.fc23.x86_64                          330/452 
-  Verifying   : libXxf86vm-1.1.4-2.fc23.x86_64                          331/452 
-  Verifying   : libdrm-2.4.65-1.fc24.x86_64                             332/452 
-  Verifying   : mesa-libglapi-11.1.0-0.devel.13.5ae37ae.fc24.x86_64     333/452 
-  Verifying   : libxkbfile-1.0.9-2.fc23.x86_64                          334/452 
-  Verifying   : enchant-1:1.6.0-12.fc23.x86_64                          335/452 
-  Verifying   : gstreamer1-1.6.1-1.fc24.x86_64                          336/452 
-  Verifying   : gstreamer1-plugins-base-1.6.1-1.fc24.x86_64             337/452 
-  Verifying   : gtk2-2.24.28-2.fc23.x86_64                              338/452 
-  Verifying   : harfbuzz-icu-1.0.6-2.fc24.x86_64                        339/452 
-  Verifying   : hyphen-2.8.8-2.fc23.x86_64                              340/452 
-  Verifying   : libXt-1.1.5-2.fc23.x86_64                               341/452 
-  Verifying   : libicu-56.1-1.fc24.x86_64                               342/452 
-  Verifying   : libsecret-0.18.3-1.fc24.x86_64                          343/452 
-  Verifying   : libwayland-server-1.9.0-1.fc24.x86_64                   344/452 
-  Verifying   : libwebp-0.4.4-1.fc24.x86_64                             345/452 
-  Verifying   : iso-codes-3.62-1.fc24.noarch                            346/452 
+  Verifying   : iso-codes-3.62-1.fc24.noarch                            322/452 
+  Verifying   : libxkbfile-1.0.9-2.fc23.x86_64                          323/452 
+  Verifying   : harfbuzz-1.0.6-2.fc24.x86_64                            324/452 
+  Verifying   : libXft-2.3.2-3.fc23.x86_64                              325/452 
+  Verifying   : libthai-0.1.21-2.fc23.x86_64                            326/452 
+  Verifying   : mobile-broadband-provider-info-1.20150421git-2.fc23.n   327/452 
+  Verifying   : libtasn1-4.7-1.fc24.x86_64                              328/452 
+  Verifying   : p11-kit-0.23.1-4.fc23.x86_64                            329/452 
+  Verifying   : p11-kit-trust-0.23.1-4.fc23.x86_64                      330/452 
+  Verifying   : libX11-common-1.6.3-2.fc23.noarch                       331/452 
+  Verifying   : libfontenc-1.1.3-2.fc23.x86_64                          332/452 
+  Verifying   : libXxf86vm-1.1.4-2.fc23.x86_64                          333/452 
+  Verifying   : libdrm-2.4.65-1.fc24.x86_64                             334/452 
+  Verifying   : mesa-libglapi-11.1.0-0.devel.13.5ae37ae.fc24.x86_64     335/452 
+  Verifying   : enchant-1:1.6.0-12.fc23.x86_64                          336/452 
+  Verifying   : gstreamer1-1.6.1-1.fc24.x86_64                          337/452 
+  Verifying   : gstreamer1-plugins-base-1.6.1-1.fc24.x86_64             338/452 
+  Verifying   : gtk2-2.24.28-2.fc23.x86_64                              339/452 
+  Verifying   : harfbuzz-icu-1.0.6-2.fc24.x86_64                        340/452 
+  Verifying   : hyphen-2.8.8-2.fc23.x86_64                              341/452 
+  Verifying   : libXt-1.1.5-2.fc23.x86_64                               342/452 
+  Verifying   : libicu-56.1-1.fc24.x86_64                               343/452 
+  Verifying   : libsecret-0.18.3-1.fc24.x86_64                          344/452 
+  Verifying   : libwayland-server-1.9.0-1.fc24.x86_64                   345/452 
+  Verifying   : libwebp-0.4.4-1.fc24.x86_64                             346/452 
   Verifying   : gc-7.4.2-4.fc23.x86_64                                  347/452 
   Verifying   : guile-5:2.0.11-6.fc23.x86_64                            348/452 
   Verifying   : ustr-1.0.4-20.fc24.x86_64                               349/452 
@@ -1494,19 +1493,19 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : avahi-libs-0.6.32-0.2.rc.fc24.x86_64                    370/452 
   Verifying   : jasper-libs-1.900.1-31.fc23.x86_64                      371/452 
   Verifying   : libtiff-4.0.6-1.fc24.x86_64                             372/452 
-  Verifying   : graphite2-1.2.4-5.fc23.x86_64                           373/452 
-  Verifying   : libdatrie-0.2.8-6.fc23.x86_64                           374/452 
-  Verifying   : libpciaccess-0.13.4-2.fc23.x86_64                       375/452 
-  Verifying   : hunspell-1.3.3-8.fc24.x86_64                            376/452 
-  Verifying   : alsa-lib-1.1.0-3.fc24.x86_64                            377/452 
-  Verifying   : cdparanoia-libs-10.2-20.fc23.x86_64                     378/452 
-  Verifying   : libXv-1.0.10-3.fc23.x86_64                              379/452 
-  Verifying   : libogg-2:1.3.2-4.fc23.x86_64                            380/452 
-  Verifying   : libtheora-1:1.1.1-13.fc23.x86_64                        381/452 
-  Verifying   : libvisual-1:0.4.0-18.fc23.x86_64                        382/452 
-  Verifying   : libvorbis-1:1.3.4-5.fc23.x86_64                         383/452 
-  Verifying   : orc-0.4.24-1.fc23.x86_64                                384/452 
-  Verifying   : xml-common-0.6.3-43.fc23.noarch                         385/452 
+  Verifying   : xml-common-0.6.3-43.fc23.noarch                         373/452 
+  Verifying   : graphite2-1.2.4-5.fc23.x86_64                           374/452 
+  Verifying   : libdatrie-0.2.8-6.fc23.x86_64                           375/452 
+  Verifying   : libpciaccess-0.13.4-2.fc23.x86_64                       376/452 
+  Verifying   : hunspell-1.3.3-8.fc24.x86_64                            377/452 
+  Verifying   : alsa-lib-1.1.0-3.fc24.x86_64                            378/452 
+  Verifying   : cdparanoia-libs-10.2-20.fc23.x86_64                     379/452 
+  Verifying   : libXv-1.0.10-3.fc23.x86_64                              380/452 
+  Verifying   : libogg-2:1.3.2-4.fc23.x86_64                            381/452 
+  Verifying   : libtheora-1:1.1.1-13.fc23.x86_64                        382/452 
+  Verifying   : libvisual-1:0.4.0-18.fc23.x86_64                        383/452 
+  Verifying   : libvorbis-1:1.3.4-5.fc23.x86_64                         384/452 
+  Verifying   : orc-0.4.24-1.fc23.x86_64                                385/452 
   Verifying   : libatomic_ops-7.4.2-6.fc23.x86_64                       386/452 
   Verifying   : libtool-ltdl-2.4.6-6.fc24.x86_64                        387/452 
   Verifying   : libunistring-0.9.4-2.fc23.x86_64                        388/452 
@@ -1523,45 +1522,45 @@ warning: hardlink-1:1.0-22.fc23.x86_64: Header V3 RSA/SHA256 Signature, key ID 3
   Verifying   : libusb-1:0.1.5-6.fc23.x86_64                            399/452 
   Verifying   : device-mapper-event-1.02.110-2.fc24.x86_64              400/452 
   Verifying   : sgpio-1.2.0.10-15.fc23.x86_64                           401/452 
-  Verifying   : python3-3.4.3-5.fc24.x86_64                             402/452 
-  Verifying   : python3-pip-7.1.0-1.fc23.noarch                         403/452 
-  Verifying   : keybinder3-0.3.0-5.fc23.x86_64                          404/452 
-  Verifying   : libgnomekbd-3.6.0-8.fc23.x86_64                         405/452 
-  Verifying   : libtimezonemap-0.4.4-2.fc23.x86_64                      406/452 
-  Verifying   : python3-gobject-base-3.19.2-1.fc24.x86_64               407/452 
-  Verifying   : gobject-introspection-1.47.1-1.fc24.x86_64              408/452 
-  Verifying   : NetworkManager-glib-1:1.2.0-0.3.20151023gite01c175.fc   409/452 
-  Verifying   : util-linux-2.27.1-1.fc24.x86_64                         410/452 
-  Verifying   : libfdisk-2.27.1-1.fc24.x86_64                           411/452 
-  Verifying   : libsmartcols-2.27.1-1.fc24.x86_64                       412/452 
-  Verifying   : libutempter-1.1.6-7.fc23.x86_64                         413/452 
-  Verifying   : geoclue2-2.4.0-1.fc24.x86_64                            414/452 
-  Verifying   : avahi-glib-0.6.32-0.2.rc.fc24.x86_64                    415/452 
-  Verifying   : ModemManager-glib-1.4.10-2.fc24.x86_64                  416/452 
-  Verifying   : mesa-dri-drivers-11.1.0-0.devel.13.5ae37ae.fc24.x86_6   417/452 
-  Verifying   : llvm-libs-3.7.0-2.fc24.x86_64                           418/452 
-  Verifying   : mesa-filesystem-11.1.0-0.devel.13.5ae37ae.fc24.x86_64   419/452 
-  Verifying   : dbus-1:1.10.2-1.fc24.x86_64                             420/452 
-  Verifying   : libreport-gtk-2.6.3-1.fc24.x86_64                       421/452 
-  Verifying   : fros-1.1-6.fc24.noarch                                  422/452 
-  Verifying   : python3-gobject-3.19.2-1.fc24.x86_64                    423/452 
-  Verifying   : python3-cairo-1.10.0-12.fc23.x86_64                     424/452 
-  Verifying   : ppp-2.4.7-8.fc23.x86_64                                 425/452 
-  Verifying   : libpcap-14:1.7.4-1.fc23.x86_64                          426/452 
-  Verifying   : GConf2-3.2.6-15.fc23.x86_64                             427/452 
-  Verifying   : psmisc-22.21-7.fc23.x86_64                              428/452 
-  Verifying   : btrfs-progs-4.2.2-1.fc24.x86_64                         429/452 
-  Verifying   : procps-ng-3.3.10-9.fc24.x86_64                          430/452 
-  Verifying   : gsettings-desktop-schemas-3.18.1-1.fc24.x86_64          431/452 
-  Verifying   : libhbalinux-1.0.17-2.fc23.x86_64                        432/452 
-  Verifying   : lldpad-1.0.1-2.git986eb2e.fc24.x86_64                   433/452 
-  Verifying   : libconfig-1.5-2.fc23.x86_64                             434/452 
-  Verifying   : pkgconfig-1:0.28-9.fc23.x86_64                          435/452 
-  Verifying   : fedora-logos-22.0.0-2.fc23.x86_64                       436/452 
-  Verifying   : fedora-release-24-0.6.noarch                            437/452 
-  Verifying   : fedora-repos-24-0.2.noarch                              438/452 
-  Verifying   : fedora-repos-rawhide-24-0.2.noarch                      439/452 
-  Verifying   : aajohan-comfortaa-fonts-2.004-5.fc23.noarch             440/452 
+  Verifying   : geoclue2-2.4.0-1.fc24.x86_64                            402/452 
+  Verifying   : avahi-glib-0.6.32-0.2.rc.fc24.x86_64                    403/452 
+  Verifying   : ModemManager-glib-1.4.10-2.fc24.x86_64                  404/452 
+  Verifying   : util-linux-2.27.1-1.fc24.x86_64                         405/452 
+  Verifying   : libfdisk-2.27.1-1.fc24.x86_64                           406/452 
+  Verifying   : libsmartcols-2.27.1-1.fc24.x86_64                       407/452 
+  Verifying   : libutempter-1.1.6-7.fc23.x86_64                         408/452 
+  Verifying   : mesa-dri-drivers-11.1.0-0.devel.13.5ae37ae.fc24.x86_6   409/452 
+  Verifying   : llvm-libs-3.7.0-2.fc24.x86_64                           410/452 
+  Verifying   : mesa-filesystem-11.1.0-0.devel.13.5ae37ae.fc24.x86_64   411/452 
+  Verifying   : dbus-1:1.10.2-1.fc24.x86_64                             412/452 
+  Verifying   : python3-3.4.3-5.fc24.x86_64                             413/452 
+  Verifying   : python3-pip-7.1.0-1.fc23.noarch                         414/452 
+  Verifying   : libreport-gtk-2.6.3-1.fc24.x86_64                       415/452 
+  Verifying   : fros-1.1-6.fc24.noarch                                  416/452 
+  Verifying   : python3-gobject-3.19.2-1.fc24.x86_64                    417/452 
+  Verifying   : gobject-introspection-1.47.1-1.fc24.x86_64              418/452 
+  Verifying   : python3-cairo-1.10.0-12.fc23.x86_64                     419/452 
+  Verifying   : python3-gobject-base-3.19.2-1.fc24.x86_64               420/452 
+  Verifying   : NetworkManager-glib-1:1.2.0-0.3.20151023gite01c175.fc   421/452 
+  Verifying   : ppp-2.4.7-8.fc23.x86_64                                 422/452 
+  Verifying   : libpcap-14:1.7.4-1.fc23.x86_64                          423/452 
+  Verifying   : btrfs-progs-4.2.2-1.fc24.x86_64                         424/452 
+  Verifying   : procps-ng-3.3.10-9.fc24.x86_64                          425/452 
+  Verifying   : gsettings-desktop-schemas-3.18.1-1.fc24.x86_64          426/452 
+  Verifying   : libhbalinux-1.0.17-2.fc23.x86_64                        427/452 
+  Verifying   : lldpad-1.0.1-2.git986eb2e.fc24.x86_64                   428/452 
+  Verifying   : libconfig-1.5-2.fc23.x86_64                             429/452 
+  Verifying   : pkgconfig-1:0.28-9.fc23.x86_64                          430/452 
+  Verifying   : keybinder3-0.3.0-5.fc23.x86_64                          431/452 
+  Verifying   : libgnomekbd-3.6.0-8.fc23.x86_64                         432/452 
+  Verifying   : libtimezonemap-0.4.4-2.fc23.x86_64                      433/452 
+  Verifying   : GConf2-3.2.6-15.fc23.x86_64                             434/452 
+  Verifying   : psmisc-22.21-7.fc23.x86_64                              435/452 
+  Verifying   : fedora-release-24-0.6.noarch                            436/452 
+  Verifying   : fedora-repos-24-0.2.noarch                              437/452 
+  Verifying   : fedora-repos-rawhide-24-0.2.noarch                      438/452 
+  Verifying   : aajohan-comfortaa-fonts-2.004-5.fc23.noarch             439/452 
+  Verifying   : fedora-logos-22.0.0-2.fc23.x86_64                       440/452 
   Verifying   : timedatex-0.4-1.fc24.x86_64                             441/452 
   Verifying   : polkit-0.113-4.fc23.x86_64                              442/452 
   Verifying   : mozjs17-17.0.0-14.fc24.x86_64                           443/452 
@@ -1590,12 +1589,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.18.0-1.fc23                                     
   adwaita-icon-theme.noarch 3.18.0-1.fc23                                       
   alsa-lib.x86_64 1.1.0-3.fc24                                                  
-  anaconda.x86_64 24.7-0.1.20151111224858.fc24                                  
-  anaconda-core.x86_64 24.7-0.1.20151111224858.fc24                             
-  anaconda-gui.x86_64 24.7-0.1.20151111224858.fc24                              
-  anaconda-tui.x86_64 24.7-0.1.20151111224858.fc24                              
+  anaconda.x86_64 24.7-0.1.20151112164844.fc24                                  
+  anaconda-core.x86_64 24.7-0.1.20151112164844.fc24                             
+  anaconda-gui.x86_64 24.7-0.1.20151112164844.fc24                              
+  anaconda-tui.x86_64 24.7-0.1.20151112164844.fc24                              
   anaconda-user-help.noarch 22.4-2.fc23                                         
-  anaconda-widgets.x86_64 24.7-0.1.20151111224858.fc24                          
+  anaconda-widgets.x86_64 24.7-0.1.20151112164844.fc24                          
   at-spi2-atk.x86_64 2.18.1-1.fc24                                              
   at-spi2-core.x86_64 2.19.1-1.fc24                                             
   atk.x86_64 2.18.0-1.fc24                                                      
@@ -1855,7 +1854,7 @@ Installed:
   libsolv.x86_64 0.6.14-2.fc24                                                  
   libsoup.x86_64 2.53.1-1.fc24                                                  
   libss.x86_64 1.42.13-3.fc23                                                   
-  libssh2.x86_64 1.6.0-2.fc23                                                   
+  libssh2.x86_64 1.6.0-3.fc24                                                   
   libstdc++.x86_64 5.2.1-5.fc24                                                 
   libtar.x86_64 1.2.20-7.fc23                                                   
   libtasn1.x86_64 4.7-1.fc24                                                    
@@ -2032,5 +2031,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.7-0.1.20151111224858.fc24.x86_64
+anaconda-24.7-0.1.20151112164844.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)
