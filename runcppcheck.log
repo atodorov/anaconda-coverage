@@ -1,0 +1,1 @@
+PASS cppcheck/runcppcheck.sh (exit status: 0)

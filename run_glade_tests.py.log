@@ -1,0 +1,16 @@
+Check for common glade validity errors ... ok
+Reject translatable format string in glade. ... ok
+Check the validity of Pango markup. ... ok
+Check that widgets that implement GtkScrollable are not in a viewport. ... ok
+Check that the invisible_char in glade files is actually a char. ... ok
+Check that unshown GtkNotebook tabs are not translatable. ... ok
+Check that unshown GtkTreeview column headers are not translatable. ... ok
+Check that all icons referenced from glade files are valid in the gnome icon theme. ... ok
+Check that password GtkEntries have the visibility set to False ... ok
+Check for widgets with keyboard accelerators but no mnemonic ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 1.143s
+
+OK
+PASS glade/run_glade_tests.py (exit status: 0)

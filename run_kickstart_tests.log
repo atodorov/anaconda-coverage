@@ -1,0 +1,2 @@
+Required boot.iso does not exist; skipping.
+SKIP kickstart_tests/scripts/run_kickstart_tests.sh (exit status: 77)
