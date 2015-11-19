@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:19 ago on Mon Nov 16 13:02:35 2015.
+Last metadata expiration check performed 0:00:16 ago on Wed Nov 18 21:02:34 2015.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -23,16 +23,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.18.0-1.fc23            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-1.fc23            anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-3.fc24             anaconda-rawhide 408 k
- anaconda                x86_64 24.7-0.1.20151116174843.fc24
+ anaconda                x86_64 24.8-0.1.20151119014841.fc24
                                                          anaconda          58 k
- anaconda-core           x86_64 24.7-0.1.20151116174843.fc24
+ anaconda-core           x86_64 24.8-0.1.20151119014841.fc24
                                                          anaconda         611 k
- anaconda-gui            x86_64 24.7-0.1.20151116174843.fc24
+ anaconda-gui            x86_64 24.8-0.1.20151119014841.fc24
                                                          anaconda         382 k
- anaconda-tui            x86_64 24.7-0.1.20151116174843.fc24
+ anaconda-tui            x86_64 24.8-0.1.20151119014841.fc24
                                                          anaconda         153 k
  anaconda-user-help      noarch 22.4-3.fc24              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.7-0.1.20151116174843.fc24
+ anaconda-widgets        x86_64 24.8-0.1.20151119014841.fc24
                                                          anaconda          85 k
  at-spi2-atk             x86_64 2.18.1-1.fc24            anaconda-rawhide  85 k
  at-spi2-core            x86_64 2.19.1-1.fc24            anaconda-rawhide 163 k
@@ -91,12 +91,12 @@ Installing:
  diffutils               x86_64 3.3-12.fc23              anaconda-rawhide 333 k
  dmraid                  x86_64 1.0.0.rc16-29.fc24       anaconda-rawhide 153 k
  dmraid-events           x86_64 1.0.0.rc16-29.fc24       anaconda-rawhide  26 k
- dnf                     noarch 1.1.3-2.fc24             anaconda-rawhide 261 k
- dnf-conf                noarch 1.1.3-2.fc24             anaconda-rawhide  88 k
+ dnf                     noarch 1.1.4-1.fc24             anaconda-rawhide 265 k
+ dnf-conf                noarch 1.1.4-1.fc24             anaconda-rawhide  89 k
  dnsmasq                 x86_64 2.75-2.fc24              anaconda-rawhide 293 k
  dosfstools              x86_64 3.0.28-1.fc24            anaconda-rawhide 111 k
- dracut                  x86_64 043-172.git20151113.fc24 anaconda-rawhide 324 k
- dracut-network          x86_64 043-172.git20151113.fc24 anaconda-rawhide  86 k
+ dracut                  x86_64 043-174.git20151116.fc24 anaconda-rawhide 325 k
+ dracut-network          x86_64 043-174.git20151116.fc24 anaconda-rawhide  86 k
  drpm                    x86_64 0.2.0-3.fc24             anaconda-rawhide  30 k
  e2fsprogs               x86_64 1.42.13-3.fc23           anaconda-rawhide 834 k
  e2fsprogs-libs          x86_64 1.42.13-3.fc23           anaconda-rawhide 170 k
@@ -132,8 +132,8 @@ Installing:
  glade-libs              x86_64 3.19.0-4.fc24            anaconda-rawhide 663 k
  glib-networking         x86_64 2.47.1-1.fc24            anaconda-rawhide 134 k
  glib2                   x86_64 2.47.1-2.fc24            anaconda-rawhide 2.3 M
- glibc                   x86_64 2.22.90-16.fc24          anaconda-rawhide 3.7 M
- glibc-common            x86_64 2.22.90-16.fc24          anaconda-rawhide  12 M
+ glibc                   x86_64 2.22.90-18.fc24          anaconda-rawhide 3.7 M
+ glibc-common            x86_64 2.22.90-18.fc24          anaconda-rawhide  12 M
  gmp                     x86_64 1:6.0.0-14.fc24          anaconda-rawhide 310 k
  gnupg                   x86_64 1.4.19-3.fc23            anaconda-rawhide 1.3 M
  gnupg2                  x86_64 2.1.9-1.fc24             anaconda-rawhide 1.8 M
@@ -190,7 +190,7 @@ Installing:
  kmod                    x86_64 21-3.fc23                anaconda-rawhide 112 k
  kmod-libs               x86_64 21-3.fc23                anaconda-rawhide  61 k
  kpartx                  x86_64 0.4.9-80.fc24            anaconda-rawhide  63 k
- krb5-libs               x86_64 1.14-7.fc24              anaconda-rawhide 839 k
+ krb5-libs               x86_64 1.14-8.fc24              anaconda-rawhide 839 k
  langtable               noarch 0.0.34-2.fc24            anaconda-rawhide  39 k
  langtable-data          noarch 0.0.34-2.fc24            anaconda-rawhide 628 k
  langtable-python3       noarch 0.0.34-2.fc24            anaconda-rawhide  36 k
@@ -381,8 +381,8 @@ Installing:
  nss-tools               x86_64 3.21.0-3.fc24            anaconda-rawhide 492 k
  nss-util                x86_64 3.21.0-2.fc24            anaconda-rawhide  81 k
  openldap                x86_64 2.4.41-1.fc24            anaconda-rawhide 346 k
- openssl                 x86_64 1:1.0.2d-2.fc24          anaconda-rawhide 511 k
- openssl-libs            x86_64 1:1.0.2d-2.fc24          anaconda-rawhide 1.2 M
+ openssl                 x86_64 1:1.0.2d-3.fc24          anaconda-rawhide 511 k
+ openssl-libs            x86_64 1:1.0.2d-3.fc24          anaconda-rawhide 1.2 M
  orc                     x86_64 0.4.24-1.fc23            anaconda-rawhide 170 k
  p11-kit                 x86_64 0.23.1-4.fc23            anaconda-rawhide 152 k
  p11-kit-trust           x86_64 0.23.1-4.fc23            anaconda-rawhide 130 k
@@ -395,7 +395,7 @@ Installing:
  pinentry                x86_64 0.9.6-4.fc24             anaconda-rawhide  81 k
  pixman                  x86_64 0.33.4-1.fc24            anaconda-rawhide 255 k
  pkgconfig               x86_64 1:0.28-9.fc23            anaconda-rawhide  60 k
- policycoreutils         x86_64 2.4-17.fc24              anaconda-rawhide 922 k
+ policycoreutils         x86_64 2.4-19.fc24              anaconda-rawhide 922 k
  polkit                  x86_64 0.113-4.fc23             anaconda-rawhide 127 k
  polkit-libs             x86_64 0.113-4.fc23             anaconda-rawhide  70 k
  polkit-pkla-compat      x86_64 0.1-6.fc23               anaconda-rawhide  43 k
@@ -409,9 +409,9 @@ Installing:
  python3-cairo           x86_64 1.10.0-14.fc24           anaconda-rawhide 470 k
  python3-chardet         noarch 2.2.1-4.fc24             anaconda-rawhide 242 k
  python3-coverage        x86_64 4.0.2-2.fc24             anaconda-rawhide 226 k
- python3-dbus            x86_64 1.2.0-11.fc24            anaconda-rawhide 125 k
+ python3-dbus            x86_64 1.2.0-12.fc24            anaconda-rawhide 122 k
  python3-decorator       noarch 4.0.4-2.fc24             anaconda-rawhide  59 k
- python3-dnf             noarch 1.1.3-2.fc24             anaconda-rawhide 453 k
+ python3-dnf             noarch 1.1.4-1.fc24             anaconda-rawhide 455 k
  python3-firewall        noarch 0.3.14.2-5.fc24          anaconda-rawhide 247 k
  python3-gobject         x86_64 3.19.2-2.fc24            anaconda-rawhide  21 k
  python3-gobject-base    x86_64 3.19.2-2.fc24            anaconda-rawhide 300 k
@@ -478,7 +478,7 @@ Installing:
  util-linux              x86_64 2.27.1-2.fc24            anaconda-rawhide 2.1 M
  volume_key-libs         x86_64 0.3.9-8.fc23             anaconda-rawhide 144 k
  webkitgtk4              x86_64 2.11.1-1.fc24            anaconda-rawhide  22 M
- wpa_supplicant          x86_64 1:2.5-3.fc24             anaconda-rawhide 1.0 M
+ wpa_supplicant          x86_64 1:2.5-4.fc24             anaconda-rawhide 1.0 M
  xkeyboard-config        noarch 2.16-1.fc24              anaconda-rawhide 761 k
  xml-common              noarch 0.6.3-43.fc23            anaconda-rawhide  31 k
  xmlrpc-c                x86_64 1.32.5-1908.svn2451.fc23 anaconda-rawhide 132 k
@@ -501,7 +501,7 @@ Total download size: 226 M
 Installed size: 841 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           7.8 MB/s | 226 MB     00:29     
+Total                                           7.3 MB/s | 226 MB     00:31     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -522,8 +522,8 @@ Running transaction
   Installing  : langtable-data-0.0.34-2.fc24.noarch                      13/452 
   Installing  : basesystem-11-1.fc23.noarch                              14/452 
   Installing  : nss-softokn-freebl-3.21.0-2.fc24.x86_64                  15/452 
-  Installing  : glibc-common-2.22.90-16.fc24.x86_64                      16/452 
-  Installing  : glibc-2.22.90-16.fc24.x86_64                             17/452 
+  Installing  : glibc-common-2.22.90-18.fc24.x86_64                      16/452 
+  Installing  : glibc-2.22.90-18.fc24.x86_64                             17/452 
   Installing  : libstdc++-5.2.1-5.fc24.x86_64                            18/452 
   Installing  : ncurses-libs-6.0-1.20150810.fc24.x86_64                  19/452 
   Installing  : bash-4.3.42-1.fc24.x86_64                                20/452 
@@ -661,8 +661,8 @@ Running transaction
   Installing  : libdaemon-0.14-9.fc23.x86_64                            152/452 
   Installing  : keyutils-libs-1.5.9-7.fc24.x86_64                       153/452 
   Installing  : libverto-0.2.6-5.fc23.x86_64                            154/452 
-  Installing  : krb5-libs-1.14-7.fc24.x86_64                            155/452 
-  Installing  : openssl-libs-1:1.0.2d-2.fc24.x86_64                     156/452 
+  Installing  : krb5-libs-1.14-8.fc24.x86_64                            155/452 
+  Installing  : openssl-libs-1:1.0.2d-3.fc24.x86_64                     156/452 
   Installing  : coreutils-8.24-4.fc24.x86_64                            157/452 
   Installing  : ca-certificates-2015.2.5-2.fc24.noarch                  158/452 
   Installing  : crypto-policies-20151104-1.gitf1cba5f.fc24.noarch       159/452 
@@ -759,14 +759,14 @@ Running transaction
   Installing  : libtool-ltdl-2.4.6-6.fc24.x86_64                        250/452 
   Installing  : guile-5:2.0.11-7.fc24.x86_64                            251/452 
   Installing  : make-1:4.1-4.fc24.x86_64                                252/452 
-  Installing  : openssl-1:1.0.2d-2.fc24.x86_64                          253/452 
+  Installing  : openssl-1:1.0.2d-3.fc24.x86_64                          253/452 
   Installing  : jbigkit-libs-2.1-4.fc23.x86_64                          254/452 
   Installing  : libtiff-4.0.6-1.fc24.x86_64                             255/452 
   Installing  : gdk-pixbuf2-modules-2.33.1-1.fc24.x86_64                256/452 
   Installing  : sgpio-1.2.0.10-15.fc23.x86_64                           257/452 
   Installing  : libsmartcols-2.27.1-2.fc24.x86_64                       258/452 
   Installing  : libpcap-14:1.7.4-1.fc23.x86_64                          259/452 
-  Installing  : dnf-conf-1.1.3-2.fc24.noarch                            260/452 
+  Installing  : dnf-conf-1.1.4-1.fc24.noarch                            260/452 
   Installing  : mesa-filesystem-11.1.0-0.devel.13.5ae37ae.fc24.x86_64   261/452 
   Installing  : hwdata-0.283-1.fc24.noarch                              262/452 
   Installing  : libpciaccess-0.13.4-2.fc23.x86_64                       263/452 
@@ -808,7 +808,7 @@ Running transaction
   Installing  : libdrm-2.4.65-1.fc24.x86_64                             299/452 
   Installing  : mesa-libGL-11.1.0-0.devel.13.5ae37ae.fc24.x86_64        300/452 
   Installing  : dbus-glib-0.104-3.fc23.x86_64                           301/452 
-  Installing  : python3-dbus-1.2.0-11.fc24.x86_64                       302/452 
+  Installing  : python3-dbus-1.2.0-12.fc24.x86_64                       302/452 
   Installing  : gnutls-3.4.6-1.fc24.x86_64                              303/452 
   Installing  : NetworkManager-libnm-1:1.2.0-0.3.20151112gitec4d653.f   304/452 
   Installing  : iputils-20150815-1.fc24.x86_64                          305/452 
@@ -833,7 +833,7 @@ Failed to connect to bus: No such file or directory
   Installing  : teamd-1.22-1.fc24.x86_64                                323/452 
   Installing  : procps-ng-3.3.10-9.fc24.x86_64                          324/452 
   Installing  : initscripts-9.64-1.fc24.x86_64                          325/452 
-  Installing  : dracut-043-172.git20151113.fc24.x86_64                  326/452 
+  Installing  : dracut-043-174.git20151116.fc24.x86_64                  326/452 
   Installing  : ppp-2.4.7-8.fc23.x86_64                                 327/452 
   Installing  : libblockdev-dm-1.3-3.fc24.x86_64                        328/452 
   Installing  : python3-iscsi-initiator-utils-6.2.0.873-30.git4c9d6f9   329/452 
@@ -879,7 +879,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : chrony-2.2-1.fc24.x86_64                                364/452 
   Installing  : ebtables-2.0.10-17.fc23.x86_64                          365/452 
   Installing  : dnsmasq-2.75-2.fc24.x86_64                              366/452 
-  Installing  : wpa_supplicant-1:2.5-3.fc24.x86_64                      367/452 
+  Installing  : wpa_supplicant-1:2.5-4.fc24.x86_64                      367/452 
   Installing  : mdadm-3.3.4-2.fc24.x86_64                               368/452 
   Installing  : libblockdev-mdraid-1.3-3.fc24.x86_64                    369/452 
   Installing  : lldpad-1.0.1-2.git986eb2e.fc24.x86_64                   370/452 
@@ -900,15 +900,15 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : libreport-plugin-bugzilla-2.6.3-2.fc24.x86_64           385/452 
   Installing  : libreport-anaconda-2.6.3-2.fc24.x86_64                  386/452 
   Installing  : libreport-cli-2.6.3-2.fc24.x86_64                       387/452 
-  Installing  : policycoreutils-2.4-17.fc24.x86_64                      388/452 
+  Installing  : policycoreutils-2.4-19.fc24.x86_64                      388/452 
   Installing  : authconfig-6.2.10-11.fc24.x86_64                        389/452 
   Installing  : realmd-0.16.2-2.fc24.x86_64                             390/452 
   Installing  : deltarpm-3.6-13.fc24.x86_64                             391/452 
   Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.12.fc24.x86_6   392/452 
   Installing  : rpm-build-libs-4.13.0-0.rc1.12.fc24.x86_64              393/452 
   Installing  : rpm-python3-4.13.0-0.rc1.12.fc24.x86_64                 394/452 
-  Installing  : python3-dnf-1.1.3-2.fc24.noarch                         395/452 
-  Installing  : dnf-1.1.3-2.fc24.noarch                                 396/452 
+  Installing  : python3-dnf-1.1.4-1.fc24.noarch                         395/452 
+  Installing  : dnf-1.1.4-1.fc24.noarch                                 396/452 
   Installing  : libreport-python3-2.6.3-2.fc24.x86_64                   397/452 
   Installing  : python3-meh-0.43-2.fc24.noarch                          398/452 
   Installing  : usermode-1.111-7.fc23.x86_64                            399/452 
@@ -931,7 +931,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : yelp-2:3.19.1-2.fc24.x86_64                             416/452 
   Installing  : zenity-3.18.1.1-1.fc24.x86_64                           417/452 
   Installing  : glade-libs-3.19.0-4.fc24.x86_64                         418/452 
-  Installing  : anaconda-widgets-24.7-0.1.20151116174843.fc24.x86_64    419/452 
+  Installing  : anaconda-widgets-24.8-0.1.20151119014841.fc24.x86_64    419/452 
   Installing  : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         420/452 
   Installing  : nm-connection-editor-1.2.0-0.1.20150903git807cbdf.fc2   421/452 
   Installing  : libreport-gtk-2.6.3-2.fc24.x86_64                       422/452 
@@ -951,13 +951,13 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : NetworkManager-1:1.2.0-0.3.20151112gitec4d653.fc24.x8   436/452 
   Installing  : NetworkManager-team-1:1.2.0-0.3.20151112gitec4d653.fc   437/452 
   Installing  : NetworkManager-wifi-1:1.2.0-0.3.20151112gitec4d653.fc   438/452 
-  Installing  : dracut-network-043-172.git20151113.fc24.x86_64          439/452 
+  Installing  : dracut-network-043-174.git20151116.fc24.x86_64          439/452 
   Installing  : kexec-tools-2.0.11-1.fc24.x86_64                        440/452 
-  Installing  : anaconda-tui-24.7-0.1.20151116174843.fc24.x86_64        441/452 
-  Installing  : anaconda-core-24.7-0.1.20151116174843.fc24.x86_64       442/452 
+  Installing  : anaconda-tui-24.8-0.1.20151119014841.fc24.x86_64        441/452 
+  Installing  : anaconda-core-24.8-0.1.20151119014841.fc24.x86_64       442/452 
   Installing  : anaconda-user-help-22.4-3.fc24.noarch                   443/452 
-  Installing  : anaconda-gui-24.7-0.1.20151116174843.fc24.x86_64        444/452 
-  Installing  : anaconda-24.7-0.1.20151116174843.fc24.x86_64            445/452 
+  Installing  : anaconda-gui-24.8-0.1.20151119014841.fc24.x86_64        444/452 
+  Installing  : anaconda-24.8-0.1.20151119014841.fc24.x86_64            445/452 
   Installing  : timedatex-0.4-1.fc24.x86_64                             446/452 
   Installing  : trousers-0.3.13-5.fc23.x86_64                           447/452 
   Installing  : bash-completion-1:2.1-8.20150513git1950590.fc23.noarc   448/452 
@@ -965,10 +965,10 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : GeoIP-1.6.7-1.fc24.x86_64                               450/452 
   Installing  : pigz-2.3.3-3.fc23.x86_64                                451/452 
   Installing  : hardlink-1:1.0-22.fc23.x86_64                           452/452 
-  Verifying   : anaconda-24.7-0.1.20151116174843.fc24.x86_64              1/452 
-  Verifying   : anaconda-core-24.7-0.1.20151116174843.fc24.x86_64         2/452 
-  Verifying   : anaconda-gui-24.7-0.1.20151116174843.fc24.x86_64          3/452 
-  Verifying   : anaconda-tui-24.7-0.1.20151116174843.fc24.x86_64          4/452 
+  Verifying   : anaconda-24.8-0.1.20151119014841.fc24.x86_64              1/452 
+  Verifying   : anaconda-core-24.8-0.1.20151119014841.fc24.x86_64         2/452 
+  Verifying   : anaconda-gui-24.8-0.1.20151119014841.fc24.x86_64          3/452 
+  Verifying   : anaconda-tui-24.8-0.1.20151119014841.fc24.x86_64          4/452 
   Verifying   : bash-4.3.42-1.fc24.x86_64                                 5/452 
   Verifying   : audit-libs-2.4.4-3.fc24.x86_64                            6/452 
   Verifying   : authconfig-6.2.10-11.fc24.x86_64                          7/452 
@@ -977,7 +977,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : dhcp-client-12:4.3.3-6.fc24.x86_64                       10/452 
   Verifying   : fcoe-utils-1.0.30-3.git91c0c8c.fc23.x86_64               11/452 
   Verifying   : firewalld-0.3.14.2-5.fc24.noarch                         12/452 
-  Verifying   : glibc-2.22.90-16.fc24.x86_64                             13/452 
+  Verifying   : glibc-2.22.90-18.fc24.x86_64                             13/452 
   Verifying   : hfsplus-tools-540.1.linux3-10.fc23.x86_64                14/452 
   Verifying   : isomd5sum-1:1.0.12-6.fc24.x86_64                         15/452 
   Verifying   : kbd-2.0.3-2.fc24.x86_64                                  16/452 
@@ -990,8 +990,8 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : NetworkManager-team-1:1.2.0-0.3.20151112gitec4d653.fc    23/452 
   Verifying   : python3-blivet-1:1.16-2.fc24.noarch                      24/452 
   Verifying   : python3-coverage-4.0.2-2.fc24.x86_64                     25/452 
-  Verifying   : python3-dbus-1.2.0-11.fc24.x86_64                        26/452 
-  Verifying   : python3-dnf-1.1.3-2.fc24.noarch                          27/452 
+  Verifying   : python3-dbus-1.2.0-12.fc24.x86_64                        26/452 
+  Verifying   : python3-dnf-1.1.4-1.fc24.noarch                          27/452 
   Verifying   : python3-iscsi-initiator-utils-6.2.0.873-30.git4c9d6f9    28/452 
   Verifying   : python3-kickstart-2.20-2.fc24.noarch                     29/452 
   Verifying   : python3-libs-3.5.0-5.fc24.x86_64                         30/452 
@@ -1009,7 +1009,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : rsync-3.1.1-8.fc24.x86_64                                42/452 
   Verifying   : systemd-227-7.fc24.x86_64                                43/452 
   Verifying   : usermode-1.111-7.fc23.x86_64                             44/452 
-  Verifying   : anaconda-widgets-24.7-0.1.20151116174843.fc24.x86_64     45/452 
+  Verifying   : anaconda-widgets-24.8-0.1.20151119014841.fc24.x86_64     45/452 
   Verifying   : adwaita-icon-theme-3.18.0-1.fc23.noarch                  46/452 
   Verifying   : anaconda-user-help-22.4-3.fc24.noarch                    47/452 
   Verifying   : NetworkManager-wifi-1:1.2.0-0.3.20151112gitec4d653.fc    48/452 
@@ -1020,8 +1020,8 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : zenity-3.18.1.1-1.fc24.x86_64                            53/452 
   Verifying   : ncurses-libs-6.0-1.20150810.fc24.x86_64                  54/452 
   Verifying   : newt-python3-0.52.18-4.fc24.x86_64                       55/452 
-  Verifying   : openssl-1:1.0.2d-2.fc24.x86_64                           56/452 
-  Verifying   : policycoreutils-2.4-17.fc24.x86_64                       57/452 
+  Verifying   : openssl-1:1.0.2d-3.fc24.x86_64                           56/452 
+  Verifying   : policycoreutils-2.4-19.fc24.x86_64                       57/452 
   Verifying   : python3-sssdconfig-1.13.1-5.fc24.noarch                  58/452 
   Verifying   : info-6.0-2.fc24.x86_64                                   59/452 
   Verifying   : libcap-2.24-8.fc23.x86_64                                60/452 
@@ -1038,7 +1038,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : libcurl-7.45.0-1.fc24.x86_64                             71/452 
   Verifying   : libgcc-5.2.1-5.fc24.x86_64                               72/452 
   Verifying   : libxml2-2.9.2-9.fc24.x86_64                              73/452 
-  Verifying   : openssl-libs-1:1.0.2d-2.fc24.x86_64                      74/452 
+  Verifying   : openssl-libs-1:1.0.2d-3.fc24.x86_64                      74/452 
   Verifying   : rpm-4.13.0-0.rc1.12.fc24.x86_64                          75/452 
   Verifying   : rpm-libs-4.13.0-0.rc1.12.fc24.x86_64                     76/452 
   Verifying   : sqlite-3.9.0-1.fc24.x86_64                               77/452 
@@ -1063,14 +1063,14 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : firewalld-filesystem-0.3.14.2-5.fc24.noarch              96/452 
   Verifying   : python3-firewall-0.3.14.2-5.fc24.noarch                  97/452 
   Verifying   : basesystem-11-1.fc23.noarch                              98/452 
-  Verifying   : glibc-common-2.22.90-16.fc24.x86_64                      99/452 
+  Verifying   : glibc-common-2.22.90-18.fc24.x86_64                      99/452 
   Verifying   : popt-1.16-6.fc23.x86_64                                 100/452 
   Verifying   : initscripts-9.64-1.fc24.x86_64                          101/452 
   Verifying   : kbd-legacy-2.0.3-2.fc24.noarch                          102/452 
   Verifying   : kbd-misc-2.0.3-2.fc24.noarch                            103/452 
   Verifying   : pam-1.2.1-3.fc24.x86_64                                 104/452 
-  Verifying   : dracut-043-172.git20151113.fc24.x86_64                  105/452 
-  Verifying   : dracut-network-043-172.git20151113.fc24.x86_64          106/452 
+  Verifying   : dracut-043-174.git20151116.fc24.x86_64                  105/452 
+  Verifying   : dracut-network-043-174.git20151116.fc24.x86_64          106/452 
   Verifying   : elfutils-libelf-0.164-1.fc24.x86_64                     107/452 
   Verifying   : elfutils-libs-0.164-1.fc24.x86_64                       108/452 
   Verifying   : ethtool-2:4.0-2.fc23.x86_64                             109/452 
@@ -1106,7 +1106,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : dbus-glib-0.104-3.fc23.x86_64                           139/452 
   Verifying   : dbus-libs-1:1.10.2-1.fc24.x86_64                        140/452 
   Verifying   : deltarpm-3.6-13.fc24.x86_64                             141/452 
-  Verifying   : dnf-conf-1.1.3-2.fc24.noarch                            142/452 
+  Verifying   : dnf-conf-1.1.4-1.fc24.noarch                            142/452 
   Verifying   : python3-iniparse-0.4-17.fc24.noarch                     143/452 
   Verifying   : python3-libcomps-0.1.7-2.fc24.x86_64                    144/452 
   Verifying   : python3-librepo-1.7.17-2.fc24.x86_64                    145/452 
@@ -1122,7 +1122,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : tzdata-2015g-1.fc24.noarch                              155/452 
   Verifying   : python3-chardet-2.2.1-4.fc24.noarch                     156/452 
   Verifying   : python3-urllib3-1.10.4-7.fc24.noarch                    157/452 
-  Verifying   : krb5-libs-1.14-7.fc24.x86_64                            158/452 
+  Verifying   : krb5-libs-1.14-8.fc24.x86_64                            158/452 
   Verifying   : libcom_err-1.42.13-3.fc23.x86_64                        159/452 
   Verifying   : openldap-2.4.41-1.fc24.x86_64                           160/452 
   Verifying   : rpm-build-libs-4.13.0-0.rc1.12.fc24.x86_64              161/452 
@@ -1150,7 +1150,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : libxklavier-5.4-5.fc23.x86_64                           183/452 
   Verifying   : pango-1.38.1-1.fc24.x86_64                              184/452 
   Verifying   : adwaita-cursor-theme-3.18.0-1.fc23.noarch               185/452 
-  Verifying   : wpa_supplicant-1:2.5-3.fc24.x86_64                      186/452 
+  Verifying   : wpa_supplicant-1:2.5-4.fc24.x86_64                      186/452 
   Verifying   : gtk-update-icon-cache-3.19.1-1.fc24.x86_64              187/452 
   Verifying   : libnma-1.2.0-0.1.20150903git807cbdf.fc24.x86_64         188/452 
   Verifying   : chkconfig-1.6-1.fc24.x86_64                             189/452 
@@ -1253,7 +1253,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Verifying   : gpgme-1.4.3-6.fc23.x86_64                               286/452 
   Verifying   : librepo-1.7.17-2.fc24.x86_64                            287/452 
   Verifying   : iscsi-initiator-utils-iscsiuio-6.2.0.873-30.git4c9d6f   288/452 
-  Verifying   : dnf-1.1.3-2.fc24.noarch                                 289/452 
+  Verifying   : dnf-1.1.4-1.fc24.noarch                                 289/452 
   Verifying   : keyutils-libs-1.5.9-7.fc24.x86_64                       290/452 
   Verifying   : libverto-0.2.6-5.fc23.x86_64                            291/452 
   Verifying   : cyrus-sasl-lib-2.1.26-25.2.fc24.x86_64                  292/452 
@@ -1433,12 +1433,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.18.0-1.fc23                                     
   adwaita-icon-theme.noarch 3.18.0-1.fc23                                       
   alsa-lib.x86_64 1.1.0-3.fc24                                                  
-  anaconda.x86_64 24.7-0.1.20151116174843.fc24                                  
-  anaconda-core.x86_64 24.7-0.1.20151116174843.fc24                             
-  anaconda-gui.x86_64 24.7-0.1.20151116174843.fc24                              
-  anaconda-tui.x86_64 24.7-0.1.20151116174843.fc24                              
+  anaconda.x86_64 24.8-0.1.20151119014841.fc24                                  
+  anaconda-core.x86_64 24.8-0.1.20151119014841.fc24                             
+  anaconda-gui.x86_64 24.8-0.1.20151119014841.fc24                              
+  anaconda-tui.x86_64 24.8-0.1.20151119014841.fc24                              
   anaconda-user-help.noarch 22.4-3.fc24                                         
-  anaconda-widgets.x86_64 24.7-0.1.20151116174843.fc24                          
+  anaconda-widgets.x86_64 24.8-0.1.20151119014841.fc24                          
   at-spi2-atk.x86_64 2.18.1-1.fc24                                              
   at-spi2-core.x86_64 2.19.1-1.fc24                                             
   atk.x86_64 2.18.0-1.fc24                                                      
@@ -1491,12 +1491,12 @@ Installed:
   diffutils.x86_64 3.3-12.fc23                                                  
   dmraid.x86_64 1.0.0.rc16-29.fc24                                              
   dmraid-events.x86_64 1.0.0.rc16-29.fc24                                       
-  dnf.noarch 1.1.3-2.fc24                                                       
-  dnf-conf.noarch 1.1.3-2.fc24                                                  
+  dnf.noarch 1.1.4-1.fc24                                                       
+  dnf-conf.noarch 1.1.4-1.fc24                                                  
   dnsmasq.x86_64 2.75-2.fc24                                                    
   dosfstools.x86_64 3.0.28-1.fc24                                               
-  dracut.x86_64 043-172.git20151113.fc24                                        
-  dracut-network.x86_64 043-172.git20151113.fc24                                
+  dracut.x86_64 043-174.git20151116.fc24                                        
+  dracut-network.x86_64 043-174.git20151116.fc24                                
   drpm.x86_64 0.2.0-3.fc24                                                      
   e2fsprogs.x86_64 1.42.13-3.fc23                                               
   e2fsprogs-libs.x86_64 1.42.13-3.fc23                                          
@@ -1531,8 +1531,8 @@ Installed:
   glade-libs.x86_64 3.19.0-4.fc24                                               
   glib-networking.x86_64 2.47.1-1.fc24                                          
   glib2.x86_64 2.47.1-2.fc24                                                    
-  glibc.x86_64 2.22.90-16.fc24                                                  
-  glibc-common.x86_64 2.22.90-16.fc24                                           
+  glibc.x86_64 2.22.90-18.fc24                                                  
+  glibc-common.x86_64 2.22.90-18.fc24                                           
   gmp.x86_64 1:6.0.0-14.fc24                                                    
   gnupg.x86_64 1.4.19-3.fc23                                                    
   gnupg2.x86_64 2.1.9-1.fc24                                                    
@@ -1585,7 +1585,7 @@ Installed:
   kmod.x86_64 21-3.fc23                                                         
   kmod-libs.x86_64 21-3.fc23                                                    
   kpartx.x86_64 0.4.9-80.fc24                                                   
-  krb5-libs.x86_64 1.14-7.fc24                                                  
+  krb5-libs.x86_64 1.14-8.fc24                                                  
   langtable.noarch 0.0.34-2.fc24                                                
   langtable-data.noarch 0.0.34-2.fc24                                           
   langtable-python3.noarch 0.0.34-2.fc24                                        
@@ -1764,8 +1764,8 @@ Installed:
   nss-tools.x86_64 3.21.0-3.fc24                                                
   nss-util.x86_64 3.21.0-2.fc24                                                 
   openldap.x86_64 2.4.41-1.fc24                                                 
-  openssl.x86_64 1:1.0.2d-2.fc24                                                
-  openssl-libs.x86_64 1:1.0.2d-2.fc24                                           
+  openssl.x86_64 1:1.0.2d-3.fc24                                                
+  openssl-libs.x86_64 1:1.0.2d-3.fc24                                           
   orc.x86_64 0.4.24-1.fc23                                                      
   p11-kit.x86_64 0.23.1-4.fc23                                                  
   p11-kit-trust.x86_64 0.23.1-4.fc23                                            
@@ -1778,7 +1778,7 @@ Installed:
   pinentry.x86_64 0.9.6-4.fc24                                                  
   pixman.x86_64 0.33.4-1.fc24                                                   
   pkgconfig.x86_64 1:0.28-9.fc23                                                
-  policycoreutils.x86_64 2.4-17.fc24                                            
+  policycoreutils.x86_64 2.4-19.fc24                                            
   polkit.x86_64 0.113-4.fc23                                                    
   polkit-libs.x86_64 0.113-4.fc23                                               
   polkit-pkla-compat.x86_64 0.1-6.fc23                                          
@@ -1792,9 +1792,9 @@ Installed:
   python3-cairo.x86_64 1.10.0-14.fc24                                           
   python3-chardet.noarch 2.2.1-4.fc24                                           
   python3-coverage.x86_64 4.0.2-2.fc24                                          
-  python3-dbus.x86_64 1.2.0-11.fc24                                             
+  python3-dbus.x86_64 1.2.0-12.fc24                                             
   python3-decorator.noarch 4.0.4-2.fc24                                         
-  python3-dnf.noarch 1.1.3-2.fc24                                               
+  python3-dnf.noarch 1.1.4-1.fc24                                               
   python3-firewall.noarch 0.3.14.2-5.fc24                                       
   python3-gobject.x86_64 3.19.2-2.fc24                                          
   python3-gobject-base.x86_64 3.19.2-2.fc24                                     
@@ -1858,7 +1858,7 @@ Installed:
   util-linux.x86_64 2.27.1-2.fc24                                               
   volume_key-libs.x86_64 0.3.9-8.fc23                                           
   webkitgtk4.x86_64 2.11.1-1.fc24                                               
-  wpa_supplicant.x86_64 1:2.5-3.fc24                                            
+  wpa_supplicant.x86_64 1:2.5-4.fc24                                            
   xkeyboard-config.noarch 2.16-1.fc24                                           
   xml-common.noarch 0.6.3-43.fc23                                               
   xmlrpc-c.x86_64 1.32.5-1908.svn2451.fc23                                      
@@ -1875,5 +1875,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.7-0.1.20151116174843.fc24.x86_64
+anaconda-24.8-0.1.20151119014841.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)
