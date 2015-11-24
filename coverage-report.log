@@ -1,7 +1,7 @@
 Name                                                     Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------
 dracut/driver_updates.py                                   373     80    140     21    75%
-dracut/parse-kickstart                                     403    333    208      1    12%
+dracut/parse-kickstart                                     403     76    208     59    75%
 pyanaconda/__init__.py                                       0      0      0      0   100%
 pyanaconda/addons.py                                        76     51     28      0    24%
 pyanaconda/anaconda.py                                     153    153     46      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    109    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24522  21216   8723    122    12%
+TOTAL                                                    24522  20959   8723    180    13%
