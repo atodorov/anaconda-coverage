@@ -8,7 +8,7 @@ pyanaconda/anaconda.py                                     153    153     46    
 pyanaconda/anaconda_argparse.py                            208     49     84     10    69%
 pyanaconda/anaconda_log.py                                 125     83     11      0    31%
 pyanaconda/bootloader.py                                  1353   1035    510      0    17%
-pyanaconda/constants.py                                    102      1      4      1    96%
+pyanaconda/constants.py                                    103      1      4      1    96%
 pyanaconda/constants_text.py                                 3      3      0      0     0%
 pyanaconda/desktop.py                                       27     16      8      0    31%
 pyanaconda/errors.py                                       138     93     26      0    27%
@@ -94,7 +94,7 @@ pyanaconda/ui/gui/spokes/software.py                       312    312    112    
 pyanaconda/ui/gui/spokes/source.py                         954    954    360      0     0%
 pyanaconda/ui/gui/spokes/storage.py                        600    600    230      0     0%
 pyanaconda/ui/gui/spokes/user.py                           325    325    129      0     0%
-pyanaconda/ui/gui/spokes/welcome.py                        186    186     66      0     0%
+pyanaconda/ui/gui/spokes/welcome.py                        188    188     68      0     0%
 pyanaconda/ui/gui/utils.py                                 199    139     50      1    24%
 pyanaconda/ui/gui/xkl_wrapper.py                           161    161     44      0     0%
 pyanaconda/ui/helpers.py                                   126    126     38      0     0%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    109    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24522  20959   8723    180    13%
+TOTAL                                                    24525  20961   8725    180    13%
