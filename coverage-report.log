@@ -1,7 +1,7 @@
 Name                                                     Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------
 dracut/driver_updates.py                                   373     80    140     21    75%
-dracut/parse-kickstart                                     403     76    208     59    75%
+dracut/parse-kickstart                                     407     77    208     59    75%
 pyanaconda/__init__.py                                       0      0      0      0   100%
 pyanaconda/addons.py                                        76     51     28      0    24%
 pyanaconda/anaconda.py                                     153    153     46      0     0%
@@ -28,9 +28,9 @@ pyanaconda/iutil.py                                        588    249    227    
 pyanaconda/kexec.py                                         48     48     12      0     0%
 pyanaconda/keyboard.py                                     208    155     57      0    22%
 pyanaconda/kickstart.py                                   1327   1094    640      4    12%
-pyanaconda/localization.py                                 262    134    124      7    45%
+pyanaconda/localization.py                                 262    158    124      4    36%
 pyanaconda/network.py                                     1039    823    570      7    18%
-pyanaconda/nm.py                                           516    433    168      3    13%
+pyanaconda/nm.py                                           520    437    168      3    13%
 pyanaconda/ntp.py                                          112     89     33      0    16%
 pyanaconda/orderedset.py                                    48     32     16      1    27%
 pyanaconda/packaging/__init__.py                           681    524    255      1    17%
@@ -83,7 +83,7 @@ pyanaconda/ui/gui/spokes/lib/custom_storage_helpers.py     390    390    138    
 pyanaconda/ui/gui/spokes/lib/dasdfmt.py                     64     64     10      0     0%
 pyanaconda/ui/gui/spokes/lib/detailederror.py               29     29      8      0     0%
 pyanaconda/ui/gui/spokes/lib/entropy_dialog.py              49     49      2      0     0%
-pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py         78     39     18      0    43%
+pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py         78     57     18      0    22%
 pyanaconda/ui/gui/spokes/lib/passphrase.py                 129    129     29      0     0%
 pyanaconda/ui/gui/spokes/lib/refresh.py                     46     46      4      0     0%
 pyanaconda/ui/gui/spokes/lib/resize.py                     281    281    105      0     0%
@@ -95,7 +95,7 @@ pyanaconda/ui/gui/spokes/source.py                         954    954    360    
 pyanaconda/ui/gui/spokes/storage.py                        600    600    230      0     0%
 pyanaconda/ui/gui/spokes/user.py                           325    325    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                        188    188     68      0     0%
-pyanaconda/ui/gui/utils.py                                 199    139     50      1    24%
+pyanaconda/ui/gui/utils.py                                 199    144     50      0    22%
 pyanaconda/ui/gui/xkl_wrapper.py                           161    161     44      0     0%
 pyanaconda/ui/helpers.py                                   126    126     38      0     0%
 pyanaconda/ui/lib/__init__.py                                0      0      0      0   100%
@@ -126,4 +126,4 @@ pyanaconda/users.py                                        215     48    109    
 pyanaconda/version.py                                        1      1      0      0     0%
 pyanaconda/vnc.py                                          157    157     42      0     0%
 ------------------------------------------------------------------------------------------
-TOTAL                                                    24525  20961   8725    180    13%
+TOTAL                                                    24533  21013   8725    176    13%
