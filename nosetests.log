@@ -1,5 +1,3 @@
-Unable to init server: Could not connect: Connection refused
-Unable to init server: Could not connect: Connection refused
 check if rpmfluff can add files to built RPMs ... ok
 check if rpmfluff is working ... ok
 check that the dd utilities exist ... ok
@@ -134,7 +132,7 @@ Should correctly parse keyboard layout and variant string specs. ... ok
 Test that anaconda uses the right versions of kickstart commands ... ok
 Test that anaconda uses the right versions of kickstart data ... ok
 Test that anaconda uses the right versions of kickstart commands ... ok
-Test if ANACONDA_WIDGETS_DATA is used if specified. ... SKIP: DISPLAY is not defined
+Test if ANACONDA_WIDGETS_DATA is used if specified. ... ok
 Finding best locale matches should work as expected. ... ok
 Langcode-locale matching should work as expected. ... ok
 All locales' date formats should be properly resolved. ... ok
@@ -206,7 +204,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 204 tests in 11.850s
+Ran 204 tests in 24.139s
 
-OK (SKIP=21)
+OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
