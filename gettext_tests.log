@@ -1,3 +1,6 @@
+==> tests/gettext_tests/canary_tests.log <==
+PASS gettext_tests/canary_tests.sh (exit status: 0)
+
 ==> tests/gettext_tests/click.py.log <==
 PASS gettext_tests/click.py (exit status: 0)
 
@@ -6,9 +9,6 @@ PASS gettext_tests/contexts.py (exit status: 0)
 
 ==> tests/gettext_tests/gettext_potfiles.py.log <==
 PASS gettext_tests/gettext_potfiles.py (exit status: 0)
-
-==> tests/gettext_tests/gettext_warnings.log <==
-PASS gettext_tests/gettext_warnings.sh (exit status: 0)
 
 ==> tests/gettext_tests/style_guide.py.log <==
 PASS gettext_tests/style_guide.py (exit status: 0)
