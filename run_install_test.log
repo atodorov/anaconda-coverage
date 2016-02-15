@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:00 ago on Thu Feb 11 21:08:02 2016.
+Last metadata expiration check performed 0:00:00 ago on Fri Feb 12 21:01:05 2016.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -18,16 +18,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.18.0-2.fc24            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-2.fc24            anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-4.fc24             anaconda-rawhide 407 k
- anaconda                x86_64 24.12-0.1.20160212014809.fc24
+ anaconda                x86_64 24.13-0.1.20160213014804.fc24
                                                          anaconda          63 k
- anaconda-core           x86_64 24.12-0.1.20160212014809.fc24
+ anaconda-core           x86_64 24.13-0.1.20160213014804.fc24
                                                          anaconda         1.4 M
- anaconda-gui            x86_64 24.12-0.1.20160212014809.fc24
+ anaconda-gui            x86_64 24.13-0.1.20160213014804.fc24
                                                          anaconda         392 k
- anaconda-tui            x86_64 24.12-0.1.20160212014809.fc24
+ anaconda-tui            x86_64 24.13-0.1.20160213014804.fc24
                                                          anaconda         158 k
  anaconda-user-help      noarch 22.4-4.fc24              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.12-0.1.20160212014809.fc24
+ anaconda-widgets        x86_64 24.13-0.1.20160213014804.fc24
                                                          anaconda          89 k
  at-spi2-atk             x86_64 2.19.2-2.fc24            anaconda-rawhide  84 k
  at-spi2-core            x86_64 2.19.2-2.fc24            anaconda-rawhide 160 k
@@ -54,8 +54,8 @@ Installing:
  chkconfig               x86_64 1.7-2.fc24               anaconda-rawhide 179 k
  chrony                  x86_64 2.3-0.1.pre1.fc24        anaconda-rawhide 302 k
  colord-libs             x86_64 1.3.1-3.fc24             anaconda-rawhide 186 k
- coreutils               x86_64 8.25-2.fc24              anaconda-rawhide 1.1 M
- coreutils-common        x86_64 8.25-2.fc24              anaconda-rawhide 1.9 M
+ coreutils               x86_64 8.25-3.fc24              anaconda-rawhide 1.1 M
+ coreutils-common        x86_64 8.25-3.fc24              anaconda-rawhide 1.9 M
  cpio                    x86_64 2.12-3.fc24              anaconda-rawhide 261 k
  cracklib                x86_64 2.9.6-2.fc24             anaconda-rawhide  85 k
  cracklib-dicts          x86_64 2.9.6-2.fc24             anaconda-rawhide 3.9 M
@@ -159,7 +159,7 @@ Installing:
  hunspell-en-US          noarch 0.20140811.1-2.fc23      anaconda-rawhide 194 k
  hwdata                  noarch 0.285-3.fc24             anaconda-rawhide 1.4 M
  hyphen                  x86_64 2.8.8-4.fc24             anaconda-rawhide  31 k
- info                    x86_64 6.0-3.fc24               anaconda-rawhide 217 k
+ info                    x86_64 6.1-1.fc24               anaconda-rawhide 191 k
  initscripts             x86_64 9.65-2.fc24              anaconda-rawhide 406 k
  ipcalc                  x86_64 0.1.6-2.fc24             anaconda-rawhide  32 k
  iproute                 x86_64 4.4.0-3.fc24             anaconda-rawhide 658 k
@@ -268,7 +268,7 @@ Installing:
  libndp                  x86_64 1.5-3.fc24               anaconda-rawhide  35 k
  libnetfilter_conntrack  x86_64 1.0.4-6.fc24             anaconda-rawhide  56 k
  libnfnetlink            x86_64 1.0.1-8.fc24             anaconda-rawhide  30 k
- libnghttp2              x86_64 1.7.0-3.fc24             anaconda-rawhide  66 k
+ libnghttp2              x86_64 1.7.1-1.fc24             anaconda-rawhide  65 k
  libnl3                  x86_64 3.2.27-3.fc24            anaconda-rawhide 262 k
  libnl3-cli              x86_64 3.2.27-3.fc24            anaconda-rawhide 166 k
  libnma                  x86_64 1.2.0-0.3.beta1.fc24     anaconda-rawhide  84 k
@@ -344,20 +344,20 @@ Installing:
  lzo                     x86_64 2.08-6.fc24              anaconda-rawhide  67 k
  make                    x86_64 1:4.1-5.fc24             anaconda-rawhide 468 k
  mdadm                   x86_64 3.3.4-3.fc24             anaconda-rawhide 410 k
- mesa-dri-drivers        x86_64 11.2.0-0.devel.8.24ea81a.fc24
+ mesa-dri-drivers        x86_64 11.2.0-0.devel.9.24ea81a.fc24
                                                          anaconda-rawhide  10 M
- mesa-filesystem         x86_64 11.2.0-0.devel.8.24ea81a.fc24
-                                                         anaconda-rawhide  38 k
- mesa-libEGL             x86_64 11.2.0-0.devel.8.24ea81a.fc24
+ mesa-filesystem         x86_64 11.2.0-0.devel.9.24ea81a.fc24
+                                                         anaconda-rawhide  37 k
+ mesa-libEGL             x86_64 11.2.0-0.devel.9.24ea81a.fc24
                                                          anaconda-rawhide 107 k
- mesa-libGL              x86_64 11.2.0-0.devel.8.24ea81a.fc24
+ mesa-libGL              x86_64 11.2.0-0.devel.9.24ea81a.fc24
                                                          anaconda-rawhide 170 k
- mesa-libgbm             x86_64 11.2.0-0.devel.8.24ea81a.fc24
-                                                         anaconda-rawhide  58 k
- mesa-libglapi           x86_64 11.2.0-0.devel.8.24ea81a.fc24
-                                                         anaconda-rawhide  64 k
- mesa-libwayland-egl     x86_64 11.2.0-0.devel.8.24ea81a.fc24
-                                                         anaconda-rawhide  39 k
+ mesa-libgbm             x86_64 11.2.0-0.devel.9.24ea81a.fc24
+                                                         anaconda-rawhide  57 k
+ mesa-libglapi           x86_64 11.2.0-0.devel.9.24ea81a.fc24
+                                                         anaconda-rawhide  63 k
+ mesa-libwayland-egl     x86_64 11.2.0-0.devel.9.24ea81a.fc24
+                                                         anaconda-rawhide  38 k
  mobile-broadband-provider-info
                          noarch 1.20151214-1.fc24        anaconda-rawhide  55 k
  mozjs17                 x86_64 17.0.0-14.fc24           anaconda-rawhide 1.4 M
@@ -386,7 +386,7 @@ Installing:
  pango                   x86_64 1.39.0-2.fc24            anaconda-rawhide 283 k
  parted                  x86_64 3.2-15.fc24              anaconda-rawhide 532 k
  passwd                  x86_64 0.79-8.fc24              anaconda-rawhide 109 k
- pcre                    x86_64 8.38-6.fc24.1            anaconda-rawhide 509 k
+ pcre                    x86_64 8.38-7.fc24              anaconda-rawhide 508 k
  pigz                    x86_64 2.3.3-4.fc24             anaconda-rawhide  74 k
  pinentry                x86_64 0.9.7-2.fc24             anaconda-rawhide  82 k
  pixman                  x86_64 0.34.0-2.fc24            anaconda-rawhide 259 k
@@ -461,8 +461,8 @@ Installing:
  slang                   x86_64 2.3.0-5.fc24             anaconda-rawhide 347 k
  snappy                  x86_64 1.1.3-2.fc24             anaconda-rawhide  61 k
  sqlite-libs             x86_64 3.10.2-3.fc24            anaconda-rawhide 451 k
- systemd                 x86_64 228-9.gite35a787.fc24    anaconda-rawhide 6.7 M
- systemd-libs            x86_64 228-9.gite35a787.fc24    anaconda-rawhide 488 k
+ systemd                 x86_64 229-1.fc24               anaconda-rawhide 6.8 M
+ systemd-libs            x86_64 229-1.fc24               anaconda-rawhide 493 k
  teamd                   x86_64 1.23-2.fc24              anaconda-rawhide 119 k
  tigervnc-license        noarch 1.6.0-3.fc24             anaconda-rawhide  32 k
  tigervnc-server-minimal x86_64 1.6.0-3.fc24             anaconda-rawhide 1.0 M
@@ -496,10 +496,10 @@ Install  457 Packages
 
 Total size: 232 M
 Total download size: 230 M
-Installed size: 851 M
+Installed size: 852 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           8.4 MB/s | 230 MB     00:27     
+Total                                           9.8 MB/s | 230 MB     00:23     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -520,8 +520,8 @@ Running transaction
   Installing  : aajohan-comfortaa-fonts-2.004-6.fc24.noarch              13/457 
   Installing  : basesystem-11-2.fc24.noarch                              14/457 
   Installing  : dnf-conf-1.1.6-2.fc24.noarch                             15/457 
-  Installing  : mesa-filesystem-11.2.0-0.devel.8.24ea81a.fc24.x86_64     16/457 
-  Installing  : coreutils-common-8.25-2.fc24.x86_64                      17/457 
+  Installing  : mesa-filesystem-11.2.0-0.devel.9.24ea81a.fc24.x86_64     16/457 
+  Installing  : coreutils-common-8.25-3.fc24.x86_64                      17/457 
   Installing  : hwdata-0.285-3.fc24.noarch                               18/457 
   Installing  : libX11-common-1.6.3-3.fc24.noarch                        19/457 
   Installing  : mobile-broadband-provider-info-1.20151214-1.fc24.noar    20/457 
@@ -543,18 +543,18 @@ Running transaction
   Installing  : ncurses-libs-6.0-4.20160116.fc24.x86_64                  36/457 
   Installing  : bash-4.3.42-4.fc24.x86_64                                37/457 
   Installing  : libsepol-2.4-4.fc24.x86_64                               38/457 
-  Installing  : pcre-8.38-6.fc24.1.x86_64                                39/457 
+  Installing  : pcre-8.38-7.fc24.x86_64                                  39/457 
   Installing  : libselinux-2.4-8.fc24.x86_64                             40/457 
   Installing  : zlib-1.2.8-10.fc24.x86_64                                41/457 
   Installing  : xz-libs-5.2.2-2.fc24.x86_64                              42/457 
   Installing  : libxml2-2.9.3-3.fc24.x86_64                              43/457 
   Installing  : bzip2-libs-1.0.6-20.fc24.x86_64                          44/457 
-  Installing  : info-6.0-3.fc24.x86_64                                   45/457 
+  Installing  : info-6.1-1.fc24.x86_64                                   45/457 
   Installing  : expat-2.1.0-13.fc24.x86_64                               46/457 
   Installing  : nspr-4.11.0-2.fc24.x86_64                                47/457 
-  Installing  : popt-1.16-7.fc24.x86_64                                  48/457 
-  Installing  : libuuid-2.27.1-5.fc24.x86_64                             49/457 
-  Installing  : libgpg-error-1.21-2.fc24.x86_64                          50/457 
+  Installing  : libgpg-error-1.21-2.fc24.x86_64                          48/457 
+  Installing  : popt-1.16-7.fc24.x86_64                                  49/457 
+  Installing  : libuuid-2.27.1-5.fc24.x86_64                             50/457 
   Installing  : nss-util-3.22.0-2.fc24.x86_64                            51/457 
   Installing  : elfutils-libelf-0.165-5.fc24.x86_64                      52/457 
   Installing  : audit-libs-2.5-2.fc24.x86_64                             53/457 
@@ -565,8 +565,8 @@ install-info: No such file or directory for /dev/null
   Installing  : libffi-3.1-9.fc24.x86_64                                 57/457 
   Installing  : libdb-5.3.28-14.fc24.x86_64                              58/457 
   Installing  : sqlite-libs-3.10.2-3.fc24.x86_64                         59/457 
-  Installing  : libgcrypt-1.6.4-2.fc24.x86_64                            60/457 
-  Installing  : chkconfig-1.7-2.fc24.x86_64                              61/457 
+  Installing  : chkconfig-1.7-2.fc24.x86_64                              60/457 
+  Installing  : libgcrypt-1.6.4-2.fc24.x86_64                            61/457 
   Installing  : augeas-libs-1.4.0-3.fc24.x86_64                          62/457 
   Installing  : libtar-1.2.20-8.fc24.x86_64                              63/457 
   Installing  : libattr-2.4.47-16.fc24.x86_64                            64/457 
@@ -659,8 +659,8 @@ install-info: No such file or directory for /dev/null
   Installing  : llvm-libs-3.7.1-1.fc24.x86_64                           151/457 
   Installing  : xz-5.2.2-2.fc24.x86_64                                  152/457 
   Installing  : libss-1.42.13-4.fc24.x86_64                             153/457 
-  Installing  : libksba-1.3.3-3.fc24.x86_64                             154/457 
-  Installing  : isomd5sum-1:1.1.0-2.fc24.x86_64                         155/457 
+  Installing  : isomd5sum-1:1.1.0-2.fc24.x86_64                         154/457 
+  Installing  : libksba-1.3.3-3.fc24.x86_64                             155/457 
   Installing  : mozjs17-17.0.0-14.fc24.x86_64                           156/457 
   Installing  : libcomps-0.1.7-3.fc24.x86_64                            157/457 
   Installing  : libmetalink-0.1.2-9.fc24.x86_64                         158/457 
@@ -672,7 +672,7 @@ install-info: No such file or directory for /dev/null
   Installing  : libXfont-1.5.1-4.fc24.x86_64                            164/457 
   Installing  : lsof-4.89-3.fc24.x86_64                                 165/457 
   Installing  : libselinux-utils-2.4-8.fc24.x86_64                      166/457 
-  Installing  : mesa-libglapi-11.2.0-0.devel.8.24ea81a.fc24.x86_64      167/457 
+  Installing  : mesa-libglapi-11.2.0-0.devel.9.24ea81a.fc24.x86_64      167/457 
   Installing  : psmisc-22.21-8.fc24.x86_64                              168/457 
   Installing  : elfutils-default-yama-scope-0.165-5.fc24.noarch         169/457 
   Installing  : elfutils-libs-0.165-5.fc24.x86_64                       170/457 
@@ -689,7 +689,7 @@ install-info: No such file or directory for /dev/null
   Installing  : gdbm-1.11-7.fc24.x86_64                                 181/457 
   Installing  : qrencode-libs-3.4.2-6.fc24.x86_64                       182/457 
   Installing  : libXdmcp-1.1.2-3.fc24.x86_64                            183/457 
-  Installing  : libnghttp2-1.7.0-3.fc24.x86_64                          184/457 
+  Installing  : libnghttp2-1.7.1-1.fc24.x86_64                          184/457 
   Installing  : linux-atm-libs-2.5.1-14.fc24.x86_64                     185/457 
   Installing  : iproute-4.4.0-3.fc24.x86_64                             186/457 
   Installing  : hostname-3.15-7.fc24.x86_64                             187/457 
@@ -699,7 +699,7 @@ install-info: No such file or directory for /dev/null
   Installing  : libverto-0.2.6-6.fc24.x86_64                            191/457 
   Installing  : krb5-libs-1.14-20.fc24.x86_64                           192/457 
   Installing  : openssl-libs-1:1.0.2f-2.fc24.x86_64                     193/457 
-  Installing  : coreutils-8.25-2.fc24.x86_64                            194/457 
+  Installing  : coreutils-8.25-3.fc24.x86_64                            194/457 
   Installing  : ca-certificates-2015.2.6-3.fc24.noarch                  195/457 
   Installing  : crypto-policies-20151104-2.gitf1cba5f.fc24.noarch       196/457 
   Installing  : python3-setuptools-20.0-1.fc24.noarch                   197/457 
@@ -734,7 +734,7 @@ install-info: No such file or directory for /dev/null
   Installing  : cracklib-dicts-2.9.6-2.fc24.x86_64                      226/457 
   Installing  : pam-1.2.1-5.fc24.x86_64                                 227/457 
   Installing  : libpwquality-1.3.0-4.fc24.x86_64                        228/457 
-  Installing  : systemd-libs-228-9.gite35a787.fc24.x86_64               229/457 
+  Installing  : systemd-libs-229-1.fc24.x86_64                          229/457 
   Installing  : dbus-libs-1:1.11.0-2.fc24.x86_64                        230/457 
   Installing  : libgudev-230-3.fc24.x86_64                              231/457 
   Installing  : polkit-libs-0.113-5.fc24.x86_64                         232/457 
@@ -822,7 +822,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.23.fc24.x86_6   313/457 
   Installing  : trousers-lib-0.3.13-6.fc24.x86_64                       314/457 
   Installing  : libepoxy-1.3.1-2.fc24.x86_64                            315/457 
-  Installing  : mesa-libwayland-egl-11.2.0-0.devel.8.24ea81a.fc24.x86   316/457 
+  Installing  : mesa-libwayland-egl-11.2.0-0.devel.9.24ea81a.fc24.x86   316/457 
   Installing  : hyphen-2.8.8-4.fc24.x86_64                              317/457 
   Installing  : libwebp-0.5.0-2.fc24.x86_64                             318/457 
   Installing  : ustr-1.0.4-21.fc24.x86_64                               319/457 
@@ -863,11 +863,11 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : device-mapper-1.02.115-2.fc24.x86_64                    354/457 
   Installing  : device-mapper-libs-1.02.115-2.fc24.x86_64               355/457 
   Installing  : cryptsetup-libs-1.7.0-3.fc24.x86_64                     356/457 
-  Installing  : systemd-228-9.gite35a787.fc24.x86_64                    357/457 
+  Installing  : systemd-229-1.fc24.x86_64                               357/457 
   Installing  : dbus-1:1.11.0-2.fc24.x86_64                             358/457 
   Installing  : device-mapper-event-libs-1.02.115-2.fc24.x86_64         359/457 
   Installing  : libdrm-2.4.66-2.fc24.x86_64                             360/457 
-  Installing  : mesa-libGL-11.2.0-0.devel.8.24ea81a.fc24.x86_64         361/457 
+  Installing  : mesa-libGL-11.2.0-0.devel.9.24ea81a.fc24.x86_64         361/457 
   Installing  : iputils-20150815-3.fc24.x86_64                          362/457 
   Installing  : initscripts-9.65-2.fc24.x86_64                          363/457 
   Installing  : dhcp-client-12:4.3.3-12.P1.fc24.x86_64                  364/457 
@@ -896,8 +896,8 @@ Failed to connect to bus: No such file or directory
 warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-lvm-1.3-6.fc24.x86_64                       383/457 
   Installing  : kbd-2.0.3-3.fc24.x86_64                                 384/457 
-  Installing  : mesa-libgbm-11.2.0-0.devel.8.24ea81a.fc24.x86_64        385/457 
-  Installing  : mesa-libEGL-11.2.0-0.devel.8.24ea81a.fc24.x86_64        386/457 
+  Installing  : mesa-libgbm-11.2.0-0.devel.9.24ea81a.fc24.x86_64        385/457 
+  Installing  : mesa-libEGL-11.2.0-0.devel.9.24ea81a.fc24.x86_64        386/457 
   Installing  : cairo-1.14.4-2.fc24.x86_64                              387/457 
   Installing  : pango-1.39.0-2.fc24.x86_64                              388/457 
   Installing  : cairo-gobject-1.14.4-2.fc24.x86_64                      389/457 
@@ -907,7 +907,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : python3-gobject-3.19.2-3.fc24.x86_64                    393/457 
   Installing  : python3-blockdev-1.3-6.fc24.x86_64                      394/457 
   Installing  : fros-1.1-8.fc24.noarch                                  395/457 
-  Installing  : mesa-dri-drivers-11.2.0-0.devel.8.24ea81a.fc24.x86_64   396/457 
+  Installing  : mesa-dri-drivers-11.2.0-0.devel.9.24ea81a.fc24.x86_64   396/457 
   Installing  : tigervnc-server-minimal-1.6.0-3.fc24.x86_64             397/457 
   Installing  : at-spi2-core-2.19.2-2.fc24.x86_64                       398/457 
   Installing  : at-spi2-atk-2.19.2-2.fc24.x86_64                        399/457 
@@ -916,7 +916,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : libnma-1.2.0-0.3.beta1.fc24.x86_64                      402/457 
   Installing  : nm-connection-editor-1.2.0-0.3.beta1.fc24.x86_64        403/457 
   Installing  : glade-libs-3.19.0-5.fc24.x86_64                         404/457 
-  Installing  : anaconda-widgets-24.12-0.1.20160212014809.fc24.x86_64   405/457 
+  Installing  : anaconda-widgets-24.13-0.1.20160213014804.fc24.x86_64   405/457 
   Installing  : keybinder3-0.3.0-6.fc24.x86_64                          406/457 
   Installing  : libtimezonemap-0.4.5-2.fc24.x86_64                      407/457 
   Installing  : libreport-gtk-2.6.4-2.fc24.x86_64                       408/457 
@@ -956,12 +956,12 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : ppp-2.4.7-9.fc24.x86_64                                 442/457 
   Installing  : NetworkManager-1:1.2.0-0.6.beta1.fc24.x86_64            443/457 
   Installing  : NetworkManager-team-1:1.2.0-0.6.beta1.fc24.x86_64       444/457 
-  Installing  : anaconda-tui-24.12-0.1.20160212014809.fc24.x86_64       445/457 
-  Installing  : anaconda-core-24.12-0.1.20160212014809.fc24.x86_64      446/457 
+  Installing  : anaconda-tui-24.13-0.1.20160213014804.fc24.x86_64       445/457 
+  Installing  : anaconda-core-24.13-0.1.20160213014804.fc24.x86_64      446/457 
   Installing  : NetworkManager-wifi-1:1.2.0-0.6.beta1.fc24.x86_64       447/457 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   448/457 
-  Installing  : anaconda-gui-24.12-0.1.20160212014809.fc24.x86_64       449/457 
-  Installing  : anaconda-24.12-0.1.20160212014809.fc24.x86_64           450/457 
+  Installing  : anaconda-gui-24.13-0.1.20160213014804.fc24.x86_64       449/457 
+  Installing  : anaconda-24.13-0.1.20160213014804.fc24.x86_64           450/457 
   Installing  : timedatex-0.4-2.fc24.x86_64                             451/457 
   Installing  : trousers-0.3.13-6.fc24.x86_64                           452/457 
   Installing  : bash-completion-1:2.1-9.20150513git1950590.fc24.noarc   453/457 
@@ -970,11 +970,11 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                456/457 
   Installing  : hardlink-1:1.0-23.fc24.x86_64                           457/457Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-24.12-0.1.20160212014809.fc24.x86_64             1/457 
+  Verifying   : anaconda-24.13-0.1.20160213014804.fc24.x86_64             1/457 
   Verifying   : bash-4.3.42-4.fc24.x86_64                                 2/457 
-  Verifying   : anaconda-core-24.12-0.1.20160212014809.fc24.x86_64        3/457 
-  Verifying   : anaconda-gui-24.12-0.1.20160212014809.fc24.x86_64         4/457 
-  Verifying   : anaconda-tui-24.12-0.1.20160212014809.fc24.x86_64         5/457 
+  Verifying   : anaconda-core-24.13-0.1.20160213014804.fc24.x86_64        3/457 
+  Verifying   : anaconda-gui-24.13-0.1.20160213014804.fc24.x86_64         4/457 
+  Verifying   : anaconda-tui-24.13-0.1.20160213014804.fc24.x86_64         5/457 
   Verifying   : glibc-2.22.90-33.fc24.x86_64                              6/457 
   Verifying   : ncurses-libs-6.0-4.20160116.fc24.x86_64                   7/457 
   Verifying   : audit-libs-2.5-2.fc24.x86_64                              8/457 
@@ -1014,7 +1014,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : realmd-0.16.2-3.fc24.x86_64                              42/457 
   Verifying   : rpm-python3-4.13.0-0.rc1.23.fc24.x86_64                  43/457 
   Verifying   : rsync-3.1.2-2.fc24.x86_64                                44/457 
-  Verifying   : systemd-228-9.gite35a787.fc24.x86_64                     45/457 
+  Verifying   : systemd-229-1.fc24.x86_64                                45/457 
   Verifying   : usermode-1.111-8.fc24.x86_64                             46/457 
   Verifying   : adwaita-icon-theme-3.18.0-2.fc24.noarch                  47/457 
   Verifying   : anaconda-user-help-22.4-4.fc24.noarch                    48/457 
@@ -1024,7 +1024,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : tigervnc-server-minimal-1.6.0-3.fc24.x86_64              52/457 
   Verifying   : yelp-2:3.19.1-3.fc24.x86_64                              53/457 
   Verifying   : zenity-3.18.1.1-2.fc24.x86_64                            54/457 
-  Verifying   : anaconda-widgets-24.12-0.1.20160212014809.fc24.x86_64    55/457 
+  Verifying   : anaconda-widgets-24.13-0.1.20160213014804.fc24.x86_64    55/457 
   Verifying   : basesystem-11-2.fc24.noarch                              56/457 
   Verifying   : glibc-common-2.22.90-33.fc24.x86_64                      57/457 
   Verifying   : nss-softokn-freebl-3.22.0-2.fc24.x86_64                  58/457 
@@ -1035,7 +1035,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : openssl-1:1.0.2f-2.fc24.x86_64                           63/457 
   Verifying   : policycoreutils-2.4-21.fc24.x86_64                       64/457 
   Verifying   : python3-sssdconfig-1.13.3-4.fc24.noarch                  65/457 
-  Verifying   : info-6.0-3.fc24.x86_64                                   66/457 
+  Verifying   : info-6.1-1.fc24.x86_64                                   66/457 
   Verifying   : libcap-2.24-9.fc24.x86_64                                67/457 
   Verifying   : libedit-3.1-14.20150325cvs.fc24.x86_64                   68/457 
   Verifying   : libseccomp-2.2.3-0.fc23.x86_64                           69/457 
@@ -1064,7 +1064,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : iputils-20150815-3.fc24.x86_64                           92/457 
   Verifying   : libcap-ng-0.7.7-4.fc24.x86_64                            93/457 
   Verifying   : sed-4.2.2-15.fc24.x86_64                                 94/457 
-  Verifying   : systemd-libs-228-9.gite35a787.fc24.x86_64                95/457 
+  Verifying   : systemd-libs-229-1.fc24.x86_64                           95/457 
   Verifying   : device-mapper-multipath-0.4.9-81.fc24.x86_64             96/457 
   Verifying   : libhbaapi-2.2.9-8.fc24.x86_64                            97/457 
   Verifying   : ebtables-2.0.10-19.fc24.x86_64                           98/457 
@@ -1142,41 +1142,41 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : kmod-libs-22-3.fc24.x86_64                              170/457 
   Verifying   : libblkid-2.27.1-5.fc24.x86_64                           171/457 
   Verifying   : libgcrypt-1.6.4-2.fc24.x86_64                           172/457 
-  Verifying   : libidn-1.32-2.fc24.x86_64                               173/457 
-  Verifying   : libmount-2.27.1-5.fc24.x86_64                           174/457 
-  Verifying   : libxkbcommon-0.5.0-4.fc24.x86_64                        175/457 
-  Verifying   : lz4-r131-2.fc24.x86_64                                  176/457 
-  Verifying   : qrencode-libs-3.4.2-6.fc24.x86_64                       177/457 
-  Verifying   : libuser-0.62-3.fc24.x86_64                              178/457 
-  Verifying   : passwd-0.79-8.fc24.x86_64                               179/457 
-  Verifying   : adwaita-cursor-theme-3.18.0-2.fc24.noarch               180/457 
-  Verifying   : wpa_supplicant-1:2.5-5.fc24.x86_64                      181/457 
-  Verifying   : atk-2.18.0-2.fc24.x86_64                                182/457 
-  Verifying   : cairo-1.14.4-2.fc24.x86_64                              183/457 
-  Verifying   : cairo-gobject-1.14.4-2.fc24.x86_64                      184/457 
-  Verifying   : gdk-pixbuf2-2.33.2-2.fc24.x86_64                        185/457 
-  Verifying   : gtk-update-icon-cache-3.19.8-4.fc24.x86_64              186/457 
-  Verifying   : gtk3-3.19.8-4.fc24.x86_64                               187/457 
-  Verifying   : libnma-1.2.0-0.3.beta1.fc24.x86_64                      188/457 
-  Verifying   : pango-1.39.0-2.fc24.x86_64                              189/457 
-  Verifying   : chkconfig-1.7-2.fc24.x86_64                             190/457 
-  Verifying   : gnutls-3.4.9-1.fc24.x86_64                              191/457 
-  Verifying   : libICE-1.0.9-4.fc24.x86_64                              192/457 
-  Verifying   : libSM-1.2.2-4.fc24.x86_64                               193/457 
-  Verifying   : libX11-1.6.3-3.fc24.x86_64                              194/457 
-  Verifying   : libXau-1.0.8-6.fc24.x86_64                              195/457 
-  Verifying   : libXdmcp-1.1.2-3.fc24.x86_64                            196/457 
-  Verifying   : libXext-1.3.3-4.fc24.x86_64                             197/457 
-  Verifying   : libXfont-1.5.1-4.fc24.x86_64                            198/457 
-  Verifying   : libjpeg-turbo-1.4.2-3.fc24.x86_64                       199/457 
-  Verifying   : libxshmfence-1.2-3.fc24.x86_64                          200/457 
-  Verifying   : mesa-libGL-11.2.0-0.devel.8.24ea81a.fc24.x86_64         201/457 
-  Verifying   : nettle-3.2-1.fc24.x86_64                                202/457 
-  Verifying   : pixman-0.34.0-2.fc24.x86_64                             203/457 
-  Verifying   : tigervnc-license-1.6.0-3.fc24.noarch                    204/457 
-  Verifying   : xkeyboard-config-2.17-2.fc24.noarch                     205/457 
-  Verifying   : xorg-x11-xkb-utils-7.7-17.fc24.x86_64                   206/457 
-  Verifying   : libgpg-error-1.21-2.fc24.x86_64                         207/457 
+  Verifying   : libgpg-error-1.21-2.fc24.x86_64                         173/457 
+  Verifying   : libidn-1.32-2.fc24.x86_64                               174/457 
+  Verifying   : libmount-2.27.1-5.fc24.x86_64                           175/457 
+  Verifying   : libxkbcommon-0.5.0-4.fc24.x86_64                        176/457 
+  Verifying   : lz4-r131-2.fc24.x86_64                                  177/457 
+  Verifying   : qrencode-libs-3.4.2-6.fc24.x86_64                       178/457 
+  Verifying   : libuser-0.62-3.fc24.x86_64                              179/457 
+  Verifying   : passwd-0.79-8.fc24.x86_64                               180/457 
+  Verifying   : adwaita-cursor-theme-3.18.0-2.fc24.noarch               181/457 
+  Verifying   : wpa_supplicant-1:2.5-5.fc24.x86_64                      182/457 
+  Verifying   : atk-2.18.0-2.fc24.x86_64                                183/457 
+  Verifying   : cairo-1.14.4-2.fc24.x86_64                              184/457 
+  Verifying   : cairo-gobject-1.14.4-2.fc24.x86_64                      185/457 
+  Verifying   : gdk-pixbuf2-2.33.2-2.fc24.x86_64                        186/457 
+  Verifying   : gtk-update-icon-cache-3.19.8-4.fc24.x86_64              187/457 
+  Verifying   : gtk3-3.19.8-4.fc24.x86_64                               188/457 
+  Verifying   : libnma-1.2.0-0.3.beta1.fc24.x86_64                      189/457 
+  Verifying   : pango-1.39.0-2.fc24.x86_64                              190/457 
+  Verifying   : chkconfig-1.7-2.fc24.x86_64                             191/457 
+  Verifying   : gnutls-3.4.9-1.fc24.x86_64                              192/457 
+  Verifying   : libICE-1.0.9-4.fc24.x86_64                              193/457 
+  Verifying   : libSM-1.2.2-4.fc24.x86_64                               194/457 
+  Verifying   : libX11-1.6.3-3.fc24.x86_64                              195/457 
+  Verifying   : libXau-1.0.8-6.fc24.x86_64                              196/457 
+  Verifying   : libXdmcp-1.1.2-3.fc24.x86_64                            197/457 
+  Verifying   : libXext-1.3.3-4.fc24.x86_64                             198/457 
+  Verifying   : libXfont-1.5.1-4.fc24.x86_64                            199/457 
+  Verifying   : libjpeg-turbo-1.4.2-3.fc24.x86_64                       200/457 
+  Verifying   : libxshmfence-1.2-3.fc24.x86_64                          201/457 
+  Verifying   : mesa-libGL-11.2.0-0.devel.9.24ea81a.fc24.x86_64         202/457 
+  Verifying   : nettle-3.2-1.fc24.x86_64                                203/457 
+  Verifying   : pixman-0.34.0-2.fc24.x86_64                             204/457 
+  Verifying   : tigervnc-license-1.6.0-3.fc24.noarch                    205/457 
+  Verifying   : xkeyboard-config-2.17-2.fc24.noarch                     206/457 
+  Verifying   : xorg-x11-xkb-utils-7.7-17.fc24.x86_64                   207/457 
   Verifying   : libxslt-1.1.28-12.fc24.x86_64                           208/457 
   Verifying   : webkitgtk4-2.11.5-2.fc24.x86_64                         209/457 
   Verifying   : webkitgtk4-jsc-2.11.5-2.fc24.x86_64                     210/457 
@@ -1194,9 +1194,9 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : libselinux-utils-2.4-8.fc24.x86_64                      222/457 
   Verifying   : libsemanage-2.4-6.fc24.x86_64                           223/457 
   Verifying   : libsepol-2.4-4.fc24.x86_64                              224/457 
-  Verifying   : pcre-8.38-6.fc24.1.x86_64                               225/457 
+  Verifying   : pcre-8.38-7.fc24.x86_64                                 225/457 
   Verifying   : shared-mime-info-1.5-3.fc24.x86_64                      226/457 
-  Verifying   : libnghttp2-1.7.0-3.fc24.x86_64                          227/457 
+  Verifying   : libnghttp2-1.7.1-1.fc24.x86_64                          227/457 
   Verifying   : libpsl-0.12.0-2.fc24.x86_64                             228/457 
   Verifying   : libssh2-1.6.0-4.fc24.x86_64                             229/457 
   Verifying   : ca-certificates-2015.2.6-3.fc24.noarch                  230/457 
@@ -1275,7 +1275,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : libXrender-0.9.9-3.fc24.x86_64                          303/457 
   Verifying   : libpng-2:1.6.21-2.fc24.x86_64                           304/457 
   Verifying   : libxcb-1.11.1-2.fc24.x86_64                             305/457 
-  Verifying   : mesa-libEGL-11.2.0-0.devel.8.24ea81a.fc24.x86_64        306/457 
+  Verifying   : mesa-libEGL-11.2.0-0.devel.9.24ea81a.fc24.x86_64        306/457 
   Verifying   : at-spi2-atk-2.19.2-2.fc24.x86_64                        307/457 
   Verifying   : colord-libs-1.3.1-3.fc24.x86_64                         308/457 
   Verifying   : cups-libs-1:2.1.3-1.fc24.x86_64                         309/457 
@@ -1292,7 +1292,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : libepoxy-1.3.1-2.fc24.x86_64                            320/457 
   Verifying   : libwayland-client-1.9.92-1.fc24.x86_64                  321/457 
   Verifying   : libwayland-cursor-1.9.92-1.fc24.x86_64                  322/457 
-  Verifying   : mesa-libwayland-egl-11.2.0-0.devel.8.24ea81a.fc24.x86   323/457 
+  Verifying   : mesa-libwayland-egl-11.2.0-0.devel.9.24ea81a.fc24.x86   323/457 
   Verifying   : rest-0.7.93-3.fc24.x86_64                               324/457 
   Verifying   : mobile-broadband-provider-info-1.20151214-1.fc24.noar   325/457 
   Verifying   : harfbuzz-1.1.3-2.fc24.x86_64                            326/457 
@@ -1305,7 +1305,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : libfontenc-1.1.3-3.fc24.x86_64                          333/457 
   Verifying   : libXxf86vm-1.1.4-3.fc24.x86_64                          334/457 
   Verifying   : libdrm-2.4.66-2.fc24.x86_64                             335/457 
-  Verifying   : mesa-libglapi-11.2.0-0.devel.8.24ea81a.fc24.x86_64      336/457 
+  Verifying   : mesa-libglapi-11.2.0-0.devel.9.24ea81a.fc24.x86_64      336/457 
   Verifying   : libxkbfile-1.0.9-3.fc24.x86_64                          337/457 
   Verifying   : enchant-1:1.6.0-13.fc24.x86_64                          338/457 
   Verifying   : gstreamer1-1.7.1-2.fc24.x86_64                          339/457 
@@ -1337,7 +1337,7 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : pinentry-0.9.7-2.fc24.x86_64                            365/457 
   Verifying   : fontpackages-filesystem-1.44-17.fc24.noarch             366/457 
   Verifying   : libwayland-server-1.9.92-1.fc24.x86_64                  367/457 
-  Verifying   : mesa-libgbm-11.2.0-0.devel.8.24ea81a.fc24.x86_64        368/457 
+  Verifying   : mesa-libgbm-11.2.0-0.devel.9.24ea81a.fc24.x86_64        368/457 
   Verifying   : at-spi2-core-2.19.2-2.fc24.x86_64                       369/457 
   Verifying   : lcms2-2.7-3.fc24.x86_64                                 370/457 
   Verifying   : libgusb-0.2.8-2.fc24.x86_64                             371/457 
@@ -1388,12 +1388,12 @@ warning: %post(lvm2-2.02.141-2.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : geoclue2-2.4.1-2.fc24.x86_64                            416/457 
   Verifying   : avahi-glib-0.6.32-0.6.rc.fc24.x86_64                    417/457 
   Verifying   : ModemManager-glib-1.4.10-2.fc24.x86_64                  418/457 
-  Verifying   : coreutils-8.25-2.fc24.x86_64                            419/457 
-  Verifying   : coreutils-common-8.25-2.fc24.x86_64                     420/457 
+  Verifying   : coreutils-8.25-3.fc24.x86_64                            419/457 
+  Verifying   : coreutils-common-8.25-3.fc24.x86_64                     420/457 
   Verifying   : ncurses-6.0-4.20160116.fc24.x86_64                      421/457 
-  Verifying   : mesa-dri-drivers-11.2.0-0.devel.8.24ea81a.fc24.x86_64   422/457 
+  Verifying   : mesa-dri-drivers-11.2.0-0.devel.9.24ea81a.fc24.x86_64   422/457 
   Verifying   : llvm-libs-3.7.1-1.fc24.x86_64                           423/457 
-  Verifying   : mesa-filesystem-11.2.0-0.devel.8.24ea81a.fc24.x86_64    424/457 
+  Verifying   : mesa-filesystem-11.2.0-0.devel.9.24ea81a.fc24.x86_64    424/457 
   Verifying   : dbus-1:1.11.0-2.fc24.x86_64                             425/457 
   Verifying   : libreport-gtk-2.6.4-2.fc24.x86_64                       426/457 
   Verifying   : fros-1.1-8.fc24.noarch                                  427/457 
@@ -1443,12 +1443,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.18.0-2.fc24                                     
   adwaita-icon-theme.noarch 3.18.0-2.fc24                                       
   alsa-lib.x86_64 1.1.0-4.fc24                                                  
-  anaconda.x86_64 24.12-0.1.20160212014809.fc24                                 
-  anaconda-core.x86_64 24.12-0.1.20160212014809.fc24                            
-  anaconda-gui.x86_64 24.12-0.1.20160212014809.fc24                             
-  anaconda-tui.x86_64 24.12-0.1.20160212014809.fc24                             
+  anaconda.x86_64 24.13-0.1.20160213014804.fc24                                 
+  anaconda-core.x86_64 24.13-0.1.20160213014804.fc24                            
+  anaconda-gui.x86_64 24.13-0.1.20160213014804.fc24                             
+  anaconda-tui.x86_64 24.13-0.1.20160213014804.fc24                             
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 24.12-0.1.20160212014809.fc24                         
+  anaconda-widgets.x86_64 24.13-0.1.20160213014804.fc24                         
   at-spi2-atk.x86_64 2.19.2-2.fc24                                              
   at-spi2-core.x86_64 2.19.2-2.fc24                                             
   atk.x86_64 2.18.0-2.fc24                                                      
@@ -1473,8 +1473,8 @@ Installed:
   chkconfig.x86_64 1.7-2.fc24                                                   
   chrony.x86_64 2.3-0.1.pre1.fc24                                               
   colord-libs.x86_64 1.3.1-3.fc24                                               
-  coreutils.x86_64 8.25-2.fc24                                                  
-  coreutils-common.x86_64 8.25-2.fc24                                           
+  coreutils.x86_64 8.25-3.fc24                                                  
+  coreutils-common.x86_64 8.25-3.fc24                                           
   cpio.x86_64 2.12-3.fc24                                                       
   cracklib.x86_64 2.9.6-2.fc24                                                  
   cracklib-dicts.x86_64 2.9.6-2.fc24                                            
@@ -1572,7 +1572,7 @@ Installed:
   hunspell-en-US.noarch 0.20140811.1-2.fc23                                     
   hwdata.noarch 0.285-3.fc24                                                    
   hyphen.x86_64 2.8.8-4.fc24                                                    
-  info.x86_64 6.0-3.fc24                                                        
+  info.x86_64 6.1-1.fc24                                                        
   initscripts.x86_64 9.65-2.fc24                                                
   ipcalc.x86_64 0.1.6-2.fc24                                                    
   iproute.x86_64 4.4.0-3.fc24                                                   
@@ -1678,7 +1678,7 @@ Installed:
   libndp.x86_64 1.5-3.fc24                                                      
   libnetfilter_conntrack.x86_64 1.0.4-6.fc24                                    
   libnfnetlink.x86_64 1.0.1-8.fc24                                              
-  libnghttp2.x86_64 1.7.0-3.fc24                                                
+  libnghttp2.x86_64 1.7.1-1.fc24                                                
   libnl3.x86_64 3.2.27-3.fc24                                                   
   libnl3-cli.x86_64 3.2.27-3.fc24                                               
   libnma.x86_64 1.2.0-0.3.beta1.fc24                                            
@@ -1752,13 +1752,13 @@ Installed:
   lzo.x86_64 2.08-6.fc24                                                        
   make.x86_64 1:4.1-5.fc24                                                      
   mdadm.x86_64 3.3.4-3.fc24                                                     
-  mesa-dri-drivers.x86_64 11.2.0-0.devel.8.24ea81a.fc24                         
-  mesa-filesystem.x86_64 11.2.0-0.devel.8.24ea81a.fc24                          
-  mesa-libEGL.x86_64 11.2.0-0.devel.8.24ea81a.fc24                              
-  mesa-libGL.x86_64 11.2.0-0.devel.8.24ea81a.fc24                               
-  mesa-libgbm.x86_64 11.2.0-0.devel.8.24ea81a.fc24                              
-  mesa-libglapi.x86_64 11.2.0-0.devel.8.24ea81a.fc24                            
-  mesa-libwayland-egl.x86_64 11.2.0-0.devel.8.24ea81a.fc24                      
+  mesa-dri-drivers.x86_64 11.2.0-0.devel.9.24ea81a.fc24                         
+  mesa-filesystem.x86_64 11.2.0-0.devel.9.24ea81a.fc24                          
+  mesa-libEGL.x86_64 11.2.0-0.devel.9.24ea81a.fc24                              
+  mesa-libGL.x86_64 11.2.0-0.devel.9.24ea81a.fc24                               
+  mesa-libgbm.x86_64 11.2.0-0.devel.9.24ea81a.fc24                              
+  mesa-libglapi.x86_64 11.2.0-0.devel.9.24ea81a.fc24                            
+  mesa-libwayland-egl.x86_64 11.2.0-0.devel.9.24ea81a.fc24                      
   mobile-broadband-provider-info.noarch 1.20151214-1.fc24                       
   mozjs17.x86_64 17.0.0-14.fc24                                                 
   ncurses.x86_64 6.0-4.20160116.fc24                                            
@@ -1786,7 +1786,7 @@ Installed:
   pango.x86_64 1.39.0-2.fc24                                                    
   parted.x86_64 3.2-15.fc24                                                     
   passwd.x86_64 0.79-8.fc24                                                     
-  pcre.x86_64 8.38-6.fc24.1                                                     
+  pcre.x86_64 8.38-7.fc24                                                       
   pigz.x86_64 2.3.3-4.fc24                                                      
   pinentry.x86_64 0.9.7-2.fc24                                                  
   pixman.x86_64 0.34.0-2.fc24                                                   
@@ -1858,8 +1858,8 @@ Installed:
   slang.x86_64 2.3.0-5.fc24                                                     
   snappy.x86_64 1.1.3-2.fc24                                                    
   sqlite-libs.x86_64 3.10.2-3.fc24                                              
-  systemd.x86_64 228-9.gite35a787.fc24                                          
-  systemd-libs.x86_64 228-9.gite35a787.fc24                                     
+  systemd.x86_64 229-1.fc24                                                     
+  systemd-libs.x86_64 229-1.fc24                                                
   teamd.x86_64 1.23-2.fc24                                                      
   tigervnc-license.noarch 1.6.0-3.fc24                                          
   tigervnc-server-minimal.x86_64 1.6.0-3.fc24                                   
@@ -1890,5 +1890,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.12-0.1.20160212014809.fc24.x86_64
+anaconda-24.13-0.1.20160213014804.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)
