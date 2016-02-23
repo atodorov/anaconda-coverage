@@ -71,7 +71,7 @@ pyanaconda/ui/gui/spokes/advstorage/dasd.py                              75     
 pyanaconda/ui/gui/spokes/advstorage/fcoe.py                              73     73     12      0     0%
 pyanaconda/ui/gui/spokes/advstorage/iscsi.py                            254    254     74      0     0%
 pyanaconda/ui/gui/spokes/advstorage/zfcp.py                              84     84     10      0     0%
-pyanaconda/ui/gui/spokes/custom.py                                     1615   1615    635      0     0%
+pyanaconda/ui/gui/spokes/custom.py                                     1626   1626    643      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                              647    647    211      0     0%
 pyanaconda/ui/gui/spokes/filter.py                                      429    429    135      0     0%
 pyanaconda/ui/gui/spokes/keyboard.py                                    374    374     98      0     0%
@@ -79,7 +79,7 @@ pyanaconda/ui/gui/spokes/langsupport.py                                 102    1
 pyanaconda/ui/gui/spokes/lib/__init__.py                                  0      0      0      0   100%
 pyanaconda/ui/gui/spokes/lib/accordion.py                               329    329    112      0     0%
 pyanaconda/ui/gui/spokes/lib/cart.py                                    127    127     58      0     0%
-pyanaconda/ui/gui/spokes/lib/custom_storage_helpers.py                  389    389    138      0     0%
+pyanaconda/ui/gui/spokes/lib/custom_storage_helpers.py                  391    391    140      0     0%
 pyanaconda/ui/gui/spokes/lib/dasdfmt.py                                  64     64     10      0     0%
 pyanaconda/ui/gui/spokes/lib/detailederror.py                            29     29      8      0     0%
 pyanaconda/ui/gui/spokes/lib/entropy_dialog.py                           49     49      2      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25493  21863   9246    182    13%
+TOTAL                                                                 25506  21876   9256    182    13%
