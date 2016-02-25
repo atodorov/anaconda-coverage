@@ -1,4 +1,4 @@
-Last metadata expiration check performed 0:00:00 ago on Tue Feb 23 17:03:40 2016.
+Last metadata expiration check performed 0:00:00 ago on Wed Feb 24 12:09:26 2016.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -18,16 +18,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.18.0-2.fc24            anaconda-rawhide 644 k
  adwaita-icon-theme      noarch 3.18.0-2.fc24            anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-4.fc24             anaconda-rawhide 407 k
- anaconda                x86_64 24.14-0.1.20160223215003.fc24
+ anaconda                x86_64 24.14-0.1.20160224165000.fc24
                                                          anaconda          64 k
- anaconda-core           x86_64 24.14-0.1.20160223215003.fc24
+ anaconda-core           x86_64 24.14-0.1.20160224165000.fc24
                                                          anaconda         1.4 M
- anaconda-gui            x86_64 24.14-0.1.20160223215003.fc24
+ anaconda-gui            x86_64 24.14-0.1.20160224165000.fc24
                                                          anaconda         394 k
- anaconda-tui            x86_64 24.14-0.1.20160223215003.fc24
+ anaconda-tui            x86_64 24.14-0.1.20160224165000.fc24
                                                          anaconda         159 k
  anaconda-user-help      noarch 22.4-4.fc24              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 24.14-0.1.20160223215003.fc24
+ anaconda-widgets        x86_64 24.14-0.1.20160224165000.fc24
                                                          anaconda          90 k
  at-spi2-atk             x86_64 2.19.90-1.fc24           anaconda-rawhide  84 k
  at-spi2-core            x86_64 2.19.90-1.fc24           anaconda-rawhide 161 k
@@ -499,7 +499,7 @@ Total download size: 229 M
 Installed size: 848 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           5.2 MB/s | 229 MB     00:44     
+Total                                           6.6 MB/s | 229 MB     00:34     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -916,7 +916,7 @@ warning: %post(lvm2-2.02.143-1.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : libnma-1.2.0-0.3.beta1.fc24.x86_64                      402/457 
   Installing  : nm-connection-editor-1.2.0-0.3.beta1.fc24.x86_64        403/457 
   Installing  : glade-libs-3.19.0-5.fc24.x86_64                         404/457 
-  Installing  : anaconda-widgets-24.14-0.1.20160223215003.fc24.x86_64   405/457 
+  Installing  : anaconda-widgets-24.14-0.1.20160224165000.fc24.x86_64   405/457 
   Installing  : keybinder3-0.3.0-6.fc24.x86_64                          406/457 
   Installing  : libtimezonemap-0.4.5-2.fc24.x86_64                      407/457 
   Installing  : libreport-gtk-2.6.4-3.fc24.x86_64                       408/457 
@@ -956,12 +956,12 @@ warning: %post(lvm2-2.02.143-1.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : ppp-2.4.7-9.fc24.x86_64                                 442/457 
   Installing  : NetworkManager-1:1.2.0-0.6.beta1.fc24.x86_64            443/457 
   Installing  : NetworkManager-team-1:1.2.0-0.6.beta1.fc24.x86_64       444/457 
-  Installing  : anaconda-tui-24.14-0.1.20160223215003.fc24.x86_64       445/457 
-  Installing  : anaconda-core-24.14-0.1.20160223215003.fc24.x86_64      446/457 
+  Installing  : anaconda-tui-24.14-0.1.20160224165000.fc24.x86_64       445/457 
+  Installing  : anaconda-core-24.14-0.1.20160224165000.fc24.x86_64      446/457 
   Installing  : NetworkManager-wifi-1:1.2.0-0.6.beta1.fc24.x86_64       447/457 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   448/457 
-  Installing  : anaconda-gui-24.14-0.1.20160223215003.fc24.x86_64       449/457 
-  Installing  : anaconda-24.14-0.1.20160223215003.fc24.x86_64           450/457 
+  Installing  : anaconda-gui-24.14-0.1.20160224165000.fc24.x86_64       449/457 
+  Installing  : anaconda-24.14-0.1.20160224165000.fc24.x86_64           450/457 
   Installing  : timedatex-0.4-2.fc24.x86_64                             451/457 
   Installing  : trousers-0.3.13-6.fc24.x86_64                           452/457 
   Installing  : bash-completion-1:2.1-9.20150513git1950590.fc24.noarc   453/457 
@@ -970,11 +970,11 @@ warning: %post(lvm2-2.02.143-1.fc24.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                456/457 
   Installing  : hardlink-1:1.0-23.fc24.x86_64                           457/457Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-24.14-0.1.20160223215003.fc24.x86_64             1/457 
+  Verifying   : anaconda-24.14-0.1.20160224165000.fc24.x86_64             1/457 
   Verifying   : bash-4.3.42-4.fc24.x86_64                                 2/457 
-  Verifying   : anaconda-core-24.14-0.1.20160223215003.fc24.x86_64        3/457 
-  Verifying   : anaconda-gui-24.14-0.1.20160223215003.fc24.x86_64         4/457 
-  Verifying   : anaconda-tui-24.14-0.1.20160223215003.fc24.x86_64         5/457 
+  Verifying   : anaconda-core-24.14-0.1.20160224165000.fc24.x86_64        3/457 
+  Verifying   : anaconda-gui-24.14-0.1.20160224165000.fc24.x86_64         4/457 
+  Verifying   : anaconda-tui-24.14-0.1.20160224165000.fc24.x86_64         5/457 
   Verifying   : glibc-2.22.90-36.fc24.x86_64                              6/457 
   Verifying   : ncurses-libs-6.0-4.20160116.fc24.x86_64                   7/457 
   Verifying   : audit-libs-2.5-3.fc24.x86_64                              8/457 
@@ -1024,7 +1024,7 @@ warning: %post(lvm2-2.02.143-1.fc24.x86_64) scriptlet failed, exit status 1
   Verifying   : tigervnc-server-minimal-1.6.0-3.fc24.x86_64              52/457 
   Verifying   : yelp-2:3.19.90-1.fc24.x86_64                             53/457 
   Verifying   : zenity-3.18.1.1-2.fc24.x86_64                            54/457 
-  Verifying   : anaconda-widgets-24.14-0.1.20160223215003.fc24.x86_64    55/457 
+  Verifying   : anaconda-widgets-24.14-0.1.20160224165000.fc24.x86_64    55/457 
   Verifying   : basesystem-11-2.fc24.noarch                              56/457 
   Verifying   : glibc-common-2.22.90-36.fc24.x86_64                      57/457 
   Verifying   : nss-softokn-freebl-3.22.1-2.fc24.x86_64                  58/457 
@@ -1443,12 +1443,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.18.0-2.fc24                                     
   adwaita-icon-theme.noarch 3.18.0-2.fc24                                       
   alsa-lib.x86_64 1.1.0-4.fc24                                                  
-  anaconda.x86_64 24.14-0.1.20160223215003.fc24                                 
-  anaconda-core.x86_64 24.14-0.1.20160223215003.fc24                            
-  anaconda-gui.x86_64 24.14-0.1.20160223215003.fc24                             
-  anaconda-tui.x86_64 24.14-0.1.20160223215003.fc24                             
+  anaconda.x86_64 24.14-0.1.20160224165000.fc24                                 
+  anaconda-core.x86_64 24.14-0.1.20160224165000.fc24                            
+  anaconda-gui.x86_64 24.14-0.1.20160224165000.fc24                             
+  anaconda-tui.x86_64 24.14-0.1.20160224165000.fc24                             
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 24.14-0.1.20160223215003.fc24                         
+  anaconda-widgets.x86_64 24.14-0.1.20160224165000.fc24                         
   at-spi2-atk.x86_64 2.19.90-1.fc24                                             
   at-spi2-core.x86_64 2.19.90-1.fc24                                            
   atk.x86_64 2.18.0-2.fc24                                                      
@@ -1890,5 +1890,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-24.14-0.1.20160223215003.fc24.x86_64
+anaconda-24.14-0.1.20160224165000.fc24.x86_64
 PASS install/run_install_test.sh (exit status: 0)
