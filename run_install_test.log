@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:17 ago on Wed Mar 16 09:04:07 2016.
+Last metadata expiration check: 0:00:32 ago on Wed Mar 16 17:03:41 2016.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -18,16 +18,16 @@ Installing:
  adwaita-cursor-theme    noarch 3.19.91-1.fc25           anaconda-rawhide 628 k
  adwaita-icon-theme      noarch 3.19.91-1.fc25           anaconda-rawhide  12 M
  alsa-lib                x86_64 1.1.0-4.fc24             anaconda-rawhide 407 k
- anaconda                x86_64 25.3-0.1.20160316124935.fc25
+ anaconda                x86_64 25.3-0.1.20160316204930.fc25
                                                          anaconda          66 k
- anaconda-core           x86_64 25.3-0.1.20160316124935.fc25
+ anaconda-core           x86_64 25.3-0.1.20160316204930.fc25
                                                          anaconda         1.4 M
- anaconda-gui            x86_64 25.3-0.1.20160316124935.fc25
+ anaconda-gui            x86_64 25.3-0.1.20160316204930.fc25
                                                          anaconda         397 k
- anaconda-tui            x86_64 25.3-0.1.20160316124935.fc25
+ anaconda-tui            x86_64 25.3-0.1.20160316204930.fc25
                                                          anaconda         161 k
  anaconda-user-help      noarch 22.4-4.fc24              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 25.3-0.1.20160316124935.fc25
+ anaconda-widgets        x86_64 25.3-0.1.20160316204930.fc25
                                                          anaconda          96 k
  at-spi2-atk             x86_64 2.19.92-1.fc25           anaconda-rawhide  83 k
  at-spi2-core            x86_64 2.19.92-1.fc25           anaconda-rawhide 161 k
@@ -505,7 +505,7 @@ Total download size: 224 M
 Installed size: 831 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           6.4 MB/s | 224 MB     00:34     
+Total                                           3.8 MB/s | 224 MB     00:59     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -944,7 +944,7 @@ warning: %post(lvm2-2.02.146-4.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : yelp-2:3.19.91-1.fc25.x86_64                            425/462 
   Installing  : zenity-3.18.1.1-2.fc24.x86_64                           426/462 
   Installing  : glade-libs-3.19.0-5.fc24.x86_64                         427/462 
-  Installing  : anaconda-widgets-25.3-0.1.20160316124935.fc25.x86_64    428/462 
+  Installing  : anaconda-widgets-25.3-0.1.20160316204930.fc25.x86_64    428/462 
   Installing  : libnma-1.2.0-0.3.beta2.fc25.x86_64                      429/462 
   Installing  : nm-connection-editor-1.2.0-0.3.beta2.fc25.x86_64        430/462 
   Installing  : libreport-gtk-2.6.4-3.fc24.x86_64                       431/462 
@@ -966,11 +966,11 @@ warning: %post(lvm2-2.02.146-4.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : NetworkManager-wifi-1:1.2.0-0.6.beta2.fc25.x86_64       447/462 
   Installing  : dracut-network-044-18.git20160108.fc24.x86_64           448/462 
   Installing  : kexec-tools-2.0.11-4.fc24.x86_64                        449/462 
-  Installing  : anaconda-tui-25.3-0.1.20160316124935.fc25.x86_64        450/462 
-  Installing  : anaconda-core-25.3-0.1.20160316124935.fc25.x86_64       451/462 
+  Installing  : anaconda-tui-25.3-0.1.20160316204930.fc25.x86_64        450/462 
+  Installing  : anaconda-core-25.3-0.1.20160316204930.fc25.x86_64       451/462 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   452/462 
-  Installing  : anaconda-gui-25.3-0.1.20160316124935.fc25.x86_64        453/462 
-  Installing  : anaconda-25.3-0.1.20160316124935.fc25.x86_64            454/462 
+  Installing  : anaconda-gui-25.3-0.1.20160316204930.fc25.x86_64        453/462 
+  Installing  : anaconda-25.3-0.1.20160316204930.fc25.x86_64            454/462 
   Installing  : timedatex-0.4-2.fc24.x86_64                             455/462 
   Installing  : trousers-0.3.13-6.fc24.x86_64                           456/462 
   Installing  : gnupg2-smime-2.1.11-3.fc25.x86_64                       457/462 
@@ -980,10 +980,10 @@ warning: %post(lvm2-2.02.146-4.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                461/462 
   Installing  : hardlink-1:1.0-23.fc24.x86_64                           462/462Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-25.3-0.1.20160316124935.fc25.x86_64              1/462 
-  Verifying   : anaconda-core-25.3-0.1.20160316124935.fc25.x86_64         2/462 
-  Verifying   : anaconda-gui-25.3-0.1.20160316124935.fc25.x86_64          3/462 
-  Verifying   : anaconda-tui-25.3-0.1.20160316124935.fc25.x86_64          4/462 
+  Verifying   : anaconda-25.3-0.1.20160316204930.fc25.x86_64              1/462 
+  Verifying   : anaconda-core-25.3-0.1.20160316204930.fc25.x86_64         2/462 
+  Verifying   : anaconda-gui-25.3-0.1.20160316204930.fc25.x86_64          3/462 
+  Verifying   : anaconda-tui-25.3-0.1.20160316204930.fc25.x86_64          4/462 
   Verifying   : bash-4.3.42-4.fc24.x86_64                                 5/462 
   Verifying   : NetworkManager-1:1.2.0-0.6.beta2.fc25.x86_64              6/462 
   Verifying   : NetworkManager-team-1:1.2.0-0.6.beta2.fc25.x86_64         7/462 
@@ -1024,7 +1024,7 @@ warning: %post(lvm2-2.02.146-4.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : rsync-3.1.2-2.fc24.x86_64                                42/462 
   Verifying   : system-python-libs-3.5.1-7.fc25.x86_64                   43/462 
   Verifying   : usermode-1.111-8.fc24.x86_64                             44/462 
-  Verifying   : anaconda-widgets-25.3-0.1.20160316124935.fc25.x86_64     45/462 
+  Verifying   : anaconda-widgets-25.3-0.1.20160316204930.fc25.x86_64     45/462 
   Verifying   : NetworkManager-wifi-1:1.2.0-0.6.beta2.fc25.x86_64        46/462 
   Verifying   : adwaita-icon-theme-3.19.91-1.fc25.noarch                 47/462 
   Verifying   : anaconda-user-help-22.4-4.fc24.noarch                    48/462 
@@ -1458,12 +1458,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.19.91-1.fc25                                    
   adwaita-icon-theme.noarch 3.19.91-1.fc25                                      
   alsa-lib.x86_64 1.1.0-4.fc24                                                  
-  anaconda.x86_64 25.3-0.1.20160316124935.fc25                                  
-  anaconda-core.x86_64 25.3-0.1.20160316124935.fc25                             
-  anaconda-gui.x86_64 25.3-0.1.20160316124935.fc25                              
-  anaconda-tui.x86_64 25.3-0.1.20160316124935.fc25                              
+  anaconda.x86_64 25.3-0.1.20160316204930.fc25                                  
+  anaconda-core.x86_64 25.3-0.1.20160316204930.fc25                             
+  anaconda-gui.x86_64 25.3-0.1.20160316204930.fc25                              
+  anaconda-tui.x86_64 25.3-0.1.20160316204930.fc25                              
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 25.3-0.1.20160316124935.fc25                          
+  anaconda-widgets.x86_64 25.3-0.1.20160316204930.fc25                          
   at-spi2-atk.x86_64 2.19.92-1.fc25                                             
   at-spi2-core.x86_64 2.19.92-1.fc25                                            
   atk.x86_64 2.19.92-1.fc25                                                     
@@ -1910,5 +1910,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-25.3-0.1.20160316124935.fc25.x86_64
+anaconda-25.3-0.1.20160316204930.fc25.x86_64
 PASS install/run_install_test.sh (exit status: 0)
