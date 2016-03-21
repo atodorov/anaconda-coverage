@@ -2,7 +2,7 @@ Name                                                                  Stmts   Mi
 -------------------------------------------------------------------------------------------------------
 anaconda.py                                                             713    713    318      0     0%
 dracut/driver_updates.py                                                373     80    142     22    75%
-dracut/parse-kickstart                                                  399     75    205     56    75%
+dracut/parse-kickstart                                                  412     80    215     60    74%
 pyanaconda/__init__.py                                                    0      0      0      0   100%
 pyanaconda/addons.py                                                     79     52     28      0    25%
 pyanaconda/anaconda.py                                                  152    152     46      0     0%
@@ -60,7 +60,7 @@ pyanaconda/ui/categories/system.py                                        8     
 pyanaconda/ui/categories/user_settings.py                                 8      8      0      0     0%
 pyanaconda/ui/common.py                                                 199    137     75      0    23%
 pyanaconda/ui/communication.py                                            8      8      0      0     0%
-pyanaconda/ui/gui/__init__.py                                           481    481    117      0     0%
+pyanaconda/ui/gui/__init__.py                                           493    493    121      0     0%
 pyanaconda/ui/gui/helpers.py                                             71     71     16      0     0%
 pyanaconda/ui/gui/hubs/__init__.py                                      218    218     97      0     0%
 pyanaconda/ui/gui/hubs/progress.py                                      164    164     42      0     0%
@@ -94,8 +94,8 @@ pyanaconda/ui/gui/spokes/software.py                                    312    3
 pyanaconda/ui/gui/spokes/source.py                                      958    958    360      0     0%
 pyanaconda/ui/gui/spokes/storage.py                                     600    600    234      0     0%
 pyanaconda/ui/gui/spokes/user.py                                        326    326    129      0     0%
-pyanaconda/ui/gui/spokes/welcome.py                                     188    188     68      0     0%
-pyanaconda/ui/gui/utils.py                                              199    199     50      0     0%
+pyanaconda/ui/gui/spokes/welcome.py                                     192    192     68      0     0%
+pyanaconda/ui/gui/utils.py                                              226    226     62      0     0%
 pyanaconda/ui/gui/xkl_wrapper.py                                        161    161     44      0     0%
 pyanaconda/ui/helpers.py                                                126    126     38      0     0%
 pyanaconda/ui/lib/__init__.py                                             0      0      0      0   100%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25574  22211   9290    179    12%
+TOTAL                                                                 25630  22259   9316    183    12%

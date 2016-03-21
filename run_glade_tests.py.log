@@ -10,7 +10,7 @@ Check that password GtkEntries have the visibility set to False ... ok
 Check for widgets with keyboard accelerators but no mnemonic ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.855s
+Ran 10 tests in 1.062s
 
 OK
 PASS glade/run_glade_tests.py (exit status: 0)
