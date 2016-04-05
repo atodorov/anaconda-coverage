@@ -1,6 +1,6 @@
 Name                                                                  Stmts   Miss Branch BrPart  Cover
 -------------------------------------------------------------------------------------------------------
-anaconda.py                                                             713    713    319      0     0%
+anaconda.py                                                             717    717    321      0     0%
 dracut/driver_updates.py                                                373     80    142     22    75%
 dracut/parse-kickstart                                                  412     80    215     60    74%
 pyanaconda/__init__.py                                                    0      0      0      0   100%
@@ -88,11 +88,11 @@ pyanaconda/ui/gui/spokes/lib/passphrase.py                              130    1
 pyanaconda/ui/gui/spokes/lib/refresh.py                                  46     46      4      0     0%
 pyanaconda/ui/gui/spokes/lib/resize.py                                  284    284    105      0     0%
 pyanaconda/ui/gui/spokes/lib/summary.py                                  37     37     10      0     0%
-pyanaconda/ui/gui/spokes/network.py                                    1068   1068    424      0     0%
+pyanaconda/ui/gui/spokes/network.py                                    1096   1096    430      0     0%
 pyanaconda/ui/gui/spokes/password.py                                    160    160     65      0     0%
 pyanaconda/ui/gui/spokes/software.py                                    312    312    114      0     0%
 pyanaconda/ui/gui/spokes/source.py                                      958    958    360      0     0%
-pyanaconda/ui/gui/spokes/storage.py                                     600    600    236      0     0%
+pyanaconda/ui/gui/spokes/storage.py                                     601    601    236      0     0%
 pyanaconda/ui/gui/spokes/user.py                                        326    326    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                                     192    192     68      0     0%
 pyanaconda/ui/gui/utils.py                                              226    226     62      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25634  22267   9330    183    12%
+TOTAL                                                                 25667  22300   9338    183    12%
