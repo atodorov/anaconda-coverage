@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:00 ago on Mon Apr  4 21:04:59 2016.
+Last metadata expiration check: 0:00:13 ago on Tue Apr  5 11:04:57 2016.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -502,7 +502,7 @@ Total download size: 227 M
 Installed size: 832 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           6.3 MB/s | 227 MB     00:36     
+Total                                           5.8 MB/s | 227 MB     00:39     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
