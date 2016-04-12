@@ -28,9 +28,9 @@ pyanaconda/isys/__init__.py                                              89     
 pyanaconda/iutil.py                                                     577    243    223     26    54%
 pyanaconda/kexec.py                                                      48     48     12      0     0%
 pyanaconda/keyboard.py                                                  207    155     55      0    21%
-pyanaconda/kickstart.py                                                1329   1101    648      4    12%
+pyanaconda/kickstart.py                                                1334   1106    646      4    12%
 pyanaconda/localization.py                                              268    165    122      4    36%
-pyanaconda/network.py                                                  1038    823    570      7    18%
+pyanaconda/network.py                                                  1037    822    570      7    18%
 pyanaconda/nm.py                                                        520    437    168      3    13%
 pyanaconda/ntp.py                                                       111     89     38      0    15%
 pyanaconda/packaging/__init__.py                                        691    533    263      1    17%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25667  22300   9338    183    12%
+TOTAL                                                                 25671  22304   9336    183    12%
