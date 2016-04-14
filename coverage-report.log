@@ -2,7 +2,7 @@ Name                                                                  Stmts   Mi
 -------------------------------------------------------------------------------------------------------
 anaconda.py                                                             717    717    321      0     0%
 dracut/driver_updates.py                                                373     80    142     22    75%
-dracut/parse-kickstart                                                  412     80    215     60    74%
+dracut/parse-kickstart                                                  420     84    217     61    74%
 pyanaconda/__init__.py                                                    0      0      0      0   100%
 pyanaconda/addons.py                                                     79     52     28      0    25%
 pyanaconda/anaconda.py                                                  152    152     46      0     0%
@@ -30,8 +30,8 @@ pyanaconda/kexec.py                                                      48     
 pyanaconda/keyboard.py                                                  207    155     55      0    21%
 pyanaconda/kickstart.py                                                1334   1106    646      4    12%
 pyanaconda/localization.py                                              268    165    122      4    36%
-pyanaconda/network.py                                                  1037    822    570      7    18%
-pyanaconda/nm.py                                                        520    437    168      3    13%
+pyanaconda/network.py                                                  1041    826    574      7    18%
+pyanaconda/nm.py                                                        526    442    172      3    13%
 pyanaconda/ntp.py                                                       111     89     38      0    15%
 pyanaconda/packaging/__init__.py                                        691    533    263      1    17%
 pyanaconda/packaging/dnfpayload.py                                      671    671    237      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25707  22340   9363    183    12%
+TOTAL                                                                 25725  22353   9373    184    12%
