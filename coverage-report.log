@@ -34,7 +34,7 @@ pyanaconda/network.py                                                  1041    8
 pyanaconda/nm.py                                                        526    442    172      3    13%
 pyanaconda/ntp.py                                                       111     89     38      0    15%
 pyanaconda/packaging/__init__.py                                        691    533    263      1    17%
-pyanaconda/packaging/dnfpayload.py                                      682    682    243      0     0%
+pyanaconda/packaging/dnfpayload.py                                      681    681    243      0     0%
 pyanaconda/packaging/livepayload.py                                     312    312    110      0     0%
 pyanaconda/packaging/rpmostreepayload.py                                168    137     38      0    15%
 pyanaconda/packaging/tarpayload.py                                       39     39      6      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25786  22404   9390    184    12%
+TOTAL                                                                 25785  22403   9390    184    12%
