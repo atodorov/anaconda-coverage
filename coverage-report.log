@@ -25,7 +25,7 @@ pyanaconda/installclasses/__init__.py                                     0     
 pyanaconda/installclasses/fedora.py                                      31     31     10      0     0%
 pyanaconda/installclasses/rhel.py                                        31     31      8      0     0%
 pyanaconda/isys/__init__.py                                              89     64     26      1    23%
-pyanaconda/iutil.py                                                     588    251    228     26    53%
+pyanaconda/iutil.py                                                     598    259    234     26    53%
 pyanaconda/kexec.py                                                      49     49     12      0     0%
 pyanaconda/keyboard.py                                                  207    155     55      0    21%
 pyanaconda/kickstart.py                                                1336   1108    646      4    12%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25785  22403   9390    184    12%
+TOTAL                                                                 25795  22411   9396    184    12%
