@@ -33,10 +33,10 @@ pyanaconda/localization.py                                              268    1
 pyanaconda/network.py                                                  1041    826    574      7    18%
 pyanaconda/nm.py                                                        526    442    172      3    13%
 pyanaconda/ntp.py                                                       111     89     38      0    15%
-pyanaconda/packaging/__init__.py                                        691    533    263      1    17%
+pyanaconda/packaging/__init__.py                                        686    528    263      1    17%
 pyanaconda/packaging/dnfpayload.py                                      681    681    243      0     0%
 pyanaconda/packaging/livepayload.py                                     312    312    110      0     0%
-pyanaconda/packaging/rpmostreepayload.py                                168    137     38      0    15%
+pyanaconda/packaging/rpmostreepayload.py                                172    140     42      0    15%
 pyanaconda/packaging/tarpayload.py                                       39     39      6      0     0%
 pyanaconda/product.py                                                    26      4      4      2    80%
 pyanaconda/progress.py                                                   25      9      0      0    64%
@@ -88,7 +88,7 @@ pyanaconda/ui/gui/spokes/lib/passphrase.py                              130    1
 pyanaconda/ui/gui/spokes/lib/refresh.py                                  46     46      4      0     0%
 pyanaconda/ui/gui/spokes/lib/resize.py                                  284    284    105      0     0%
 pyanaconda/ui/gui/spokes/lib/summary.py                                  37     37     10      0     0%
-pyanaconda/ui/gui/spokes/network.py                                    1100   1100    434      0     0%
+pyanaconda/ui/gui/spokes/network.py                                    1118   1118    440      0     0%
 pyanaconda/ui/gui/spokes/password.py                                    160    160     65      0     0%
 pyanaconda/ui/gui/spokes/software.py                                    312    312    114      0     0%
 pyanaconda/ui/gui/spokes/source.py                                      957    957    356      0     0%
@@ -111,7 +111,7 @@ pyanaconda/ui/tui/simpleline/widgets.py                                  76     
 pyanaconda/ui/tui/spokes/__init__.py                                    186    186     71      0     0%
 pyanaconda/ui/tui/spokes/askvnc.py                                       94     94     22      0     0%
 pyanaconda/ui/tui/spokes/langsupport.py                                  61     61     26      0     0%
-pyanaconda/ui/tui/spokes/network.py                                     211    211     78      0     0%
+pyanaconda/ui/tui/spokes/network.py                                     217    217     80      0     0%
 pyanaconda/ui/tui/spokes/password.py                                     40     40      8      0     0%
 pyanaconda/ui/tui/spokes/progress.py                                     69     69     20      0     0%
 pyanaconda/ui/tui/spokes/shell_spoke.py                                  27     27      0      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translated/test_markup.py          25     
 translation-canary/translation_canary/translated/test_percentage.py      12      3      2      0    79%
 translation-canary/translation_canary/translated/test_usability.py        4      0      0      0   100%
 -------------------------------------------------------------------------------------------------------
-TOTAL                                                                 25795  22411   9396    184    12%
+TOTAL                                                                 25818  22433   9408    184    12%
