@@ -1,15 +1,3 @@
-************* Module ../pyanaconda/anaconda.py
-/usr/lib/python3.5/site-packages/astroid/brain/brain_gi.py:136: PyGIWarning: BlockDev was imported without specifying a version first. Use gi.require_version('BlockDev', '1.0') before import to ensure that the right version gets loaded.
-  __import__(m)
-************* Module ../anaconda.py
-/usr/lib/python3.5/site-packages/astroid/brain/brain_gi.py:136: PyGIWarning: BlockDev was imported without specifying a version first. Use gi.require_version('BlockDev', '1.0') before import to ensure that the right version gets loaded.
-  __import__(m)
-************* Module ../pyanaconda/ui/gui/spokes/network.py
-/usr/lib/python3.5/site-packages/astroid/brain/brain_gi.py:136: PyGIWarning: NM was imported without specifying a version first. Use gi.require_version('NM', '1.0') before import to ensure that the right version gets loaded.
-  __import__(m)
-************* Module ../pyanaconda/ui/gui/spokes/lib/accordion.py
-/usr/lib/python3.5/site-packages/astroid/brain/brain_gi.py:136: PyGIWarning: AnacondaWidgets was imported without specifying a version first. Use gi.require_version('AnacondaWidgets', '3.3') before import to ensure that the right version gets loaded.
-  __import__(m)
 ************* Unused False Positives Found:
 ^E0611.*: No name '_isys' in module 'pyanaconda'$
 PASS pylint/runpylint.py (exit status: 0)
