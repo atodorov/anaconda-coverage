@@ -18,16 +18,16 @@ Installing:
  adwaita-cursor-theme  noarch 3.20-1.fc25                anaconda-rawhide 628 k
  adwaita-icon-theme    noarch 3.20-1.fc25                anaconda-rawhide  12 M
  alsa-lib              x86_64 1.1.1-1.fc25               anaconda-rawhide 406 k
- anaconda              x86_64 25.13-0.1.20160514004938.fc25
+ anaconda              x86_64 25.13-0.1.20160516224930.fc25
                                                          anaconda          73 k
- anaconda-core         x86_64 25.13-0.1.20160514004938.fc25
+ anaconda-core         x86_64 25.13-0.1.20160516224930.fc25
                                                          anaconda         629 k
- anaconda-gui          x86_64 25.13-0.1.20160514004938.fc25
+ anaconda-gui          x86_64 25.13-0.1.20160516224930.fc25
                                                          anaconda         403 k
- anaconda-tui          x86_64 25.13-0.1.20160514004938.fc25
+ anaconda-tui          x86_64 25.13-0.1.20160516224930.fc25
                                                          anaconda         168 k
  anaconda-user-help    noarch 22.4-4.fc24                anaconda-rawhide  43 k
- anaconda-widgets      x86_64 25.13-0.1.20160514004938.fc25
+ anaconda-widgets      x86_64 25.13-0.1.20160516224930.fc25
                                                          anaconda         103 k
  at-spi2-atk           x86_64 2.20.1-1.fc25              anaconda-rawhide  83 k
  at-spi2-core          x86_64 2.21.1-1.fc25              anaconda-rawhide 161 k
@@ -43,7 +43,7 @@ Installing:
  bcache-tools          x86_64 1.0.8-5.fc24               anaconda-rawhide  40 k
  bind99-libs           x86_64 9.9.8-4.P4.fc25            anaconda-rawhide 652 k
  bind99-license        noarch 9.9.8-4.P4.fc25            anaconda-rawhide  12 k
- btrfs-progs           x86_64 4.5.2-1.fc25               anaconda-rawhide 623 k
+ btrfs-progs           x86_64 4.5.3-1.fc25               anaconda-rawhide 629 k
  bzip2-libs            x86_64 1.0.6-20.fc24              anaconda-rawhide  45 k
  ca-certificates       noarch 2016.2.7-5.fc25            anaconda-rawhide 424 k
  cairo                 x86_64 1.14.6-1.fc25              anaconda-rawhide 719 k
@@ -442,7 +442,7 @@ Installing:
  python3-six           noarch 1.10.0-2.fc24              anaconda-rawhide  35 k
  python3-slip          noarch 0.6.4-3.fc24               anaconda-rawhide  37 k
  python3-slip-dbus     noarch 0.6.4-3.fc24               anaconda-rawhide  37 k
- python3-sssdconfig    noarch 1.13.4-2.fc25              anaconda-rawhide 100 k
+ python3-sssdconfig    noarch 1.13.4-3.fc25              anaconda-rawhide 101 k
  python3-urllib3       noarch 1.15.1-1.fc25              anaconda-rawhide 135 k
  python3-wrapt         x86_64 1.10.8-1.fc25              anaconda-rawhide  50 k
  qrencode-libs         x86_64 3.4.2-6.fc24               anaconda-rawhide  55 k
@@ -510,7 +510,7 @@ Total download size: 219 M
 Installed size: 736 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           6.4 MB/s | 219 MB     00:33     
+Total                                           640 kB/s | 219 MB     05:49     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -770,7 +770,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : libXft-2.3.2-4.fc24.x86_64                              251/470 
   Installing  : e2fsprogs-1.42.13-4.fc24.x86_64                         252/470 
   Installing  : libfdisk-2.28-2.fc25.x86_64                             253/470 
-  Installing  : btrfs-progs-4.5.2-1.fc25.x86_64                         254/470 
+  Installing  : btrfs-progs-4.5.3-1.fc25.x86_64                         254/470 
   Installing  : libblockdev-btrfs-1.5-1.fc25.x86_64                     255/470 
   Installing  : python3-libs-3.5.1-7.fc25.x86_64                        256/470 
   Installing  : python3-setuptools-20.9.0-1.fc25.noarch                 257/470 
@@ -797,7 +797,7 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : python3-pytz-2016.4-1.fc25.noarch                       278/470 
   Installing  : python3-wrapt-1.10.8-1.fc25.x86_64                      279/470 
   Installing  : newt-python3-0.52.19-1.fc25.x86_64                      280/470 
-  Installing  : python3-sssdconfig-1.13.4-2.fc25.noarch                 281/470 
+  Installing  : python3-sssdconfig-1.13.4-3.fc25.noarch                 281/470 
   Installing  : python3-libcomps-0.1.7-4.fc25.x86_64                    282/470 
   Installing  : python3-chardet-2.2.1-5.fc24.noarch                     283/470 
   Installing  : python3-pysocks-1.5.6-3.fc25.noarch                     284/470 
@@ -942,7 +942,7 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : libnma-1.2.2-1.fc25.x86_64                              417/470 
   Installing  : nm-connection-editor-1.2.2-1.fc25.x86_64                418/470 
   Installing  : glade-libs-3.20.0-1.fc25.x86_64                         419/470 
-  Installing  : anaconda-widgets-25.13-0.1.20160514004938.fc25.x86_64   420/470 
+  Installing  : anaconda-widgets-25.13-0.1.20160516224930.fc25.x86_64   420/470 
   Installing  : keybinder3-0.3.0-6.fc24.x86_64                          421/470 
   Installing  : libtimezonemap-0.4.5-2.fc24.x86_64                      422/470 
   Installing  : libreport-gtk-2.7.0-1.fc25.x86_64                       423/470 
@@ -976,12 +976,12 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-swap-1.5-1.fc25.x86_64                      451/470 
   Installing  : libblockdev-plugins-all-1.5-1.fc25.x86_64               452/470 
   Installing  : python3-blivet-1:2.1.0-1.fc25.noarch                    453/470 
-  Installing  : anaconda-tui-25.13-0.1.20160514004938.fc25.x86_64       454/470 
-  Installing  : anaconda-core-25.13-0.1.20160514004938.fc25.x86_64      455/470 
+  Installing  : anaconda-tui-25.13-0.1.20160516224930.fc25.x86_64       454/470 
+  Installing  : anaconda-core-25.13-0.1.20160516224930.fc25.x86_64      455/470 
   Installing  : linux-atm-libs-2.5.1-14.fc24.x86_64                     456/470 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   457/470 
-  Installing  : anaconda-gui-25.13-0.1.20160514004938.fc25.x86_64       458/470 
-  Installing  : anaconda-25.13-0.1.20160514004938.fc25.x86_64           459/470 
+  Installing  : anaconda-gui-25.13-0.1.20160516224930.fc25.x86_64       458/470 
+  Installing  : anaconda-25.13-0.1.20160516224930.fc25.x86_64           459/470 
   Installing  : iproute-tc-4.5.0-4.fc25.x86_64                          460/470 
   Installing  : webkitgtk4-plugin-process-gtk2-2.12.2-2.fc25.x86_64     461/470 
   Installing  : timedatex-0.4-2.fc24.x86_64                             462/470 
@@ -994,11 +994,11 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                469/470 
   Installing  : hardlink-1:1.0-23.fc24.x86_64                           470/470Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-25.13-0.1.20160514004938.fc25.x86_64             1/470 
+  Verifying   : anaconda-25.13-0.1.20160516224930.fc25.x86_64             1/470 
   Verifying   : bash-4.3.42-4.fc24.x86_64                                 2/470 
-  Verifying   : anaconda-core-25.13-0.1.20160514004938.fc25.x86_64        3/470 
-  Verifying   : anaconda-gui-25.13-0.1.20160514004938.fc25.x86_64         4/470 
-  Verifying   : anaconda-tui-25.13-0.1.20160514004938.fc25.x86_64         5/470 
+  Verifying   : anaconda-core-25.13-0.1.20160516224930.fc25.x86_64        3/470 
+  Verifying   : anaconda-gui-25.13-0.1.20160516224930.fc25.x86_64         4/470 
+  Verifying   : anaconda-tui-25.13-0.1.20160516224930.fc25.x86_64         5/470 
   Verifying   : glibc-2.23.90-18.fc25.x86_64                              6/470 
   Verifying   : ncurses-libs-6.0-5.20160116.fc25.x86_64                   7/470 
   Verifying   : NetworkManager-1:1.2.2-1.fc25.x86_64                      8/470 
@@ -1050,7 +1050,7 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : tigervnc-server-minimal-1.6.0-3.fc24.x86_64              54/470 
   Verifying   : yelp-2:3.20.1-1.fc25.x86_64                              55/470 
   Verifying   : zenity-3.20.0-1.fc25.x86_64                              56/470 
-  Verifying   : anaconda-widgets-25.13-0.1.20160514004938.fc25.x86_64    57/470 
+  Verifying   : anaconda-widgets-25.13-0.1.20160516224930.fc25.x86_64    57/470 
   Verifying   : basesystem-11-2.fc24.noarch                              58/470 
   Verifying   : glibc-common-2.23.90-18.fc25.x86_64                      59/470 
   Verifying   : nss-softokn-freebl-3.23.0-3.fc25.x86_64                  60/470 
@@ -1077,7 +1077,7 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : newt-python3-0.52.19-1.fc25.x86_64                       81/470 
   Verifying   : openssl-1:1.0.2h-1.fc25.x86_64                           82/470 
   Verifying   : policycoreutils-2.5-9.fc25.x86_64                        83/470 
-  Verifying   : python3-sssdconfig-1.13.4-2.fc25.noarch                  84/470 
+  Verifying   : python3-sssdconfig-1.13.4-3.fc25.noarch                  84/470 
   Verifying   : info-6.1-2.fc24.x86_64                                   85/470 
   Verifying   : libcap-2.25-2.fc25.x86_64                                86/470 
   Verifying   : libedit-3.1-14.20150325cvs.fc24.x86_64                   87/470 
@@ -1429,7 +1429,7 @@ warning: %post(lvm2-2.02.153-2.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-cairo-1.10.0-16.fc25.x86_64                     433/470 
   Verifying   : GConf2-3.2.6-16.fc24.x86_64                             434/470 
   Verifying   : psmisc-22.21-8.fc24.x86_64                              435/470 
-  Verifying   : btrfs-progs-4.5.2-1.fc25.x86_64                         436/470 
+  Verifying   : btrfs-progs-4.5.3-1.fc25.x86_64                         436/470 
   Verifying   : procps-ng-3.3.10-11.fc24.x86_64                         437/470 
   Verifying   : gsettings-desktop-schemas-3.20.0-1.fc25.x86_64          438/470 
   Verifying   : libhbalinux-1.0.17-3.fc24.x86_64                        439/470 
@@ -1480,12 +1480,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.20-1.fc25                                       
   adwaita-icon-theme.noarch 3.20-1.fc25                                         
   alsa-lib.x86_64 1.1.1-1.fc25                                                  
-  anaconda.x86_64 25.13-0.1.20160514004938.fc25                                 
-  anaconda-core.x86_64 25.13-0.1.20160514004938.fc25                            
-  anaconda-gui.x86_64 25.13-0.1.20160514004938.fc25                             
-  anaconda-tui.x86_64 25.13-0.1.20160514004938.fc25                             
+  anaconda.x86_64 25.13-0.1.20160516224930.fc25                                 
+  anaconda-core.x86_64 25.13-0.1.20160516224930.fc25                            
+  anaconda-gui.x86_64 25.13-0.1.20160516224930.fc25                             
+  anaconda-tui.x86_64 25.13-0.1.20160516224930.fc25                             
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 25.13-0.1.20160514004938.fc25                         
+  anaconda-widgets.x86_64 25.13-0.1.20160516224930.fc25                         
   at-spi2-atk.x86_64 2.20.1-1.fc25                                              
   at-spi2-core.x86_64 2.21.1-1.fc25                                             
   atk.x86_64 2.20.0-1.fc25                                                      
@@ -1500,7 +1500,7 @@ Installed:
   bcache-tools.x86_64 1.0.8-5.fc24                                              
   bind99-libs.x86_64 9.9.8-4.P4.fc25                                            
   bind99-license.noarch 9.9.8-4.P4.fc25                                         
-  btrfs-progs.x86_64 4.5.2-1.fc25                                               
+  btrfs-progs.x86_64 4.5.3-1.fc25                                               
   bzip2-libs.x86_64 1.0.6-20.fc24                                               
   ca-certificates.noarch 2016.2.7-5.fc25                                        
   cairo.x86_64 1.14.6-1.fc25                                                    
@@ -1881,7 +1881,7 @@ Installed:
   python3-six.noarch 1.10.0-2.fc24                                              
   python3-slip.noarch 0.6.4-3.fc24                                              
   python3-slip-dbus.noarch 0.6.4-3.fc24                                         
-  python3-sssdconfig.noarch 1.13.4-2.fc25                                       
+  python3-sssdconfig.noarch 1.13.4-3.fc25                                       
   python3-urllib3.noarch 1.15.1-1.fc25                                          
   python3-wrapt.x86_64 1.10.8-1.fc25                                            
   qrencode-libs.x86_64 3.4.2-6.fc24                                             
@@ -1940,5 +1940,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-25.13-0.1.20160514004938.fc25.x86_64
+anaconda-25.13-0.1.20160516224930.fc25.x86_64
 PASS install/run_install_test.sh (exit status: 0)
