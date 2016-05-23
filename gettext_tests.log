@@ -7,8 +7,5 @@ PASS gettext_tests/click.py (exit status: 0)
 ==> tests/gettext_tests/contexts.py.log <==
 PASS gettext_tests/contexts.py (exit status: 0)
 
-==> tests/gettext_tests/gettext_potfiles.py.log <==
-PASS gettext_tests/gettext_potfiles.py (exit status: 0)
-
 ==> tests/gettext_tests/style_guide.py.log <==
 PASS gettext_tests/style_guide.py (exit status: 0)
