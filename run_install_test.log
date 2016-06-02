@@ -18,17 +18,17 @@ Installing:
  adwaita-cursor-theme  noarch 3.20-1.fc25                anaconda-rawhide 628 k
  adwaita-icon-theme    noarch 3.20-1.fc25                anaconda-rawhide  12 M
  alsa-lib              x86_64 1.1.1-1.fc25               anaconda-rawhide 406 k
- anaconda              x86_64 25.14-0.1.20160520004927.fc25
-                                                         anaconda          73 k
- anaconda-core         x86_64 25.14-0.1.20160520004927.fc25
-                                                         anaconda         590 k
- anaconda-gui          x86_64 25.14-0.1.20160520004927.fc25
-                                                         anaconda         403 k
- anaconda-tui          x86_64 25.14-0.1.20160520004927.fc25
-                                                         anaconda         169 k
+ anaconda              x86_64 25.16-0.1.20160601204932.fc25
+                                                         anaconda          75 k
+ anaconda-core         x86_64 25.16-0.1.20160601204932.fc25
+                                                         anaconda         591 k
+ anaconda-gui          x86_64 25.16-0.1.20160601204932.fc25
+                                                         anaconda         405 k
+ anaconda-tui          x86_64 25.16-0.1.20160601204932.fc25
+                                                         anaconda         170 k
  anaconda-user-help    noarch 22.4-4.fc24                anaconda-rawhide  43 k
- anaconda-widgets      x86_64 25.14-0.1.20160520004927.fc25
-                                                         anaconda         103 k
+ anaconda-widgets      x86_64 25.16-0.1.20160601204932.fc25
+                                                         anaconda         105 k
  at-spi2-atk           x86_64 2.20.1-1.fc25              anaconda-rawhide  83 k
  at-spi2-core          x86_64 2.21.1-1.fc25              anaconda-rawhide 161 k
  atk                   x86_64 2.20.0-1.fc25              anaconda-rawhide 260 k
@@ -38,11 +38,11 @@ Installing:
  avahi-glib            x86_64 0.6.32-1.fc25              anaconda-rawhide  14 k
  avahi-libs            x86_64 0.6.32-1.fc25              anaconda-rawhide  60 k
  basesystem            noarch 11-2.fc24                  anaconda-rawhide 9.8 k
- bash                  x86_64 4.3.42-4.fc24              anaconda-rawhide 1.4 M
+ bash                  x86_64 4.3.42-5.fc25              anaconda-rawhide 1.4 M
  bash-completion       noarch 1:2.3-1.fc25               anaconda-rawhide 266 k
  bcache-tools          x86_64 1.0.8-5.fc24               anaconda-rawhide  40 k
- bind99-libs           x86_64 9.9.8-4.P4.fc25            anaconda-rawhide 652 k
- bind99-license        noarch 9.9.8-4.P4.fc25            anaconda-rawhide  12 k
+ bind99-libs           x86_64 9.9.9-1.P1.fc25            anaconda-rawhide 660 k
+ bind99-license        noarch 9.9.9-1.P1.fc25            anaconda-rawhide  12 k
  btrfs-progs           x86_64 4.5.3-1.fc25               anaconda-rawhide 629 k
  bzip2-libs            x86_64 1.0.6-20.fc24              anaconda-rawhide  45 k
  ca-certificates       noarch 2016.2.7-5.fc25            anaconda-rawhide 424 k
@@ -62,7 +62,7 @@ Installing:
  crypto-policies       noarch 20160516-1.git8f69c35.fc25 anaconda-rawhide  30 k
  cryptsetup-libs       x86_64 1.7.1-1.fc25               anaconda-rawhide 214 k
  cups-libs             x86_64 1:2.1.3-1.fc24             anaconda-rawhide 399 k
- curl                  x86_64 7.49.0-1.fc25              anaconda-rawhide 295 k
+ curl                  x86_64 7.49.1-1.fc25              anaconda-rawhide 296 k
  cyrus-sasl-lib        x86_64 2.1.26-26.2.fc24           anaconda-rawhide 158 k
  dbus                  x86_64 1:1.11.2-1.fc25            anaconda-rawhide 242 k
  dbus-glib             x86_64 0.106-1.fc24               anaconda-rawhide 119 k
@@ -79,19 +79,19 @@ Installing:
                        x86_64 0.4.9-82.fc25              anaconda-rawhide 225 k
  device-mapper-persistent-data
                        x86_64 0.6.2-0.1.rc8.fc25         anaconda-rawhide 428 k
- dhcp-client           x86_64 12:4.3.4-1.fc25            anaconda-rawhide 305 k
- dhcp-common           noarch 12:4.3.4-1.fc25            anaconda-rawhide 196 k
- dhcp-libs             x86_64 12:4.3.4-1.fc25            anaconda-rawhide 136 k
+ dhcp-client           x86_64 12:4.3.4-2.fc25            anaconda-rawhide 305 k
+ dhcp-common           noarch 12:4.3.4-2.fc25            anaconda-rawhide 196 k
+ dhcp-libs             x86_64 12:4.3.4-2.fc25            anaconda-rawhide 136 k
  diffutils             x86_64 3.3-13.fc24                anaconda-rawhide 334 k
  dmraid                x86_64 1.0.0.rc16-30.fc24         anaconda-rawhide 153 k
  dmraid-events         x86_64 1.0.0.rc16-30.fc24         anaconda-rawhide  26 k
- dnf                   noarch 1.1.8-1.fc25               anaconda-rawhide 291 k
- dnf-conf              noarch 1.1.8-1.fc25               anaconda-rawhide  93 k
+ dnf                   noarch 1.1.9-2.fc25               anaconda-rawhide 275 k
+ dnf-conf              noarch 1.1.9-2.fc25               anaconda-rawhide  95 k
  dnsmasq               x86_64 2.75-4.fc24                anaconda-rawhide 295 k
  dosfstools            x86_64 4.0-1.fc25                 anaconda-rawhide 114 k
  dracut                x86_64 044-18.git20160108.fc24    anaconda-rawhide 328 k
  dracut-network        x86_64 044-18.git20160108.fc24    anaconda-rawhide  87 k
- drpm                  x86_64 0.2.1-1.fc25               anaconda-rawhide  32 k
+ drpm                  x86_64 0.3.0-3.fc25               anaconda-rawhide  66 k
  e2fsprogs             x86_64 1.42.13-4.fc24             anaconda-rawhide 831 k
  e2fsprogs-libs        x86_64 1.42.13-4.fc24             anaconda-rawhide 169 k
  ebtables              x86_64 2.0.10-20.fc25             anaconda-rawhide 125 k
@@ -110,9 +110,9 @@ Installing:
  fedora-repos-rawhide  noarch 25-0.1                     anaconda-rawhide 7.3 k
  file-libs             x86_64 5.25-6.fc24                anaconda-rawhide 437 k
  filesystem            x86_64 3.2-37.fc24                anaconda-rawhide 1.0 M
- findutils             x86_64 1:4.6.0-4.fc25             anaconda-rawhide 520 k
- firewalld             noarch 0.4.1.2-2.fc25             anaconda-rawhide 376 k
- firewalld-filesystem  noarch 0.4.1.2-2.fc25             anaconda-rawhide  49 k
+ findutils             x86_64 1:4.6.0-5.fc25             anaconda-rawhide 520 k
+ firewalld             noarch 0.4.2-1.fc25               anaconda-rawhide 388 k
+ firewalld-filesystem  noarch 0.4.2-1.fc25               anaconda-rawhide  52 k
  fontconfig            x86_64 2.11.95-1.fc25             anaconda-rawhide 242 k
  fontpackages-filesystem
                        noarch 1.44-17.fc24               anaconda-rawhide  15 k
@@ -126,7 +126,7 @@ Installing:
  geoclue2              x86_64 2.4.3-1.fc25               anaconda-rawhide 108 k
  glade-libs            x86_64 3.20.0-1.fc25              anaconda-rawhide 677 k
  glib-networking       x86_64 2.48.2-1.fc25              anaconda-rawhide 134 k
- glib2                 x86_64 2.48.1-1.fc25              anaconda-rawhide 2.2 M
+ glib2                 x86_64 2.49.1-1.fc25              anaconda-rawhide 2.3 M
  glibc                 x86_64 2.23.90-18.fc25            anaconda-rawhide 3.7 M
  glibc-common          x86_64 2.23.90-18.fc25            anaconda-rawhide 875 k
  glibc-langpack-en     x86_64 2.23.90-18.fc25            anaconda-rawhide 276 k
@@ -134,14 +134,14 @@ Installing:
  gnupg                 x86_64 1.4.20-2.fc24              anaconda-rawhide 1.3 M
  gnupg2                x86_64 2.1.12-1.fc25              anaconda-rawhide 1.9 M
  gnupg2-smime          x86_64 2.1.12-1.fc25              anaconda-rawhide 402 k
- gnutls                x86_64 3.4.11-1.fc25              anaconda-rawhide 657 k
+ gnutls                x86_64 3.4.12-1.fc25              anaconda-rawhide 657 k
  gobject-introspection x86_64 1.48.0-1.fc25              anaconda-rawhide 240 k
  gpgme                 x86_64 1.4.3-7.fc24               anaconda-rawhide 157 k
  graphite2             x86_64 1.3.6-1.fc25               anaconda-rawhide 114 k
  grep                  x86_64 2.25-1.fc25                anaconda-rawhide 281 k
  grubby                x86_64 8.40-3.fc24                anaconda-rawhide  69 k
  gsettings-desktop-schemas
-                       x86_64 3.20.0-1.fc25              anaconda-rawhide 529 k
+                       x86_64 3.21.2-1.fc25              anaconda-rawhide 538 k
  gstreamer1            x86_64 1.8.1-1.fc25               anaconda-rawhide 1.1 M
  gstreamer1-plugins-base
                        x86_64 1.8.1-1.fc25               anaconda-rawhide 1.4 M
@@ -164,8 +164,8 @@ Installing:
  info                  x86_64 6.1-2.fc24                 anaconda-rawhide 192 k
  initscripts           x86_64 9.66-1.fc25                anaconda-rawhide 404 k
  ipcalc                x86_64 0.1.7-1.fc25               anaconda-rawhide  32 k
- iproute               x86_64 4.5.0-4.fc25               anaconda-rawhide 394 k
- iproute-tc            x86_64 4.5.0-4.fc25               anaconda-rawhide 333 k
+ iproute               x86_64 4.6.0-1.fc25               anaconda-rawhide 403 k
+ iproute-tc            x86_64 4.6.0-1.fc25               anaconda-rawhide 341 k
  ipset                 x86_64 6.29-1.fc25                anaconda-rawhide  45 k
  ipset-libs            x86_64 6.29-1.fc25                anaconda-rawhide  56 k
  iptables              x86_64 1.6.0-1.fc25               anaconda-rawhide 417 k
@@ -192,7 +192,7 @@ Installing:
  kmod                  x86_64 22-4.fc25                  anaconda-rawhide 111 k
  kmod-libs             x86_64 22-4.fc25                  anaconda-rawhide  60 k
  kpartx                x86_64 0.4.9-82.fc25              anaconda-rawhide  65 k
- krb5-libs             x86_64 1.14.1-5.fc25              anaconda-rawhide 837 k
+ krb5-libs             x86_64 1.14.1-6.fc25              anaconda-rawhide 836 k
  langtable             noarch 0.0.34-4.fc24              anaconda-rawhide  40 k
  langtable-data        noarch 0.0.34-4.fc24              anaconda-rawhide 628 k
  langtable-python3     noarch 0.0.34-4.fc24              anaconda-rawhide  36 k
@@ -207,7 +207,7 @@ Installing:
  libXdamage            x86_64 1.1.4-8.fc24               anaconda-rawhide  25 k
  libXdmcp              x86_64 1.1.2-3.fc24               anaconda-rawhide  37 k
  libXext               x86_64 1.3.3-4.fc24               anaconda-rawhide  41 k
- libXfixes             x86_64 5.0.1-6.fc24               anaconda-rawhide  22 k
+ libXfixes             x86_64 5.0.2-2.fc25               anaconda-rawhide  22 k
  libXfont              x86_64 1.5.1-4.fc24               anaconda-rawhide 152 k
  libXft                x86_64 2.3.2-4.fc24               anaconda-rawhide  62 k
  libXi                 x86_64 1.7.6-2.fc24               anaconda-rawhide  44 k
@@ -244,7 +244,7 @@ Installing:
  libcom_err            x86_64 1.42.13-4.fc24             anaconda-rawhide  45 k
  libcomps              x86_64 0.1.7-4.fc25               anaconda-rawhide  73 k
  libconfig             x86_64 1.5-4.fc24                 anaconda-rawhide  64 k
- libcurl               x86_64 7.49.0-1.fc25              anaconda-rawhide 262 k
+ libcurl               x86_64 7.49.1-1.fc25              anaconda-rawhide 262 k
  libdaemon             x86_64 0.14-10.fc24               anaconda-rawhide  34 k
  libdatrie             x86_64 0.2.9-3.fc25               anaconda-rawhide  30 k
  libdb                 x86_64 5.3.28-14.fc24             anaconda-rawhide 740 k
@@ -275,7 +275,7 @@ Installing:
  libnetfilter_conntrack
                        x86_64 1.0.4-6.fc24               anaconda-rawhide  56 k
  libnfnetlink          x86_64 1.0.1-8.fc24               anaconda-rawhide  30 k
- libnghttp2            x86_64 1.10.0-1.fc25              anaconda-rawhide  68 k
+ libnghttp2            x86_64 1.11.1-1.fc25              anaconda-rawhide  68 k
  libnl3                x86_64 3.2.27-3.fc24              anaconda-rawhide 262 k
  libnl3-cli            x86_64 3.2.27-3.fc24              anaconda-rawhide 166 k
  libnma                x86_64 1.2.2-1.fc25               anaconda-rawhide  84 k
@@ -307,14 +307,14 @@ Installing:
  libsemanage           x86_64 2.5-4.fc25                 anaconda-rawhide 148 k
  libsepol              x86_64 2.5-6.fc25                 anaconda-rawhide 290 k
  libsmartcols          x86_64 2.28-2.fc25                anaconda-rawhide 140 k
- libsolv               x86_64 0.6.21-1.fc25              anaconda-rawhide 342 k
+ libsolv               x86_64 0.6.21-2.fc25              anaconda-rawhide 326 k
  libsoup               x86_64 2.54.1-1.fc25              anaconda-rawhide 387 k
  libss                 x86_64 1.42.13-4.fc24             anaconda-rawhide  49 k
  libssh2               x86_64 1.7.0-5.fc25               anaconda-rawhide  94 k
  libstdc++             x86_64 6.1.1-2.fc25               anaconda-rawhide 424 k
  libtar                x86_64 1.2.20-8.fc24              anaconda-rawhide  38 k
  libtasn1              x86_64 4.8-1.fc25                 anaconda-rawhide 324 k
- libteam               x86_64 1.24-1.fc25                anaconda-rawhide  53 k
+ libteam               x86_64 1.25-1.fc25                anaconda-rawhide  54 k
  libthai               x86_64 0.1.24-1.fc24              anaconda-rawhide 196 k
  libtheora             x86_64 1:1.1.1-14.fc24            anaconda-rawhide 192 k
  libtiff               x86_64 4.0.6-2.fc24               anaconda-rawhide 174 k
@@ -329,9 +329,9 @@ Installing:
  libverto              x86_64 0.2.6-6.fc24               anaconda-rawhide  21 k
  libvisual             x86_64 1:0.4.0-20.fc24            anaconda-rawhide 141 k
  libvorbis             x86_64 1:1.3.4-6.fc24             anaconda-rawhide 189 k
- libwayland-client     x86_64 1.10.92-1.fc25             anaconda-rawhide  32 k
- libwayland-cursor     x86_64 1.10.92-1.fc25             anaconda-rawhide  21 k
- libwayland-server     x86_64 1.10.92-1.fc25             anaconda-rawhide  37 k
+ libwayland-client     x86_64 1.10.93-1.fc25             anaconda-rawhide  32 k
+ libwayland-cursor     x86_64 1.10.93-1.fc25             anaconda-rawhide  21 k
+ libwayland-server     x86_64 1.10.93-1.fc25             anaconda-rawhide  37 k
  libwebp               x86_64 0.5.0-2.fc24               anaconda-rawhide 237 k
  libxcb                x86_64 1.12-1.fc25                anaconda-rawhide 207 k
  libxkbcommon          x86_64 0.5.0-4.fc24               anaconda-rawhide 112 k
@@ -371,13 +371,13 @@ Installing:
  nm-connection-editor  x86_64 1.2.2-1.fc25               anaconda-rawhide 867 k
  npth                  x86_64 1.2-3.fc24                 anaconda-rawhide  24 k
  nspr                  x86_64 4.12.0-1.fc24              anaconda-rawhide 135 k
- nss                   x86_64 3.23.0-9.fc25              anaconda-rawhide 871 k
- nss-softokn           x86_64 3.23.0-3.fc25              anaconda-rawhide 317 k
- nss-softokn-freebl    x86_64 3.23.0-3.fc25              anaconda-rawhide 213 k
- nss-sysinit           x86_64 3.23.0-9.fc25              anaconda-rawhide  57 k
- nss-tools             x86_64 3.23.0-9.fc25              anaconda-rawhide 495 k
- nss-util              x86_64 3.23.0-4.fc25              anaconda-rawhide  81 k
- openldap              x86_64 2.4.44-1.fc25              anaconda-rawhide 341 k
+ nss                   x86_64 3.24.0-2.1.fc25            anaconda-rawhide 863 k
+ nss-softokn           x86_64 3.24.0-2.0.fc25            anaconda-rawhide 312 k
+ nss-softokn-freebl    x86_64 3.24.0-2.0.fc25            anaconda-rawhide 221 k
+ nss-sysinit           x86_64 3.24.0-2.1.fc25            anaconda-rawhide  58 k
+ nss-tools             x86_64 3.24.0-2.1.fc25            anaconda-rawhide 495 k
+ nss-util              x86_64 3.24.0-2.0.fc25            anaconda-rawhide  81 k
+ openldap              x86_64 2.4.44-2.fc25              anaconda-rawhide 342 k
  openssl               x86_64 1:1.0.2h-1.fc25            anaconda-rawhide 497 k
  openssl-libs          x86_64 1:1.0.2h-1.fc25            anaconda-rawhide 1.2 M
  opus                  x86_64 1.1.2-2.fc24               anaconda-rawhide 180 k
@@ -386,9 +386,9 @@ Installing:
  p11-kit-trust         x86_64 0.23.2-2.fc24              anaconda-rawhide 130 k
  pam                   x86_64 1.3.0-1.fc25               anaconda-rawhide 726 k
  pango                 x86_64 1.40.1-1.fc25              anaconda-rawhide 278 k
- parted                x86_64 3.2-19.fc25                anaconda-rawhide 532 k
+ parted                x86_64 3.2-20.fc25                anaconda-rawhide 532 k
  passwd                x86_64 0.79-8.fc24                anaconda-rawhide 109 k
- pcre                  x86_64 8.38-14.fc25               anaconda-rawhide 193 k
+ pcre                  x86_64 8.39-0.1.RC1.fc25          anaconda-rawhide 197 k
  pigz                  x86_64 2.3.3-4.fc24               anaconda-rawhide  74 k
  pinentry              x86_64 0.9.7-2.fc24               anaconda-rawhide  82 k
  pixman                x86_64 0.34.0-2.fc24              anaconda-rawhide 259 k
@@ -410,8 +410,8 @@ Installing:
  python3-coverage      x86_64 4.1-0.5.b3.fc25            anaconda-rawhide 242 k
  python3-dbus          x86_64 1.2.4-1.fc25               anaconda-rawhide 121 k
  python3-decorator     noarch 4.0.9-1.fc25               anaconda-rawhide  59 k
- python3-dnf           noarch 1.1.8-1.fc25               anaconda-rawhide 456 k
- python3-firewall      noarch 0.4.1.2-2.fc25             anaconda-rawhide 289 k
+ python3-dnf           noarch 1.1.9-2.fc25               anaconda-rawhide 450 k
+ python3-firewall      noarch 0.4.2-1.fc25               anaconda-rawhide 310 k
  python3-gobject       x86_64 3.21.0-1.fc25              anaconda-rawhide  20 k
  python3-gobject-base  x86_64 3.21.0-1.fc25              anaconda-rawhide 299 k
  python3-hawkey        x86_64 0.6.3-2.fc25               anaconda-rawhide  76 k
@@ -428,7 +428,7 @@ Installing:
  python3-ntplib        noarch 0.3.3-3.fc24               anaconda-rawhide  18 k
  python3-ordered-set   noarch 2.0.0-3.fc24               anaconda-rawhide  14 k
  python3-pid           noarch 2.0.1-4.fc24               anaconda-rawhide  21 k
- python3-pip           noarch 8.0.2-1.fc24               anaconda-rawhide 1.7 M
+ python3-pip           noarch 8.1.2-1.fc25               anaconda-rawhide 1.7 M
  python3-pwquality     x86_64 1.3.0-5.fc25               anaconda-rawhide  16 k
  python3-pygpgme       x86_64 0.3-15.fc24                anaconda-rawhide  77 k
  python3-pyparted      x86_64 1:3.10.7-3.fc24            anaconda-rawhide 120 k
@@ -438,7 +438,7 @@ Installing:
  python3-requests      noarch 2.10.0-1.fc25              anaconda-rawhide 109 k
  python3-requests-file noarch 1.4-3.fc24                 anaconda-rawhide  14 k
  python3-requests-ftp  noarch 0.3.1-3.fc24               anaconda-rawhide  21 k
- python3-setuptools    noarch 20.9.0-1.fc25              anaconda-rawhide 490 k
+ python3-setuptools    noarch 21.2.2-1.fc25              anaconda-rawhide 492 k
  python3-six           noarch 1.10.0-2.fc24              anaconda-rawhide  35 k
  python3-slip          noarch 0.6.4-3.fc24               anaconda-rawhide  37 k
  python3-slip-dbus     noarch 0.6.4-3.fc24               anaconda-rawhide  37 k
@@ -449,32 +449,32 @@ Installing:
  readline              x86_64 6.3-8.fc24                 anaconda-rawhide 202 k
  realmd                x86_64 0.16.2-4.fc25              anaconda-rawhide 207 k
  rest                  x86_64 0.8.0-1.fc25               anaconda-rawhide  65 k
- rpm                   x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide 513 k
- rpm-build-libs        x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide 118 k
- rpm-libs              x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide 294 k
- rpm-plugin-selinux    x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide  54 k
+ rpm                   x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide 514 k
+ rpm-build-libs        x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide 118 k
+ rpm-libs              x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide 295 k
+ rpm-plugin-selinux    x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide  54 k
  rpm-plugin-systemd-inhibit
-                       x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide  54 k
- rpm-python3           x86_64 4.13.0-0.rc1.34.fc25       anaconda-rawhide 102 k
+                       x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide  54 k
+ rpm-python3           x86_64 4.13.0-0.rc1.36.fc25       anaconda-rawhide 102 k
  rsync                 x86_64 3.1.2-2.fc24               anaconda-rawhide 396 k
  satyr                 x86_64 0.21-1.fc25                anaconda-rawhide 106 k
  sed                   x86_64 4.2.2-15.fc24              anaconda-rawhide 238 k
  setup                 noarch 2.10.2-1.fc25              anaconda-rawhide 171 k
  sgpio                 x86_64 1.2.0.10-16.fc24           anaconda-rawhide  18 k
- shadow-utils          x86_64 2:4.2.1-8.fc25             anaconda-rawhide 1.1 M
+ shadow-utils          x86_64 2:4.2.1-10.fc25            anaconda-rawhide 1.2 M
  shared-mime-info      x86_64 1.6-1.fc24                 anaconda-rawhide 302 k
  slang                 x86_64 2.3.0-5.fc24               anaconda-rawhide 347 k
  snappy                x86_64 1.1.3-2.fc24               anaconda-rawhide  61 k
- sqlite-libs           x86_64 3.12.2-1.fc25              anaconda-rawhide 450 k
+ sqlite-libs           x86_64 3.13.0-1.fc25              anaconda-rawhide 451 k
  system-python-libs    x86_64 3.5.1-7.fc25               anaconda-rawhide 5.9 M
- systemd               x86_64 229-15.fc25                anaconda-rawhide 4.7 M
- systemd-libs          x86_64 229-15.fc25                anaconda-rawhide 413 k
- systemd-pam           x86_64 229-15.fc25                anaconda-rawhide 177 k
- systemd-udev          x86_64 229-15.fc25                anaconda-rawhide 1.5 M
- teamd                 x86_64 1.24-1.fc25                anaconda-rawhide 118 k
- tigervnc-license      noarch 1.6.0-3.fc24               anaconda-rawhide  32 k
+ systemd               x86_64 230-2.fc25                 anaconda-rawhide 4.6 M
+ systemd-libs          x86_64 230-2.fc25                 anaconda-rawhide 416 k
+ systemd-pam           x86_64 230-2.fc25                 anaconda-rawhide 177 k
+ systemd-udev          x86_64 230-2.fc25                 anaconda-rawhide 1.5 M
+ teamd                 x86_64 1.25-1.fc25                anaconda-rawhide 118 k
+ tigervnc-license      noarch 1.6.0-4.fc25               anaconda-rawhide  31 k
  tigervnc-server-minimal
-                       x86_64 1.6.0-3.fc24               anaconda-rawhide 1.0 M
+                       x86_64 1.6.0-4.fc25               anaconda-rawhide 1.0 M
  timedatex             x86_64 0.4-2.fc24                 anaconda-rawhide  30 k
  trousers              x86_64 0.3.13-6.fc24              anaconda-rawhide 150 k
  trousers-lib          x86_64 0.3.13-6.fc24              anaconda-rawhide 157 k
@@ -483,10 +483,10 @@ Installing:
  ustr                  x86_64 1.0.4-21.fc24              anaconda-rawhide  97 k
  util-linux            x86_64 2.28-2.fc25                anaconda-rawhide 2.1 M
  volume_key-libs       x86_64 0.3.9-9.fc24               anaconda-rawhide 144 k
- webkitgtk4            x86_64 2.12.2-2.fc25              anaconda-rawhide  11 M
- webkitgtk4-jsc        x86_64 2.12.2-2.fc25              anaconda-rawhide 3.6 M
+ webkitgtk4            x86_64 2.13.1-1.fc25              anaconda-rawhide  12 M
+ webkitgtk4-jsc        x86_64 2.13.1-1.fc25              anaconda-rawhide 3.8 M
  webkitgtk4-plugin-process-gtk2
-                       x86_64 2.12.2-2.fc25              anaconda-rawhide 8.5 M
+                       x86_64 2.13.1-1.fc25              anaconda-rawhide 8.7 M
  wpa_supplicant        x86_64 1:2.5-5.fc24               anaconda-rawhide 1.0 M
  xkeyboard-config      noarch 2.17-2.fc24                anaconda-rawhide 768 k
  xml-common            noarch 0.6.3-44.fc24              anaconda-rawhide  31 k
@@ -505,12 +505,12 @@ Transaction Summary
 ================================================================================
 Install  470 Packages
 
-Total size: 220 M
+Total size: 221 M
 Total download size: 219 M
-Installed size: 726 M
+Installed size: 729 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           5.0 MB/s | 219 MB     00:43     
+Total                                           4.4 MB/s | 219 MB     00:49     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -524,21 +524,21 @@ Running transaction
   Installing  : langtable-0.0.34-4.fc24.noarch                            6/470 
   Installing  : langtable-data-0.0.34-4.fc24.noarch                       7/470 
   Installing  : aajohan-comfortaa-fonts-2.004-6.fc24.noarch               8/470 
-  Installing  : dnf-conf-1.1.8-1.fc25.noarch                              9/470 
+  Installing  : dnf-conf-1.1.9-2.fc25.noarch                              9/470 
   Installing  : mesa-filesystem-11.3.0-0.4.gitcbcd7b6.fc25.x86_64        10/470 
   Installing  : coreutils-common-8.25-5.fc25.x86_64                      11/470 
   Installing  : hwdata-0.289-1.fc25.noarch                               12/470 
   Installing  : emacs-filesystem-1:25.0.94-1.fc25.noarch                 13/470 
   Installing  : libX11-common-1.6.3-3.fc24.noarch                        14/470 
   Installing  : mobile-broadband-provider-info-1.20151214-1.fc24.noar    15/470 
-  Installing  : bind99-license-9.9.8-4.P4.fc25.noarch                    16/470 
+  Installing  : bind99-license-9.9.9-1.P1.fc25.noarch                    16/470 
   Installing  : yelp-xsl-3.20.1-1.fc25.noarch                            17/470 
-  Installing  : tigervnc-license-1.6.0-3.fc24.noarch                     18/470 
+  Installing  : tigervnc-license-1.6.0-4.fc25.noarch                     18/470 
   Installing  : adwaita-cursor-theme-3.20-1.fc25.noarch                  19/470 
   Installing  : kbd-misc-2.0.3-3.fc24.noarch                             20/470 
   Installing  : kbd-legacy-2.0.3-3.fc24.noarch                           21/470 
-  Installing  : firewalld-filesystem-0.4.1.2-2.fc25.noarch               22/470 
-  Installing  : dhcp-common-12:4.3.4-1.fc25.noarch                       23/470 
+  Installing  : firewalld-filesystem-0.4.2-1.fc25.noarch                 22/470 
+  Installing  : dhcp-common-12:4.3.4-2.fc25.noarch                       23/470 
   Installing  : ncurses-base-6.0-5.20160116.fc25.noarch                  24/470 
   Installing  : fedora-repos-rawhide-25-0.1.noarch                       25/470 
   Installing  : fedora-repos-25-0.1.noarch                               26/470 
@@ -546,14 +546,14 @@ Running transaction
   Installing  : setup-2.10.2-1.fc25.noarch                               28/470 
   Installing  : filesystem-3.2-37.fc24.x86_64                            29/470 
   Installing  : basesystem-11-2.fc24.noarch                              30/470 
-  Installing  : nss-softokn-freebl-3.23.0-3.fc25.x86_64                  31/470 
+  Installing  : nss-softokn-freebl-3.24.0-2.0.fc25.x86_64                31/470 
   Installing  : glibc-langpack-en-2.23.90-18.fc25.x86_64                 32/470 
   Installing  : glibc-common-2.23.90-18.fc25.x86_64                      33/470 
   Installing  : glibc-2.23.90-18.fc25.x86_64                             34/470 
   Installing  : ncurses-libs-6.0-5.20160116.fc25.x86_64                  35/470 
-  Installing  : bash-4.3.42-4.fc24.x86_64                                36/470 
+  Installing  : bash-4.3.42-5.fc25.x86_64                                36/470 
   Installing  : libsepol-2.5-6.fc25.x86_64                               37/470 
-  Installing  : pcre-8.38-14.fc25.x86_64                                 38/470 
+  Installing  : pcre-8.39-0.1.RC1.fc25.x86_64                            38/470 
   Installing  : libselinux-2.5-6.fc25.x86_64                             39/470 
   Installing  : zlib-1.2.8-10.fc24.x86_64                                40/470 
   Installing  : xz-libs-5.2.2-2.fc24.x86_64                              41/470 
@@ -567,7 +567,7 @@ Running transaction
   Installing  : libuuid-2.28-2.fc25.x86_64                               49/470 
   Installing  : libcap-2.25-2.fc25.x86_64                                50/470 
   Installing  : popt-1.16-7.fc24.x86_64                                  51/470 
-  Installing  : nss-util-3.23.0-4.fc25.x86_64                            52/470 
+  Installing  : nss-util-3.24.0-2.0.fc25.x86_64                          52/470 
   Installing  : readline-6.3-8.fc24.x86_64                               53/470 
   Installing  : grep-2.25-1.fc25.x86_64                                  54/470 
   Installing  : elfutils-libelf-0.166-2.fc25.x86_64                      55/470 
@@ -575,7 +575,7 @@ Running transaction
   Installing  : libcom_err-1.42.13-4.fc24.x86_64                         57/470 
   Installing  : libffi-3.1-9.fc24.x86_64                                 58/470 
   Installing  : libdb-5.3.28-14.fc24.x86_64                              59/470 
-  Installing  : sqlite-libs-3.12.2-1.fc25.x86_64                         60/470 
+  Installing  : sqlite-libs-3.13.0-1.fc25.x86_64                         60/470 
   Installing  : libgcrypt-1.6.4-2.fc24.x86_64                            61/470 
   Installing  : chkconfig-1.7-2.fc24.x86_64                              62/470 
   Installing  : libidn-1.32-2.fc24.x86_64                                63/470 
@@ -584,7 +584,7 @@ Running transaction
   Installing  : libtar-1.2.20-8.fc24.x86_64                              66/470 
   Installing  : libpng-2:1.6.21-2.fc24.x86_64                            67/470 
   Installing  : freetype-2.6.3-2.fc25.x86_64                             68/470 
-  Installing  : libwayland-client-1.10.92-1.fc25.x86_64                  69/470 
+  Installing  : libwayland-client-1.10.93-1.fc25.x86_64                  69/470 
   Installing  : libnl3-3.2.27-3.fc24.x86_64                              70/470 
   Installing  : libjpeg-turbo-1.4.90-1.fc25.x86_64                       71/470 
   Installing  : lua-5.3.2-3.fc24.x86_64                                  72/470 
@@ -594,13 +594,13 @@ Running transaction
   Installing  : sed-4.2.2-15.fc24.x86_64                                 76/470 
   Installing  : kmod-22-4.fc25.x86_64                                    77/470 
   Installing  : p11-kit-0.23.2-2.fc24.x86_64                             78/470 
-  Installing  : libwayland-server-1.10.92-1.fc25.x86_64                  79/470 
+  Installing  : libwayland-server-1.10.93-1.fc25.x86_64                  79/470 
   Installing  : libassuan-2.4.2-2.fc24.x86_64                            80/470 
   Installing  : gawk-4.1.3-3.fc24.x86_64                                 81/470 
   Installing  : libicu-57.1-1.fc25.x86_64                                82/470 
   Installing  : xmlrpc-c-1.32.5-1909.svn2451.fc24.x86_64                 83/470 
   Installing  : lz4-r131-2.fc24.x86_64                                   84/470 
-  Installing  : systemd-libs-229-15.fc25.x86_64                          85/470 
+  Installing  : systemd-libs-230-2.fc25.x86_64                           85/470 
   Installing  : dbus-libs-1:1.11.2-1.fc25.x86_64                         86/470 
   Installing  : libusbx-1.0.21-0.1.git448584a.fc24.x86_64                87/470 
   Installing  : avahi-libs-0.6.32-1.fc25.x86_64                          88/470 
@@ -614,7 +614,7 @@ Running transaction
   Installing  : libxshmfence-1.2-3.fc24.x86_64                           96/470 
   Installing  : pixman-0.34.0-2.fc24.x86_64                              97/470 
   Installing  : libmnl-1.0.3-11.fc24.x86_64                              98/470 
-  Installing  : iproute-4.5.0-4.fc25.x86_64                              99/470 
+  Installing  : iproute-4.6.0-1.fc25.x86_64                              99/470 
   Installing  : json-c-0.12-7.fc24.x86_64                               100/470 
   Installing  : mesa-libwayland-egl-11.3.0-0.4.gitcbcd7b6.fc25.x86_64   101/470 
   Installing  : libogg-2:1.3.2-5.fc24.x86_64                            102/470 
@@ -623,12 +623,12 @@ Running transaction
   Installing  : libSM-1.2.2-4.fc24.x86_64                               105/470 
   Installing  : procps-ng-3.3.10-11.fc24.x86_64                         106/470 
   Installing  : libnl3-cli-3.2.27-3.fc24.x86_64                         107/470 
-  Installing  : nss-softokn-3.23.0-3.fc25.x86_64                        108/470 
+  Installing  : nss-softokn-3.24.0-2.0.fc25.x86_64                      108/470 
   Installing  : e2fsprogs-libs-1.42.13-4.fc24.x86_64                    109/470 
   Installing  : xz-5.2.2-2.fc24.x86_64                                  110/470 
   Installing  : libksba-1.3.4-1.fc25.x86_64                             111/470 
   Installing  : cpio-2.12-3.fc24.x86_64                                 112/470 
-  Installing  : findutils-1:4.6.0-4.fc25.x86_64                         113/470 
+  Installing  : findutils-1:4.6.0-5.fc25.x86_64                         113/470 
   Installing  : libunistring-0.9.4-3.fc24.x86_64                        114/470 
   Installing  : hunspell-en-US-0.20140811.1-5.fc24.noarch               115/470 
   Installing  : hunspell-1.4.1-1.fc25.x86_64                            116/470 
@@ -640,7 +640,7 @@ Running transaction
   Installing  : libX11-1.6.3-3.fc24.x86_64                              122/470 
   Installing  : libXext-1.3.3-4.fc24.x86_64                             123/470 
   Installing  : libXrender-0.9.9-3.fc24.x86_64                          124/470 
-  Installing  : libXfixes-5.0.1-6.fc24.x86_64                           125/470 
+  Installing  : libXfixes-5.0.2-2.fc25.x86_64                           125/470 
   Installing  : libXdamage-1.1.4-8.fc24.x86_64                          126/470 
   Installing  : libXi-1.7.6-2.fc24.x86_64                               127/470 
   Installing  : libXcomposite-0.4.4-8.fc24.x86_64                       128/470 
@@ -650,213 +650,213 @@ Running transaction
   Installing  : libxkbfile-1.0.9-3.fc24.x86_64                          132/470 
   Installing  : libXt-1.1.5-3.fc24.x86_64                               133/470 
   Installing  : slang-2.3.0-5.fc24.x86_64                               134/470 
-  Installing  : libxkbcommon-0.5.0-4.fc24.x86_64                        135/470 
-  Installing  : libtasn1-4.8-1.fc25.x86_64                              136/470 
-  Installing  : p11-kit-trust-0.23.2-2.fc24.x86_64                      137/470 
-  Installing  : ca-certificates-2016.2.7-5.fc25.noarch                  138/470 
-  Installing  : hyphen-2.8.8-4.fc24.x86_64                              139/470 
-  Installing  : libwebp-0.5.0-2.fc24.x86_64                             140/470 
-  Installing  : libaio-0.3.110-6.fc24.x86_64                            141/470 
-  Installing  : npth-1.2-3.fc24.x86_64                                  142/470 
-  Installing  : libpciaccess-0.13.4-3.fc24.x86_64                       143/470 
-  Installing  : libnfnetlink-1.0.1-8.fc24.x86_64                        144/470 
-  Installing  : libnetfilter_conntrack-1.0.4-6.fc24.x86_64              145/470 
-  Installing  : iptables-1.6.0-1.fc25.x86_64                            146/470 
-  Installing  : libhbalinux-1.0.17-3.fc24.x86_64                        147/470 
-  Installing  : device-mapper-persistent-data-0.6.2-0.1.rc8.fc25.x86_   148/470 
-  Installing  : newt-0.52.19-1.fc25.x86_64                              149/470 
-  Installing  : xorg-x11-xkb-utils-7.7-17.fc24.x86_64                   150/470 
-  Installing  : libXtst-1.2.2-6.fc24.x86_64                             151/470 
-  Installing  : libXxf86vm-1.1.4-3.fc24.x86_64                          152/470 
-  Installing  : libXv-1.0.10-4.fc24.x86_64                              153/470 
-  Installing  : libpsl-0.13.0-1.fc25.x86_64                             154/470 
-  Installing  : libteam-1.24-1.fc25.x86_64                              155/470 
-  Installing  : libtheora-1:1.1.1-14.fc24.x86_64                        156/470 
-  Installing  : libvorbis-1:1.3.4-6.fc24.x86_64                         157/470 
-  Installing  : ipset-libs-6.29-1.fc25.x86_64                           158/470 
-  Installing  : ipset-6.29-1.fc25.x86_64                                159/470 
-  Installing  : libusb-1:0.1.5-7.fc24.x86_64                            160/470 
-  Installing  : dhcp-libs-12:4.3.4-1.fc25.x86_64                        161/470 
-  Installing  : rsync-3.1.2-2.fc24.x86_64                               162/470 
-  Installing  : acl-2.2.52-11.fc24.x86_64                               163/470 
-  Installing  : jasper-libs-1.900.1-32.fc24.x86_64                      164/470 
-  Installing  : libwayland-cursor-1.10.92-1.fc25.x86_64                 165/470 
-  Installing  : mpfr-3.1.4-1.fc25.x86_64                                166/470 
-  Installing  : libbytesize-0.7-1.fc25.x86_64                           167/470 
-  Installing  : libdb-utils-5.3.28-14.fc24.x86_64                       168/470 
-  Installing  : cyrus-sasl-lib-2.1.26-26.2.fc24.x86_64                  169/470 
-  Installing  : llvm-libs-3.8.0-1.fc25.x86_64                           170/470 
-  Installing  : libss-1.42.13-4.fc24.x86_64                             171/470 
-  Installing  : isomd5sum-1:1.1.0-2.fc24.x86_64                         172/470 
-  Installing  : mozjs17-17.0.0-15.fc25.x86_64                           173/470 
-  Installing  : diffutils-3.3-13.fc24.x86_64                            174/470 
-  Installing  : libcomps-0.1.7-4.fc25.x86_64                            175/470 
-  Installing  : libmetalink-0.1.2-9.fc24.x86_64                         176/470 
-  Installing  : snappy-1.1.3-2.fc24.x86_64                              177/470 
-  Installing  : libmodman-2.0.1-12.fc24.x86_64                          178/470 
-  Installing  : libproxy-0.4.12-3.fc25.x86_64                           179/470 
-  Installing  : graphite2-1.3.6-1.fc25.x86_64                           180/470 
-  Installing  : libconfig-1.5-4.fc24.x86_64                             181/470 
-  Installing  : xml-common-0.6.3-44.fc24.noarch                         182/470 
-  Installing  : iso-codes-3.68-1.fc25.noarch                            183/470 
-  Installing  : libfontenc-1.1.3-3.fc24.x86_64                          184/470 
-  Installing  : libXfont-1.5.1-4.fc24.x86_64                            185/470 
-  Installing  : lsof-4.89-4.fc25.x86_64                                 186/470 
-  Installing  : libselinux-utils-2.5-6.fc25.x86_64                      187/470 
-  Installing  : mesa-libglapi-11.3.0-0.4.gitcbcd7b6.fc25.x86_64         188/470 
-  Installing  : psmisc-22.21-8.fc24.x86_64                              189/470 
-  Installing  : elfutils-default-yama-scope-0.166-2.fc25.noarch         190/470 
-  Installing  : elfutils-libs-0.166-2.fc25.x86_64                       191/470 
-  Installing  : GeoIP-GeoLite-data-2016.05-1.fc25.noarch                192/470 
-  Installing  : libedit-3.1-14.20150325cvs.fc24.x86_64                  193/470 
-  Installing  : ncurses-6.0-5.20160116.fc25.x86_64                      194/470 
-  Installing  : libndp-1.6-1.fc25.x86_64                                195/470 
-  Installing  : ethtool-2:4.2-2.fc24.x86_64                             196/470 
-  Installing  : dosfstools-4.0-1.fc25.x86_64                            197/470 
-  Installing  : gdbm-1.12-1.fc25.x86_64                                 198/470 
-  Installing  : libXdmcp-1.1.2-3.fc24.x86_64                            199/470 
-  Installing  : jansson-2.7-3.fc24.x86_64                               200/470 
-  Installing  : libdaemon-0.14-10.fc24.x86_64                           201/470 
-  Installing  : teamd-1.24-1.fc25.x86_64                                202/470 
-  Installing  : libnghttp2-1.10.0-1.fc25.x86_64                         203/470 
-  Installing  : hostname-3.15-7.fc24.x86_64                             204/470 
-  Installing  : keyutils-libs-1.5.9-8.fc24.x86_64                       205/470 
-  Installing  : libverto-0.2.6-6.fc24.x86_64                            206/470 
-  Installing  : krb5-libs-1.14.1-5.fc25.x86_64                          207/470 
-  Installing  : openssl-libs-1:1.0.2h-1.fc25.x86_64                     208/470 
-  Installing  : coreutils-8.25-5.fc25.x86_64                            209/470 
-  Installing  : crypto-policies-20160516-1.git8f69c35.fc25.noarch       210/470 
-  Installing  : system-python-libs-3.5.1-7.fc25.x86_64                  211/470 
-  Installing  : libblkid-2.28-2.fc25.x86_64                             212/470 
-  Installing  : fontconfig-2.11.95-1.fc25.x86_64                        213/470 
-  Installing  : gnutls-3.4.11-1.fc25.x86_64                             214/470 
-  Installing  : libmount-2.28-2.fc25.x86_64                             215/470 
-  Installing  : cups-libs-1:2.1.3-1.fc24.x86_64                         216/470 
-  Installing  : glib2-2.48.1-1.fc25.x86_64                              217/470 
-  Installing  : shared-mime-info-1.6-1.fc24.x86_64                      218/470 
-  Installing  : gdk-pixbuf2-2.35.1-1.fc25.x86_64                        219/470 
-  Installing  : atk-2.20.0-1.fc25.x86_64                                220/470 
-  Installing  : libblockdev-utils-1.5-1.fc25.x86_64                     221/470 
-  Installing  : libgudev-230-3.fc24.x86_64                              222/470 
-  Installing  : polkit-libs-0.113-5.fc24.x86_64                         223/470 
-  Installing  : harfbuzz-1.2.7-1.fc25.x86_64                            224/470 
-  Installing  : dbus-glib-0.106-1.fc24.x86_64                           225/470 
-  Installing  : libxklavier-5.4-6.fc24.x86_64                           226/470 
-  Installing  : json-glib-1.2.0-1.fc25.x86_64                           227/470 
-  Installing  : gstreamer1-1.8.1-1.fc25.x86_64                          228/470 
-  Installing  : libsecret-0.18.5-1.fc25.x86_64                          229/470 
-  Installing  : harfbuzz-icu-1.2.7-1.fc25.x86_64                        230/470 
-  Installing  : libblockdev-1.5-1.fc25.x86_64                           231/470 
-  Installing  : libnotify-0.7.6-8.fc24.x86_64                           232/470 
-  Installing  : gtk-update-icon-cache-3.21.1-1.fc25.x86_64              233/470 
-  Installing  : enchant-1:1.6.0-14.fc25.x86_64                          234/470 
-  Installing  : webkitgtk4-jsc-2.12.2-2.fc25.x86_64                     235/470 
-  Installing  : gobject-introspection-1.48.0-1.fc25.x86_64              236/470 
-  Installing  : gzip-1.7-1.fc25.x86_64                                  237/470 
-  Installing  : cracklib-2.9.6-2.fc24.x86_64                            238/470 
-  Installing  : pam-1.3.0-1.fc25.x86_64                                 239/470 
-  Installing  : libpwquality-1.3.0-5.fc25.x86_64                        240/470 
-  Installing  : hicolor-icon-theme-0.15-3.fc24.noarch                   241/470 
-  Installing  : cracklib-dicts-2.9.6-2.fc24.x86_64                      242/470 
-  Installing  : libgusb-0.2.9-1.fc25.x86_64                             243/470 
-  Installing  : ModemManager-glib-1.6-0.3.rc3.fc25.x86_64               244/470 
-  Installing  : avahi-glib-0.6.32-1.fc25.x86_64                         245/470 
-  Installing  : gsettings-desktop-schemas-3.20.0-1.fc25.x86_64          246/470 
-  Installing  : glib-networking-2.48.2-1.fc25.x86_64                    247/470 
+  Installing  : libtasn1-4.8-1.fc25.x86_64                              135/470 
+  Installing  : p11-kit-trust-0.23.2-2.fc24.x86_64                      136/470 
+  Installing  : ca-certificates-2016.2.7-5.fc25.noarch                  137/470 
+  Installing  : hyphen-2.8.8-4.fc24.x86_64                              138/470 
+  Installing  : libwebp-0.5.0-2.fc24.x86_64                             139/470 
+  Installing  : libaio-0.3.110-6.fc24.x86_64                            140/470 
+  Installing  : npth-1.2-3.fc24.x86_64                                  141/470 
+  Installing  : libpciaccess-0.13.4-3.fc24.x86_64                       142/470 
+  Installing  : libnfnetlink-1.0.1-8.fc24.x86_64                        143/470 
+  Installing  : libnetfilter_conntrack-1.0.4-6.fc24.x86_64              144/470 
+  Installing  : iptables-1.6.0-1.fc25.x86_64                            145/470 
+  Installing  : libhbalinux-1.0.17-3.fc24.x86_64                        146/470 
+  Installing  : device-mapper-persistent-data-0.6.2-0.1.rc8.fc25.x86_   147/470 
+  Installing  : newt-0.52.19-1.fc25.x86_64                              148/470 
+  Installing  : xorg-x11-xkb-utils-7.7-17.fc24.x86_64                   149/470 
+  Installing  : libXtst-1.2.2-6.fc24.x86_64                             150/470 
+  Installing  : libXxf86vm-1.1.4-3.fc24.x86_64                          151/470 
+  Installing  : libXv-1.0.10-4.fc24.x86_64                              152/470 
+  Installing  : libpsl-0.13.0-1.fc25.x86_64                             153/470 
+  Installing  : libteam-1.25-1.fc25.x86_64                              154/470 
+  Installing  : libtheora-1:1.1.1-14.fc24.x86_64                        155/470 
+  Installing  : libvorbis-1:1.3.4-6.fc24.x86_64                         156/470 
+  Installing  : ipset-libs-6.29-1.fc25.x86_64                           157/470 
+  Installing  : ipset-6.29-1.fc25.x86_64                                158/470 
+  Installing  : libusb-1:0.1.5-7.fc24.x86_64                            159/470 
+  Installing  : dhcp-libs-12:4.3.4-2.fc25.x86_64                        160/470 
+  Installing  : rsync-3.1.2-2.fc24.x86_64                               161/470 
+  Installing  : acl-2.2.52-11.fc24.x86_64                               162/470 
+  Installing  : jasper-libs-1.900.1-32.fc24.x86_64                      163/470 
+  Installing  : libwayland-cursor-1.10.93-1.fc25.x86_64                 164/470 
+  Installing  : mpfr-3.1.4-1.fc25.x86_64                                165/470 
+  Installing  : libbytesize-0.7-1.fc25.x86_64                           166/470 
+  Installing  : libdb-utils-5.3.28-14.fc24.x86_64                       167/470 
+  Installing  : cyrus-sasl-lib-2.1.26-26.2.fc24.x86_64                  168/470 
+  Installing  : llvm-libs-3.8.0-1.fc25.x86_64                           169/470 
+  Installing  : libss-1.42.13-4.fc24.x86_64                             170/470 
+  Installing  : isomd5sum-1:1.1.0-2.fc24.x86_64                         171/470 
+  Installing  : mozjs17-17.0.0-15.fc25.x86_64                           172/470 
+  Installing  : diffutils-3.3-13.fc24.x86_64                            173/470 
+  Installing  : libcomps-0.1.7-4.fc25.x86_64                            174/470 
+  Installing  : libmetalink-0.1.2-9.fc24.x86_64                         175/470 
+  Installing  : snappy-1.1.3-2.fc24.x86_64                              176/470 
+  Installing  : libmodman-2.0.1-12.fc24.x86_64                          177/470 
+  Installing  : libproxy-0.4.12-3.fc25.x86_64                           178/470 
+  Installing  : graphite2-1.3.6-1.fc25.x86_64                           179/470 
+  Installing  : libconfig-1.5-4.fc24.x86_64                             180/470 
+  Installing  : xml-common-0.6.3-44.fc24.noarch                         181/470 
+  Installing  : iso-codes-3.68-1.fc25.noarch                            182/470 
+  Installing  : libfontenc-1.1.3-3.fc24.x86_64                          183/470 
+  Installing  : libXfont-1.5.1-4.fc24.x86_64                            184/470 
+  Installing  : lsof-4.89-4.fc25.x86_64                                 185/470 
+  Installing  : libselinux-utils-2.5-6.fc25.x86_64                      186/470 
+  Installing  : mesa-libglapi-11.3.0-0.4.gitcbcd7b6.fc25.x86_64         187/470 
+  Installing  : psmisc-22.21-8.fc24.x86_64                              188/470 
+  Installing  : elfutils-default-yama-scope-0.166-2.fc25.noarch         189/470 
+  Installing  : elfutils-libs-0.166-2.fc25.x86_64                       190/470 
+  Installing  : GeoIP-GeoLite-data-2016.05-1.fc25.noarch                191/470 
+  Installing  : libedit-3.1-14.20150325cvs.fc24.x86_64                  192/470 
+  Installing  : ncurses-6.0-5.20160116.fc25.x86_64                      193/470 
+  Installing  : libndp-1.6-1.fc25.x86_64                                194/470 
+  Installing  : ethtool-2:4.2-2.fc24.x86_64                             195/470 
+  Installing  : dosfstools-4.0-1.fc25.x86_64                            196/470 
+  Installing  : gdbm-1.12-1.fc25.x86_64                                 197/470 
+  Installing  : libXdmcp-1.1.2-3.fc24.x86_64                            198/470 
+  Installing  : jansson-2.7-3.fc24.x86_64                               199/470 
+  Installing  : libdaemon-0.14-10.fc24.x86_64                           200/470 
+  Installing  : teamd-1.25-1.fc25.x86_64                                201/470 
+  Installing  : libnghttp2-1.11.1-1.fc25.x86_64                         202/470 
+  Installing  : hostname-3.15-7.fc24.x86_64                             203/470 
+  Installing  : keyutils-libs-1.5.9-8.fc24.x86_64                       204/470 
+  Installing  : libverto-0.2.6-6.fc24.x86_64                            205/470 
+  Installing  : krb5-libs-1.14.1-6.fc25.x86_64                          206/470 
+  Installing  : openssl-libs-1:1.0.2h-1.fc25.x86_64                     207/470 
+  Installing  : coreutils-8.25-5.fc25.x86_64                            208/470 
+  Installing  : crypto-policies-20160516-1.git8f69c35.fc25.noarch       209/470 
+  Installing  : system-python-libs-3.5.1-7.fc25.x86_64                  210/470 
+  Installing  : libblkid-2.28-2.fc25.x86_64                             211/470 
+  Installing  : fontconfig-2.11.95-1.fc25.x86_64                        212/470 
+  Installing  : gnutls-3.4.12-1.fc25.x86_64                             213/470 
+  Installing  : libmount-2.28-2.fc25.x86_64                             214/470 
+  Installing  : cups-libs-1:2.1.3-1.fc24.x86_64                         215/470 
+  Installing  : glib2-2.49.1-1.fc25.x86_64                              216/470 
+  Installing  : shared-mime-info-1.6-1.fc24.x86_64                      217/470 
+  Installing  : gdk-pixbuf2-2.35.1-1.fc25.x86_64                        218/470 
+  Installing  : atk-2.20.0-1.fc25.x86_64                                219/470 
+  Installing  : libblockdev-utils-1.5-1.fc25.x86_64                     220/470 
+  Installing  : libgudev-230-3.fc24.x86_64                              221/470 
+  Installing  : polkit-libs-0.113-5.fc24.x86_64                         222/470 
+  Installing  : harfbuzz-1.2.7-1.fc25.x86_64                            223/470 
+  Installing  : dbus-glib-0.106-1.fc24.x86_64                           224/470 
+  Installing  : libxklavier-5.4-6.fc24.x86_64                           225/470 
+  Installing  : json-glib-1.2.0-1.fc25.x86_64                           226/470 
+  Installing  : gstreamer1-1.8.1-1.fc25.x86_64                          227/470 
+  Installing  : libsecret-0.18.5-1.fc25.x86_64                          228/470 
+  Installing  : harfbuzz-icu-1.2.7-1.fc25.x86_64                        229/470 
+  Installing  : libblockdev-1.5-1.fc25.x86_64                           230/470 
+  Installing  : libnotify-0.7.6-8.fc24.x86_64                           231/470 
+  Installing  : gtk-update-icon-cache-3.21.1-1.fc25.x86_64              232/470 
+  Installing  : enchant-1:1.6.0-14.fc25.x86_64                          233/470 
+  Installing  : webkitgtk4-jsc-2.13.1-1.fc25.x86_64                     234/470 
+  Installing  : gobject-introspection-1.48.0-1.fc25.x86_64              235/470 
+  Installing  : gzip-1.7-1.fc25.x86_64                                  236/470 
+  Installing  : cracklib-2.9.6-2.fc24.x86_64                            237/470 
+  Installing  : pam-1.3.0-1.fc25.x86_64                                 238/470 
+  Installing  : libpwquality-1.3.0-5.fc25.x86_64                        239/470 
+  Installing  : hicolor-icon-theme-0.15-3.fc24.noarch                   240/470 
+  Installing  : cracklib-dicts-2.9.6-2.fc24.x86_64                      241/470 
+  Installing  : libgusb-0.2.9-1.fc25.x86_64                             242/470 
+  Installing  : ModemManager-glib-1.6-0.3.rc3.fc25.x86_64               243/470 
+  Installing  : avahi-glib-0.6.32-1.fc25.x86_64                         244/470 
+  Installing  : gsettings-desktop-schemas-3.21.2-1.fc25.x86_64          245/470 
+  Installing  : glib-networking-2.48.2-1.fc25.x86_64                    246/470 
 Error in GnuTLS initialization: Failed to acquire random data.
-  Installing  : libsoup-2.54.1-1.fc25.x86_64                            248/470 
-  Installing  : rest-0.8.0-1.fc25.x86_64                                249/470 
-  Installing  : pkgconfig-1:0.29.1-1.fc25.x86_64                        250/470 
-  Installing  : libXft-2.3.2-4.fc24.x86_64                              251/470 
-  Installing  : e2fsprogs-1.42.13-4.fc24.x86_64                         252/470 
-  Installing  : libfdisk-2.28-2.fc25.x86_64                             253/470 
-  Installing  : btrfs-progs-4.5.3-1.fc25.x86_64                         254/470 
-  Installing  : libblockdev-btrfs-1.5-1.fc25.x86_64                     255/470 
-  Installing  : python3-libs-3.5.1-7.fc25.x86_64                        256/470 
-  Installing  : python3-setuptools-20.9.0-1.fc25.noarch                 257/470 
-  Installing  : python3-pip-8.0.2-1.fc24.noarch                         258/470 
-  Installing  : python3-3.5.1-7.fc25.x86_64                             259/470 
-  Installing  : python3-six-1.10.0-2.fc24.noarch                        260/470 
-  Installing  : python3-gobject-base-3.21.0-1.fc25.x86_64               261/470 
-  Installing  : python3-dbus-1.2.4-1.fc25.x86_64                        262/470 
-  Installing  : libselinux-python3-2.5-6.fc25.x86_64                    263/470 
-  Installing  : python3-ordered-set-2.0.0-3.fc24.noarch                 264/470 
-  Installing  : python3-decorator-4.0.9-1.fc25.noarch                   265/470 
-  Installing  : python3-slip-0.6.4-3.fc24.noarch                        266/470 
-  Installing  : python3-slip-dbus-0.6.4-3.fc24.noarch                   267/470 
-  Installing  : python3-firewall-0.4.1.2-2.fc25.noarch                  268/470 
-  Installing  : python3-blockdev-1.5-1.fc25.x86_64                      269/470 
-  Installing  : python3-bytesize-0.7-1.fc25.x86_64                      270/470 
-  Installing  : python3-pyudev-0.20.0-2.fc25.noarch                     271/470 
-  Installing  : python3-iniparse-0.4-19.fc25.noarch                     272/470 
-  Installing  : langtable-python3-0.0.34-4.fc24.noarch                  273/470 
-  Installing  : python3-coverage-4.1-0.5.b3.fc25.x86_64                 274/470 
-  Installing  : python3-ntplib-0.3.3-3.fc24.noarch                      275/470 
-  Installing  : python3-pid-2.0.1-4.fc24.noarch                         276/470 
-  Installing  : python3-pwquality-1.3.0-5.fc25.x86_64                   277/470 
-  Installing  : python3-pytz-2016.4-2.fc25.noarch                       278/470 
-  Installing  : python3-wrapt-1.10.8-1.fc25.x86_64                      279/470 
-  Installing  : newt-python3-0.52.19-1.fc25.x86_64                      280/470 
-  Installing  : python3-sssdconfig-1.13.4-3.fc25.noarch                 281/470 
-  Installing  : python3-libcomps-0.1.7-4.fc25.x86_64                    282/470 
-  Installing  : python3-chardet-2.2.1-5.fc24.noarch                     283/470 
-  Installing  : python3-pysocks-1.5.6-3.fc25.noarch                     284/470 
-  Installing  : python3-urllib3-1.15.1-1.fc25.noarch                    285/470 
-  Installing  : python3-requests-2.10.0-1.fc25.noarch                   286/470 
-  Installing  : python3-kickstart-2.30-1.fc25.noarch                    287/470 
-  Installing  : python3-requests-file-1.4-3.fc24.noarch                 288/470 
-  Installing  : python3-requests-ftp-0.3.1-3.fc24.noarch                289/470 
-  Installing  : bcache-tools-1.0.8-5.fc24.x86_64                        290/470 
-  Installing  : libblockdev-kbd-1.5-1.fc25.x86_64                       291/470 
-  Installing  : nss-3.23.0-9.fc25.x86_64                                292/470 
-  Installing  : nss-sysinit-3.23.0-9.fc25.x86_64                        293/470 
-  Installing  : NetworkManager-libnm-1:1.2.2-1.fc25.x86_64              294/470 
-  Installing  : nss-tools-3.23.0-9.fc25.x86_64                          295/470 
-  Installing  : openldap-2.4.44-1.fc25.x86_64                           296/470 
-  Installing  : gnupg2-2.1.12-1.fc25.x86_64                             297/470 
-  Installing  : gpgme-1.4.3-7.fc24.x86_64                               298/470 
-  Installing  : libuser-0.62-3.fc24.x86_64                              299/470 
-  Installing  : passwd-0.79-8.fc24.x86_64                               300/470 
-  Installing  : python3-pygpgme-0.3-15.fc24.x86_64                      301/470 
-  Installing  : alsa-lib-1.1.1-1.fc25.x86_64                            302/470 
-  Installing  : fedora-logos-22.0.0-3.fc24.x86_64                       303/470 
-  Installing  : hfsplus-tools-540.1.linux3-11.fc24.x86_64               304/470 
-  Installing  : bind99-libs-9.9.8-4.P4.fc25.x86_64                      305/470 
-  Installing  : libssh2-1.7.0-5.fc25.x86_64                             306/470 
-  Installing  : libcurl-7.49.0-1.fc25.x86_64                            307/470 
-  Installing  : xmlrpc-c-client-1.32.5-1909.svn2451.fc24.x86_64         308/470 
-  Installing  : curl-7.49.0-1.fc25.x86_64                               309/470 
-  Installing  : librepo-1.7.18-2.fc25.x86_64                            310/470 
-  Installing  : python3-librepo-1.7.18-2.fc25.x86_64                    311/470 
-  Installing  : gnupg-1.4.20-2.fc24.x86_64                              312/470 
-  Installing  : libarchive-3.2.0-3.fc25.x86_64                          313/470 
-  Installing  : rpm-plugin-selinux-4.13.0-0.rc1.34.fc25.x86_64          314/470 
-  Installing  : rpm-libs-4.13.0-0.rc1.34.fc25.x86_64                    315/470 
-  Installing  : rpm-4.13.0-0.rc1.34.fc25.x86_64                         316/470 
-  Installing  : satyr-0.21-1.fc25.x86_64                                317/470 
-  Installing  : libreport-2.7.1-1.fc25.x86_64                           318/470 
-  Installing  : libreport-web-2.7.1-1.fc25.x86_64                       319/470 
-  Installing  : libreport-plugin-reportuploader-2.7.1-1.fc25.x86_64     320/470 
-  Installing  : drpm-0.2.1-1.fc25.x86_64                                321/470 
-  Installing  : libsolv-0.6.21-1.fc25.x86_64                            322/470 
-  Installing  : hawkey-0.6.3-2.fc25.x86_64                              323/470 
-  Installing  : python3-hawkey-0.6.3-2.fc25.x86_64                      324/470 
-  Installing  : createrepo_c-libs-0.10.0-5.fc25.x86_64                  325/470 
-  Installing  : createrepo_c-0.10.0-5.fc25.x86_64                       326/470 
-  Installing  : libreport-plugin-bugzilla-2.7.1-1.fc25.x86_64           327/470 
-  Installing  : libreport-anaconda-2.7.1-1.fc25.x86_64                  328/470 
-  Installing  : libreport-cli-2.7.1-1.fc25.x86_64                       329/470 
-  Installing  : deltarpm-3.6-16.fc25.x86_64                             330/470 
-  Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.34.fc25.x86_6   331/470 
-  Installing  : rpm-build-libs-4.13.0-0.rc1.34.fc25.x86_64              332/470 
-  Installing  : rpm-python3-4.13.0-0.rc1.34.fc25.x86_64                 333/470 
-  Installing  : python3-dnf-1.1.8-1.fc25.noarch                         334/470 
-  Installing  : trousers-lib-0.3.13-6.fc24.x86_64                       335/470 
-  Installing  : libepoxy-1.3.1-2.fc24.x86_64                            336/470 
+  Installing  : libsoup-2.54.1-1.fc25.x86_64                            247/470 
+  Installing  : rest-0.8.0-1.fc25.x86_64                                248/470 
+  Installing  : pkgconfig-1:0.29.1-1.fc25.x86_64                        249/470 
+  Installing  : libXft-2.3.2-4.fc24.x86_64                              250/470 
+  Installing  : e2fsprogs-1.42.13-4.fc24.x86_64                         251/470 
+  Installing  : libfdisk-2.28-2.fc25.x86_64                             252/470 
+  Installing  : btrfs-progs-4.5.3-1.fc25.x86_64                         253/470 
+  Installing  : libblockdev-btrfs-1.5-1.fc25.x86_64                     254/470 
+  Installing  : python3-libs-3.5.1-7.fc25.x86_64                        255/470 
+  Installing  : python3-setuptools-21.2.2-1.fc25.noarch                 256/470 
+  Installing  : python3-pip-8.1.2-1.fc25.noarch                         257/470 
+  Installing  : python3-3.5.1-7.fc25.x86_64                             258/470 
+  Installing  : python3-six-1.10.0-2.fc24.noarch                        259/470 
+  Installing  : python3-gobject-base-3.21.0-1.fc25.x86_64               260/470 
+  Installing  : python3-dbus-1.2.4-1.fc25.x86_64                        261/470 
+  Installing  : libselinux-python3-2.5-6.fc25.x86_64                    262/470 
+  Installing  : python3-ordered-set-2.0.0-3.fc24.noarch                 263/470 
+  Installing  : python3-decorator-4.0.9-1.fc25.noarch                   264/470 
+  Installing  : python3-slip-0.6.4-3.fc24.noarch                        265/470 
+  Installing  : python3-slip-dbus-0.6.4-3.fc24.noarch                   266/470 
+  Installing  : python3-firewall-0.4.2-1.fc25.noarch                    267/470 
+  Installing  : python3-blockdev-1.5-1.fc25.x86_64                      268/470 
+  Installing  : python3-bytesize-0.7-1.fc25.x86_64                      269/470 
+  Installing  : python3-pyudev-0.20.0-2.fc25.noarch                     270/470 
+  Installing  : python3-iniparse-0.4-19.fc25.noarch                     271/470 
+  Installing  : langtable-python3-0.0.34-4.fc24.noarch                  272/470 
+  Installing  : python3-coverage-4.1-0.5.b3.fc25.x86_64                 273/470 
+  Installing  : python3-ntplib-0.3.3-3.fc24.noarch                      274/470 
+  Installing  : python3-pid-2.0.1-4.fc24.noarch                         275/470 
+  Installing  : python3-pwquality-1.3.0-5.fc25.x86_64                   276/470 
+  Installing  : python3-pytz-2016.4-2.fc25.noarch                       277/470 
+  Installing  : python3-wrapt-1.10.8-1.fc25.x86_64                      278/470 
+  Installing  : newt-python3-0.52.19-1.fc25.x86_64                      279/470 
+  Installing  : python3-sssdconfig-1.13.4-3.fc25.noarch                 280/470 
+  Installing  : python3-libcomps-0.1.7-4.fc25.x86_64                    281/470 
+  Installing  : python3-chardet-2.2.1-5.fc24.noarch                     282/470 
+  Installing  : python3-pysocks-1.5.6-3.fc25.noarch                     283/470 
+  Installing  : python3-urllib3-1.15.1-1.fc25.noarch                    284/470 
+  Installing  : python3-requests-2.10.0-1.fc25.noarch                   285/470 
+  Installing  : python3-kickstart-2.30-1.fc25.noarch                    286/470 
+  Installing  : python3-requests-file-1.4-3.fc24.noarch                 287/470 
+  Installing  : python3-requests-ftp-0.3.1-3.fc24.noarch                288/470 
+  Installing  : bcache-tools-1.0.8-5.fc24.x86_64                        289/470 
+  Installing  : libblockdev-kbd-1.5-1.fc25.x86_64                       290/470 
+  Installing  : nss-3.24.0-2.1.fc25.x86_64                              291/470 
+  Installing  : nss-sysinit-3.24.0-2.1.fc25.x86_64                      292/470 
+  Installing  : NetworkManager-libnm-1:1.2.2-1.fc25.x86_64              293/470 
+  Installing  : nss-tools-3.24.0-2.1.fc25.x86_64                        294/470 
+  Installing  : openldap-2.4.44-2.fc25.x86_64                           295/470 
+  Installing  : gnupg2-2.1.12-1.fc25.x86_64                             296/470 
+  Installing  : gpgme-1.4.3-7.fc24.x86_64                               297/470 
+  Installing  : libuser-0.62-3.fc24.x86_64                              298/470 
+  Installing  : passwd-0.79-8.fc24.x86_64                               299/470 
+  Installing  : python3-pygpgme-0.3-15.fc24.x86_64                      300/470 
+  Installing  : alsa-lib-1.1.1-1.fc25.x86_64                            301/470 
+  Installing  : fedora-logos-22.0.0-3.fc24.x86_64                       302/470 
+  Installing  : hfsplus-tools-540.1.linux3-11.fc24.x86_64               303/470 
+  Installing  : bind99-libs-9.9.9-1.P1.fc25.x86_64                      304/470 
+  Installing  : libssh2-1.7.0-5.fc25.x86_64                             305/470 
+  Installing  : libcurl-7.49.1-1.fc25.x86_64                            306/470 
+  Installing  : xmlrpc-c-client-1.32.5-1909.svn2451.fc24.x86_64         307/470 
+  Installing  : curl-7.49.1-1.fc25.x86_64                               308/470 
+  Installing  : librepo-1.7.18-2.fc25.x86_64                            309/470 
+  Installing  : python3-librepo-1.7.18-2.fc25.x86_64                    310/470 
+  Installing  : gnupg-1.4.20-2.fc24.x86_64                              311/470 
+  Installing  : libarchive-3.2.0-3.fc25.x86_64                          312/470 
+  Installing  : rpm-plugin-selinux-4.13.0-0.rc1.36.fc25.x86_64          313/470 
+  Installing  : rpm-libs-4.13.0-0.rc1.36.fc25.x86_64                    314/470 
+  Installing  : rpm-4.13.0-0.rc1.36.fc25.x86_64                         315/470 
+  Installing  : satyr-0.21-1.fc25.x86_64                                316/470 
+  Installing  : libreport-2.7.1-1.fc25.x86_64                           317/470 
+  Installing  : libreport-web-2.7.1-1.fc25.x86_64                       318/470 
+  Installing  : libreport-plugin-reportuploader-2.7.1-1.fc25.x86_64     319/470 
+  Installing  : drpm-0.3.0-3.fc25.x86_64                                320/470 
+  Installing  : libsolv-0.6.21-2.fc25.x86_64                            321/470 
+  Installing  : hawkey-0.6.3-2.fc25.x86_64                              322/470 
+  Installing  : python3-hawkey-0.6.3-2.fc25.x86_64                      323/470 
+  Installing  : createrepo_c-libs-0.10.0-5.fc25.x86_64                  324/470 
+  Installing  : createrepo_c-0.10.0-5.fc25.x86_64                       325/470 
+  Installing  : libreport-plugin-bugzilla-2.7.1-1.fc25.x86_64           326/470 
+  Installing  : libreport-anaconda-2.7.1-1.fc25.x86_64                  327/470 
+  Installing  : libreport-cli-2.7.1-1.fc25.x86_64                       328/470 
+  Installing  : deltarpm-3.6-16.fc25.x86_64                             329/470 
+  Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.36.fc25.x86_6   330/470 
+  Installing  : rpm-build-libs-4.13.0-0.rc1.36.fc25.x86_64              331/470 
+  Installing  : rpm-python3-4.13.0-0.rc1.36.fc25.x86_64                 332/470 
+  Installing  : python3-dnf-1.1.9-2.fc25.noarch                         333/470 
+  Installing  : trousers-lib-0.3.13-6.fc24.x86_64                       334/470 
+  Installing  : libepoxy-1.3.1-2.fc24.x86_64                            335/470 
+  Installing  : libxkbcommon-0.5.0-4.fc24.x86_64                        336/470 
   Installing  : qrencode-libs-3.4.2-6.fc24.x86_64                       337/470 
   Installing  : ustr-1.0.4-21.fc24.x86_64                               338/470 
   Installing  : libsemanage-2.5-4.fc25.x86_64                           339/470 
-  Installing  : shadow-utils-2:4.2.1-8.fc25.x86_64                      340/470 
+  Installing  : shadow-utils-2:4.2.1-10.fc25.x86_64                     340/470 
   Installing  : libutempter-1.1.6-8.fc24.x86_64                         341/470 
   Installing  : lcms2-2.7-4.fc25.x86_64                                 342/470 
   Installing  : colord-libs-1.3.2-3.fc25.x86_64                         343/470 
@@ -878,18 +878,18 @@ Error in GnuTLS initialization: Failed to acquire random data.
   Installing  : sgpio-1.2.0.10-16.fc24.x86_64                           359/470 
   Installing  : libsmartcols-2.28-2.fc25.x86_64                         360/470 
   Installing  : util-linux-2.28-2.fc25.x86_64                           361/470 
-  Installing  : systemd-pam-229-15.fc25.x86_64                          362/470 
-  Installing  : systemd-229-15.fc25.x86_64                              363/470 
+  Installing  : systemd-pam-230-2.fc25.x86_64                           362/470 
+  Installing  : systemd-230-2.fc25.x86_64                               363/470 
   Installing  : dbus-1:1.11.2-1.fc25.x86_64                             364/470 
   Installing  : device-mapper-libs-1.02.125-1.fc25.x86_64               365/470 
   Installing  : device-mapper-1.02.125-1.fc25.x86_64                    366/470 
   Installing  : device-mapper-event-libs-1.02.125-1.fc25.x86_64         367/470 
   Installing  : libdrm-2.4.68-1.fc25.x86_64                             368/470 
   Installing  : mesa-libGL-11.3.0-0.4.gitcbcd7b6.fc25.x86_64            369/470 
-  Installing  : parted-3.2-19.fc25.x86_64                               370/470 
+  Installing  : parted-3.2-20.fc25.x86_64                               370/470 
   Installing  : iputils-20160308-2.fc25.x86_64                          371/470 
   Installing  : initscripts-9.66-1.fc25.x86_64                          372/470 
-  Installing  : dhcp-client-12:4.3.4-1.fc25.x86_64                      373/470 
+  Installing  : dhcp-client-12:4.3.4-2.fc25.x86_64                      373/470 
   Installing  : python3-pyparted-1:3.10.7-3.fc24.x86_64                 374/470 
   Installing  : device-mapper-event-1.02.125-1.fc25.x86_64              375/470 
 Failed to connect to bus: No such file or directory
@@ -907,7 +907,7 @@ Failed to connect to bus: No such file or directory
   Installing  : dracut-network-044-18.git20160108.fc24.x86_64           387/470 
   Installing  : kexec-tools-2.0.12-3.fc25.x86_64                        388/470 
   Installing  : libblockdev-dm-1.5-1.fc25.x86_64                        389/470 
-  Installing  : systemd-udev-229-15.fc25.x86_64                         390/470 
+  Installing  : systemd-udev-230-2.fc25.x86_64                          390/470 
 Failed to open /dev/urandom: No such file or directory
   Installing  : volume_key-libs-0.3.9-9.fc24.x86_64                     391/470 
   Installing  : libblockdev-crypto-1.5-1.fc25.x86_64                    392/470 
@@ -931,7 +931,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : python3-gobject-3.21.0-1.fc25.x86_64                    406/470 
   Installing  : fros-1.1-8.fc24.noarch                                  407/470 
   Installing  : mesa-dri-drivers-11.3.0-0.4.gitcbcd7b6.fc25.x86_64      408/470 
-  Installing  : tigervnc-server-minimal-1.6.0-3.fc24.x86_64             409/470 
+  Installing  : tigervnc-server-minimal-1.6.0-4.fc25.x86_64             409/470 
   Installing  : device-mapper-multipath-libs-0.4.9-82.fc25.x86_64       410/470 
   Installing  : device-mapper-multipath-0.4.9-82.fc25.x86_64            411/470 
   Installing  : libblockdev-mpath-1.5-1.fc25.x86_64                     412/470 
@@ -942,12 +942,12 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : libnma-1.2.2-1.fc25.x86_64                              417/470 
   Installing  : nm-connection-editor-1.2.2-1.fc25.x86_64                418/470 
   Installing  : glade-libs-3.20.0-1.fc25.x86_64                         419/470 
-  Installing  : anaconda-widgets-25.14-0.1.20160520004927.fc25.x86_64   420/470 
+  Installing  : anaconda-widgets-25.16-0.1.20160601204932.fc25.x86_64   420/470 
   Installing  : keybinder3-0.3.0-6.fc24.x86_64                          421/470 
   Installing  : libtimezonemap-0.4.5-2.fc24.x86_64                      422/470 
   Installing  : libreport-gtk-2.7.1-1.fc25.x86_64                       423/470 
   Installing  : geoclue2-2.4.3-1.fc25.x86_64                            424/470 
-  Installing  : webkitgtk4-2.12.2-2.fc25.x86_64                         425/470 
+  Installing  : webkitgtk4-2.13.1-1.fc25.x86_64                         425/470 
   Installing  : yelp-libs-2:3.20.1-1.fc25.x86_64                        426/470 
   Installing  : yelp-2:3.20.1-1.fc25.x86_64                             427/470 
   Installing  : GConf2-3.2.6-16.fc24.x86_64                             428/470 
@@ -957,10 +957,10 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : NetworkManager-1:1.2.2-1.fc25.x86_64                    432/470 
   Installing  : NetworkManager-team-1:1.2.2-1.fc25.x86_64               433/470 
   Installing  : ebtables-2.0.10-20.fc25.x86_64                          434/470 
-  Installing  : firewalld-0.4.1.2-2.fc25.noarch                         435/470 
+  Installing  : firewalld-0.4.2-1.fc25.noarch                           435/470 
   Installing  : wpa_supplicant-1:2.5-5.fc24.x86_64                      436/470 
   Installing  : NetworkManager-wifi-1:1.2.2-1.fc25.x86_64               437/470 
-  Installing  : dnf-1.1.8-1.fc25.noarch                                 438/470 
+  Installing  : dnf-1.1.9-2.fc25.noarch                                 438/470 
   Installing  : libreport-python3-2.7.1-1.fc25.x86_64                   439/470 
   Installing  : python3-meh-0.44-1.fc24.noarch                          440/470 
   Installing  : python3-meh-gui-0.44-1.fc24.noarch                      441/470 
@@ -976,14 +976,14 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-swap-1.5-1.fc25.x86_64                      451/470 
   Installing  : libblockdev-plugins-all-1.5-1.fc25.x86_64               452/470 
   Installing  : python3-blivet-1:2.1.0-1.fc25.noarch                    453/470 
-  Installing  : anaconda-tui-25.14-0.1.20160520004927.fc25.x86_64       454/470 
-  Installing  : anaconda-core-25.14-0.1.20160520004927.fc25.x86_64      455/470 
+  Installing  : anaconda-tui-25.16-0.1.20160601204932.fc25.x86_64       454/470 
+  Installing  : anaconda-core-25.16-0.1.20160601204932.fc25.x86_64      455/470 
   Installing  : linux-atm-libs-2.5.1-14.fc24.x86_64                     456/470 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   457/470 
-  Installing  : anaconda-gui-25.14-0.1.20160520004927.fc25.x86_64       458/470 
-  Installing  : anaconda-25.14-0.1.20160520004927.fc25.x86_64           459/470 
-  Installing  : iproute-tc-4.5.0-4.fc25.x86_64                          460/470 
-  Installing  : webkitgtk4-plugin-process-gtk2-2.12.2-2.fc25.x86_64     461/470 
+  Installing  : anaconda-gui-25.16-0.1.20160601204932.fc25.x86_64       458/470 
+  Installing  : anaconda-25.16-0.1.20160601204932.fc25.x86_64           459/470 
+  Installing  : iproute-tc-4.6.0-1.fc25.x86_64                          460/470 
+  Installing  : webkitgtk4-plugin-process-gtk2-2.13.1-1.fc25.x86_64     461/470 
   Installing  : timedatex-0.4-2.fc24.x86_64                             462/470 
   Installing  : trousers-0.3.13-6.fc24.x86_64                           463/470 
   Installing  : gnupg2-smime-2.1.12-1.fc25.x86_64                       464/470 
@@ -994,11 +994,11 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                469/470 
   Installing  : hardlink-1:1.0-23.fc24.x86_64                           470/470Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-25.14-0.1.20160520004927.fc25.x86_64             1/470 
-  Verifying   : bash-4.3.42-4.fc24.x86_64                                 2/470 
-  Verifying   : anaconda-core-25.14-0.1.20160520004927.fc25.x86_64        3/470 
-  Verifying   : anaconda-gui-25.14-0.1.20160520004927.fc25.x86_64         4/470 
-  Verifying   : anaconda-tui-25.14-0.1.20160520004927.fc25.x86_64         5/470 
+  Verifying   : anaconda-25.16-0.1.20160601204932.fc25.x86_64             1/470 
+  Verifying   : bash-4.3.42-5.fc25.x86_64                                 2/470 
+  Verifying   : anaconda-core-25.16-0.1.20160601204932.fc25.x86_64        3/470 
+  Verifying   : anaconda-gui-25.16-0.1.20160601204932.fc25.x86_64         4/470 
+  Verifying   : anaconda-tui-25.16-0.1.20160601204932.fc25.x86_64         5/470 
   Verifying   : glibc-2.23.90-18.fc25.x86_64                              6/470 
   Verifying   : ncurses-libs-6.0-5.20160116.fc25.x86_64                   7/470 
   Verifying   : NetworkManager-1:1.2.2-1.fc25.x86_64                      8/470 
@@ -1008,9 +1008,9 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : chrony-2.4-0.1.pre1.fc25.x86_64                          12/470 
   Verifying   : cracklib-dicts-2.9.6-2.fc24.x86_64                       13/470 
   Verifying   : createrepo_c-0.10.0-5.fc25.x86_64                        14/470 
-  Verifying   : dhcp-client-12:4.3.4-1.fc25.x86_64                       15/470 
+  Verifying   : dhcp-client-12:4.3.4-2.fc25.x86_64                       15/470 
   Verifying   : fcoe-utils-1.0.30-5.git91c0c8c.fc24.x86_64               16/470 
-  Verifying   : firewalld-0.4.1.2-2.fc25.noarch                          17/470 
+  Verifying   : firewalld-0.4.2-1.fc25.noarch                            17/470 
   Verifying   : glibc-langpack-en-2.23.90-18.fc25.x86_64                 18/470 
   Verifying   : hfsplus-tools-540.1.linux3-11.fc24.x86_64                19/470 
   Verifying   : isomd5sum-1:1.1.0-2.fc24.x86_64                          20/470 
@@ -1023,7 +1023,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-blivet-1:2.1.0-1.fc25.noarch                     27/470 
   Verifying   : python3-coverage-4.1-0.5.b3.fc25.x86_64                  28/470 
   Verifying   : python3-dbus-1.2.4-1.fc25.x86_64                         29/470 
-  Verifying   : python3-dnf-1.1.8-1.fc25.noarch                          30/470 
+  Verifying   : python3-dnf-1.1.9-2.fc25.noarch                          30/470 
   Verifying   : python3-iscsi-initiator-utils-6.2.0.873-33.git4c1f2d9    31/470 
   Verifying   : python3-kickstart-2.30-1.fc25.noarch                     32/470 
   Verifying   : python3-meh-0.44-1.fc24.noarch                           33/470 
@@ -1038,7 +1038,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-requests-ftp-0.3.1-3.fc24.noarch                 42/470 
   Verifying   : python3-wrapt-1.10.8-1.fc25.x86_64                       43/470 
   Verifying   : realmd-0.16.2-4.fc25.x86_64                              44/470 
-  Verifying   : rpm-python3-4.13.0-0.rc1.34.fc25.x86_64                  45/470 
+  Verifying   : rpm-python3-4.13.0-0.rc1.36.fc25.x86_64                  45/470 
   Verifying   : rsync-3.1.2-2.fc24.x86_64                                46/470 
   Verifying   : system-python-libs-3.5.1-7.fc25.x86_64                   47/470 
   Verifying   : usermode-1.111-8.fc24.x86_64                             48/470 
@@ -1047,18 +1047,18 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : anaconda-user-help-22.4-4.fc24.noarch                    51/470 
   Verifying   : nm-connection-editor-1.2.2-1.fc25.x86_64                 52/470 
   Verifying   : python3-meh-gui-0.44-1.fc24.noarch                       53/470 
-  Verifying   : tigervnc-server-minimal-1.6.0-3.fc24.x86_64              54/470 
+  Verifying   : tigervnc-server-minimal-1.6.0-4.fc25.x86_64              54/470 
   Verifying   : yelp-2:3.20.1-1.fc25.x86_64                              55/470 
   Verifying   : zenity-3.20.0-1.fc25.x86_64                              56/470 
-  Verifying   : anaconda-widgets-25.14-0.1.20160520004927.fc25.x86_64    57/470 
+  Verifying   : anaconda-widgets-25.16-0.1.20160601204932.fc25.x86_64    57/470 
   Verifying   : basesystem-11-2.fc24.noarch                              58/470 
   Verifying   : glibc-common-2.23.90-18.fc25.x86_64                      59/470 
-  Verifying   : nss-softokn-freebl-3.23.0-3.fc25.x86_64                  60/470 
+  Verifying   : nss-softokn-freebl-3.24.0-2.0.fc25.x86_64                60/470 
   Verifying   : ncurses-base-6.0-5.20160116.fc25.noarch                  61/470 
   Verifying   : NetworkManager-libnm-1:1.2.2-1.fc25.x86_64               62/470 
   Verifying   : dnsmasq-2.75-4.fc24.x86_64                               63/470 
-  Verifying   : glib2-2.48.1-1.fc25.x86_64                               64/470 
-  Verifying   : iproute-4.5.0-4.fc25.x86_64                              65/470 
+  Verifying   : glib2-2.49.1-1.fc25.x86_64                               64/470 
+  Verifying   : iproute-4.6.0-1.fc25.x86_64                              65/470 
   Verifying   : libgcc-6.1.1-2.fc25.x86_64                               66/470 
   Verifying   : libgudev-230-3.fc24.x86_64                               67/470 
   Verifying   : libndp-1.6-1.fc25.x86_64                                 68/470 
@@ -1067,13 +1067,13 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libsoup-2.54.1-1.fc25.x86_64                             71/470 
   Verifying   : libuuid-2.28-2.fc25.x86_64                               72/470 
   Verifying   : nspr-4.12.0-1.fc24.x86_64                                73/470 
-  Verifying   : nss-3.23.0-9.fc25.x86_64                                 74/470 
-  Verifying   : nss-util-3.23.0-4.fc25.x86_64                            75/470 
+  Verifying   : nss-3.24.0-2.1.fc25.x86_64                               74/470 
+  Verifying   : nss-util-3.24.0-2.0.fc25.x86_64                          75/470 
   Verifying   : polkit-libs-0.113-5.fc24.x86_64                          76/470 
   Verifying   : readline-6.3-8.fc24.x86_64                               77/470 
-  Verifying   : systemd-libs-229-15.fc25.x86_64                          78/470 
-  Verifying   : systemd-udev-229-15.fc25.x86_64                          79/470 
-  Verifying   : teamd-1.24-1.fc25.x86_64                                 80/470 
+  Verifying   : systemd-libs-230-2.fc25.x86_64                           78/470 
+  Verifying   : systemd-udev-230-2.fc25.x86_64                           79/470 
+  Verifying   : teamd-1.25-1.fc25.x86_64                                 80/470 
   Verifying   : newt-python3-0.52.19-1.fc25.x86_64                       81/470 
   Verifying   : openssl-1:1.0.2h-1.fc25.x86_64                           82/470 
   Verifying   : policycoreutils-2.5-9.fc25.x86_64                        83/470 
@@ -1082,23 +1082,23 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libcap-2.25-2.fc25.x86_64                                86/470 
   Verifying   : libedit-3.1-14.20150325cvs.fc24.x86_64                   87/470 
   Verifying   : libseccomp-2.3.1-1.fc25.x86_64                           88/470 
-  Verifying   : shadow-utils-2:4.2.1-8.fc25.x86_64                       89/470 
+  Verifying   : shadow-utils-2:4.2.1-10.fc25.x86_64                      89/470 
   Verifying   : bzip2-libs-1.0.6-20.fc24.x86_64                          90/470 
   Verifying   : createrepo_c-libs-0.10.0-5.fc25.x86_64                   91/470 
-  Verifying   : drpm-0.2.1-1.fc25.x86_64                                 92/470 
+  Verifying   : drpm-0.3.0-3.fc25.x86_64                                 92/470 
   Verifying   : expat-2.1.1-1.fc25.x86_64                                93/470 
   Verifying   : file-libs-5.25-6.fc24.x86_64                             94/470 
-  Verifying   : libcurl-7.49.0-1.fc25.x86_64                             95/470 
+  Verifying   : libcurl-7.49.1-1.fc25.x86_64                             95/470 
   Verifying   : libxml2-2.9.3-3.fc24.x86_64                              96/470 
   Verifying   : openssl-libs-1:1.0.2h-1.fc25.x86_64                      97/470 
-  Verifying   : rpm-4.13.0-0.rc1.34.fc25.x86_64                          98/470 
-  Verifying   : rpm-libs-4.13.0-0.rc1.34.fc25.x86_64                     99/470 
-  Verifying   : sqlite-libs-3.12.2-1.fc25.x86_64                        100/470 
+  Verifying   : rpm-4.13.0-0.rc1.36.fc25.x86_64                          98/470 
+  Verifying   : rpm-libs-4.13.0-0.rc1.36.fc25.x86_64                     99/470 
+  Verifying   : sqlite-libs-3.13.0-1.fc25.x86_64                        100/470 
   Verifying   : xz-libs-5.2.2-2.fc24.x86_64                             101/470 
   Verifying   : zlib-1.2.8-10.fc24.x86_64                               102/470 
-  Verifying   : bind99-libs-9.9.8-4.P4.fc25.x86_64                      103/470 
-  Verifying   : dhcp-common-12:4.3.4-1.fc25.noarch                      104/470 
-  Verifying   : dhcp-libs-12:4.3.4-1.fc25.x86_64                        105/470 
+  Verifying   : bind99-libs-9.9.9-1.P1.fc25.x86_64                      103/470 
+  Verifying   : dhcp-common-12:4.3.4-2.fc25.noarch                      104/470 
+  Verifying   : dhcp-libs-12:4.3.4-2.fc25.x86_64                        105/470 
   Verifying   : gawk-4.1.3-3.fc24.x86_64                                106/470 
   Verifying   : grep-2.25-1.fc25.x86_64                                 107/470 
   Verifying   : ipcalc-0.1.7-1.fc25.x86_64                              108/470 
@@ -1108,9 +1108,9 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : device-mapper-multipath-0.4.9-82.fc25.x86_64            112/470 
   Verifying   : libhbaapi-2.2.9-8.fc24.x86_64                           113/470 
   Verifying   : ebtables-2.0.10-20.fc25.x86_64                          114/470 
-  Verifying   : firewalld-filesystem-0.4.1.2-2.fc25.noarch              115/470 
+  Verifying   : firewalld-filesystem-0.4.2-1.fc25.noarch                115/470 
   Verifying   : ipset-6.29-1.fc25.x86_64                                116/470 
-  Verifying   : python3-firewall-0.4.1.2-2.fc25.noarch                  117/470 
+  Verifying   : python3-firewall-0.4.2-1.fc25.noarch                    117/470 
   Verifying   : popt-1.16-7.fc24.x86_64                                 118/470 
   Verifying   : initscripts-9.66-1.fc25.x86_64                          119/470 
   Verifying   : kbd-legacy-2.0.3-3.fc24.noarch                          120/470 
@@ -1135,28 +1135,28 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-hawkey-0.6.3-2.fc25.x86_64                      139/470 
   Verifying   : python3-pyudev-0.20.0-2.fc25.noarch                     140/470 
   Verifying   : python3-six-1.10.0-2.fc24.noarch                        141/470 
-  Verifying   : python3-setuptools-20.9.0-1.fc25.noarch                 142/470 
+  Verifying   : python3-setuptools-21.2.2-1.fc25.noarch                 142/470 
   Verifying   : dbus-glib-0.106-1.fc24.x86_64                           143/470 
   Verifying   : dbus-libs-1:1.11.2-1.fc25.x86_64                        144/470 
   Verifying   : deltarpm-3.6-16.fc25.x86_64                             145/470 
-  Verifying   : dnf-conf-1.1.8-1.fc25.noarch                            146/470 
+  Verifying   : dnf-conf-1.1.9-2.fc25.noarch                            146/470 
   Verifying   : python3-iniparse-0.4-19.fc25.noarch                     147/470 
   Verifying   : python3-libcomps-0.1.7-4.fc25.x86_64                    148/470 
   Verifying   : python3-librepo-1.7.18-2.fc25.x86_64                    149/470 
   Verifying   : python3-pygpgme-0.3-15.fc24.x86_64                      150/470 
-  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.34.fc25.x86_6   151/470 
+  Verifying   : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.36.fc25.x86_6   151/470 
   Verifying   : iscsi-initiator-utils-6.2.0.873-33.git4c1f2d9.fc24.x8   152/470 
   Verifying   : libreport-cli-2.7.1-1.fc25.x86_64                       153/470 
   Verifying   : libreport-python3-2.7.1-1.fc25.x86_64                   154/470 
   Verifying   : libpwquality-1.3.0-5.fc25.x86_64                        155/470 
-  Verifying   : parted-3.2-19.fc25.x86_64                               156/470 
+  Verifying   : parted-3.2-20.fc25.x86_64                               156/470 
   Verifying   : tzdata-2016d-1.fc25.noarch                              157/470 
   Verifying   : python3-chardet-2.2.1-5.fc24.noarch                     158/470 
   Verifying   : python3-urllib3-1.15.1-1.fc25.noarch                    159/470 
-  Verifying   : krb5-libs-1.14.1-5.fc25.x86_64                          160/470 
+  Verifying   : krb5-libs-1.14.1-6.fc25.x86_64                          160/470 
   Verifying   : libcom_err-1.42.13-4.fc24.x86_64                        161/470 
-  Verifying   : openldap-2.4.44-1.fc25.x86_64                           162/470 
-  Verifying   : rpm-build-libs-4.13.0-0.rc1.34.fc25.x86_64              163/470 
+  Verifying   : openldap-2.4.44-2.fc25.x86_64                           162/470 
+  Verifying   : rpm-build-libs-4.13.0-0.rc1.36.fc25.x86_64              163/470 
   Verifying   : libacl-2.2.52-11.fc24.x86_64                            164/470 
   Verifying   : libattr-2.4.47-16.fc24.x86_64                           165/470 
   Verifying   : gdbm-1.12-1.fc25.x86_64                                 166/470 
@@ -1173,7 +1173,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libnma-1.2.2-1.fc25.x86_64                              177/470 
   Verifying   : pango-1.40.1-1.fc25.x86_64                              178/470 
   Verifying   : chkconfig-1.7-2.fc24.x86_64                             179/470 
-  Verifying   : gnutls-3.4.11-1.fc25.x86_64                             180/470 
+  Verifying   : gnutls-3.4.12-1.fc25.x86_64                             180/470 
   Verifying   : libICE-1.0.9-5.fc25.x86_64                              181/470 
   Verifying   : libSM-1.2.2-4.fc24.x86_64                               182/470 
   Verifying   : libX11-1.6.3-3.fc24.x86_64                              183/470 
@@ -1187,10 +1187,10 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : mesa-libGL-11.3.0-0.4.gitcbcd7b6.fc25.x86_64            191/470 
   Verifying   : nettle-3.2-2.fc24.x86_64                                192/470 
   Verifying   : pixman-0.34.0-2.fc24.x86_64                             193/470 
-  Verifying   : tigervnc-license-1.6.0-3.fc24.noarch                    194/470 
+  Verifying   : tigervnc-license-1.6.0-4.fc25.noarch                    194/470 
   Verifying   : xkeyboard-config-2.17-2.fc24.noarch                     195/470 
   Verifying   : xorg-x11-xkb-utils-7.7-17.fc24.x86_64                   196/470 
-  Verifying   : webkitgtk4-2.12.2-2.fc25.x86_64                         197/470 
+  Verifying   : webkitgtk4-2.13.1-1.fc25.x86_64                         197/470 
   Verifying   : yelp-libs-2:3.20.1-1.fc25.x86_64                        198/470 
   Verifying   : yelp-xsl-3.20.1-1.fc25.noarch                           199/470 
   Verifying   : libnotify-0.7.6-8.fc24.x86_64                           200/470 
@@ -1200,14 +1200,14 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : setup-2.10.2-1.fc25.noarch                              204/470 
   Verifying   : gmp-1:6.1.0-2.fc24.x86_64                               205/470 
   Verifying   : libidn-1.32-2.fc24.x86_64                               206/470 
-  Verifying   : pcre-8.38-14.fc25.x86_64                                207/470 
+  Verifying   : pcre-8.39-0.1.RC1.fc25.x86_64                           207/470 
   Verifying   : shared-mime-info-1.6-1.fc24.x86_64                      208/470 
   Verifying   : libdb-5.3.28-14.fc24.x86_64                             209/470 
   Verifying   : libmnl-1.0.3-11.fc24.x86_64                             210/470 
   Verifying   : libsepol-2.5-6.fc25.x86_64                              211/470 
   Verifying   : glib-networking-2.48.2-1.fc25.x86_64                    212/470 
-  Verifying   : nss-softokn-3.23.0-3.fc25.x86_64                        213/470 
-  Verifying   : nss-sysinit-3.23.0-9.fc25.x86_64                        214/470 
+  Verifying   : nss-softokn-3.24.0-2.0.fc25.x86_64                      213/470 
+  Verifying   : nss-sysinit-3.24.0-2.1.fc25.x86_64                      214/470 
   Verifying   : libgcrypt-1.6.4-2.fc24.x86_64                           215/470 
   Verifying   : libgpg-error-1.21-3.fc25.x86_64                         216/470 
   Verifying   : lz4-r131-2.fc24.x86_64                                  217/470 
@@ -1215,28 +1215,28 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : kmod-22-4.fc25.x86_64                                   219/470 
   Verifying   : kmod-libs-22-4.fc25.x86_64                              220/470 
   Verifying   : libblkid-2.28-2.fc25.x86_64                             221/470 
-  Verifying   : systemd-229-15.fc25.x86_64                              222/470 
+  Verifying   : systemd-230-2.fc25.x86_64                               222/470 
   Verifying   : jansson-2.7-3.fc24.x86_64                               223/470 
   Verifying   : libdaemon-0.14-10.fc24.x86_64                           224/470 
   Verifying   : libnl3-cli-3.2.27-3.fc24.x86_64                         225/470 
-  Verifying   : libteam-1.24-1.fc25.x86_64                              226/470 
+  Verifying   : libteam-1.25-1.fc25.x86_64                              226/470 
   Verifying   : newt-0.52.19-1.fc25.x86_64                              227/470 
   Verifying   : slang-2.3.0-5.fc24.x86_64                               228/470 
   Verifying   : make-1:4.1-5.fc24.x86_64                                229/470 
   Verifying   : diffutils-3.3-13.fc24.x86_64                            230/470 
   Verifying   : libselinux-utils-2.5-6.fc25.x86_64                      231/470 
   Verifying   : libsemanage-2.5-4.fc25.x86_64                           232/470 
-  Verifying   : libnghttp2-1.10.0-1.fc25.x86_64                         233/470 
+  Verifying   : libnghttp2-1.11.1-1.fc25.x86_64                         233/470 
   Verifying   : libpsl-0.13.0-1.fc25.x86_64                             234/470 
   Verifying   : libssh2-1.7.0-5.fc25.x86_64                             235/470 
   Verifying   : ca-certificates-2016.2.7-5.fc25.noarch                  236/470 
   Verifying   : crypto-policies-20160516-1.git8f69c35.fc25.noarch       237/470 
-  Verifying   : curl-7.49.0-1.fc25.x86_64                               238/470 
+  Verifying   : curl-7.49.1-1.fc25.x86_64                               238/470 
   Verifying   : libarchive-3.2.0-3.fc25.x86_64                          239/470 
   Verifying   : libdb-utils-5.3.28-14.fc24.x86_64                       240/470 
   Verifying   : lua-5.3.2-3.fc24.x86_64                                 241/470 
-  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.34.fc25.x86_64          242/470 
-  Verifying   : bind99-license-9.9.8-4.P4.fc25.noarch                   243/470 
+  Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.36.fc25.x86_64          242/470 
+  Verifying   : bind99-license-9.9.9-1.P1.fc25.noarch                   243/470 
   Verifying   : device-mapper-1.02.125-1.fc25.x86_64                    244/470 
   Verifying   : device-mapper-libs-1.02.125-1.fc25.x86_64               245/470 
   Verifying   : device-mapper-multipath-libs-0.4.9-82.fc25.x86_64       246/470 
@@ -1245,7 +1245,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-decorator-4.0.9-1.fc25.noarch                   249/470 
   Verifying   : python3-slip-dbus-0.6.4-3.fc24.noarch                   250/470 
   Verifying   : cpio-2.12-3.fc24.x86_64                                 251/470 
-  Verifying   : findutils-1:4.6.0-4.fc25.x86_64                         252/470 
+  Verifying   : findutils-1:4.6.0-5.fc25.x86_64                         252/470 
   Verifying   : hostname-3.15-7.fc24.x86_64                             253/470 
   Verifying   : cracklib-2.9.6-2.fc24.x86_64                            254/470 
   Verifying   : gzip-1.7-1.fc25.x86_64                                  255/470 
@@ -1274,19 +1274,19 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libblockdev-swap-1.5-1.fc25.x86_64                      278/470 
   Verifying   : libbytesize-0.7-1.fc25.x86_64                           279/470 
   Verifying   : hawkey-0.6.3-2.fc25.x86_64                              280/470 
-  Verifying   : libsolv-0.6.21-1.fc25.x86_64                            281/470 
+  Verifying   : libsolv-0.6.21-2.fc25.x86_64                            281/470 
   Verifying   : libreport-filesystem-2.7.1-1.fc25.x86_64                282/470 
   Verifying   : libcomps-0.1.7-4.fc25.x86_64                            283/470 
   Verifying   : gpgme-1.4.3-7.fc24.x86_64                               284/470 
   Verifying   : librepo-1.7.18-2.fc25.x86_64                            285/470 
   Verifying   : iscsi-initiator-utils-iscsiuio-6.2.0.873-33.git4c1f2d   286/470 
   Verifying   : libmount-2.28-2.fc25.x86_64                             287/470 
-  Verifying   : dnf-1.1.8-1.fc25.noarch                                 288/470 
+  Verifying   : dnf-1.1.9-2.fc25.noarch                                 288/470 
   Verifying   : python3-pysocks-1.5.6-3.fc25.noarch                     289/470 
   Verifying   : keyutils-libs-1.5.9-8.fc24.x86_64                       290/470 
   Verifying   : libverto-0.2.6-6.fc24.x86_64                            291/470 
   Verifying   : cyrus-sasl-lib-2.1.26-26.2.fc24.x86_64                  292/470 
-  Verifying   : nss-tools-3.23.0-9.fc25.x86_64                          293/470 
+  Verifying   : nss-tools-3.24.0-2.1.fc25.x86_64                        293/470 
   Verifying   : gnupg2-2.1.12-1.fc25.x86_64                             294/470 
   Verifying   : fontconfig-2.11.95-1.fc25.x86_64                        295/470 
   Verifying   : freetype-2.6.3-2.fc25.x86_64                            296/470 
@@ -1304,13 +1304,13 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libXcomposite-0.4.4-8.fc24.x86_64                       308/470 
   Verifying   : libXcursor-1.1.14-6.fc24.x86_64                         309/470 
   Verifying   : libXdamage-1.1.4-8.fc24.x86_64                          310/470 
-  Verifying   : libXfixes-5.0.1-6.fc24.x86_64                           311/470 
+  Verifying   : libXfixes-5.0.2-2.fc25.x86_64                           311/470 
   Verifying   : libXi-1.7.6-2.fc24.x86_64                               312/470 
   Verifying   : libXinerama-1.1.3-6.fc24.x86_64                         313/470 
   Verifying   : libXrandr-1.5.0-3.fc24.x86_64                           314/470 
   Verifying   : libepoxy-1.3.1-2.fc24.x86_64                            315/470 
-  Verifying   : libwayland-client-1.10.92-1.fc25.x86_64                 316/470 
-  Verifying   : libwayland-cursor-1.10.92-1.fc25.x86_64                 317/470 
+  Verifying   : libwayland-client-1.10.93-1.fc25.x86_64                 316/470 
+  Verifying   : libwayland-cursor-1.10.93-1.fc25.x86_64                 317/470 
   Verifying   : libxkbcommon-0.5.0-4.fc24.x86_64                        318/470 
   Verifying   : mesa-libwayland-egl-11.3.0-0.4.gitcbcd7b6.fc25.x86_64   319/470 
   Verifying   : rest-0.8.0-1.fc25.x86_64                                320/470 
@@ -1335,10 +1335,10 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : libXt-1.1.5-3.fc24.x86_64                               339/470 
   Verifying   : libicu-57.1-1.fc25.x86_64                               340/470 
   Verifying   : libsecret-0.18.5-1.fc25.x86_64                          341/470 
-  Verifying   : libwayland-server-1.10.92-1.fc25.x86_64                 342/470 
+  Verifying   : libwayland-server-1.10.93-1.fc25.x86_64                 342/470 
   Verifying   : libwebp-0.5.0-2.fc24.x86_64                             343/470 
   Verifying   : libxslt-1.1.28-12.fc24.x86_64                           344/470 
-  Verifying   : webkitgtk4-jsc-2.12.2-2.fc25.x86_64                     345/470 
+  Verifying   : webkitgtk4-jsc-2.13.1-1.fc25.x86_64                     345/470 
   Verifying   : iso-codes-3.68-1.fc25.noarch                            346/470 
   Verifying   : emacs-filesystem-1:25.0.94-1.fc25.noarch                347/470 
   Verifying   : acl-2.2.52-11.fc24.x86_64                               348/470 
@@ -1402,7 +1402,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : sgpio-1.2.0.10-16.fc24.x86_64                           406/470 
   Verifying   : python3-3.5.1-7.fc25.x86_64                             407/470 
   Verifying   : python3-libs-3.5.1-7.fc25.x86_64                        408/470 
-  Verifying   : python3-pip-8.0.2-1.fc24.noarch                         409/470 
+  Verifying   : python3-pip-8.1.2-1.fc25.noarch                         409/470 
   Verifying   : keybinder3-0.3.0-6.fc24.x86_64                          410/470 
   Verifying   : libgnomekbd-3.6.0-9.fc24.x86_64                         411/470 
   Verifying   : libtimezonemap-0.4.5-2.fc24.x86_64                      412/470 
@@ -1422,7 +1422,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : mesa-dri-drivers-11.3.0-0.4.gitcbcd7b6.fc25.x86_64      426/470 
   Verifying   : mesa-filesystem-11.3.0-0.4.gitcbcd7b6.fc25.x86_64       427/470 
   Verifying   : dbus-1:1.11.2-1.fc25.x86_64                             428/470 
-  Verifying   : systemd-pam-229-15.fc25.x86_64                          429/470 
+  Verifying   : systemd-pam-230-2.fc25.x86_64                           429/470 
   Verifying   : libreport-gtk-2.7.1-1.fc25.x86_64                       430/470 
   Verifying   : fros-1.1-8.fc24.noarch                                  431/470 
   Verifying   : python3-gobject-3.21.0-1.fc25.x86_64                    432/470 
@@ -1431,7 +1431,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : psmisc-22.21-8.fc24.x86_64                              435/470 
   Verifying   : btrfs-progs-4.5.3-1.fc25.x86_64                         436/470 
   Verifying   : procps-ng-3.3.10-11.fc24.x86_64                         437/470 
-  Verifying   : gsettings-desktop-schemas-3.20.0-1.fc25.x86_64          438/470 
+  Verifying   : gsettings-desktop-schemas-3.21.2-1.fc25.x86_64          438/470 
   Verifying   : libhbalinux-1.0.17-3.fc24.x86_64                        439/470 
   Verifying   : lldpad-1.0.1-4.git036e314.fc24.x86_64                   440/470 
   Verifying   : libconfig-1.5-4.fc24.x86_64                             441/470 
@@ -1450,7 +1450,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : mozjs17-17.0.0-15.fc25.x86_64                           454/470 
   Verifying   : polkit-pkla-compat-0.1-7.fc24.x86_64                    455/470 
   Verifying   : bash-completion-1:2.3-1.fc25.noarch                     456/470 
-  Verifying   : iproute-tc-4.5.0-4.fc25.x86_64                          457/470 
+  Verifying   : iproute-tc-4.6.0-1.fc25.x86_64                          457/470 
   Verifying   : linux-atm-libs-2.5.1-14.fc24.x86_64                     458/470 
   Verifying   : GeoIP-1.6.9-2.fc24.x86_64                               459/470 
   Verifying   : GeoIP-GeoLite-data-2016.05-1.fc25.noarch                460/470 
@@ -1459,7 +1459,7 @@ warning: %post(lvm2-2.02.154-1.fc25.x86_64) scriptlet failed, exit status 1
   Verifying   : hardlink-1:1.0-23.fc24.x86_64                           463/470 
   Verifying   : trousers-0.3.13-6.fc24.x86_64                           464/470 
   Verifying   : trousers-lib-0.3.13-6.fc24.x86_64                       465/470 
-  Verifying   : webkitgtk4-plugin-process-gtk2-2.12.2-2.fc25.x86_64     466/470 
+  Verifying   : webkitgtk4-plugin-process-gtk2-2.13.1-1.fc25.x86_64     466/470 
   Verifying   : gtk2-2.24.30-1.fc25.x86_64                              467/470 
   Verifying   : pinentry-0.9.7-2.fc24.x86_64                            468/470 
   Verifying   : gnupg2-smime-2.1.12-1.fc25.x86_64                       469/470 
@@ -1480,12 +1480,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.20-1.fc25                                       
   adwaita-icon-theme.noarch 3.20-1.fc25                                         
   alsa-lib.x86_64 1.1.1-1.fc25                                                  
-  anaconda.x86_64 25.14-0.1.20160520004927.fc25                                 
-  anaconda-core.x86_64 25.14-0.1.20160520004927.fc25                            
-  anaconda-gui.x86_64 25.14-0.1.20160520004927.fc25                             
-  anaconda-tui.x86_64 25.14-0.1.20160520004927.fc25                             
+  anaconda.x86_64 25.16-0.1.20160601204932.fc25                                 
+  anaconda-core.x86_64 25.16-0.1.20160601204932.fc25                            
+  anaconda-gui.x86_64 25.16-0.1.20160601204932.fc25                             
+  anaconda-tui.x86_64 25.16-0.1.20160601204932.fc25                             
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 25.14-0.1.20160520004927.fc25                         
+  anaconda-widgets.x86_64 25.16-0.1.20160601204932.fc25                         
   at-spi2-atk.x86_64 2.20.1-1.fc25                                              
   at-spi2-core.x86_64 2.21.1-1.fc25                                             
   atk.x86_64 2.20.0-1.fc25                                                      
@@ -1495,11 +1495,11 @@ Installed:
   avahi-glib.x86_64 0.6.32-1.fc25                                               
   avahi-libs.x86_64 0.6.32-1.fc25                                               
   basesystem.noarch 11-2.fc24                                                   
-  bash.x86_64 4.3.42-4.fc24                                                     
+  bash.x86_64 4.3.42-5.fc25                                                     
   bash-completion.noarch 1:2.3-1.fc25                                           
   bcache-tools.x86_64 1.0.8-5.fc24                                              
-  bind99-libs.x86_64 9.9.8-4.P4.fc25                                            
-  bind99-license.noarch 9.9.8-4.P4.fc25                                         
+  bind99-libs.x86_64 9.9.9-1.P1.fc25                                            
+  bind99-license.noarch 9.9.9-1.P1.fc25                                         
   btrfs-progs.x86_64 4.5.3-1.fc25                                               
   bzip2-libs.x86_64 1.0.6-20.fc24                                               
   ca-certificates.noarch 2016.2.7-5.fc25                                        
@@ -1519,7 +1519,7 @@ Installed:
   crypto-policies.noarch 20160516-1.git8f69c35.fc25                             
   cryptsetup-libs.x86_64 1.7.1-1.fc25                                           
   cups-libs.x86_64 1:2.1.3-1.fc24                                               
-  curl.x86_64 7.49.0-1.fc25                                                     
+  curl.x86_64 7.49.1-1.fc25                                                     
   cyrus-sasl-lib.x86_64 2.1.26-26.2.fc24                                        
   dbus.x86_64 1:1.11.2-1.fc25                                                   
   dbus-glib.x86_64 0.106-1.fc24                                                 
@@ -1532,19 +1532,19 @@ Installed:
   device-mapper-multipath.x86_64 0.4.9-82.fc25                                  
   device-mapper-multipath-libs.x86_64 0.4.9-82.fc25                             
   device-mapper-persistent-data.x86_64 0.6.2-0.1.rc8.fc25                       
-  dhcp-client.x86_64 12:4.3.4-1.fc25                                            
-  dhcp-common.noarch 12:4.3.4-1.fc25                                            
-  dhcp-libs.x86_64 12:4.3.4-1.fc25                                              
+  dhcp-client.x86_64 12:4.3.4-2.fc25                                            
+  dhcp-common.noarch 12:4.3.4-2.fc25                                            
+  dhcp-libs.x86_64 12:4.3.4-2.fc25                                              
   diffutils.x86_64 3.3-13.fc24                                                  
   dmraid.x86_64 1.0.0.rc16-30.fc24                                              
   dmraid-events.x86_64 1.0.0.rc16-30.fc24                                       
-  dnf.noarch 1.1.8-1.fc25                                                       
-  dnf-conf.noarch 1.1.8-1.fc25                                                  
+  dnf.noarch 1.1.9-2.fc25                                                       
+  dnf-conf.noarch 1.1.9-2.fc25                                                  
   dnsmasq.x86_64 2.75-4.fc24                                                    
   dosfstools.x86_64 4.0-1.fc25                                                  
   dracut.x86_64 044-18.git20160108.fc24                                         
   dracut-network.x86_64 044-18.git20160108.fc24                                 
-  drpm.x86_64 0.2.1-1.fc25                                                      
+  drpm.x86_64 0.3.0-3.fc25                                                      
   e2fsprogs.x86_64 1.42.13-4.fc24                                               
   e2fsprogs-libs.x86_64 1.42.13-4.fc24                                          
   ebtables.x86_64 2.0.10-20.fc25                                                
@@ -1562,9 +1562,9 @@ Installed:
   fedora-repos-rawhide.noarch 25-0.1                                            
   file-libs.x86_64 5.25-6.fc24                                                  
   filesystem.x86_64 3.2-37.fc24                                                 
-  findutils.x86_64 1:4.6.0-4.fc25                                               
-  firewalld.noarch 0.4.1.2-2.fc25                                               
-  firewalld-filesystem.noarch 0.4.1.2-2.fc25                                    
+  findutils.x86_64 1:4.6.0-5.fc25                                               
+  firewalld.noarch 0.4.2-1.fc25                                                 
+  firewalld-filesystem.noarch 0.4.2-1.fc25                                      
   fontconfig.x86_64 2.11.95-1.fc25                                              
   fontpackages-filesystem.noarch 1.44-17.fc24                                   
   freetype.x86_64 2.6.3-2.fc25                                                  
@@ -1577,7 +1577,7 @@ Installed:
   geoclue2.x86_64 2.4.3-1.fc25                                                  
   glade-libs.x86_64 3.20.0-1.fc25                                               
   glib-networking.x86_64 2.48.2-1.fc25                                          
-  glib2.x86_64 2.48.1-1.fc25                                                    
+  glib2.x86_64 2.49.1-1.fc25                                                    
   glibc.x86_64 2.23.90-18.fc25                                                  
   glibc-common.x86_64 2.23.90-18.fc25                                           
   glibc-langpack-en.x86_64 2.23.90-18.fc25                                      
@@ -1585,13 +1585,13 @@ Installed:
   gnupg.x86_64 1.4.20-2.fc24                                                    
   gnupg2.x86_64 2.1.12-1.fc25                                                   
   gnupg2-smime.x86_64 2.1.12-1.fc25                                             
-  gnutls.x86_64 3.4.11-1.fc25                                                   
+  gnutls.x86_64 3.4.12-1.fc25                                                   
   gobject-introspection.x86_64 1.48.0-1.fc25                                    
   gpgme.x86_64 1.4.3-7.fc24                                                     
   graphite2.x86_64 1.3.6-1.fc25                                                 
   grep.x86_64 2.25-1.fc25                                                       
   grubby.x86_64 8.40-3.fc24                                                     
-  gsettings-desktop-schemas.x86_64 3.20.0-1.fc25                                
+  gsettings-desktop-schemas.x86_64 3.21.2-1.fc25                                
   gstreamer1.x86_64 1.8.1-1.fc25                                                
   gstreamer1-plugins-base.x86_64 1.8.1-1.fc25                                   
   gtk-update-icon-cache.x86_64 3.21.1-1.fc25                                    
@@ -1613,8 +1613,8 @@ Installed:
   info.x86_64 6.1-2.fc24                                                        
   initscripts.x86_64 9.66-1.fc25                                                
   ipcalc.x86_64 0.1.7-1.fc25                                                    
-  iproute.x86_64 4.5.0-4.fc25                                                   
-  iproute-tc.x86_64 4.5.0-4.fc25                                                
+  iproute.x86_64 4.6.0-1.fc25                                                   
+  iproute-tc.x86_64 4.6.0-1.fc25                                                
   ipset.x86_64 6.29-1.fc25                                                      
   ipset-libs.x86_64 6.29-1.fc25                                                 
   iptables.x86_64 1.6.0-1.fc25                                                  
@@ -1638,7 +1638,7 @@ Installed:
   kmod.x86_64 22-4.fc25                                                         
   kmod-libs.x86_64 22-4.fc25                                                    
   kpartx.x86_64 0.4.9-82.fc25                                                   
-  krb5-libs.x86_64 1.14.1-5.fc25                                                
+  krb5-libs.x86_64 1.14.1-6.fc25                                                
   langtable.noarch 0.0.34-4.fc24                                                
   langtable-data.noarch 0.0.34-4.fc24                                           
   langtable-python3.noarch 0.0.34-4.fc24                                        
@@ -1653,7 +1653,7 @@ Installed:
   libXdamage.x86_64 1.1.4-8.fc24                                                
   libXdmcp.x86_64 1.1.2-3.fc24                                                  
   libXext.x86_64 1.3.3-4.fc24                                                   
-  libXfixes.x86_64 5.0.1-6.fc24                                                 
+  libXfixes.x86_64 5.0.2-2.fc25                                                 
   libXfont.x86_64 1.5.1-4.fc24                                                  
   libXft.x86_64 2.3.2-4.fc24                                                    
   libXi.x86_64 1.7.6-2.fc24                                                     
@@ -1689,7 +1689,7 @@ Installed:
   libcom_err.x86_64 1.42.13-4.fc24                                              
   libcomps.x86_64 0.1.7-4.fc25                                                  
   libconfig.x86_64 1.5-4.fc24                                                   
-  libcurl.x86_64 7.49.0-1.fc25                                                  
+  libcurl.x86_64 7.49.1-1.fc25                                                  
   libdaemon.x86_64 0.14-10.fc24                                                 
   libdatrie.x86_64 0.2.9-3.fc25                                                 
   libdb.x86_64 5.3.28-14.fc24                                                   
@@ -1719,7 +1719,7 @@ Installed:
   libndp.x86_64 1.6-1.fc25                                                      
   libnetfilter_conntrack.x86_64 1.0.4-6.fc24                                    
   libnfnetlink.x86_64 1.0.1-8.fc24                                              
-  libnghttp2.x86_64 1.10.0-1.fc25                                               
+  libnghttp2.x86_64 1.11.1-1.fc25                                               
   libnl3.x86_64 3.2.27-3.fc24                                                   
   libnl3-cli.x86_64 3.2.27-3.fc24                                               
   libnma.x86_64 1.2.2-1.fc25                                                    
@@ -1749,14 +1749,14 @@ Installed:
   libsemanage.x86_64 2.5-4.fc25                                                 
   libsepol.x86_64 2.5-6.fc25                                                    
   libsmartcols.x86_64 2.28-2.fc25                                               
-  libsolv.x86_64 0.6.21-1.fc25                                                  
+  libsolv.x86_64 0.6.21-2.fc25                                                  
   libsoup.x86_64 2.54.1-1.fc25                                                  
   libss.x86_64 1.42.13-4.fc24                                                   
   libssh2.x86_64 1.7.0-5.fc25                                                   
   libstdc++.x86_64 6.1.1-2.fc25                                                 
   libtar.x86_64 1.2.20-8.fc24                                                   
   libtasn1.x86_64 4.8-1.fc25                                                    
-  libteam.x86_64 1.24-1.fc25                                                    
+  libteam.x86_64 1.25-1.fc25                                                    
   libthai.x86_64 0.1.24-1.fc24                                                  
   libtheora.x86_64 1:1.1.1-14.fc24                                              
   libtiff.x86_64 4.0.6-2.fc24                                                   
@@ -1771,9 +1771,9 @@ Installed:
   libverto.x86_64 0.2.6-6.fc24                                                  
   libvisual.x86_64 1:0.4.0-20.fc24                                              
   libvorbis.x86_64 1:1.3.4-6.fc24                                               
-  libwayland-client.x86_64 1.10.92-1.fc25                                       
-  libwayland-cursor.x86_64 1.10.92-1.fc25                                       
-  libwayland-server.x86_64 1.10.92-1.fc25                                       
+  libwayland-client.x86_64 1.10.93-1.fc25                                       
+  libwayland-cursor.x86_64 1.10.93-1.fc25                                       
+  libwayland-server.x86_64 1.10.93-1.fc25                                       
   libwebp.x86_64 0.5.0-2.fc24                                                   
   libxcb.x86_64 1.12-1.fc25                                                     
   libxkbcommon.x86_64 0.5.0-4.fc24                                              
@@ -1812,13 +1812,13 @@ Installed:
   nm-connection-editor.x86_64 1.2.2-1.fc25                                      
   npth.x86_64 1.2-3.fc24                                                        
   nspr.x86_64 4.12.0-1.fc24                                                     
-  nss.x86_64 3.23.0-9.fc25                                                      
-  nss-softokn.x86_64 3.23.0-3.fc25                                              
-  nss-softokn-freebl.x86_64 3.23.0-3.fc25                                       
-  nss-sysinit.x86_64 3.23.0-9.fc25                                              
-  nss-tools.x86_64 3.23.0-9.fc25                                                
-  nss-util.x86_64 3.23.0-4.fc25                                                 
-  openldap.x86_64 2.4.44-1.fc25                                                 
+  nss.x86_64 3.24.0-2.1.fc25                                                    
+  nss-softokn.x86_64 3.24.0-2.0.fc25                                            
+  nss-softokn-freebl.x86_64 3.24.0-2.0.fc25                                     
+  nss-sysinit.x86_64 3.24.0-2.1.fc25                                            
+  nss-tools.x86_64 3.24.0-2.1.fc25                                              
+  nss-util.x86_64 3.24.0-2.0.fc25                                               
+  openldap.x86_64 2.4.44-2.fc25                                                 
   openssl.x86_64 1:1.0.2h-1.fc25                                                
   openssl-libs.x86_64 1:1.0.2h-1.fc25                                           
   opus.x86_64 1.1.2-2.fc24                                                      
@@ -1827,9 +1827,9 @@ Installed:
   p11-kit-trust.x86_64 0.23.2-2.fc24                                            
   pam.x86_64 1.3.0-1.fc25                                                       
   pango.x86_64 1.40.1-1.fc25                                                    
-  parted.x86_64 3.2-19.fc25                                                     
+  parted.x86_64 3.2-20.fc25                                                     
   passwd.x86_64 0.79-8.fc24                                                     
-  pcre.x86_64 8.38-14.fc25                                                      
+  pcre.x86_64 8.39-0.1.RC1.fc25                                                 
   pigz.x86_64 2.3.3-4.fc24                                                      
   pinentry.x86_64 0.9.7-2.fc24                                                  
   pixman.x86_64 0.34.0-2.fc24                                                   
@@ -1851,8 +1851,8 @@ Installed:
   python3-coverage.x86_64 4.1-0.5.b3.fc25                                       
   python3-dbus.x86_64 1.2.4-1.fc25                                              
   python3-decorator.noarch 4.0.9-1.fc25                                         
-  python3-dnf.noarch 1.1.8-1.fc25                                               
-  python3-firewall.noarch 0.4.1.2-2.fc25                                        
+  python3-dnf.noarch 1.1.9-2.fc25                                               
+  python3-firewall.noarch 0.4.2-1.fc25                                          
   python3-gobject.x86_64 3.21.0-1.fc25                                          
   python3-gobject-base.x86_64 3.21.0-1.fc25                                     
   python3-hawkey.x86_64 0.6.3-2.fc25                                            
@@ -1867,7 +1867,7 @@ Installed:
   python3-ntplib.noarch 0.3.3-3.fc24                                            
   python3-ordered-set.noarch 2.0.0-3.fc24                                       
   python3-pid.noarch 2.0.1-4.fc24                                               
-  python3-pip.noarch 8.0.2-1.fc24                                               
+  python3-pip.noarch 8.1.2-1.fc25                                               
   python3-pwquality.x86_64 1.3.0-5.fc25                                         
   python3-pygpgme.x86_64 0.3-15.fc24                                            
   python3-pyparted.x86_64 1:3.10.7-3.fc24                                       
@@ -1877,7 +1877,7 @@ Installed:
   python3-requests.noarch 2.10.0-1.fc25                                         
   python3-requests-file.noarch 1.4-3.fc24                                       
   python3-requests-ftp.noarch 0.3.1-3.fc24                                      
-  python3-setuptools.noarch 20.9.0-1.fc25                                       
+  python3-setuptools.noarch 21.2.2-1.fc25                                       
   python3-six.noarch 1.10.0-2.fc24                                              
   python3-slip.noarch 0.6.4-3.fc24                                              
   python3-slip-dbus.noarch 0.6.4-3.fc24                                         
@@ -1888,30 +1888,30 @@ Installed:
   readline.x86_64 6.3-8.fc24                                                    
   realmd.x86_64 0.16.2-4.fc25                                                   
   rest.x86_64 0.8.0-1.fc25                                                      
-  rpm.x86_64 4.13.0-0.rc1.34.fc25                                               
-  rpm-build-libs.x86_64 4.13.0-0.rc1.34.fc25                                    
-  rpm-libs.x86_64 4.13.0-0.rc1.34.fc25                                          
-  rpm-plugin-selinux.x86_64 4.13.0-0.rc1.34.fc25                                
-  rpm-plugin-systemd-inhibit.x86_64 4.13.0-0.rc1.34.fc25                        
-  rpm-python3.x86_64 4.13.0-0.rc1.34.fc25                                       
+  rpm.x86_64 4.13.0-0.rc1.36.fc25                                               
+  rpm-build-libs.x86_64 4.13.0-0.rc1.36.fc25                                    
+  rpm-libs.x86_64 4.13.0-0.rc1.36.fc25                                          
+  rpm-plugin-selinux.x86_64 4.13.0-0.rc1.36.fc25                                
+  rpm-plugin-systemd-inhibit.x86_64 4.13.0-0.rc1.36.fc25                        
+  rpm-python3.x86_64 4.13.0-0.rc1.36.fc25                                       
   rsync.x86_64 3.1.2-2.fc24                                                     
   satyr.x86_64 0.21-1.fc25                                                      
   sed.x86_64 4.2.2-15.fc24                                                      
   setup.noarch 2.10.2-1.fc25                                                    
   sgpio.x86_64 1.2.0.10-16.fc24                                                 
-  shadow-utils.x86_64 2:4.2.1-8.fc25                                            
+  shadow-utils.x86_64 2:4.2.1-10.fc25                                           
   shared-mime-info.x86_64 1.6-1.fc24                                            
   slang.x86_64 2.3.0-5.fc24                                                     
   snappy.x86_64 1.1.3-2.fc24                                                    
-  sqlite-libs.x86_64 3.12.2-1.fc25                                              
+  sqlite-libs.x86_64 3.13.0-1.fc25                                              
   system-python-libs.x86_64 3.5.1-7.fc25                                        
-  systemd.x86_64 229-15.fc25                                                    
-  systemd-libs.x86_64 229-15.fc25                                               
-  systemd-pam.x86_64 229-15.fc25                                                
-  systemd-udev.x86_64 229-15.fc25                                               
-  teamd.x86_64 1.24-1.fc25                                                      
-  tigervnc-license.noarch 1.6.0-3.fc24                                          
-  tigervnc-server-minimal.x86_64 1.6.0-3.fc24                                   
+  systemd.x86_64 230-2.fc25                                                     
+  systemd-libs.x86_64 230-2.fc25                                                
+  systemd-pam.x86_64 230-2.fc25                                                 
+  systemd-udev.x86_64 230-2.fc25                                                
+  teamd.x86_64 1.25-1.fc25                                                      
+  tigervnc-license.noarch 1.6.0-4.fc25                                          
+  tigervnc-server-minimal.x86_64 1.6.0-4.fc25                                   
   timedatex.x86_64 0.4-2.fc24                                                   
   trousers.x86_64 0.3.13-6.fc24                                                 
   trousers-lib.x86_64 0.3.13-6.fc24                                             
@@ -1920,9 +1920,9 @@ Installed:
   ustr.x86_64 1.0.4-21.fc24                                                     
   util-linux.x86_64 2.28-2.fc25                                                 
   volume_key-libs.x86_64 0.3.9-9.fc24                                           
-  webkitgtk4.x86_64 2.12.2-2.fc25                                               
-  webkitgtk4-jsc.x86_64 2.12.2-2.fc25                                           
-  webkitgtk4-plugin-process-gtk2.x86_64 2.12.2-2.fc25                           
+  webkitgtk4.x86_64 2.13.1-1.fc25                                               
+  webkitgtk4-jsc.x86_64 2.13.1-1.fc25                                           
+  webkitgtk4-plugin-process-gtk2.x86_64 2.13.1-1.fc25                           
   wpa_supplicant.x86_64 1:2.5-5.fc24                                            
   xkeyboard-config.noarch 2.17-2.fc24                                           
   xml-common.noarch 0.6.3-44.fc24                                               
@@ -1940,5 +1940,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-25.14-0.1.20160520004927.fc25.x86_64
+anaconda-25.16-0.1.20160601204932.fc25.x86_64
 PASS install/run_install_test.sh (exit status: 0)
