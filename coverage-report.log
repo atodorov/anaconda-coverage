@@ -92,7 +92,7 @@ pyanaconda/ui/gui/spokes/network.py                                   1124   112
 pyanaconda/ui/gui/spokes/password.py                                   160    160     65      0     0%
 pyanaconda/ui/gui/spokes/software.py                                   313    313    116      0     0%
 pyanaconda/ui/gui/spokes/source.py                                     945    945    352      0     0%
-pyanaconda/ui/gui/spokes/storage.py                                    638    638    263      0     0%
+pyanaconda/ui/gui/spokes/storage.py                                    644    644    265      0     0%
 pyanaconda/ui/gui/spokes/user.py                                       326    326    129      0     0%
 pyanaconda/ui/gui/spokes/welcome.py                                    170    170     54      0     0%
 pyanaconda/ui/gui/utils.py                                             226    226     62      0     0%
@@ -131,4 +131,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                25822  22480   9417    181    11%
+TOTAL                                                                25828  22486   9419    181    11%
