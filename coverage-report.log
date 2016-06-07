@@ -1,13 +1,13 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
 anaconda.py                                                            719    719    321      0     0%
-dracut/driver_updates.py                                               373     80    142     22    75%
+dracut/driver_updates.py                                               384     80    148     23    75%
 dracut/parse-kickstart                                                 420     84    217     61    74%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
 pyanaconda/addons.py                                                    96     66     36      0    23%
 pyanaconda/anaconda.py                                                 152    152     46      0     0%
 pyanaconda/anaconda_argparse.py                                        229     65     95      9    64%
-pyanaconda/anaconda_log.py                                             143     93     13      0    32%
+pyanaconda/anaconda_log.py                                             147     97     13      0    31%
 pyanaconda/bootloader.py                                              1382   1051    518      1    18%
 pyanaconda/constants.py                                                101      1      4      1    96%
 pyanaconda/constants_text.py                                             3      3      0      0     0%
@@ -28,13 +28,13 @@ pyanaconda/isys/__init__.py                                             89     6
 pyanaconda/iutil.py                                                    603    263    234     26    52%
 pyanaconda/kexec.py                                                     49     49     12      0     0%
 pyanaconda/keyboard.py                                                 231    176     71      0    20%
-pyanaconda/kickstart.py                                               1328   1101    640      4    12%
+pyanaconda/kickstart.py                                               1333   1106    644      4    12%
 pyanaconda/localization.py                                             268    165    122      4    36%
-pyanaconda/network.py                                                 1056    839    582      7    18%
+pyanaconda/network.py                                                 1057    840    582      7    18%
 pyanaconda/nm.py                                                       526    442    172      3    13%
 pyanaconda/ntp.py                                                      111     89     38      0    15%
 pyanaconda/packaging/__init__.py                                       713    552    277      1    17%
-pyanaconda/packaging/dnfpayload.py                                     685    685    247      0     0%
+pyanaconda/packaging/dnfpayload.py                                     688    688    247      0     0%
 pyanaconda/packaging/livepayload.py                                    312    312    110      0     0%
 pyanaconda/packaging/rpmostreepayload.py                               172    140     42      0    15%
 pyanaconda/packaging/tarpayload.py                                      39     39      6      0     0%
@@ -74,7 +74,7 @@ pyanaconda/ui/gui/spokes/advstorage/zfcp.py                             84     8
 pyanaconda/ui/gui/spokes/custom.py                                    1636   1636    651      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                             650    650    213      0     0%
 pyanaconda/ui/gui/spokes/filter.py                                     432    432    137      0     0%
-pyanaconda/ui/gui/spokes/keyboard.py                                   377    377    100      0     0%
+pyanaconda/ui/gui/spokes/keyboard.py                                   379    379    102      0     0%
 pyanaconda/ui/gui/spokes/langsupport.py                                102    102     16      0     0%
 pyanaconda/ui/gui/spokes/lib/__init__.py                                 0      0      0      0   100%
 pyanaconda/ui/gui/spokes/lib/accordion.py                              331    331    112      0     0%
@@ -131,4 +131,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                25847  22504   9425    181    11%
+TOTAL                                                                25873  22519   9437    182    12%

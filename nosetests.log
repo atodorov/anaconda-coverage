@@ -106,6 +106,7 @@ check test helpers ... ok
 append_line: adds a line to the end of an existing file ... ok
 append_line: create file + append \n when needed ... ok
 copy_file: copy files into destdir, leaving existing contents ... ok
+copy_file: strip leading module directories ... ok
 copy_file: skip files in subdirs of destdir ... ok
 copy_file: overwrite files in destdir if they have the same name ... ok
 copy_file: skip files already in destdir ... ok
@@ -246,7 +247,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 204 tests in 11.693s
+Ran 205 tests in 11.759s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
