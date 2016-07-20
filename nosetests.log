@@ -92,8 +92,10 @@ all_finished: True if all lines from dd_todo are in dd_finished ... ok
 all_finished: True if dd_finished has more items than dd_todo ... ok
 finish: mark request finished, and write dd.done if all complete ... ok
 mark_finished: appends a line to /tmp/dd_finished ... ok
-grab_driver_files: copy drivers into place, return module list ... ok
+grab_driver_files: copy drivers into place, return module+alias dict ... ok
+test_basic (tests.dracut_tests.test_driver_updates.ListAliasesTestCase) ... ok
 load_drivers: runs depmod and modprobes all named modules ... ok
+test_basic_replace (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
 mount: calls mount(8) to mount a device/image ... ok
 mount: makes mountpoint if needed ... ok
 mounted: context manager mounts/umounts as expected ... ok
@@ -196,6 +198,7 @@ comment_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 no_use_tmp_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 quote_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 read_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
+read_write__perms_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 read_write_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 remove_key_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 Setting and getting values ... ok
@@ -240,6 +243,7 @@ ipv4_test (tests.regex_tests.hostname_test.IPv4RegexTestCase) ... ok
 ipv6_test (tests.regex_tests.hostname_test.IPv6RegexTestCase) ... ok
 euiname_test (tests.regex_tests.iscsi_name_test.iSCSIeuinameRegexTestCase) ... ok
 iqnname_test (tests.regex_tests.iscsi_name_test.iSCSIiqnnameRegexTestCase) ... ok
+netmask_test (tests.regex_tests.netmask_test.IPv4NetmaskTestCase) ... ok
 reponame_test (tests.regex_tests.repo_name_test.RepoNameTestCase) ... ok
 Run a list of possible URL values through the regex and check for ... ok
 Test a list of possible Full Name values. ... ok
@@ -247,7 +251,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 205 tests in 12.496s
+Ran 209 tests in 10.205s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
