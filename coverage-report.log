@@ -1,7 +1,7 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
 anaconda.py                                                            719    719    321      0     0%
-dracut/driver_updates.py                                               414     88    162     26    75%
+dracut/driver_updates.py                                               425     89    164     27    75%
 dracut/parse-kickstart                                                 426     89    221     62    73%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
 pyanaconda/addons.py                                                    96     66     36      0    23%
@@ -28,7 +28,7 @@ pyanaconda/isys/__init__.py                                             89     6
 pyanaconda/iutil.py                                                    603    263    234     26    52%
 pyanaconda/kexec.py                                                     49     49     12      0     0%
 pyanaconda/keyboard.py                                                 231    176     71      0    20%
-pyanaconda/kickstart.py                                               1333   1106    644      4    12%
+pyanaconda/kickstart.py                                               1346   1119    652      4    12%
 pyanaconda/localization.py                                             268    165    122      4    36%
 pyanaconda/network.py                                                 1058    840    588      7    18%
 pyanaconda/nm.py                                                       526    442    172      3    13%
@@ -131,4 +131,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26226  22843   9531    186    11%
+TOTAL                                                                26250  22857   9541    187    11%
