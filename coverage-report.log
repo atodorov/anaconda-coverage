@@ -1,6 +1,6 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
-anaconda.py                                                            719    719    321      0     0%
+anaconda.py                                                            722    722    321      0     0%
 dracut/driver_updates.py                                               425     89    164     27    75%
 dracut/parse-kickstart                                                 426     89    221     62    73%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
@@ -9,9 +9,9 @@ pyanaconda/anaconda.py                                                 152    15
 pyanaconda/anaconda_argparse.py                                        229     65     95      9    64%
 pyanaconda/anaconda_log.py                                             147     97     13      0    31%
 pyanaconda/bootloader.py                                              1382   1051    518      1    18%
-pyanaconda/constants.py                                                105      1      4      1    96%
+pyanaconda/constants.py                                                106      1      4      1    96%
 pyanaconda/constants_text.py                                             3      3      0      0     0%
-pyanaconda/desktop.py                                                   26     16      8      0    29%
+pyanaconda/desktop.py                                                   28     18      8      0    28%
 pyanaconda/errors.py                                                   138     93     26      0    27%
 pyanaconda/exception.py                                                154    154     36      0     0%
 pyanaconda/flags.py                                                    125     34     50      9    64%
@@ -19,7 +19,7 @@ pyanaconda/geoloc.py                                                   347    34
 pyanaconda/i18n.py                                                      18     10     12      2    47%
 pyanaconda/ihelp.py                                                     46     46     18      0     0%
 pyanaconda/image.py                                                    112     98     46      0     9%
-pyanaconda/install.py                                                  125    125     43      0     0%
+pyanaconda/install.py                                                  127    127     43      0     0%
 pyanaconda/installclass.py                                             129    129     56      0     0%
 pyanaconda/installclasses/__init__.py                                    0      0      0      0   100%
 pyanaconda/installclasses/fedora.py                                     31     31     11      0     0%
@@ -33,7 +33,7 @@ pyanaconda/localization.py                                             268    16
 pyanaconda/network.py                                                 1058    840    588      7    18%
 pyanaconda/nm.py                                                       526    442    172      3    13%
 pyanaconda/ntp.py                                                      111     89     38      0    15%
-pyanaconda/packaging/__init__.py                                       713    552    277      1    17%
+pyanaconda/packaging/__init__.py                                       724    562    283      1    16%
 pyanaconda/packaging/dnfpayload.py                                     695    695    245      0     0%
 pyanaconda/packaging/livepayload.py                                    312    312    110      0     0%
 pyanaconda/packaging/rpmostreepayload.py                               172    140     42      0    15%
@@ -45,9 +45,10 @@ pyanaconda/queuefactory.py                                              25      
 pyanaconda/regexes.py                                                   20      0      0      0   100%
 pyanaconda/rescue.py                                                   269    269     88      0     0%
 pyanaconda/safe_dbus.py                                                 54     36     17      0    25%
+pyanaconda/screen_access.py                                             89      6     24      5    90%
 pyanaconda/screensaver.py                                               25     25      0      0     0%
 pyanaconda/simpleconfig.py                                             121      2     65      5    96%
-pyanaconda/startup_utils.py                                             22     22      8      0     0%
+pyanaconda/startup_utils.py                                             22      4      8      3    77%
 pyanaconda/storage_utils.py                                            200    200    101      0     0%
 pyanaconda/threads.py                                                  111     84     26      0    20%
 pyanaconda/timezone.py                                                  92     49     28      2    46%
@@ -58,7 +59,7 @@ pyanaconda/ui/categories/localization.py                                 8      
 pyanaconda/ui/categories/software.py                                     8      8      0      0     0%
 pyanaconda/ui/categories/system.py                                       8      8      0      0     0%
 pyanaconda/ui/categories/user_settings.py                                8      8      0      0     0%
-pyanaconda/ui/common.py                                                198    136     73      0    23%
+pyanaconda/ui/common.py                                                231    159     85      0    23%
 pyanaconda/ui/communication.py                                           8      8      0      0     0%
 pyanaconda/ui/gui/__init__.py                                          493    493    121      0     0%
 pyanaconda/ui/gui/helpers.py                                            71     71     16      0     0%
@@ -106,7 +107,7 @@ pyanaconda/ui/tui/__init__.py                                          102    10
 pyanaconda/ui/tui/hubs/__init__.py                                      57     57     24      0     0%
 pyanaconda/ui/tui/hubs/summary.py                                       73     73     39      0     0%
 pyanaconda/ui/tui/simpleline/__init__.py                                 2      2      0      0     0%
-pyanaconda/ui/tui/simpleline/base.py                                   331    331    142      0     0%
+pyanaconda/ui/tui/simpleline/base.py                                   342    342    148      0     0%
 pyanaconda/ui/tui/simpleline/widgets.py                                 88     88     14      0     0%
 pyanaconda/ui/tui/spokes/__init__.py                                   186    186     71      0     0%
 pyanaconda/ui/tui/spokes/askvnc.py                                      94     94     22      0     0%
@@ -123,7 +124,7 @@ pyanaconda/ui/tui/spokes/user.py                                        81     8
 pyanaconda/ui/tui/spokes/warnings_spoke.py                              25     25      0      0     0%
 pyanaconda/ui/tui/tuiobject.py                                          81     81      8      0     0%
 pyanaconda/users.py                                                    214     48    109     15    74%
-pyanaconda/version.py                                                    1      1      0      0     0%
+pyanaconda/version.py                                                    1      0      0      0   100%
 pyanaconda/vnc.py                                                      156    156     42      0     0%
 translation-canary/translation_canary/__init__.py                        0      0      0      0   100%
 translation-canary/translation_canary/translatable/__init__.py          31      7     14      1    82%
@@ -131,4 +132,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26250  22857   9541    187    11%
+TOTAL                                                                26402  22895   9589    195    12%

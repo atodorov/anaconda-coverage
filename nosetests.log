@@ -194,6 +194,12 @@ prefix2netmask2prefix_test (tests.pyanaconda_tests.network_test.NetworkTests) ..
 sanityCheckHostname_test (tests.pyanaconda_tests.network_test.NetworkTests) ... ok
 ipv4_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
 ipv6_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
+Test that SAM can correctly disable post install tools via the user interaction config. ... ok
+Test that SAM can correctly parse an existing user interaction config. ... ok
+Test that the Anaconda generated config file header looks fine. ... ok
+Test that SAM can handle no user interaction taking place. ... ok
+Test that SAM correctly marks option as changed in the output config. ... ok
+Test that SAM correctly marks a spoke as visited in the output config. ... ok
 comment_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 no_use_tmp_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 quote_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
@@ -251,7 +257,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 209 tests in 10.298s
+Ran 215 tests in 10.344s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
