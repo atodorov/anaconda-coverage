@@ -1,5 +1,5 @@
 ================================================
-   anaconda 25.21: tests/test-suite.log.22420
+   anaconda 25.21: tests/test-suite.log.19097
 ================================================
 
 # TOTAL: 9
@@ -18,7 +18,7 @@ SKIP: storage/run_storage_tests.py
 SKIP storage/run_storage_tests.py (exit status: 77)
 
 ================================================
-   anaconda 25.21: tests/test-suite.log.24091
+   anaconda 25.21: tests/test-suite.log.20768
 ================================================
 
 # TOTAL: 1
@@ -32,7 +32,7 @@ SKIP storage/run_storage_tests.py (exit status: 77)
 .. contents:: :depth: 2
 
 ================================================
-   anaconda 25.21: tests/test-suite.log.24593
+   anaconda 25.21: tests/test-suite.log.21271
 ================================================
 
 # TOTAL: 1
