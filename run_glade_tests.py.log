@@ -10,7 +10,7 @@ Reject translatable format string in glade. ... ok
 Check that widgets that implement GtkScrollable are not in a viewport. ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.345s
+Ran 10 tests in 0.353s
 
 OK
 PASS glade/run_glade_tests.py (exit status: 0)
