@@ -8,7 +8,7 @@ pyanaconda/addons.py                                                    96     6
 pyanaconda/anaconda.py                                                 152    152     46      0     0%
 pyanaconda/anaconda_argparse.py                                        229     65     95      9    64%
 pyanaconda/anaconda_log.py                                             147     97     13      0    31%
-pyanaconda/bootloader.py                                              1382   1051    518      1    18%
+pyanaconda/bootloader.py                                              1396   1062    524      1    18%
 pyanaconda/constants.py                                                106      1      4      1    96%
 pyanaconda/constants_text.py                                             3      3      0      0     0%
 pyanaconda/desktop.py                                                   28     18      8      0    28%
@@ -22,6 +22,7 @@ pyanaconda/image.py                                                    112     9
 pyanaconda/install.py                                                  127    127     43      0     0%
 pyanaconda/installclass.py                                             129    129     56      0     0%
 pyanaconda/installclasses/__init__.py                                    0      0      0      0   100%
+pyanaconda/installclasses/centos.py                                     31     31      9      0     0%
 pyanaconda/installclasses/fedora.py                                     31     31     11      0     0%
 pyanaconda/installclasses/rhel.py                                       31     31      9      0     0%
 pyanaconda/isys/__init__.py                                             89     64     26      1    23%
@@ -116,7 +117,7 @@ pyanaconda/ui/tui/spokes/network.py                                    220    22
 pyanaconda/ui/tui/spokes/password.py                                    40     40      8      0     0%
 pyanaconda/ui/tui/spokes/progress.py                                    69     69     18      0     0%
 pyanaconda/ui/tui/spokes/shell_spoke.py                                 27     27      0      0     0%
-pyanaconda/ui/tui/spokes/software.py                                   136    136     42      0     0%
+pyanaconda/ui/tui/spokes/software.py                                   137    137     42      0     0%
 pyanaconda/ui/tui/spokes/source.py                                     299    299     86      0     0%
 pyanaconda/ui/tui/spokes/storage.py                                    324    324    130      0     0%
 pyanaconda/ui/tui/spokes/time_spoke.py                                 309    309    104      0     0%
@@ -132,4 +133,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26469  22886   9643    196    12%
+TOTAL                                                                26515  22929   9658    196    12%
