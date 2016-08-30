@@ -17,17 +17,17 @@ Installing:
  adwaita-cursor-theme    noarch 3.21.2-1.fc25            anaconda-rawhide 632 k
  adwaita-icon-theme      noarch 3.21.2-1.fc25            anaconda-rawhide  11 M
  alsa-lib                x86_64 1.1.2-1.fc26             anaconda-rawhide 416 k
- anaconda                x86_64 25.21-0.1.20160829094936.fc26
-                                                         anaconda          82 k
- anaconda-core           x86_64 25.21-0.1.20160829094936.fc26
+ anaconda                x86_64 26.2-0.1.20160830084934.fc26
+                                                         anaconda          81 k
+ anaconda-core           x86_64 26.2-0.1.20160830084934.fc26
                                                          anaconda         610 k
- anaconda-gui            x86_64 25.21-0.1.20160829094936.fc26
+ anaconda-gui            x86_64 26.2-0.1.20160830084934.fc26
                                                          anaconda         413 k
- anaconda-tui            x86_64 25.21-0.1.20160829094936.fc26
+ anaconda-tui            x86_64 26.2-0.1.20160830084934.fc26
                                                          anaconda         184 k
  anaconda-user-help      noarch 22.4-4.fc24              anaconda-rawhide  43 k
- anaconda-widgets        x86_64 25.21-0.1.20160829094936.fc26
-                                                         anaconda         112 k
+ anaconda-widgets        x86_64 26.2-0.1.20160830084934.fc26
+                                                         anaconda         111 k
  at-spi2-atk             x86_64 2.21.4-1.fc25            anaconda-rawhide  83 k
  at-spi2-core            x86_64 2.21.4-1.fc25            anaconda-rawhide 161 k
  atk                     x86_64 2.21.90-1.fc26           anaconda-rawhide 262 k
@@ -127,7 +127,7 @@ Installing:
  geoclue2                x86_64 2.4.3-1.fc25             anaconda-rawhide 108 k
  glade-libs              x86_64 3.20.0-1.fc25            anaconda-rawhide 677 k
  glib-networking         x86_64 2.49.90-1.fc26           anaconda-rawhide 135 k
- glib2                   x86_64 2.49.5-1.fc26            anaconda-rawhide 2.3 M
+ glib2                   x86_64 2.49.6-1.fc26            anaconda-rawhide 2.4 M
  glibc                   x86_64 2.24.90-5.fc26           anaconda-rawhide 3.3 M
  glibc-common            x86_64 2.24.90-5.fc26           anaconda-rawhide 877 k
  glibc-langpack-en       x86_64 2.24.90-5.fc26           anaconda-rawhide 281 k
@@ -514,7 +514,7 @@ Total download size: 219 M
 Installed size: 729 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           6.9 MB/s | 219 MB     00:31     
+Total                                           5.3 MB/s | 219 MB     00:41     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -576,7 +576,7 @@ Running transaction
   Installing  : grep-2.25-1.fc25.x86_64                                  54/480 
   Installing  : sqlite-libs-3.14.1-1.fc26.x86_64                         55/480 
   Installing  : libffi-3.1-9.fc24.x86_64                                 56/480 
-  Installing  : glib2-2.49.5-1.fc26.x86_64                               57/480 
+  Installing  : glib2-2.49.6-1.fc26.x86_64                               57/480 
   Installing  : atk-2.21.90-1.fc26.x86_64                                58/480 
   Installing  : libblockdev-utils-1.9-1.fc26.x86_64                      59/480 
   Installing  : libdb-5.3.28-14.fc24.x86_64                              60/480 
@@ -954,7 +954,7 @@ warning: %post(lvm2-2.02.164-2.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : libnma-1.4.0-1.fc26.x86_64                              426/480 
   Installing  : nm-connection-editor-1.4.0-1.fc26.x86_64                427/480 
   Installing  : glade-libs-3.20.0-1.fc25.x86_64                         428/480 
-  Installing  : anaconda-widgets-25.21-0.1.20160829094936.fc26.x86_64   429/480 
+  Installing  : anaconda-widgets-26.2-0.1.20160830084934.fc26.x86_64    429/480 
   Installing  : keybinder3-0.3.0-6.fc24.x86_64                          430/480 
   Installing  : libtimezonemap-0.4.5-4.fc26.x86_64                      431/480 
   Installing  : libreport-gtk-2.7.2-2.fc25.x86_64                       432/480 
@@ -988,12 +988,12 @@ warning: %post(lvm2-2.02.164-2.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-swap-1.9-1.fc26.x86_64                      460/480 
   Installing  : libblockdev-plugins-all-1.9-1.fc26.x86_64               461/480 
   Installing  : python3-blivet-1:2.1.2-1.fc26.noarch                    462/480 
-  Installing  : anaconda-tui-25.21-0.1.20160829094936.fc26.x86_64       463/480 
-  Installing  : anaconda-core-25.21-0.1.20160829094936.fc26.x86_64      464/480 
+  Installing  : anaconda-tui-26.2-0.1.20160830084934.fc26.x86_64        463/480 
+  Installing  : anaconda-core-26.2-0.1.20160830084934.fc26.x86_64       464/480 
   Installing  : linux-atm-libs-2.5.1-14.fc24.x86_64                     465/480 
   Installing  : anaconda-user-help-22.4-4.fc24.noarch                   466/480 
-  Installing  : anaconda-gui-25.21-0.1.20160829094936.fc26.x86_64       467/480 
-  Installing  : anaconda-25.21-0.1.20160829094936.fc26.x86_64           468/480 
+  Installing  : anaconda-gui-26.2-0.1.20160830084934.fc26.x86_64        467/480 
+  Installing  : anaconda-26.2-0.1.20160830084934.fc26.x86_64            468/480 
   Installing  : iproute-tc-4.7.0-1.fc26.x86_64                          469/480 
   Installing  : webkitgtk4-plugin-process-gtk2-2.13.4-1.fc26.x86_64     470/480 
   Installing  : timedatex-0.4-2.fc24.x86_64                             471/480 
@@ -1007,11 +1007,11 @@ warning: %post(lvm2-2.02.164-2.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : pigz-2.3.3-4.fc24.x86_64                                479/480 
   Installing  : hardlink-1:1.1-1.fc25.x86_64                            480/480Failed to connect to bus: No such file or directory
  
-  Verifying   : anaconda-25.21-0.1.20160829094936.fc26.x86_64             1/480 
+  Verifying   : anaconda-26.2-0.1.20160830084934.fc26.x86_64              1/480 
   Verifying   : bash-4.3.43-1.fc25.x86_64                                 2/480 
-  Verifying   : anaconda-core-25.21-0.1.20160829094936.fc26.x86_64        3/480 
-  Verifying   : anaconda-gui-25.21-0.1.20160829094936.fc26.x86_64         4/480 
-  Verifying   : anaconda-tui-25.21-0.1.20160829094936.fc26.x86_64         5/480 
+  Verifying   : anaconda-core-26.2-0.1.20160830084934.fc26.x86_64         3/480 
+  Verifying   : anaconda-gui-26.2-0.1.20160830084934.fc26.x86_64          4/480 
+  Verifying   : anaconda-tui-26.2-0.1.20160830084934.fc26.x86_64          5/480 
   Verifying   : glibc-2.24.90-5.fc26.x86_64                               6/480 
   Verifying   : ncurses-libs-6.0-6.20160709.fc25.x86_64                   7/480 
   Verifying   : NetworkManager-1:1.4.0-1.fc26.x86_64                      8/480 
@@ -1063,13 +1063,13 @@ warning: %post(lvm2-2.02.164-2.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : tigervnc-server-minimal-1.6.90-1.fc25.x86_64             54/480 
   Verifying   : yelp-2:3.21.3-1.fc25.x86_64                              55/480 
   Verifying   : zenity-3.20.0-1.fc25.x86_64                              56/480 
-  Verifying   : anaconda-widgets-25.21-0.1.20160829094936.fc26.x86_64    57/480 
+  Verifying   : anaconda-widgets-26.2-0.1.20160830084934.fc26.x86_64     57/480 
   Verifying   : basesystem-11-2.fc24.noarch                              58/480 
   Verifying   : glibc-common-2.24.90-5.fc26.x86_64                       59/480 
   Verifying   : ncurses-base-6.0-6.20160709.fc25.noarch                  60/480 
   Verifying   : NetworkManager-libnm-1:1.4.0-1.fc26.x86_64               61/480 
   Verifying   : dnsmasq-2.76-1.fc25.x86_64                               62/480 
-  Verifying   : glib2-2.49.5-1.fc26.x86_64                               63/480 
+  Verifying   : glib2-2.49.6-1.fc26.x86_64                               63/480 
   Verifying   : iproute-4.7.0-1.fc26.x86_64                              64/480 
   Verifying   : jansson-2.7-3.fc24.x86_64                                65/480 
   Verifying   : libgcc-6.1.1-6.fc26.x86_64                               66/480 
@@ -1503,12 +1503,12 @@ Installed:
   adwaita-cursor-theme.noarch 3.21.2-1.fc25                                     
   adwaita-icon-theme.noarch 3.21.2-1.fc25                                       
   alsa-lib.x86_64 1.1.2-1.fc26                                                  
-  anaconda.x86_64 25.21-0.1.20160829094936.fc26                                 
-  anaconda-core.x86_64 25.21-0.1.20160829094936.fc26                            
-  anaconda-gui.x86_64 25.21-0.1.20160829094936.fc26                             
-  anaconda-tui.x86_64 25.21-0.1.20160829094936.fc26                             
+  anaconda.x86_64 26.2-0.1.20160830084934.fc26                                  
+  anaconda-core.x86_64 26.2-0.1.20160830084934.fc26                             
+  anaconda-gui.x86_64 26.2-0.1.20160830084934.fc26                              
+  anaconda-tui.x86_64 26.2-0.1.20160830084934.fc26                              
   anaconda-user-help.noarch 22.4-4.fc24                                         
-  anaconda-widgets.x86_64 25.21-0.1.20160829094936.fc26                         
+  anaconda-widgets.x86_64 26.2-0.1.20160830084934.fc26                          
   at-spi2-atk.x86_64 2.21.4-1.fc25                                              
   at-spi2-core.x86_64 2.21.4-1.fc25                                             
   atk.x86_64 2.21.90-1.fc26                                                     
@@ -1603,7 +1603,7 @@ Installed:
   geoclue2.x86_64 2.4.3-1.fc25                                                  
   glade-libs.x86_64 3.20.0-1.fc25                                               
   glib-networking.x86_64 2.49.90-1.fc26                                         
-  glib2.x86_64 2.49.5-1.fc26                                                    
+  glib2.x86_64 2.49.6-1.fc26                                                    
   glibc.x86_64 2.24.90-5.fc26                                                   
   glibc-common.x86_64 2.24.90-5.fc26                                            
   glibc-langpack-en.x86_64 2.24.90-5.fc26                                       
@@ -1973,5 +1973,5 @@ Installed:
 Complete!
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
 Non-fatal POSTIN scriptlet failure in rpm package lvm2
-anaconda-25.21-0.1.20160829094936.fc26.x86_64
+anaconda-26.2-0.1.20160830084934.fc26.x86_64
 PASS install/run_install_test.sh (exit status: 0)
