@@ -45,6 +45,9 @@ ok
 network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
   option = self.option_class(*args, **kwargs)
 ok
+network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
 network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
   option = self.option_class(*args, **kwargs)
 ok
@@ -96,6 +99,7 @@ grab_driver_files: copy drivers into place, return module+alias dict ... ok
 test_basic (tests.dracut_tests.test_driver_updates.ListAliasesTestCase) ... ok
 load_drivers: runs depmod and modprobes all named modules ... ok
 test_basic_replace (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
+test_interface_unload (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
 mount: calls mount(8) to mount a device/image ... ok
 mount: makes mountpoint if needed ... ok
 mounted: context manager mounts/umounts as expected ... ok
@@ -247,6 +251,7 @@ Test a list of possible group-name (GID) values with the group ... ok
 hostname_test (tests.regex_tests.hostname_test.HostnameRegexTestCase) ... ok
 ipv4_test (tests.regex_tests.hostname_test.IPv4RegexTestCase) ... ok
 ipv6_test (tests.regex_tests.hostname_test.IPv6RegexTestCase) ... ok
+netmask_test (tests.regex_tests.ibft_device_name_test.IbftDeviceNameTestCase) ... ok
 euiname_test (tests.regex_tests.iscsi_name_test.iSCSIeuinameRegexTestCase) ... ok
 iqnname_test (tests.regex_tests.iscsi_name_test.iSCSIiqnnameRegexTestCase) ... ok
 netmask_test (tests.regex_tests.netmask_test.IPv4NetmaskTestCase) ... ok
@@ -257,7 +262,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 215 tests in 10.596s
+Ran 218 tests in 10.246s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
