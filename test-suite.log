@@ -1,19 +1,5 @@
-==============================================
-   anaconda 26.2: tests/test-suite.log.1172
-==============================================
-
-# TOTAL: 1
-# PASS:  1
-# SKIP:  0
-# XFAIL: 0
-# FAIL:  0
-# XPASS: 0
-# ERROR: 0
-
-.. contents:: :depth: 2
-
 ===============================================
-   anaconda 26.2: tests/test-suite.log.31392
+   anaconda 26.2: tests/test-suite.log.26072
 ===============================================
 
 # TOTAL: 9
@@ -31,9 +17,23 @@ SKIP: storage/run_storage_tests.py
 
 SKIP storage/run_storage_tests.py (exit status: 77)
 
-=============================================
-   anaconda 26.2: tests/test-suite.log.600
-=============================================
+===============================================
+   anaconda 26.2: tests/test-suite.log.27752
+===============================================
+
+# TOTAL: 1
+# PASS:  1
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  0
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+===============================================
+   anaconda 26.2: tests/test-suite.log.28254
+===============================================
 
 # TOTAL: 1
 # PASS:  1
