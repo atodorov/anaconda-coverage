@@ -100,6 +100,7 @@ test_basic (tests.dracut_tests.test_driver_updates.ListAliasesTestCase) ... ok
 load_drivers: runs depmod and modprobes all named modules ... ok
 test_basic_replace (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
 test_interface_unload (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
+test_reload_module_dependencies (tests.dracut_tests.test_driver_updates.LoadDriversTestCase) ... ok
 mount: calls mount(8) to mount a device/image ... ok
 mount: makes mountpoint if needed ... ok
 mounted: context manager mounts/umounts as expected ... ok
@@ -262,7 +263,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 218 tests in 10.237s
+Ran 219 tests in 11.121s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)

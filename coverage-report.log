@@ -1,7 +1,7 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
 anaconda.py                                                            722    722    321      0     0%
-dracut/driver_updates.py                                               445     90    172     27    76%
+dracut/driver_updates.py                                               445     89    172     26    76%
 dracut/parse-kickstart                                                 442     98    233     64    72%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
 pyanaconda/addons.py                                                    96     66     36      0    23%
@@ -133,4 +133,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26622  23005   9714    199    12%
+TOTAL                                                                26622  23004   9714    198    12%
