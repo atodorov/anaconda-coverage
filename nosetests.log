@@ -131,7 +131,9 @@ read_lines: return [] for empty file ... ok
 read_lines: return [] for missing file ... ok
 read_lines: returns items as passed to append_line ... ok
 read_lines: returns a list of lines without trailing newlines ... ok
-save_repo: copies a directory to /run/install/DD-X ... ok
+save_repo: copies directory contents to /run/install/DD-X ... ok
+save_repo: copies directory contents to multiple /run/install/DD-X folders ... ok
+save_repo: copies a single file to /run/install/DD-X ... ok
 dirinstall_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
 display_mode_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
 selinux_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
@@ -263,7 +265,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 219 tests in 11.121s
+Ran 221 tests in 10.746s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)

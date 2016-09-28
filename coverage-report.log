@@ -1,7 +1,7 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
-anaconda.py                                                            722    722    321      0     0%
-dracut/driver_updates.py                                               445     89    172     26    76%
+anaconda.py                                                            721    721    321      0     0%
+dracut/driver_updates.py                                               455     91    180     28    77%
 dracut/parse-kickstart                                                 442     98    233     64    72%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
 pyanaconda/addons.py                                                    96     66     36      0    23%
@@ -34,7 +34,7 @@ pyanaconda/localization.py                                             268    16
 pyanaconda/network.py                                                 1096    876    604      7    17%
 pyanaconda/nm.py                                                       529    445    172      3    13%
 pyanaconda/ntp.py                                                      111     89     38      0    15%
-pyanaconda/packaging/__init__.py                                       724    562    283      1    16%
+pyanaconda/packaging/__init__.py                                       725    563    283      1    16%
 pyanaconda/packaging/dnfpayload.py                                     706    706    251      0     0%
 pyanaconda/packaging/livepayload.py                                    312    312    110      0     0%
 pyanaconda/packaging/rpmostreepayload.py                               172    140     42      0    15%
@@ -62,7 +62,7 @@ pyanaconda/ui/categories/system.py                                       8      
 pyanaconda/ui/categories/user_settings.py                                8      8      0      0     0%
 pyanaconda/ui/common.py                                                231    159     85      0    23%
 pyanaconda/ui/communication.py                                           8      8      0      0     0%
-pyanaconda/ui/gui/__init__.py                                          493    493    121      0     0%
+pyanaconda/ui/gui/__init__.py                                          491    491    119      0     0%
 pyanaconda/ui/gui/helpers.py                                            71     71     16      0     0%
 pyanaconda/ui/gui/hubs/__init__.py                                     223    223     99      0     0%
 pyanaconda/ui/gui/hubs/progress.py                                     164    164     42      0     0%
@@ -133,4 +133,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26622  23004   9714    198    12%
+TOTAL                                                                26630  23004   9720    200    12%
