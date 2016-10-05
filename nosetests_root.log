@@ -20,7 +20,7 @@ set_root_password_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) 
 set_user_ssh_key_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... ok
 
 ----------------------------------------------------------------------
-Ran 20 tests in 8.301s
+Ran 20 tests in 8.846s
 
 OK
 PASS nosetests_root.sh (exit status: 0)
