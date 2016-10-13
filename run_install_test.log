@@ -1,3 +1,4 @@
+Last metadata expiration check: 0:00:12 ago on Tue Oct 11 10:59:57 2016.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -7,11 +8,11 @@ Installing:
  GeoIP                   x86_64 1.6.9-2.fc24             anaconda-rawhide 118 k
  GeoIP-GeoLite-data      noarch 2016.09-1.fc26           anaconda-rawhide 339 k
  ModemManager-glib       x86_64 1.6.2-1.fc26             anaconda-rawhide 234 k
- NetworkManager          x86_64 1:1.4.0-4.fc26           anaconda-rawhide 2.5 M
- NetworkManager-glib     x86_64 1:1.4.0-4.fc26           anaconda-rawhide 359 k
- NetworkManager-libnm    x86_64 1:1.4.0-4.fc26           anaconda-rawhide 418 k
- NetworkManager-team     x86_64 1:1.4.0-4.fc26           anaconda-rawhide 122 k
- NetworkManager-wifi     x86_64 1:1.4.0-4.fc26           anaconda-rawhide 150 k
+ NetworkManager          x86_64 1:1.4.2-1.fc26           anaconda-rawhide 2.5 M
+ NetworkManager-glib     x86_64 1:1.4.2-1.fc26           anaconda-rawhide 353 k
+ NetworkManager-libnm    x86_64 1:1.4.2-1.fc26           anaconda-rawhide 411 k
+ NetworkManager-team     x86_64 1:1.4.2-1.fc26           anaconda-rawhide 121 k
+ NetworkManager-wifi     x86_64 1:1.4.2-1.fc26           anaconda-rawhide 148 k
  aajohan-comfortaa-fonts noarch 2.004-6.fc24             anaconda-rawhide 150 k
  acl                     x86_64 2.2.52-11.fc24           anaconda-rawhide  77 k
  adwaita-cursor-theme    noarch 3.22.0-1.fc26            anaconda-rawhide 644 k
@@ -57,18 +58,18 @@ Installing:
                                                          anaconda-rawhide  33 k
  cryptsetup-libs         x86_64 1.7.2-3.fc25             anaconda-rawhide 221 k
  cups-libs               x86_64 1:2.2.1-1.fc26           anaconda-rawhide 405 k
- curl                    x86_64 7.50.3-1.fc26            anaconda-rawhide 301 k
+ curl                    x86_64 7.50.3-2.fc26            anaconda-rawhide 301 k
  cyrus-sasl-lib          x86_64 2.1.26-26.2.fc24         anaconda-rawhide 157 k
  dbus                    x86_64 1:1.11.4-1.fc26          anaconda-rawhide 243 k
  dbus-glib               x86_64 0.108-1.fc26             anaconda-rawhide 122 k
  dbus-libs               x86_64 1:1.11.4-1.fc26          anaconda-rawhide 173 k
  dconf                   x86_64 0.26.0-1.fc25            anaconda-rawhide  99 k
  deltarpm                x86_64 3.6-17.fc25              anaconda-rawhide  89 k
- device-mapper           x86_64 1.02.135-1.fc26          anaconda-rawhide 332 k
- device-mapper-event     x86_64 1.02.135-1.fc26          anaconda-rawhide 240 k
+ device-mapper           x86_64 1.02.135-2.fc26          anaconda-rawhide 332 k
+ device-mapper-event     x86_64 1.02.135-2.fc26          anaconda-rawhide 240 k
  device-mapper-event-libs
-                         x86_64 1.02.135-1.fc26          anaconda-rawhide 240 k
- device-mapper-libs      x86_64 1.02.135-1.fc26          anaconda-rawhide 398 k
+                         x86_64 1.02.135-2.fc26          anaconda-rawhide 240 k
+ device-mapper-libs      x86_64 1.02.135-2.fc26          anaconda-rawhide 398 k
  device-mapper-multipath x86_64 0.4.9-83.fc25            anaconda-rawhide 126 k
  device-mapper-multipath-libs
                          x86_64 0.4.9-83.fc25            anaconda-rawhide 228 k
@@ -80,8 +81,8 @@ Installing:
  diffutils               x86_64 3.5-1.fc26               anaconda-rawhide 339 k
  dmraid                  x86_64 1.0.0.rc16-30.fc24       anaconda-rawhide 153 k
  dmraid-events           x86_64 1.0.0.rc16-30.fc24       anaconda-rawhide  26 k
- dnf                     noarch 2.0.0-0.rc1.3.fc26       anaconda-rawhide 278 k
- dnf-conf                noarch 2.0.0-0.rc1.3.fc26       anaconda-rawhide  97 k
+ dnf                     noarch 2.0.0-0.rc1.4.fc26       anaconda-rawhide 222 k
+ dnf-conf                noarch 2.0.0-0.rc1.4.fc26       anaconda-rawhide  41 k
  dnsmasq                 x86_64 2.76-1.fc25              anaconda-rawhide 298 k
  dosfstools              x86_64 4.0-1.fc25               anaconda-rawhide 115 k
  dracut                  x86_64 044-117.fc26             anaconda-rawhide 332 k
@@ -91,9 +92,9 @@ Installing:
  e2fsprogs-libs          x86_64 1.43.3-1.fc26            anaconda-rawhide 180 k
  ebtables                x86_64 2.0.10-21.fc25           anaconda-rawhide 125 k
  elfutils-default-yama-scope
-                         noarch 0.167-1.fc26             anaconda-rawhide  38 k
- elfutils-libelf         x86_64 0.167-1.fc26             anaconda-rawhide 197 k
- elfutils-libs           x86_64 0.167-1.fc26             anaconda-rawhide 275 k
+                         noarch 0.167-2.fc26             anaconda-rawhide  37 k
+ elfutils-libelf         x86_64 0.167-2.fc26             anaconda-rawhide 198 k
+ elfutils-libs           x86_64 0.167-2.fc26             anaconda-rawhide 274 k
  emacs-filesystem        noarch 1:25.1-1.fc26            anaconda-rawhide  65 k
  enchant                 x86_64 1:1.6.0-14.fc25          anaconda-rawhide  58 k
  ethtool                 x86_64 2:4.2-2.fc24             anaconda-rawhide 126 k
@@ -123,14 +124,14 @@ Installing:
  glade-libs              x86_64 3.20.0-1.fc25            anaconda-rawhide 678 k
  glib-networking         x86_64 2.50.0-1.fc26            anaconda-rawhide 135 k
  glib2                   x86_64 2.50.0-1.fc26            anaconda-rawhide 2.3 M
- glibc                   x86_64 2.24.90-9.fc26           anaconda-rawhide 3.3 M
- glibc-common            x86_64 2.24.90-9.fc26           anaconda-rawhide 878 k
- glibc-langpack-en       x86_64 2.24.90-9.fc26           anaconda-rawhide 282 k
+ glibc                   x86_64 2.24.90-10.fc26          anaconda-rawhide 3.3 M
+ glibc-common            x86_64 2.24.90-10.fc26          anaconda-rawhide 878 k
+ glibc-langpack-en       x86_64 2.24.90-10.fc26          anaconda-rawhide 282 k
  gmp                     x86_64 1:6.1.1-1.fc25           anaconda-rawhide 306 k
  gnupg                   x86_64 1.4.21-1.fc26            anaconda-rawhide 1.3 M
  gnupg2                  x86_64 2.1.13-2.fc26            anaconda-rawhide 1.9 M
  gnupg2-smime            x86_64 2.1.13-2.fc26            anaconda-rawhide 404 k
- gnutls                  x86_64 3.5.4-1.fc26             anaconda-rawhide 721 k
+ gnutls                  x86_64 3.5.5-1.fc26             anaconda-rawhide 723 k
  gobject-introspection   x86_64 1.50.0-1.fc26            anaconda-rawhide 241 k
  gpgme                   x86_64 1.6.0-3.fc25             anaconda-rawhide 171 k
  graphite2               x86_64 1.3.6-1.fc25             anaconda-rawhide 114 k
@@ -218,20 +219,20 @@ Installing:
  libatomic_ops           x86_64 7.4.4-1.fc25             anaconda-rawhide  32 k
  libattr                 x86_64 2.4.47-16.fc24           anaconda-rawhide  24 k
  libblkid                x86_64 2.29-0.1.fc26            anaconda-rawhide 184 k
- libblockdev             x86_64 1.9-4.fc26               anaconda-rawhide  83 k
- libblockdev-btrfs       x86_64 1.9-4.fc26               anaconda-rawhide  41 k
- libblockdev-crypto      x86_64 1.9-4.fc26               anaconda-rawhide  42 k
- libblockdev-dm          x86_64 1.9-4.fc26               anaconda-rawhide  41 k
- libblockdev-fs          x86_64 1.9-4.fc26               anaconda-rawhide  41 k
- libblockdev-kbd         x86_64 1.9-4.fc26               anaconda-rawhide  44 k
- libblockdev-loop        x86_64 1.9-4.fc26               anaconda-rawhide  38 k
- libblockdev-lvm         x86_64 1.9-4.fc26               anaconda-rawhide  47 k
- libblockdev-mdraid      x86_64 1.9-4.fc26               anaconda-rawhide  42 k
- libblockdev-mpath       x86_64 1.9-4.fc26               anaconda-rawhide  40 k
- libblockdev-part        x86_64 1.9-4.fc26               anaconda-rawhide  44 k
- libblockdev-plugins-all x86_64 1.9-4.fc26               anaconda-rawhide  34 k
- libblockdev-swap        x86_64 1.9-4.fc26               anaconda-rawhide  38 k
- libblockdev-utils       x86_64 1.9-4.fc26               anaconda-rawhide  40 k
+ libblockdev             x86_64 1.9-5.fc26               anaconda-rawhide  83 k
+ libblockdev-btrfs       x86_64 1.9-5.fc26               anaconda-rawhide  41 k
+ libblockdev-crypto      x86_64 1.9-5.fc26               anaconda-rawhide  42 k
+ libblockdev-dm          x86_64 1.9-5.fc26               anaconda-rawhide  41 k
+ libblockdev-fs          x86_64 1.9-5.fc26               anaconda-rawhide  41 k
+ libblockdev-kbd         x86_64 1.9-5.fc26               anaconda-rawhide  44 k
+ libblockdev-loop        x86_64 1.9-5.fc26               anaconda-rawhide  38 k
+ libblockdev-lvm         x86_64 1.9-5.fc26               anaconda-rawhide  47 k
+ libblockdev-mdraid      x86_64 1.9-5.fc26               anaconda-rawhide  43 k
+ libblockdev-mpath       x86_64 1.9-5.fc26               anaconda-rawhide  40 k
+ libblockdev-part        x86_64 1.9-5.fc26               anaconda-rawhide  44 k
+ libblockdev-plugins-all x86_64 1.9-5.fc26               anaconda-rawhide  34 k
+ libblockdev-swap        x86_64 1.9-5.fc26               anaconda-rawhide  39 k
+ libblockdev-utils       x86_64 1.9-5.fc26               anaconda-rawhide  41 k
  libbytesize             x86_64 0.7-3.fc26               anaconda-rawhide  50 k
  libcap                  x86_64 2.25-2.fc25              anaconda-rawhide  50 k
  libcap-ng               x86_64 0.7.8-1.fc25             anaconda-rawhide  29 k
@@ -239,8 +240,8 @@ Installing:
  libcomps                x86_64 0.1.8-1.fc26             anaconda-rawhide  74 k
  libconfig               x86_64 1.5-4.fc24               anaconda-rawhide  64 k
  libcroco                x86_64 0.6.11-2.fc24            anaconda-rawhide 108 k
- libcrypt-nss            x86_64 2.24.90-9.fc26           anaconda-rawhide  44 k
- libcurl                 x86_64 7.50.3-1.fc26            anaconda-rawhide 266 k
+ libcrypt-nss            x86_64 2.24.90-10.fc26          anaconda-rawhide  44 k
+ libcurl                 x86_64 7.50.3-2.fc26            anaconda-rawhide 265 k
  libdaemon               x86_64 0.14-10.fc24             anaconda-rawhide  34 k
  libdatrie               x86_64 0.2.9-3.fc25             anaconda-rawhide  31 k
  libdb                   x86_64 5.3.28-14.fc24           anaconda-rawhide 740 k
@@ -262,7 +263,7 @@ Installing:
  libhbalinux             x86_64 1.0.17-3.fc24            anaconda-rawhide  38 k
  libicu                  x86_64 57.1-1.fc25              anaconda-rawhide 8.4 M
  libidn                  x86_64 1.33-1.fc25              anaconda-rawhide 232 k
- libjpeg-turbo           x86_64 1.5.0-4.fc26             anaconda-rawhide 152 k
+ libjpeg-turbo           x86_64 1.5.1-0.fc26             anaconda-rawhide 153 k
  libksba                 x86_64 1.3.5-1.fc26             anaconda-rawhide 129 k
  libmetalink             x86_64 0.1.2-9.fc24             anaconda-rawhide  29 k
  libmnl                  x86_64 1.0.4-1.fc25             anaconda-rawhide  28 k
@@ -313,7 +314,7 @@ Installing:
  libtar                  x86_64 1.2.20-8.fc24            anaconda-rawhide  38 k
  libtasn1                x86_64 4.9-1.fc26               anaconda-rawhide 325 k
  libteam                 x86_64 1.26-1.fc26              anaconda-rawhide  55 k
- libthai                 x86_64 0.1.24-1.fc24            anaconda-rawhide 196 k
+ libthai                 x86_64 0.1.25-1.fc26            anaconda-rawhide 197 k
  libtheora               x86_64 1:1.1.1-14.fc24          anaconda-rawhide 192 k
  libtiff                 x86_64 4.0.6-2.fc24             anaconda-rawhide 174 k
  libtimezonemap          x86_64 0.4.5-4.fc26             anaconda-rawhide 2.0 M
@@ -343,8 +344,8 @@ Installing:
  llvm-libs               x86_64 3.8.0-1.fc25             anaconda-rawhide  11 M
  lsof                    x86_64 4.89-4.fc25              anaconda-rawhide 247 k
  lua-libs                x86_64 5.3.3-3.fc25             anaconda-rawhide 112 k
- lvm2                    x86_64 2.02.166-1.fc26          anaconda-rawhide 1.2 M
- lvm2-libs               x86_64 2.02.166-1.fc26          anaconda-rawhide 1.0 M
+ lvm2                    x86_64 2.02.166-2.fc26          anaconda-rawhide 1.2 M
+ lvm2-libs               x86_64 2.02.166-2.fc26          anaconda-rawhide 1.0 M
  lz4                     x86_64 r131-2.fc24              anaconda-rawhide  84 k
  lzo                     x86_64 2.08-8.fc24              anaconda-rawhide  66 k
  make                    x86_64 1:4.2.1-1.fc26           anaconda-rawhide 490 k
@@ -402,14 +403,14 @@ Installing:
  psmisc                  x86_64 22.21-8.fc24             anaconda-rawhide 148 k
  python3                 x86_64 3.5.2-4.fc26             anaconda-rawhide  58 k
  python3-blivet          noarch 1:2.1.6-1.fc26           anaconda-rawhide 1.0 M
- python3-blockdev        x86_64 1.9-4.fc26               anaconda-rawhide  43 k
+ python3-blockdev        x86_64 1.9-5.fc26               anaconda-rawhide  44 k
  python3-bytesize        x86_64 0.7-3.fc26               anaconda-rawhide  21 k
  python3-cairo           x86_64 1.10.0-17.fc25           anaconda-rawhide 471 k
  python3-chardet         noarch 2.3.0-1.fc26             anaconda-rawhide 243 k
  python3-coverage        x86_64 4.2-1.fc26               anaconda-rawhide 239 k
  python3-dbus            x86_64 1.2.4-2.fc25             anaconda-rawhide 121 k
  python3-decorator       noarch 4.0.10-3.fc26            anaconda-rawhide  26 k
- python3-dnf             noarch 2.0.0-0.rc1.3.fc26       anaconda-rawhide 457 k
+ python3-dnf             noarch 2.0.0-0.rc1.4.fc26       anaconda-rawhide 402 k
  python3-firewall        noarch 0.4.3.3-1.fc26           anaconda-rawhide 330 k
  python3-gobject         x86_64 3.22.0-1.fc26            anaconda-rawhide  21 k
  python3-gobject-base    x86_64 3.22.0-1.fc26            anaconda-rawhide 300 k
@@ -438,7 +439,7 @@ Installing:
  python3-requests-file   noarch 1.4-4.fc25               anaconda-rawhide  15 k
  python3-requests-ftp    noarch 0.3.1-4.fc25             anaconda-rawhide  20 k
  python3-rpm             x86_64 4.13.0-0.rc1.47.fc26     anaconda-rawhide 104 k
- python3-setuptools      noarch 28.2.0-1.fc26            anaconda-rawhide 548 k
+ python3-setuptools      noarch 28.3.0-1.fc26            anaconda-rawhide 549 k
  python3-six             noarch 1.10.0-4.fc26            anaconda-rawhide  35 k
  python3-slip            noarch 0.6.4-4.fc25             anaconda-rawhide  37 k
  python3-slip-dbus       noarch 0.6.4-4.fc25             anaconda-rawhide  38 k
@@ -467,11 +468,11 @@ Installing:
  sqlite-libs             x86_64 3.14.2-1.fc26            anaconda-rawhide 452 k
  system-python           x86_64 3.5.2-4.fc26             anaconda-rawhide  51 k
  system-python-libs      x86_64 3.5.2-4.fc26             anaconda-rawhide 6.3 M
- systemd                 x86_64 231-7.fc26               anaconda-rawhide 2.8 M
+ systemd                 x86_64 231-9.fc26               anaconda-rawhide 2.8 M
  systemd-bootchart       x86_64 231-2.fc26               anaconda-rawhide  67 k
- systemd-libs            x86_64 231-7.fc26               anaconda-rawhide 418 k
- systemd-pam             x86_64 231-7.fc26               anaconda-rawhide 177 k
- systemd-udev            x86_64 231-7.fc26               anaconda-rawhide 1.3 M
+ systemd-libs            x86_64 231-9.fc26               anaconda-rawhide 418 k
+ systemd-pam             x86_64 231-9.fc26               anaconda-rawhide 177 k
+ systemd-udev            x86_64 231-9.fc26               anaconda-rawhide 1.3 M
  teamd                   x86_64 1.26-1.fc26              anaconda-rawhide 120 k
  tigervnc-license        noarch 1.7.0-3.fc26             anaconda-rawhide  32 k
  tigervnc-server-minimal x86_64 1.7.0-3.fc26             anaconda-rawhide 1.0 M
@@ -506,10 +507,10 @@ Transaction Summary
 Install  481 Packages
 
 Total download size: 219 M
-Installed size: 734 M
+Installed size: 735 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           6.4 MB/s | 219 MB     00:34     
+Total                                           3.8 MB/s | 219 MB     00:58     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -523,7 +524,7 @@ Running transaction
   Installing  : langtable-0.0.36-2.fc25.noarch                            6/481 
   Installing  : langtable-data-0.0.36-2.fc25.noarch                       7/481 
   Installing  : aajohan-comfortaa-fonts-2.004-6.fc24.noarch               8/481 
-  Installing  : dnf-conf-2.0.0-0.rc1.3.fc26.noarch                        9/481 
+  Installing  : dnf-conf-2.0.0-0.rc1.4.fc26.noarch                        9/481 
   Installing  : mesa-filesystem-12.0.3-1.fc26.x86_64                     10/481 
   Installing  : hwdata-0.293-1.fc26.noarch                               11/481 
   Installing  : emacs-filesystem-1:25.1-1.fc26.noarch                    12/481 
@@ -537,9 +538,9 @@ Running transaction
   Installing  : setup-2.10.4-1.fc25.noarch                               20/481 
   Installing  : filesystem-3.2-37.fc24.x86_64                            21/481 
   Installing  : basesystem-11-2.fc24.noarch                              22/481 
-  Installing  : glibc-langpack-en-2.24.90-9.fc26.x86_64                  23/481 
-  Installing  : glibc-common-2.24.90-9.fc26.x86_64                       24/481 
-  Installing  : glibc-2.24.90-9.fc26.x86_64                              25/481 
+  Installing  : glibc-langpack-en-2.24.90-10.fc26.x86_64                 23/481 
+  Installing  : glibc-common-2.24.90-10.fc26.x86_64                      24/481 
+  Installing  : glibc-2.24.90-10.fc26.x86_64                             25/481 
   Installing  : ncurses-libs-6.0-6.20160709.fc25.x86_64                  26/481 
   Installing  : bash-4.3.43-4.fc26.x86_64                                27/481 
   Installing  : libsepol-2.5-10.fc26.x86_64                              28/481 
@@ -559,7 +560,7 @@ Running transaction
   Installing  : nss-util-3.27.0-2.fc26.x86_64                            42/481 
   Installing  : libcap-2.25-2.fc25.x86_64                                43/481 
   Installing  : readline-6.3-8.fc24.x86_64                               44/481 
-  Installing  : elfutils-libelf-0.167-1.fc26.x86_64                      45/481 
+  Installing  : elfutils-libelf-0.167-2.fc26.x86_64                      45/481 
   Installing  : libcom_err-1.43.3-1.fc26.x86_64                          46/481 
   Installing  : grep-2.26-2.fc26.x86_64                                  47/481 
   Installing  : sqlite-libs-3.14.2-1.fc26.x86_64                         48/481 
@@ -579,7 +580,7 @@ Running transaction
   Installing  : libattr-2.4.47-16.fc24.x86_64                            62/481 
   Installing  : libacl-2.2.52-11.fc24.x86_64                             63/481 
   Installing  : sed-4.2.2-15.fc24.x86_64                                 64/481 
-  Installing  : libjpeg-turbo-1.5.0-4.fc26.x86_64                        65/481 
+  Installing  : libjpeg-turbo-1.5.1-0.fc26.x86_64                        65/481 
   Installing  : lua-libs-5.3.3-3.fc25.x86_64                             66/481 
   Installing  : kmod-23-1.fc25.x86_64                                    67/481 
   Installing  : libxslt-1.1.28-13.fc25.x86_64                            68/481 
@@ -589,13 +590,13 @@ Running transaction
   Installing  : libicu-57.1-1.fc25.x86_64                                72/481 
   Installing  : xmlrpc-c-1.32.5-1909.svn2451.fc24.x86_64                 73/481 
   Installing  : nss-softokn-freebl-3.27.0-2.fc26.x86_64                  74/481 
-  Installing  : libcrypt-nss-2.24.90-9.fc26.x86_64                       75/481 
+  Installing  : libcrypt-nss-2.24.90-10.fc26.x86_64                      75/481 
   Installing  : jansson-2.9-1.fc26.x86_64                                76/481 
   Installing  : libcap-ng-0.7.8-1.fc25.x86_64                            77/481 
   Installing  : audit-libs-2.6.7-1.fc26.x86_64                           78/481 
   Installing  : libxshmfence-1.2-3.fc24.x86_64                           79/481 
   Installing  : lz4-r131-2.fc24.x86_64                                   80/481 
-  Installing  : systemd-libs-231-7.fc26.x86_64                           81/481 
+  Installing  : systemd-libs-231-9.fc26.x86_64                           81/481 
   Installing  : dbus-libs-1:1.11.4-1.fc26.x86_64                         82/481 
   Installing  : libusbx-1.0.21-0.2.rc2.fc26.x86_64                       83/481 
   Installing  : avahi-libs-0.6.32-4.fc26.x86_64                          84/481 
@@ -696,8 +697,8 @@ Running transaction
   Installing  : libselinux-utils-2.5-12.fc26.x86_64                     179/481 
   Installing  : mesa-libglapi-12.0.3-1.fc26.x86_64                      180/481 
   Installing  : psmisc-22.21-8.fc24.x86_64                              181/481 
-  Installing  : elfutils-default-yama-scope-0.167-1.fc26.noarch         182/481 
-  Installing  : elfutils-libs-0.167-1.fc26.x86_64                       183/481 
+  Installing  : elfutils-default-yama-scope-0.167-2.fc26.noarch         182/481 
+  Installing  : elfutils-libs-0.167-2.fc26.x86_64                       183/481 
   Installing  : GeoIP-GeoLite-data-2016.09-1.fc26.noarch                184/481 
   Installing  : libedit-3.1-16.20160618cvs.fc25.x86_64                  185/481 
   Installing  : ncurses-6.0-6.20160709.fc25.x86_64                      186/481 
@@ -720,7 +721,7 @@ Running transaction
   Installing  : libsemanage-2.5-8.fc26.x86_64                           203/481 
   Installing  : lcms2-2.8-2.fc26.x86_64                                 204/481 
   Installing  : libdatrie-0.2.9-3.fc25.x86_64                           205/481 
-  Installing  : libthai-0.1.24-1.fc24.x86_64                            206/481 
+  Installing  : libthai-0.1.25-1.fc26.x86_64                            206/481 
   Installing  : cdparanoia-libs-10.2-21.fc24.x86_64                     207/481 
   Installing  : libvisual-1:0.4.0-20.fc24.x86_64                        208/481 
   Installing  : opus-1.1.3-1.fc25.x86_64                                209/481 
@@ -744,11 +745,11 @@ Running transaction
   Installing  : system-python-3.5.2-4.fc26.x86_64                       227/481 
   Installing  : python3-six-1.10.0-4.fc26.noarch                        228/481 
   Installing  : fontconfig-2.12.1-1.fc26.x86_64                         229/481 
-  Installing  : gnutls-3.5.4-1.fc26.x86_64                              230/481 
+  Installing  : gnutls-3.5.5-1.fc26.x86_64                              230/481 
   Installing  : libmount-2.29-0.1.fc26.x86_64                           231/481 
   Installing  : glib2-2.50.0-1.fc26.x86_64                              232/481 
   Installing  : atk-2.22.0-1.fc26.x86_64                                233/481 
-  Installing  : libblockdev-utils-1.9-4.fc26.x86_64                     234/481 
+  Installing  : libblockdev-utils-1.9-5.fc26.x86_64                     234/481 
   Installing  : libgudev-230-3.fc24.x86_64                              235/481 
   Installing  : polkit-libs-0.113-5.fc24.x86_64                         236/481 
   Installing  : harfbuzz-1.3.2-1.fc26.x86_64                            237/481 
@@ -759,7 +760,7 @@ Running transaction
   Installing  : libsecret-0.18.5-2.fc26.x86_64                          242/481 
   Installing  : libxklavier-5.4-6.fc24.x86_64                           243/481 
   Installing  : harfbuzz-icu-1.3.2-1.fc26.x86_64                        244/481 
-  Installing  : libblockdev-1.9-4.fc26.x86_64                           245/481 
+  Installing  : libblockdev-1.9-5.fc26.x86_64                           245/481 
   Installing  : enchant-1:1.6.0-14.fc25.x86_64                          246/481 
   Installing  : gobject-introspection-1.50.0-1.fc26.x86_64              247/481 
   Installing  : cups-libs-1:2.2.1-1.fc26.x86_64                         248/481 
@@ -791,18 +792,18 @@ Running transaction
   Installing  : e2fsprogs-1.43.3-1.fc26.x86_64                          274/481 
   Installing  : libfdisk-2.29-0.1.fc26.x86_64                           275/481 
   Installing  : util-linux-2.29-0.1.fc26.x86_64                         276/481 
-  Installing  : systemd-pam-231-7.fc26.x86_64                           277/481 
-  Installing  : systemd-231-7.fc26.x86_64                               278/481 
+  Installing  : systemd-pam-231-9.fc26.x86_64                           277/481 
+  Installing  : systemd-231-9.fc26.x86_64                               278/481 
   Installing  : dbus-1:1.11.4-1.fc26.x86_64                             279/481 
-  Installing  : device-mapper-libs-1.02.135-1.fc26.x86_64               280/481 
-  Installing  : device-mapper-1.02.135-1.fc26.x86_64                    281/481 
-  Installing  : device-mapper-event-libs-1.02.135-1.fc26.x86_64         282/481 
+  Installing  : device-mapper-libs-1.02.135-2.fc26.x86_64               280/481 
+  Installing  : device-mapper-1.02.135-2.fc26.x86_64                    281/481 
+  Installing  : device-mapper-event-libs-1.02.135-2.fc26.x86_64         282/481 
   Installing  : parted-3.2-22.fc26.x86_64                               283/481 
   Installing  : libdrm-2.4.71-2.fc26.x86_64                             284/481 
   Installing  : mesa-libGL-12.0.3-1.fc26.x86_64                         285/481 
   Installing  : iputils-20160308-3.fc25.x86_64                          286/481 
   Installing  : initscripts-9.69-1.fc26.x86_64                          287/481 
-  Installing  : device-mapper-event-1.02.135-1.fc26.x86_64              288/481 
+  Installing  : device-mapper-event-1.02.135-2.fc26.x86_64              288/481 
 Failed to connect to bus: No such file or directory
   Installing  : cryptsetup-libs-1.7.2-3.fc25.x86_64                     289/481 
   Installing  : kpartx-0.4.9-83.fc25.x86_64                             290/481 
@@ -813,16 +814,16 @@ Failed to connect to bus: No such file or directory
   Installing  : dracut-044-117.fc26.x86_64                              295/481 
   Installing  : iscsi-initiator-utils-iscsiuio-6.2.0.873-34.git4c1f2d   296/481 
   Installing  : iscsi-initiator-utils-6.2.0.873-34.git4c1f2d9.fc25.x8   297/481 
-  Installing  : libblockdev-dm-1.9-4.fc26.x86_64                        298/481 
-  Installing  : systemd-udev-231-7.fc26.x86_64                          299/481 
+  Installing  : libblockdev-dm-1.9-5.fc26.x86_64                        298/481 
+  Installing  : systemd-udev-231-9.fc26.x86_64                          299/481 
 Failed to open /dev/urandom: No such file or directory
-  Installing  : lvm2-libs-2.02.166-1.fc26.x86_64                        300/481 
-  Installing  : lvm2-2.02.166-1.fc26.x86_64                             301/481 
+  Installing  : lvm2-libs-2.02.166-2.fc26.x86_64                        300/481 
+  Installing  : lvm2-2.02.166-2.fc26.x86_64                             301/481 
 Failed to connect to bus: No such file or directory
 Failed to connect to bus: No such file or directory
 Failed to connect to bus: No such file or directory
-warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
-  Installing  : libblockdev-lvm-1.9-4.fc26.x86_64                       302/481 
+warning: %post(lvm2-2.02.166-2.fc26.x86_64) scriptlet failed, exit status 1
+  Installing  : libblockdev-lvm-1.9-5.fc26.x86_64                       302/481 
   Installing  : ppp-2.4.7-9.fc24.x86_64                                 303/481 
   Installing  : mesa-libgbm-12.0.3-1.fc26.x86_64                        304/481 
   Installing  : mesa-libEGL-12.0.3-1.fc26.x86_64                        305/481 
@@ -834,9 +835,9 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : mesa-dri-drivers-12.0.3-1.fc26.x86_64                   311/481 
   Installing  : device-mapper-multipath-libs-0.4.9-83.fc25.x86_64       312/481 
   Installing  : device-mapper-multipath-0.4.9-83.fc25.x86_64            313/481 
-  Installing  : libblockdev-fs-1.9-4.fc26.x86_64                        314/481 
-  Installing  : libblockdev-mpath-1.9-4.fc26.x86_64                     315/481 
-  Installing  : libblockdev-part-1.9-4.fc26.x86_64                      316/481 
+  Installing  : libblockdev-fs-1.9-5.fc26.x86_64                        314/481 
+  Installing  : libblockdev-mpath-1.9-5.fc26.x86_64                     315/481 
+  Installing  : libblockdev-part-1.9-5.fc26.x86_64                      316/481 
   Installing  : at-spi2-core-2.22.0-1.fc26.x86_64                       317/481 
   Installing  : at-spi2-atk-2.22.0-1.fc26.x86_64                        318/481 
   Installing  : geoclue2-2.4.4-1.fc26.x86_64                            319/481 
@@ -846,15 +847,15 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : ebtables-2.0.10-21.fc25.x86_64                          323/481 
   Installing  : wpa_supplicant-1:2.5-5.fc24.x86_64                      324/481 
   Installing  : mdadm-3.4-3.fc26.x86_64                                 325/481 
-  Installing  : libblockdev-mdraid-1.9-4.fc26.x86_64                    326/481 
+  Installing  : libblockdev-mdraid-1.9-5.fc26.x86_64                    326/481 
   Installing  : lldpad-1.0.1-4.git036e314.fc24.x86_64                   327/481 
   Installing  : fcoe-utils-1.0.30-5.git91c0c8c.fc24.x86_64              328/481 
-  Installing  : libblockdev-loop-1.9-4.fc26.x86_64                      329/481 
-  Installing  : libblockdev-swap-1.9-4.fc26.x86_64                      330/481 
+  Installing  : libblockdev-loop-1.9-5.fc26.x86_64                      329/481 
+  Installing  : libblockdev-swap-1.9-5.fc26.x86_64                      330/481 
   Installing  : btrfs-progs-4.7.3-1.fc26.x86_64                         331/481 
-  Installing  : libblockdev-btrfs-1.9-4.fc26.x86_64                     332/481 
+  Installing  : libblockdev-btrfs-1.9-5.fc26.x86_64                     332/481 
   Installing  : python3-libs-3.5.2-4.fc26.x86_64                        333/481 
-  Installing  : python3-setuptools-28.2.0-1.fc26.noarch                 334/481 
+  Installing  : python3-setuptools-28.3.0-1.fc26.noarch                 334/481 
   Installing  : python3-pip-8.1.2-4.fc26.noarch                         335/481 
   Installing  : python3-3.5.2-4.fc26.x86_64                             336/481 
   Installing  : python3-gobject-base-3.22.0-1.fc26.x86_64               337/481 
@@ -866,7 +867,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : python3-slip-0.6.4-4.fc25.noarch                        343/481 
   Installing  : python3-slip-dbus-0.6.4-4.fc25.noarch                   344/481 
   Installing  : python3-firewall-0.4.3.3-1.fc26.noarch                  345/481 
-  Installing  : python3-blockdev-1.9-4.fc26.x86_64                      346/481 
+  Installing  : python3-blockdev-1.9-5.fc26.x86_64                      346/481 
   Installing  : langtable-python3-0.0.36-2.fc25.noarch                  347/481 
   Installing  : python3-coverage-4.2-1.fc26.x86_64                      348/481 
   Installing  : python3-iscsi-initiator-utils-6.2.0.873-34.git4c1f2d9   349/481 
@@ -887,15 +888,15 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : python3-requests-file-1.4-4.fc25.noarch                 364/481 
   Installing  : python3-requests-ftp-0.3.1-4.fc25.noarch                365/481 
   Installing  : bcache-tools-1.0.8-6.fc26.x86_64                        366/481 
-  Installing  : libblockdev-kbd-1.9-4.fc26.x86_64                       367/481 
+  Installing  : libblockdev-kbd-1.9-5.fc26.x86_64                       367/481 
   Installing  : python3-cairo-1.10.0-17.fc25.x86_64                     368/481 
   Installing  : python3-gobject-3.22.0-1.fc26.x86_64                    369/481 
   Installing  : fros-1.1-8.fc24.noarch                                  370/481 
   Installing  : nss-pem-1.0.2-2.fc25.x86_64                             371/481 
   Installing  : nss-3.27.0-3.fc26.x86_64                                372/481 
   Installing  : nss-sysinit-3.27.0-3.fc26.x86_64                        373/481 
-  Installing  : NetworkManager-libnm-1:1.4.0-4.fc26.x86_64              374/481 
-  Installing  : NetworkManager-glib-1:1.4.0-4.fc26.x86_64               375/481 
+  Installing  : NetworkManager-libnm-1:1.4.2-1.fc26.x86_64              374/481 
+  Installing  : NetworkManager-glib-1:1.4.2-1.fc26.x86_64               375/481 
   Installing  : nss-tools-3.27.0-3.fc26.x86_64                          376/481 
   Installing  : openldap-2.4.44-2.fc25.x86_64                           377/481 
   Installing  : gnupg2-2.1.13-2.fc26.x86_64                             378/481 
@@ -913,15 +914,15 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : hfsplus-tools-540.1.linux3-11.fc24.x86_64               390/481 
   Installing  : bind99-libs-9.9.9-2.P3.fc26.x86_64                      391/481 
   Installing  : libssh2-1.7.0-5.fc25.x86_64                             392/481 
-  Installing  : libcurl-7.50.3-1.fc26.x86_64                            393/481 
+  Installing  : libcurl-7.50.3-2.fc26.x86_64                            393/481 
   Installing  : xmlrpc-c-client-1.32.5-1909.svn2451.fc24.x86_64         394/481 
   Installing  : librepo-1.7.20-1.fc26.x86_64                            395/481 
   Installing  : python3-librepo-1.7.20-1.fc26.x86_64                    396/481 
-  Installing  : curl-7.50.3-1.fc26.x86_64                               397/481 
+  Installing  : curl-7.50.3-2.fc26.x86_64                               397/481 
   Installing  : gnupg-1.4.21-1.fc26.x86_64                              398/481 
   Installing  : volume_key-libs-0.3.9-10.fc25.x86_64                    399/481 
-  Installing  : libblockdev-crypto-1.9-4.fc26.x86_64                    400/481 
-  Installing  : libblockdev-plugins-all-1.9-4.fc26.x86_64               401/481 
+  Installing  : libblockdev-crypto-1.9-5.fc26.x86_64                    400/481 
+  Installing  : libblockdev-plugins-all-1.9-5.fc26.x86_64               401/481 
   Installing  : libarchive-3.2.1-4.fc26.x86_64                          402/481 
   Installing  : rpm-plugin-selinux-4.13.0-0.rc1.47.fc26.x86_64          403/481 
   Installing  : rpm-libs-4.13.0-0.rc1.47.fc26.x86_64                    404/481 
@@ -947,8 +948,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : rpm-plugin-systemd-inhibit-4.13.0-0.rc1.47.fc26.x86_6   424/481 
   Installing  : rpm-build-libs-4.13.0-0.rc1.47.fc26.x86_64              425/481 
   Installing  : python3-rpm-4.13.0-0.rc1.47.fc26.x86_64                 426/481 
-  Installing  : python3-dnf-2.0.0-0.rc1.3.fc26.noarch                   427/481 
-  Installing  : dnf-2.0.0-0.rc1.3.fc26.noarch                           428/481 
+  Installing  : python3-dnf-2.0.0-0.rc1.4.fc26.noarch                   427/481 
+  Installing  : dnf-2.0.0-0.rc1.4.fc26.noarch                           428/481 
   Installing  : libreport-python3-2.8.0-1.fc26.x86_64                   429/481 
   Installing  : python3-meh-0.44-2.fc25.noarch                          430/481 
   Installing  : trousers-lib-0.3.13-6.fc24.x86_64                       431/481 
@@ -979,9 +980,9 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : firewalld-0.4.3.3-1.fc26.noarch                         456/481 
   Installing  : dhcp-common-12:4.3.5-1.fc26.noarch                      457/481 
   Installing  : dhcp-client-12:4.3.5-1.fc26.x86_64                      458/481 
-  Installing  : NetworkManager-1:1.4.0-4.fc26.x86_64                    459/481 
-  Installing  : NetworkManager-team-1:1.4.0-4.fc26.x86_64               460/481 
-  Installing  : NetworkManager-wifi-1:1.4.0-4.fc26.x86_64               461/481 
+  Installing  : NetworkManager-1:1.4.2-1.fc26.x86_64                    459/481 
+  Installing  : NetworkManager-team-1:1.4.2-1.fc26.x86_64               460/481 
+  Installing  : NetworkManager-wifi-1:1.4.2-1.fc26.x86_64               461/481 
   Installing  : dracut-network-044-117.fc26.x86_64                      462/481 
   Installing  : kexec-tools-2.0.13-5.fc26.x86_64                        463/481 
   Installing  : anaconda-tui-26.8-1.fc26.x86_64                         464/481 
@@ -1008,8 +1009,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : anaconda-gui-26.8-1.fc26.x86_64                           3/481 
   Verifying   : anaconda-tui-26.8-1.fc26.x86_64                           4/481 
   Verifying   : bash-4.3.43-4.fc26.x86_64                                 5/481 
-  Verifying   : NetworkManager-1:1.4.0-4.fc26.x86_64                      6/481 
-  Verifying   : NetworkManager-team-1:1.4.0-4.fc26.x86_64                 7/481 
+  Verifying   : NetworkManager-1:1.4.2-1.fc26.x86_64                      6/481 
+  Verifying   : NetworkManager-team-1:1.4.2-1.fc26.x86_64                 7/481 
   Verifying   : audit-libs-2.6.7-1.fc26.x86_64                            8/481 
   Verifying   : authconfig-6.2.10-14.fc25.x86_64                          9/481 
   Verifying   : chrony-2.4-3.fc26.x86_64                                 10/481 
@@ -1018,8 +1019,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : dhcp-client-12:4.3.5-1.fc26.x86_64                       13/481 
   Verifying   : fcoe-utils-1.0.30-5.git91c0c8c.fc24.x86_64               14/481 
   Verifying   : firewalld-0.4.3.3-1.fc26.noarch                          15/481 
-  Verifying   : glibc-2.24.90-9.fc26.x86_64                              16/481 
-  Verifying   : glibc-langpack-en-2.24.90-9.fc26.x86_64                  17/481 
+  Verifying   : glibc-2.24.90-10.fc26.x86_64                             16/481 
+  Verifying   : glibc-langpack-en-2.24.90-10.fc26.x86_64                 17/481 
   Verifying   : hfsplus-tools-540.1.linux3-11.fc24.x86_64                18/481 
   Verifying   : isomd5sum-1:1.1.0-3.fc25.x86_64                          19/481 
   Verifying   : kbd-2.0.3-3.fc24.x86_64                                  20/481 
@@ -1031,7 +1032,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-blivet-1:2.1.6-1.fc26.noarch                     26/481 
   Verifying   : python3-coverage-4.2-1.fc26.x86_64                       27/481 
   Verifying   : python3-dbus-1.2.4-2.fc25.x86_64                         28/481 
-  Verifying   : python3-dnf-2.0.0-0.rc1.3.fc26.noarch                    29/481 
+  Verifying   : python3-dnf-2.0.0-0.rc1.4.fc26.noarch                    29/481 
   Verifying   : python3-iscsi-initiator-utils-6.2.0.873-34.git4c1f2d9    30/481 
   Verifying   : python3-kickstart-2.32-1.fc26.noarch                     31/481 
   Verifying   : python3-meh-0.44-2.fc25.noarch                           32/481 
@@ -1050,7 +1051,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : rsync-3.1.2-2.fc24.x86_64                                45/481 
   Verifying   : system-python-libs-3.5.2-4.fc26.x86_64                   46/481 
   Verifying   : usermode-1.111-8.fc24.x86_64                             47/481 
-  Verifying   : NetworkManager-wifi-1:1.4.0-4.fc26.x86_64                48/481 
+  Verifying   : NetworkManager-wifi-1:1.4.2-1.fc26.x86_64                48/481 
   Verifying   : adwaita-icon-theme-3.22.0-1.fc26.noarch                  49/481 
   Verifying   : anaconda-user-help-22.4-4.fc24.noarch                    50/481 
   Verifying   : nm-connection-editor-1.4.0-1.fc26.x86_64                 51/481 
@@ -1060,7 +1061,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : zenity-3.22.0-1.fc26.x86_64                              55/481 
   Verifying   : filesystem-3.2-37.fc24.x86_64                            56/481 
   Verifying   : ncurses-libs-6.0-6.20160709.fc25.x86_64                  57/481 
-  Verifying   : NetworkManager-libnm-1:1.4.0-4.fc26.x86_64               58/481 
+  Verifying   : NetworkManager-libnm-1:1.4.2-1.fc26.x86_64               58/481 
   Verifying   : dnsmasq-2.76-1.fc25.x86_64                               59/481 
   Verifying   : glib2-2.50.0-1.fc26.x86_64                               60/481 
   Verifying   : iproute-4.7.0-1.fc26.x86_64                              61/481 
@@ -1077,8 +1078,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : nss-util-3.27.0-2.fc26.x86_64                            72/481 
   Verifying   : polkit-libs-0.113-5.fc24.x86_64                          73/481 
   Verifying   : readline-6.3-8.fc24.x86_64                               74/481 
-  Verifying   : systemd-libs-231-7.fc26.x86_64                           75/481 
-  Verifying   : systemd-udev-231-7.fc26.x86_64                           76/481 
+  Verifying   : systemd-libs-231-9.fc26.x86_64                           75/481 
+  Verifying   : systemd-udev-231-9.fc26.x86_64                           76/481 
   Verifying   : teamd-1.26-1.fc26.x86_64                                 77/481 
   Verifying   : libcap-ng-0.7.8-1.fc25.x86_64                            78/481 
   Verifying   : newt-python3-0.52.19-2.fc25.x86_64                       79/481 
@@ -1095,7 +1096,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : drpm-0.3.0-4.fc26.x86_64                                 90/481 
   Verifying   : expat-2.2.0-1.fc25.x86_64                                91/481 
   Verifying   : file-libs-5.28-4.fc26.x86_64                             92/481 
-  Verifying   : libcurl-7.50.3-1.fc26.x86_64                             93/481 
+  Verifying   : libcurl-7.50.3-2.fc26.x86_64                             93/481 
   Verifying   : libxml2-2.9.3-4.fc25.x86_64                              94/481 
   Verifying   : openssl-libs-1:1.0.2j-1.fc26.x86_64                      95/481 
   Verifying   : rpm-libs-4.13.0-0.rc1.47.fc26.x86_64                     96/481 
@@ -1116,7 +1117,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : ipset-6.29-1.fc25.x86_64                                111/481 
   Verifying   : python3-firewall-0.4.3.3-1.fc26.noarch                  112/481 
   Verifying   : basesystem-11-2.fc24.noarch                             113/481 
-  Verifying   : glibc-common-2.24.90-9.fc26.x86_64                      114/481 
+  Verifying   : glibc-common-2.24.90-10.fc26.x86_64                     114/481 
   Verifying   : popt-1.16-7.fc24.x86_64                                 115/481 
   Verifying   : initscripts-9.69-1.fc26.x86_64                          116/481 
   Verifying   : kbd-legacy-2.0.3-3.fc24.noarch                          117/481 
@@ -1124,8 +1125,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : pam-1.3.0-1.fc25.x86_64                                 119/481 
   Verifying   : dracut-044-117.fc26.x86_64                              120/481 
   Verifying   : dracut-network-044-117.fc26.x86_64                      121/481 
-  Verifying   : elfutils-libelf-0.167-1.fc26.x86_64                     122/481 
-  Verifying   : elfutils-libs-0.167-1.fc26.x86_64                       123/481 
+  Verifying   : elfutils-libelf-0.167-2.fc26.x86_64                     122/481 
+  Verifying   : elfutils-libs-0.167-2.fc26.x86_64                       123/481 
   Verifying   : ethtool-2:4.2-2.fc24.x86_64                             124/481 
   Verifying   : lzo-2.08-8.fc24.x86_64                                  125/481 
   Verifying   : snappy-1.1.3-2.fc24.x86_64                              126/481 
@@ -1134,18 +1135,18 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libreport-plugin-reportuploader-2.8.0-1.fc26.x86_64     129/481 
   Verifying   : dosfstools-4.0-1.fc25.x86_64                            130/481 
   Verifying   : e2fsprogs-1.43.3-1.fc26.x86_64                          131/481 
-  Verifying   : libblockdev-plugins-all-1.9-4.fc26.x86_64               132/481 
+  Verifying   : libblockdev-plugins-all-1.9-5.fc26.x86_64               132/481 
   Verifying   : lsof-4.89-4.fc25.x86_64                                 133/481 
-  Verifying   : python3-blockdev-1.9-4.fc26.x86_64                      134/481 
+  Verifying   : python3-blockdev-1.9-5.fc26.x86_64                      134/481 
   Verifying   : python3-bytesize-0.7-3.fc26.x86_64                      135/481 
   Verifying   : python3-hawkey-0.7.0-0.1git179c0a6.fc26.x86_64          136/481 
   Verifying   : python3-pyudev-0.21.0-1.fc26.noarch                     137/481 
   Verifying   : python3-six-1.10.0-4.fc26.noarch                        138/481 
-  Verifying   : python3-setuptools-28.2.0-1.fc26.noarch                 139/481 
+  Verifying   : python3-setuptools-28.3.0-1.fc26.noarch                 139/481 
   Verifying   : dbus-glib-0.108-1.fc26.x86_64                           140/481 
   Verifying   : dbus-libs-1:1.11.4-1.fc26.x86_64                        141/481 
   Verifying   : deltarpm-3.6-17.fc25.x86_64                             142/481 
-  Verifying   : dnf-conf-2.0.0-0.rc1.3.fc26.noarch                      143/481 
+  Verifying   : dnf-conf-2.0.0-0.rc1.4.fc26.noarch                      143/481 
   Verifying   : python3-iniparse-0.4-21.fc26.noarch                     144/481 
   Verifying   : python3-libcomps-0.1.8-1.fc26.x86_64                    145/481 
   Verifying   : python3-librepo-1.7.20-1.fc26.x86_64                    146/481 
@@ -1181,7 +1182,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libnma-1.4.0-1.fc26.x86_64                              176/481 
   Verifying   : pango-1.40.3-1.fc26.x86_64                              177/481 
   Verifying   : chkconfig-1.8-1.fc25.x86_64                             178/481 
-  Verifying   : gnutls-3.5.4-1.fc26.x86_64                              179/481 
+  Verifying   : gnutls-3.5.5-1.fc26.x86_64                              179/481 
   Verifying   : libICE-1.0.9-5.fc25.x86_64                              180/481 
   Verifying   : libSM-1.2.2-4.fc24.x86_64                               181/481 
   Verifying   : libX11-1.6.4-1.fc26.x86_64                              182/481 
@@ -1189,7 +1190,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libXdmcp-1.1.2-3.fc24.x86_64                            184/481 
   Verifying   : libXext-1.3.3-4.fc24.x86_64                             185/481 
   Verifying   : libXfont2-2.0.1-2.fc26.x86_64                           186/481 
-  Verifying   : libjpeg-turbo-1.5.0-4.fc26.x86_64                       187/481 
+  Verifying   : libjpeg-turbo-1.5.1-0.fc26.x86_64                       187/481 
   Verifying   : libstdc++-6.2.1-2.fc26.x86_64                           188/481 
   Verifying   : libxshmfence-1.2-3.fc24.x86_64                          189/481 
   Verifying   : mesa-libGL-12.0.3-1.fc26.x86_64                         190/481 
@@ -1225,7 +1226,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : kmod-23-1.fc25.x86_64                                   220/481 
   Verifying   : kmod-libs-23-1.fc25.x86_64                              221/481 
   Verifying   : libblkid-2.29-0.1.fc26.x86_64                           222/481 
-  Verifying   : systemd-231-7.fc26.x86_64                               223/481 
+  Verifying   : systemd-231-9.fc26.x86_64                               223/481 
   Verifying   : libdaemon-0.14-10.fc24.x86_64                           224/481 
   Verifying   : libnl3-cli-3.2.28-3.fc26.x86_64                         225/481 
   Verifying   : libteam-1.26-1.fc26.x86_64                              226/481 
@@ -1243,8 +1244,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : lua-libs-5.3.3-3.fc25.x86_64                            238/481 
   Verifying   : rpm-plugin-selinux-4.13.0-0.rc1.47.fc26.x86_64          239/481 
   Verifying   : bind99-license-9.9.9-2.P3.fc26.noarch                   240/481 
-  Verifying   : device-mapper-1.02.135-1.fc26.x86_64                    241/481 
-  Verifying   : device-mapper-libs-1.02.135-1.fc26.x86_64               242/481 
+  Verifying   : device-mapper-1.02.135-2.fc26.x86_64                    241/481 
+  Verifying   : device-mapper-libs-1.02.135-2.fc26.x86_64               242/481 
   Verifying   : device-mapper-multipath-libs-0.4.9-83.fc25.x86_64       243/481 
   Verifying   : kpartx-0.4.9-83.fc25.x86_64                             244/481 
   Verifying   : ipset-libs-6.29-1.fc25.x86_64                           245/481 
@@ -1256,7 +1257,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : cracklib-2.9.6-3.fc25.x86_64                            251/481 
   Verifying   : gzip-1.8-1.fc25.x86_64                                  252/481 
   Verifying   : xz-5.2.2-2.fc24.x86_64                                  253/481 
-  Verifying   : elfutils-default-yama-scope-0.167-1.fc26.noarch         254/481 
+  Verifying   : elfutils-default-yama-scope-0.167-2.fc26.noarch         254/481 
   Verifying   : augeas-libs-1.6.0-1.fc26.x86_64                         255/481 
   Verifying   : json-c-0.12-7.fc24.x86_64                               256/481 
   Verifying   : libproxy-0.4.12-4.fc25.x86_64                           257/481 
@@ -1269,18 +1270,18 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : e2fsprogs-libs-1.43.3-1.fc26.x86_64                     264/481 
   Verifying   : fuse-libs-2.9.7-1.fc25.x86_64                           265/481 
   Verifying   : libss-1.43.3-1.fc26.x86_64                              266/481 
-  Verifying   : libblockdev-1.9-4.fc26.x86_64                           267/481 
-  Verifying   : libblockdev-btrfs-1.9-4.fc26.x86_64                     268/481 
-  Verifying   : libblockdev-crypto-1.9-4.fc26.x86_64                    269/481 
-  Verifying   : libblockdev-dm-1.9-4.fc26.x86_64                        270/481 
-  Verifying   : libblockdev-fs-1.9-4.fc26.x86_64                        271/481 
-  Verifying   : libblockdev-kbd-1.9-4.fc26.x86_64                       272/481 
-  Verifying   : libblockdev-loop-1.9-4.fc26.x86_64                      273/481 
-  Verifying   : libblockdev-lvm-1.9-4.fc26.x86_64                       274/481 
-  Verifying   : libblockdev-mdraid-1.9-4.fc26.x86_64                    275/481 
-  Verifying   : libblockdev-mpath-1.9-4.fc26.x86_64                     276/481 
-  Verifying   : libblockdev-part-1.9-4.fc26.x86_64                      277/481 
-  Verifying   : libblockdev-swap-1.9-4.fc26.x86_64                      278/481 
+  Verifying   : libblockdev-1.9-5.fc26.x86_64                           267/481 
+  Verifying   : libblockdev-btrfs-1.9-5.fc26.x86_64                     268/481 
+  Verifying   : libblockdev-crypto-1.9-5.fc26.x86_64                    269/481 
+  Verifying   : libblockdev-dm-1.9-5.fc26.x86_64                        270/481 
+  Verifying   : libblockdev-fs-1.9-5.fc26.x86_64                        271/481 
+  Verifying   : libblockdev-kbd-1.9-5.fc26.x86_64                       272/481 
+  Verifying   : libblockdev-loop-1.9-5.fc26.x86_64                      273/481 
+  Verifying   : libblockdev-lvm-1.9-5.fc26.x86_64                       274/481 
+  Verifying   : libblockdev-mdraid-1.9-5.fc26.x86_64                    275/481 
+  Verifying   : libblockdev-mpath-1.9-5.fc26.x86_64                     276/481 
+  Verifying   : libblockdev-part-1.9-5.fc26.x86_64                      277/481 
+  Verifying   : libblockdev-swap-1.9-5.fc26.x86_64                      278/481 
   Verifying   : libbytesize-0.7-3.fc26.x86_64                           279/481 
   Verifying   : libdnf-0.7.0-0.1git179c0a6.fc26.x86_64                  280/481 
   Verifying   : libsolv-0.6.23-5.fc26.x86_64                            281/481 
@@ -1289,9 +1290,9 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : gpgme-1.6.0-3.fc25.x86_64                               284/481 
   Verifying   : librepo-1.7.20-1.fc26.x86_64                            285/481 
   Verifying   : iscsi-initiator-utils-iscsiuio-6.2.0.873-34.git4c1f2d   286/481 
-  Verifying   : dnf-2.0.0-0.rc1.3.fc26.noarch                           287/481 
+  Verifying   : dnf-2.0.0-0.rc1.4.fc26.noarch                           287/481 
   Verifying   : python3-pysocks-1.5.7-1.fc26.noarch                     288/481 
-  Verifying   : curl-7.50.3-1.fc26.x86_64                               289/481 
+  Verifying   : curl-7.50.3-2.fc26.x86_64                               289/481 
   Verifying   : libarchive-3.2.1-4.fc26.x86_64                          290/481 
   Verifying   : libdb-utils-5.3.28-14.fc24.x86_64                       291/481 
   Verifying   : gnupg2-2.1.13-2.fc26.x86_64                             292/481 
@@ -1329,7 +1330,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : mobile-broadband-provider-info-1.20151214-1.fc24.noar   324/481 
   Verifying   : harfbuzz-1.3.2-1.fc26.x86_64                            325/481 
   Verifying   : libXft-2.3.2-4.fc24.x86_64                              326/481 
-  Verifying   : libthai-0.1.24-1.fc24.x86_64                            327/481 
+  Verifying   : libthai-0.1.25-1.fc26.x86_64                            327/481 
   Verifying   : libtasn1-4.9-1.fc26.x86_64                              328/481 
   Verifying   : p11-kit-0.23.2-2.fc24.x86_64                            329/481 
   Verifying   : p11-kit-trust-0.23.2-2.fc24.x86_64                      330/481 
@@ -1360,11 +1361,11 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libaio-0.3.110-6.fc24.x86_64                            355/481 
   Verifying   : python3-slip-0.6.4-4.fc25.noarch                        356/481 
   Verifying   : libmodman-2.0.1-12.fc24.x86_64                          357/481 
-  Verifying   : libblockdev-utils-1.9-4.fc26.x86_64                     358/481 
+  Verifying   : libblockdev-utils-1.9-5.fc26.x86_64                     358/481 
   Verifying   : volume_key-libs-0.3.9-10.fc25.x86_64                    359/481 
   Verifying   : dmraid-1.0.0.rc16-30.fc24.x86_64                        360/481 
   Verifying   : bcache-tools-1.0.8-6.fc26.x86_64                        361/481 
-  Verifying   : lvm2-2.02.166-1.fc26.x86_64                             362/481 
+  Verifying   : lvm2-2.02.166-2.fc26.x86_64                             362/481 
   Verifying   : mdadm-3.4-3.fc26.x86_64                                 363/481 
   Verifying   : gdisk-1.0.1-2.fc24.x86_64                               364/481 
   Verifying   : mpfr-3.1.5-1.fc26.x86_64                                365/481 
@@ -1398,17 +1399,17 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libatomic_ops-7.4.4-1.fc25.x86_64                       393/481 
   Verifying   : libtool-ltdl-2.4.6-12.fc26.x86_64                       394/481 
   Verifying   : gnupg-1.4.21-1.fc26.x86_64                              395/481 
-  Verifying   : device-mapper-event-libs-1.02.135-1.fc26.x86_64         396/481 
+  Verifying   : device-mapper-event-libs-1.02.135-2.fc26.x86_64         396/481 
   Verifying   : dmraid-events-1.0.0.rc16-30.fc24.x86_64                 397/481 
   Verifying   : device-mapper-persistent-data-0.6.3-1.fc26.x86_64       398/481 
-  Verifying   : lvm2-libs-2.02.166-1.fc26.x86_64                        399/481 
+  Verifying   : lvm2-libs-2.02.166-2.fc26.x86_64                        399/481 
   Verifying   : libXtst-1.2.3-1.fc26.x86_64                             400/481 
   Verifying   : jbigkit-libs-2.1-5.fc24.x86_64                          401/481 
   Verifying   : hwdata-0.293-1.fc26.noarch                              402/481 
   Verifying   : hunspell-en-US-0.20140811.1-5.fc24.noarch               403/481 
   Verifying   : xml-common-0.6.3-44.fc24.noarch                         404/481 
   Verifying   : libusb-1:0.1.5-7.fc24.x86_64                            405/481 
-  Verifying   : device-mapper-event-1.02.135-1.fc26.x86_64              406/481 
+  Verifying   : device-mapper-event-1.02.135-2.fc26.x86_64              406/481 
   Verifying   : sgpio-1.2.0.10-16.fc24.x86_64                           407/481 
   Verifying   : geoclue2-2.4.4-1.fc26.x86_64                            408/481 
   Verifying   : ModemManager-glib-1.6.2-1.fc26.x86_64                   409/481 
@@ -1423,8 +1424,8 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : coreutils-common-8.25-15.fc26.x86_64                    418/481 
   Verifying   : ncurses-6.0-6.20160709.fc25.x86_64                      419/481 
   Verifying   : dbus-1:1.11.4-1.fc26.x86_64                             420/481 
-  Verifying   : libcrypt-nss-2.24.90-9.fc26.x86_64                      421/481 
-  Verifying   : systemd-pam-231-7.fc26.x86_64                           422/481 
+  Verifying   : libcrypt-nss-2.24.90-10.fc26.x86_64                     421/481 
+  Verifying   : systemd-pam-231-9.fc26.x86_64                           422/481 
   Verifying   : python3-3.5.2-4.fc26.x86_64                             423/481 
   Verifying   : python3-libs-3.5.2-4.fc26.x86_64                        424/481 
   Verifying   : python3-pip-8.1.2-4.fc26.noarch                         425/481 
@@ -1436,7 +1437,7 @@ warning: %post(lvm2-2.02.166-1.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : python3-gobject-base-3.22.0-1.fc26.x86_64               431/481 
   Verifying   : gawk-4.1.4-1.fc26.x86_64                                432/481 
   Verifying   : libsigsegv-2.10-10.fc24.x86_64                          433/481 
-  Verifying   : NetworkManager-glib-1:1.4.0-4.fc26.x86_64               434/481 
+  Verifying   : NetworkManager-glib-1:1.4.2-1.fc26.x86_64               434/481 
   Verifying   : btrfs-progs-4.7.3-1.fc26.x86_64                         435/481 
   Verifying   : procps-ng-3.3.10-11.fc24.x86_64                         436/481 
   Verifying   : gsettings-desktop-schemas-3.22.0-1.fc26.x86_64          437/481 
@@ -1490,11 +1491,11 @@ Installed:
   GeoIP.x86_64 1.6.9-2.fc24                                                     
   GeoIP-GeoLite-data.noarch 2016.09-1.fc26                                      
   ModemManager-glib.x86_64 1.6.2-1.fc26                                         
-  NetworkManager.x86_64 1:1.4.0-4.fc26                                          
-  NetworkManager-glib.x86_64 1:1.4.0-4.fc26                                     
-  NetworkManager-libnm.x86_64 1:1.4.0-4.fc26                                    
-  NetworkManager-team.x86_64 1:1.4.0-4.fc26                                     
-  NetworkManager-wifi.x86_64 1:1.4.0-4.fc26                                     
+  NetworkManager.x86_64 1:1.4.2-1.fc26                                          
+  NetworkManager-glib.x86_64 1:1.4.2-1.fc26                                     
+  NetworkManager-libnm.x86_64 1:1.4.2-1.fc26                                    
+  NetworkManager-team.x86_64 1:1.4.2-1.fc26                                     
+  NetworkManager-wifi.x86_64 1:1.4.2-1.fc26                                     
   aajohan-comfortaa-fonts.noarch 2.004-6.fc24                                   
   acl.x86_64 2.2.52-11.fc24                                                     
   adwaita-cursor-theme.noarch 3.22.0-1.fc26                                     
@@ -1539,17 +1540,17 @@ Installed:
   crypto-policies.noarch 20160926-2.git08b5501.fc26                             
   cryptsetup-libs.x86_64 1.7.2-3.fc25                                           
   cups-libs.x86_64 1:2.2.1-1.fc26                                               
-  curl.x86_64 7.50.3-1.fc26                                                     
+  curl.x86_64 7.50.3-2.fc26                                                     
   cyrus-sasl-lib.x86_64 2.1.26-26.2.fc24                                        
   dbus.x86_64 1:1.11.4-1.fc26                                                   
   dbus-glib.x86_64 0.108-1.fc26                                                 
   dbus-libs.x86_64 1:1.11.4-1.fc26                                              
   dconf.x86_64 0.26.0-1.fc25                                                    
   deltarpm.x86_64 3.6-17.fc25                                                   
-  device-mapper.x86_64 1.02.135-1.fc26                                          
-  device-mapper-event.x86_64 1.02.135-1.fc26                                    
-  device-mapper-event-libs.x86_64 1.02.135-1.fc26                               
-  device-mapper-libs.x86_64 1.02.135-1.fc26                                     
+  device-mapper.x86_64 1.02.135-2.fc26                                          
+  device-mapper-event.x86_64 1.02.135-2.fc26                                    
+  device-mapper-event-libs.x86_64 1.02.135-2.fc26                               
+  device-mapper-libs.x86_64 1.02.135-2.fc26                                     
   device-mapper-multipath.x86_64 0.4.9-83.fc25                                  
   device-mapper-multipath-libs.x86_64 0.4.9-83.fc25                             
   device-mapper-persistent-data.x86_64 0.6.3-1.fc26                             
@@ -1559,8 +1560,8 @@ Installed:
   diffutils.x86_64 3.5-1.fc26                                                   
   dmraid.x86_64 1.0.0.rc16-30.fc24                                              
   dmraid-events.x86_64 1.0.0.rc16-30.fc24                                       
-  dnf.noarch 2.0.0-0.rc1.3.fc26                                                 
-  dnf-conf.noarch 2.0.0-0.rc1.3.fc26                                            
+  dnf.noarch 2.0.0-0.rc1.4.fc26                                                 
+  dnf-conf.noarch 2.0.0-0.rc1.4.fc26                                            
   dnsmasq.x86_64 2.76-1.fc25                                                    
   dosfstools.x86_64 4.0-1.fc25                                                  
   dracut.x86_64 044-117.fc26                                                    
@@ -1569,9 +1570,9 @@ Installed:
   e2fsprogs.x86_64 1.43.3-1.fc26                                                
   e2fsprogs-libs.x86_64 1.43.3-1.fc26                                           
   ebtables.x86_64 2.0.10-21.fc25                                                
-  elfutils-default-yama-scope.noarch 0.167-1.fc26                               
-  elfutils-libelf.x86_64 0.167-1.fc26                                           
-  elfutils-libs.x86_64 0.167-1.fc26                                             
+  elfutils-default-yama-scope.noarch 0.167-2.fc26                               
+  elfutils-libelf.x86_64 0.167-2.fc26                                           
+  elfutils-libs.x86_64 0.167-2.fc26                                             
   emacs-filesystem.noarch 1:25.1-1.fc26                                         
   enchant.x86_64 1:1.6.0-14.fc25                                                
   ethtool.x86_64 2:4.2-2.fc24                                                   
@@ -1601,14 +1602,14 @@ Installed:
   glade-libs.x86_64 3.20.0-1.fc25                                               
   glib-networking.x86_64 2.50.0-1.fc26                                          
   glib2.x86_64 2.50.0-1.fc26                                                    
-  glibc.x86_64 2.24.90-9.fc26                                                   
-  glibc-common.x86_64 2.24.90-9.fc26                                            
-  glibc-langpack-en.x86_64 2.24.90-9.fc26                                       
+  glibc.x86_64 2.24.90-10.fc26                                                  
+  glibc-common.x86_64 2.24.90-10.fc26                                           
+  glibc-langpack-en.x86_64 2.24.90-10.fc26                                      
   gmp.x86_64 1:6.1.1-1.fc25                                                     
   gnupg.x86_64 1.4.21-1.fc26                                                    
   gnupg2.x86_64 2.1.13-2.fc26                                                   
   gnupg2-smime.x86_64 2.1.13-2.fc26                                             
-  gnutls.x86_64 3.5.4-1.fc26                                                    
+  gnutls.x86_64 3.5.5-1.fc26                                                    
   gobject-introspection.x86_64 1.50.0-1.fc26                                    
   gpgme.x86_64 1.6.0-3.fc25                                                     
   graphite2.x86_64 1.3.6-1.fc25                                                 
@@ -1692,20 +1693,20 @@ Installed:
   libatomic_ops.x86_64 7.4.4-1.fc25                                             
   libattr.x86_64 2.4.47-16.fc24                                                 
   libblkid.x86_64 2.29-0.1.fc26                                                 
-  libblockdev.x86_64 1.9-4.fc26                                                 
-  libblockdev-btrfs.x86_64 1.9-4.fc26                                           
-  libblockdev-crypto.x86_64 1.9-4.fc26                                          
-  libblockdev-dm.x86_64 1.9-4.fc26                                              
-  libblockdev-fs.x86_64 1.9-4.fc26                                              
-  libblockdev-kbd.x86_64 1.9-4.fc26                                             
-  libblockdev-loop.x86_64 1.9-4.fc26                                            
-  libblockdev-lvm.x86_64 1.9-4.fc26                                             
-  libblockdev-mdraid.x86_64 1.9-4.fc26                                          
-  libblockdev-mpath.x86_64 1.9-4.fc26                                           
-  libblockdev-part.x86_64 1.9-4.fc26                                            
-  libblockdev-plugins-all.x86_64 1.9-4.fc26                                     
-  libblockdev-swap.x86_64 1.9-4.fc26                                            
-  libblockdev-utils.x86_64 1.9-4.fc26                                           
+  libblockdev.x86_64 1.9-5.fc26                                                 
+  libblockdev-btrfs.x86_64 1.9-5.fc26                                           
+  libblockdev-crypto.x86_64 1.9-5.fc26                                          
+  libblockdev-dm.x86_64 1.9-5.fc26                                              
+  libblockdev-fs.x86_64 1.9-5.fc26                                              
+  libblockdev-kbd.x86_64 1.9-5.fc26                                             
+  libblockdev-loop.x86_64 1.9-5.fc26                                            
+  libblockdev-lvm.x86_64 1.9-5.fc26                                             
+  libblockdev-mdraid.x86_64 1.9-5.fc26                                          
+  libblockdev-mpath.x86_64 1.9-5.fc26                                           
+  libblockdev-part.x86_64 1.9-5.fc26                                            
+  libblockdev-plugins-all.x86_64 1.9-5.fc26                                     
+  libblockdev-swap.x86_64 1.9-5.fc26                                            
+  libblockdev-utils.x86_64 1.9-5.fc26                                           
   libbytesize.x86_64 0.7-3.fc26                                                 
   libcap.x86_64 2.25-2.fc25                                                     
   libcap-ng.x86_64 0.7.8-1.fc25                                                 
@@ -1713,8 +1714,8 @@ Installed:
   libcomps.x86_64 0.1.8-1.fc26                                                  
   libconfig.x86_64 1.5-4.fc24                                                   
   libcroco.x86_64 0.6.11-2.fc24                                                 
-  libcrypt-nss.x86_64 2.24.90-9.fc26                                            
-  libcurl.x86_64 7.50.3-1.fc26                                                  
+  libcrypt-nss.x86_64 2.24.90-10.fc26                                           
+  libcurl.x86_64 7.50.3-2.fc26                                                  
   libdaemon.x86_64 0.14-10.fc24                                                 
   libdatrie.x86_64 0.2.9-3.fc25                                                 
   libdb.x86_64 5.3.28-14.fc24                                                   
@@ -1736,7 +1737,7 @@ Installed:
   libhbalinux.x86_64 1.0.17-3.fc24                                              
   libicu.x86_64 57.1-1.fc25                                                     
   libidn.x86_64 1.33-1.fc25                                                     
-  libjpeg-turbo.x86_64 1.5.0-4.fc26                                             
+  libjpeg-turbo.x86_64 1.5.1-0.fc26                                             
   libksba.x86_64 1.3.5-1.fc26                                                   
   libmetalink.x86_64 0.1.2-9.fc24                                               
   libmnl.x86_64 1.0.4-1.fc25                                                    
@@ -1785,7 +1786,7 @@ Installed:
   libtar.x86_64 1.2.20-8.fc24                                                   
   libtasn1.x86_64 4.9-1.fc26                                                    
   libteam.x86_64 1.26-1.fc26                                                    
-  libthai.x86_64 0.1.24-1.fc24                                                  
+  libthai.x86_64 0.1.25-1.fc26                                                  
   libtheora.x86_64 1:1.1.1-14.fc24                                              
   libtiff.x86_64 4.0.6-2.fc24                                                   
   libtimezonemap.x86_64 0.4.5-4.fc26                                            
@@ -1815,8 +1816,8 @@ Installed:
   llvm-libs.x86_64 3.8.0-1.fc25                                                 
   lsof.x86_64 4.89-4.fc25                                                       
   lua-libs.x86_64 5.3.3-3.fc25                                                  
-  lvm2.x86_64 2.02.166-1.fc26                                                   
-  lvm2-libs.x86_64 2.02.166-1.fc26                                              
+  lvm2.x86_64 2.02.166-2.fc26                                                   
+  lvm2-libs.x86_64 2.02.166-2.fc26                                              
   lz4.x86_64 r131-2.fc24                                                        
   lzo.x86_64 2.08-8.fc24                                                        
   make.x86_64 1:4.2.1-1.fc26                                                    
@@ -1873,14 +1874,14 @@ Installed:
   psmisc.x86_64 22.21-8.fc24                                                    
   python3.x86_64 3.5.2-4.fc26                                                   
   python3-blivet.noarch 1:2.1.6-1.fc26                                          
-  python3-blockdev.x86_64 1.9-4.fc26                                            
+  python3-blockdev.x86_64 1.9-5.fc26                                            
   python3-bytesize.x86_64 0.7-3.fc26                                            
   python3-cairo.x86_64 1.10.0-17.fc25                                           
   python3-chardet.noarch 2.3.0-1.fc26                                           
   python3-coverage.x86_64 4.2-1.fc26                                            
   python3-dbus.x86_64 1.2.4-2.fc25                                              
   python3-decorator.noarch 4.0.10-3.fc26                                        
-  python3-dnf.noarch 2.0.0-0.rc1.3.fc26                                         
+  python3-dnf.noarch 2.0.0-0.rc1.4.fc26                                         
   python3-firewall.noarch 0.4.3.3-1.fc26                                        
   python3-gobject.x86_64 3.22.0-1.fc26                                          
   python3-gobject-base.x86_64 3.22.0-1.fc26                                     
@@ -1907,7 +1908,7 @@ Installed:
   python3-requests-file.noarch 1.4-4.fc25                                       
   python3-requests-ftp.noarch 0.3.1-4.fc25                                      
   python3-rpm.x86_64 4.13.0-0.rc1.47.fc26                                       
-  python3-setuptools.noarch 28.2.0-1.fc26                                       
+  python3-setuptools.noarch 28.3.0-1.fc26                                       
   python3-six.noarch 1.10.0-4.fc26                                              
   python3-slip.noarch 0.6.4-4.fc25                                              
   python3-slip-dbus.noarch 0.6.4-4.fc25                                         
@@ -1935,11 +1936,11 @@ Installed:
   sqlite-libs.x86_64 3.14.2-1.fc26                                              
   system-python.x86_64 3.5.2-4.fc26                                             
   system-python-libs.x86_64 3.5.2-4.fc26                                        
-  systemd.x86_64 231-7.fc26                                                     
+  systemd.x86_64 231-9.fc26                                                     
   systemd-bootchart.x86_64 231-2.fc26                                           
-  systemd-libs.x86_64 231-7.fc26                                                
-  systemd-pam.x86_64 231-7.fc26                                                 
-  systemd-udev.x86_64 231-7.fc26                                                
+  systemd-libs.x86_64 231-9.fc26                                                
+  systemd-pam.x86_64 231-9.fc26                                                 
+  systemd-udev.x86_64 231-9.fc26                                                
   teamd.x86_64 1.26-1.fc26                                                      
   tigervnc-license.noarch 1.7.0-3.fc26                                          
   tigervnc-server-minimal.x86_64 1.7.0-3.fc26                                   

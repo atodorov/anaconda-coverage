@@ -25,6 +25,7 @@ pyanaconda/installclasses/__init__.py                                    0      
 pyanaconda/installclasses/centos.py                                     31     31      9      0     0%
 pyanaconda/installclasses/fedora.py                                     31     31     11      0     0%
 pyanaconda/installclasses/rhel.py                                       31     31      9      0     0%
+pyanaconda/installclasses/scientific.py                                 11     11      0      0     0%
 pyanaconda/isys/__init__.py                                             89     64     26      1    23%
 pyanaconda/iutil.py                                                    603    263    234     26    52%
 pyanaconda/kexec.py                                                     49     49     12      0     0%
@@ -133,4 +134,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26630  23004   9720    200    12%
+TOTAL                                                                26641  23015   9720    200    12%
