@@ -51,7 +51,7 @@ pyanaconda/screen_access.py                                             91      
 pyanaconda/screensaver.py                                               25     25      0      0     0%
 pyanaconda/simpleconfig.py                                             121      2     65      5    96%
 pyanaconda/startup_utils.py                                             22      4      8      3    77%
-pyanaconda/storage_utils.py                                            239    169    131      1    19%
+pyanaconda/storage_utils.py                                            243    173    133      1    19%
 pyanaconda/threads.py                                                  111     84     26      0    20%
 pyanaconda/timezone.py                                                  92     49     28      2    46%
 pyanaconda/ui/__init__.py                                               52     34     18      0    26%
@@ -134,4 +134,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26641  23015   9720    200    12%
+TOTAL                                                                26645  23019   9722    200    12%
