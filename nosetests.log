@@ -201,6 +201,10 @@ prefix2netmask2prefix_test (tests.pyanaconda_tests.network_test.NetworkTests) ..
 sanityCheckHostname_test (tests.pyanaconda_tests.network_test.NetworkTests) ... ok
 ipv4_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
 ipv6_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
+Take the biggest mountpoint which can be used for download ... ok
+Take the root for download because there are no other available mountpoints ... ok
+No suitable location is found. ... ok
+Take the root for download and install. ... ok
 Test that SAM can correctly disable post install tools via the user interaction config. ... ok
 Test that SAM can correctly parse an existing user interaction config. ... ok
 Test that the Anaconda generated config file header looks fine. ... ok
@@ -265,7 +269,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 221 tests in 10.780s
+Ran 225 tests in 11.039s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
