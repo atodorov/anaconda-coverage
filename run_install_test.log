@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:00 ago on Mon Nov 07 11:59:55 2016 EST.
+Last metadata expiration check: 0:00:00 ago on Tue Nov 08 13:00:18 2016 EST.
 Dependencies resolved.
 ================================================================================
  Package                 Arch   Version                  Repository        Size
@@ -511,7 +511,7 @@ Total download size: 221 M
 Installed size: 740 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           5.4 MB/s | 221 MB     00:40     
+Total                                           4.1 MB/s | 221 MB     00:54     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -918,8 +918,8 @@ warning: %post(lvm2-2.02.166-2.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-part-1.9-7.fc26.x86_64                      394/480 
   Installing  : ppp-2.4.7-9.fc24.x86_64                                 395/480 
   Installing  : NetworkManager-1:1.5.2-1.fc26.x86_64                    396/480 
-/var/tmp/rpm-tmp.nIj8u4: line 1: /usr/bin/udevadm: No such file or directory
-/var/tmp/rpm-tmp.nIj8u4: line 2: /usr/bin/udevadm: No such file or directory
+/var/tmp/rpm-tmp.XHC3kO: line 1: /usr/bin/udevadm: No such file or directory
+/var/tmp/rpm-tmp.XHC3kO: line 2: /usr/bin/udevadm: No such file or directory
   Installing  : NetworkManager-team-1:1.5.2-1.fc26.x86_64               397/480 
   Installing  : NetworkManager-wifi-1:1.5.2-1.fc26.x86_64               398/480 
   Installing  : rest-0.8.0-1.fc25.x86_64                                399/480 

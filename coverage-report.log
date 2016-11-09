@@ -71,10 +71,10 @@ pyanaconda/ui/gui/hubs/progress.py                                     164    16
 pyanaconda/ui/gui/hubs/summary.py                                       18     18      5      0     0%
 pyanaconda/ui/gui/spokes/__init__.py                                    24     24      0      0     0%
 pyanaconda/ui/gui/spokes/advstorage/__init__.py                          0      0      0      0   100%
-pyanaconda/ui/gui/spokes/advstorage/dasd.py                             76     76     12      0     0%
+pyanaconda/ui/gui/spokes/advstorage/dasd.py                             79     79     14      0     0%
 pyanaconda/ui/gui/spokes/advstorage/fcoe.py                             73     73     12      0     0%
 pyanaconda/ui/gui/spokes/advstorage/iscsi.py                           256    256     74      0     0%
-pyanaconda/ui/gui/spokes/advstorage/zfcp.py                             85     85     10      0     0%
+pyanaconda/ui/gui/spokes/advstorage/zfcp.py                             88     88     12      0     0%
 pyanaconda/ui/gui/spokes/custom.py                                    1649   1649    655      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                             647    647    213      0     0%
 pyanaconda/ui/gui/spokes/filter.py                                     432    432    137      0     0%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                26932  23109   9810    204    13%
+TOTAL                                                                26938  23115   9814    204    13%
