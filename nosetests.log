@@ -269,7 +269,7 @@ grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ..
 Test a list of possible username values. ... ok
 
 ----------------------------------------------------------------------
-Ran 225 tests in 11.046s
+Ran 225 tests in 11.234s
 
 OK (SKIP=20)
 PASS nosetests.sh (exit status: 0)
