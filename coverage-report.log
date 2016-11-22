@@ -20,7 +20,7 @@ pyanaconda/geoloc.py                                                   347    25
 pyanaconda/i18n.py                                                      18     10     12      2    47%
 pyanaconda/ihelp.py                                                     53     53     20      0     0%
 pyanaconda/image.py                                                    112     98     46      0     9%
-pyanaconda/install.py                                                  127    127     43      0     0%
+pyanaconda/install.py                                                  131    131     47      0     0%
 pyanaconda/installclass.py                                             131    131     56      0     0%
 pyanaconda/installclasses/__init__.py                                    0      0      0      0   100%
 pyanaconda/installclasses/centos.py                                     31     31      9      0     0%
@@ -48,7 +48,7 @@ pyanaconda/queuefactory.py                                              25      
 pyanaconda/regexes.py                                                   22      0      0      0   100%
 pyanaconda/rescue.py                                                   274    274     88      0     0%
 pyanaconda/safe_dbus.py                                                 54     36     17      0    25%
-pyanaconda/screen_access.py                                             91      7     26      6    89%
+pyanaconda/screen_access.py                                             94      8     28      7    88%
 pyanaconda/screensaver.py                                               25     10      0      0    60%
 pyanaconda/simpleconfig.py                                             121      2     65      5    96%
 pyanaconda/startup_utils.py                                            240    193     88      3    16%
@@ -136,4 +136,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                27000  23177   9830    204    12%
+TOTAL                                                                27007  23182   9836    205    12%
