@@ -11,17 +11,16 @@ fi
 pushd $DIRNAME
 
 for f in ".coverage" \
-        "tests/coverage-report.log" \
-        "tests/cppcheck/runcppcheck.log" \
-        "tests/gettext_tests/gettext_tests.log" \
-        "tests/glade/run_glade_tests.py.log" \
-        "tests/install/run_install_test.log" \
-        "tests/kickstart_tests/scripts/run_kickstart_tests.log" \
-        "tests/nosetests.log" \
-        "tests/nosetests_root.log" \
-        "tests/pylint/runpylint.py.log" \
-        "tests/storage/run_storage_tests.py.log" \
-        "tests/test-suite.log"; do
+        "result/coverage-report.log" \
+        "result/runcppcheck.log" \
+        "result/gettext_tests.log" \
+        "result/run_glade_tests.py.log" \
+        "result/run_install_test.log" \
+        "result/nosetests.log" \
+        "result/nosetests_root.log" \
+        "result/runpylint.py.log" \
+        "result/run_storage_tests.py.log" \
+        "result/test-suite.log"; do
 
     tgt=`basename $f`
     wget "$JENKINS/job/anaconda-x86_64/lastSuccessfulBuild/artifact/$f" -O "$tgt" 2>/dev/null
