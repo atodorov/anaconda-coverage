@@ -15,72 +15,28 @@ dd_list: multiple outputs for multiple packages ... ok
 dd_list: empty directory returns no results ... ok
 dd_list: ignore kmods if our kernel is too old ... ok
 dd_list: accept kmods for z-stream kernels (#1207831) ... ok
-bootloader_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-cdrom_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-displaymode_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-displaymode_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-displaymode_test_3 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-driverdisk_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-driverdisk_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-harddrive_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-mediacheck_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_ipv6_only_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_static_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_team_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-network_vlanid_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-nfs_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-nfs_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-updates_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
-url_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.5/optparse.py:999: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
-  option = self.option_class(*args, **kwargs)
-ok
+bootloader_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+cdrom_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+displaymode_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+displaymode_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+displaymode_test_3 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+driverdisk_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+driverdisk_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+harddrive_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+mediacheck_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_ipv6_only_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_static_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_team_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_vlanid_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+nfs_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+nfs_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+updates_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+url_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
 dd_extract: call binary with expected arguments ... ok
 dd_list: returns a list of Driver objects parsed from output ... ok
 get_deviceinfo: parses DeviceInfo from blkid etc. ... ok
@@ -137,6 +93,8 @@ save_repo: copies a single file to /run/install/DD-X ... ok
 dirinstall_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
 display_mode_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
 selinux_test (tests.pyanaconda_tests.argparse_test.ArgparseTest) ... ok
+Check of controller handles various edge cases. ... ok
+Check that the module initialization controller works correctly. ... ok
 Test the DataHolder class ... ok
 Test installing GRUB to a MBR stage1 and btrfs RAID stage2 ... ok
 Test installing GRUB to a MBR stage1 and partition stage2 ... ok
@@ -150,6 +108,7 @@ Test getdeepattr. ... ok
 Test the getDirSize. ... ok
 Test have_word_match. ... ok
 Test isConsoleOnVirtualTerminal. ... ok
+Test the item_counter generator. ... ok
 Test lowerASCII. ... ok
 Test mkdirChain. ... ok
 Test the open_with_perm function ... ok
@@ -157,6 +116,7 @@ Test the parent_dir function ... ok
 Test parseNfsUrl. ... ok
 Test setdeepattr. ... ok
 Test strip_accents. ... ok
+Check that the @synchronized decorator works correctly. ... ok
 Test _toASCII. ... ok
 Test if the touch function correctly creates empty files ... ok
 Test upperASCII. ... ok
@@ -201,6 +161,10 @@ prefix2netmask2prefix_test (tests.pyanaconda_tests.network_test.NetworkTests) ..
 sanityCheckHostname_test (tests.pyanaconda_tests.network_test.NetworkTests) ... ok
 ipv4_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
 ipv6_address_convert_test (tests.pyanaconda_tests.nm_test.UtilityFunctionsTests) ... ok
+Check if the empty_ok flag works correctly. ... ok
+Check if quality of an empty password is reported correctly. ... ok
+Check if minimal password length is checked properly. ... ok
+Check if libpwquality gives reasonable numbers & score is assigned correctly. ... ok
 Take the biggest mountpoint which can be used for download ... ok
 Take the root for download because there are no other available mountpoints ... ok
 No suitable location is found. ... ok
@@ -211,6 +175,11 @@ Test that the Anaconda generated config file header looks fine. ... ok
 Test that SAM can handle no user interaction taking place. ... ok
 Test that SAM correctly marks option as changed in the output config. ... ok
 Test that SAM correctly marks a spoke as visited in the output config. ... ok
+Test if the clear() method correctly clears any connected callbacks. ... ok
+Test if a local function can be correctly connected to a signal. ... ok
+Test if a lambda can be correctly connected to a signal. ... ok
+Test if a method can be correctly connected to a signal. ... ok
+Check if signals can be chained together. ... ok
 comment_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 no_use_tmp_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
 quote_test (tests.pyanaconda_tests.simpleconfig_test.SimpleConfigTests) ... ok
@@ -234,26 +203,27 @@ Check if all returned timezones are considered valid timezones. ... ok
 Check if returned timezones are plain strings, not unicode objects. ... ok
 Check that save_hw_clock does nothing on s390. ... ok
 Check that time_initialize doesn't call hwclock on s390. ... ok
-Create a group that already exists. ... SKIP: user creation must be run as root
-Create a group with a GID that already exists. ... SKIP: user creation must be run as root
-Create a group with a specific GID. ... SKIP: user creation must be run as root
-Create a group. ... SKIP: user creation must be run as root
-Create a user with a specific password algorithm. ... SKIP: user creation must be run as root
-Create a user that already exists. ... SKIP: user creation must be run as root
-Create a user with a GID of an existing group. ... SKIP: user creation must be run as root
-Create a user with a GID equal to that of one of the requested groups ... SKIP: user creation must be run as root
-Create a user with a specific GID. ... SKIP: user creation must be run as root
-Create a user with a bad list of groups. ... SKIP: user creation must be run as root
-Create a user with a list of groups. ... SKIP: user creation must be run as root
-Create a locked user account. ... SKIP: user creation must be run as root
-Create a user with a password. ... SKIP: user creation must be run as root
-create_user_reuse_home_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... SKIP: user creation must be run as root
-Create a user. ... SKIP: user creation must be run as root
-Create a user with the text fields set. ... SKIP: user creation must be run as root
-Create a user with a UID that already exists. ... SKIP: user creation must be run as root
-Create a user with a specific UID. ... SKIP: user creation must be run as root
-set_root_password_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... SKIP: user creation must be run as root
-set_user_ssh_key_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... SKIP: user creation must be run as root
+Create a group that already exists. ... ok
+Create a group with a GID that already exists. ... ok
+Create a group with a specific GID. ... ok
+Create a group. ... ok
+Create a user with a specific password algorithm. ... ok
+Create a user that already exists. ... ok
+Create a user with a GID of an existing group. ... ok
+Create a user with a GID equal to that of one of the requested groups ... ok
+Create a user with a specific GID. ... ok
+Create a user with a bad list of groups. ... ok
+Create a user with a list of groups. ... ok
+Create a locked user account. ... ok
+Create a user with a password. ... ok
+create_user_reuse_home_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... ok
+Create a user. ... ok
+Create a user with the text fields set. ... ok
+Create a user with a UID that already exists. ... ok
+Create a user with a specific UID. ... ok
+set_root_password_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... ok
+set_user_ssh_key_test (tests.pyanaconda_tests.user_create_test.UserCreateTest) ... ok
+device_name_test (tests.regex_tests.dasd_name_test.DASDNameRegexTestCase) ... ok
 Test a list of possible group-name (GID) values with the group ... ok
 hostname_test (tests.regex_tests.hostname_test.HostnameRegexTestCase) ... ok
 ipv4_test (tests.regex_tests.hostname_test.IPv4RegexTestCase) ... ok
@@ -267,9 +237,11 @@ Run a list of possible URL values through the regex and check for ... ok
 Test a list of possible Full Name values. ... ok
 grouplist_simple_test (tests.regex_tests.username_test.UsernameRegexTestCase) ... ok
 Test a list of possible username values. ... ok
+lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
+wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 225 tests in 73.168s
+Ran 241 tests in 21.404s
 
-OK (SKIP=20)
+OK
 PASS nosetests.sh (exit status: 0)
