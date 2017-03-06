@@ -15,28 +15,72 @@ dd_list: multiple outputs for multiple packages ... ok
 dd_list: empty directory returns no results ... ok
 dd_list: ignore kmods if our kernel is too old ... ok
 dd_list: accept kmods for z-stream kernels (#1207831) ... ok
-bootloader_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-cdrom_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-displaymode_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-displaymode_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-displaymode_test_3 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-driverdisk_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-driverdisk_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-harddrive_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-mediacheck_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_ipv6_only_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_static_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_team_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_vlanid_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-nfs_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-nfs_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-updates_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-url_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+bootloader_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+cdrom_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+displaymode_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+displaymode_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+displaymode_test_3 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+driverdisk_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+driverdisk_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+harddrive_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+mediacheck_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_ipv6_only_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_static_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_team_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+network_vlanid_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+nfs_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+nfs_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+updates_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
+url_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib64/python3.6/optparse.py:1000: PendingDeprecationWarning: The KSOption class is deprecated and will be removed in pykickstart-3.  Use the argparse module instead.
+  option = self.option_class(*args, **kwargs)
+ok
 dd_extract: call binary with expected arguments ... ok
 dd_list: returns a list of Driver objects parsed from output ... ok
 get_deviceinfo: parses DeviceInfo from blkid etc. ... ok
@@ -241,7 +285,7 @@ lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 241 tests in 21.404s
+Ran 241 tests in 21.017s
 
 OK
 PASS nosetests.sh (exit status: 0)

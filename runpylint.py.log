@@ -1,4 +1,1 @@
-************* Unused False Positives Found:
-^E0611.*: No name '_isys' in module 'pyanaconda'$
-^E0401.*: Unable to import 'dogtail.*'$
 PASS pylint/runpylint.py (exit status: 0)
