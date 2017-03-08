@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:00 ago on Mon Mar 06 07:23:34 2017 EST.
+Last metadata expiration check: 0:00:00 ago on Mon Mar 06 13:13:25 2017 EST.
 Dependencies resolved.
 ================================================================================
  Package                     Arch   Version              Repository        Size
@@ -354,13 +354,13 @@ Installing dependencies:
  lzo                         x86_64 2.08-9.fc26          anaconda-rawhide  67 k
  make                        x86_64 1:4.2.1-2.fc26       anaconda-rawhide 492 k
  mdadm                       x86_64 4.0-1.fc26           anaconda-rawhide 426 k
- mesa-dri-drivers            x86_64 17.0.0-1.fc26        anaconda-rawhide  11 M
- mesa-filesystem             x86_64 17.0.0-1.fc26        anaconda-rawhide  25 k
- mesa-libEGL                 x86_64 17.0.0-1.fc26        anaconda-rawhide 104 k
- mesa-libGL                  x86_64 17.0.0-1.fc26        anaconda-rawhide 165 k
- mesa-libgbm                 x86_64 17.0.0-1.fc26        anaconda-rawhide  43 k
- mesa-libglapi               x86_64 17.0.0-1.fc26        anaconda-rawhide  50 k
- mesa-libwayland-egl         x86_64 17.0.0-1.fc26        anaconda-rawhide  26 k
+ mesa-dri-drivers            x86_64 17.0.1-1.fc27        anaconda-rawhide  11 M
+ mesa-filesystem             x86_64 17.0.1-1.fc27        anaconda-rawhide  25 k
+ mesa-libEGL                 x86_64 17.0.1-1.fc27        anaconda-rawhide 105 k
+ mesa-libGL                  x86_64 17.0.1-1.fc27        anaconda-rawhide 165 k
+ mesa-libgbm                 x86_64 17.0.1-1.fc27        anaconda-rawhide  43 k
+ mesa-libglapi               x86_64 17.0.1-1.fc27        anaconda-rawhide  50 k
+ mesa-libwayland-egl         x86_64 17.0.1-1.fc27        anaconda-rawhide  26 k
  mobile-broadband-provider-info
                              noarch 1.20170105git-2.fc26 anaconda-rawhide  54 k
  mozjs17                     x86_64 17.0.0-16.fc26       anaconda-rawhide 1.4 M
@@ -532,7 +532,7 @@ Total download size: 236 M
 Installed size: 795 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           5.6 MB/s | 236 MB     00:42     
+Total                                           1.7 MB/s | 236 MB     02:16     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -553,7 +553,7 @@ Running transaction
   Installing  : aajohan-comfortaa-fonts-2.004-7.fc26.noarch              13/501 
   Installing  : dnf-conf-2.1.0-1.fc26.noarch                             14/501 
   Installing  : basesystem-11-3.fc26.noarch                              15/501 
-  Installing  : mesa-filesystem-17.0.0-1.fc26.x86_64                     16/501 
+  Installing  : mesa-filesystem-17.0.1-1.fc27.x86_64                     16/501 
   Installing  : emacs-filesystem-1:25.2-0.1.rc2.fc26.noarch              17/501 
   Installing  : publicsuffix-list-dafsa-20170206-1.fc26.noarch           18/501 
   Installing  : libX11-common-1.6.4-6.fc26.noarch                        19/501 
@@ -635,7 +635,7 @@ install-info: No such file or directory for /dev/null
   Installing  : libmnl-1.0.4-2.fc26.x86_64                               91/501 
   Installing  : iproute-4.9.0-4.fc26.x86_64                              92/501 
   Installing  : json-c-0.12-8.fc26.x86_64                                93/501 
-  Installing  : mesa-libwayland-egl-17.0.0-1.fc26.x86_64                 94/501 
+  Installing  : mesa-libwayland-egl-17.0.1-1.fc27.x86_64                 94/501 
   Installing  : libogg-2:1.3.2-6.fc26.x86_64                             95/501 
   Installing  : nss-softokn-3.29.1-2.fc26.x86_64                         96/501 
   Installing  : procps-ng-3.3.10-13.fc26.x86_64                          97/501 
@@ -651,7 +651,7 @@ install-info: No such file or directory for /dev/null
   Installing  : libgomp-7.0.1-0.10.fc26.x86_64                          107/501 
   Installing  : hunspell-en-US-0.20140811.1-6.fc26.noarch               108/501 
   Installing  : hunspell-1.5.4-2.fc26.x86_64                            109/501 
-  Installing  : mesa-libglapi-17.0.0-1.fc26.x86_64                      110/501 
+  Installing  : mesa-libglapi-17.0.1-1.fc27.x86_64                      110/501 
   Installing  : ipcalc-0.1.8-2.fc26.x86_64                              111/501 
   Installing  : libpciaccess-0.13.4-4.fc26.x86_64                       112/501 
   Installing  : gdbm-1.12-2.fc26.x86_64                                 113/501 
@@ -915,10 +915,10 @@ Failed to connect to bus: No such file or directory
 warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : libblockdev-lvm-2.4-1.fc26.x86_64                       366/501 
   Installing  : libglvnd-glx-1:0.2.999-11.gitdc16f8c.fc26.x86_64        367/501 
-  Installing  : mesa-libGL-17.0.0-1.fc26.x86_64                         368/501 
-  Installing  : mesa-libgbm-17.0.0-1.fc26.x86_64                        369/501 
+  Installing  : mesa-libGL-17.0.1-1.fc27.x86_64                         368/501 
+  Installing  : mesa-libgbm-17.0.1-1.fc27.x86_64                        369/501 
   Installing  : libglvnd-egl-1:0.2.999-11.gitdc16f8c.fc26.x86_64        370/501 
-  Installing  : mesa-libEGL-17.0.0-1.fc26.x86_64                        371/501 
+  Installing  : mesa-libEGL-17.0.1-1.fc27.x86_64                        371/501 
   Installing  : cairo-1.14.8-2.fc26.x86_64                              372/501 
   Installing  : pango-1.40.4-1.fc26.x86_64                              373/501 
   Installing  : cairo-gobject-1.14.8-2.fc26.x86_64                      374/501 
@@ -929,7 +929,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : fros-1.1-12.fc26.noarch                                 379/501 
   Installing  : pycairo-1.10.0-6.fc26.x86_64                            380/501 
   Installing  : python-gobject-3.22.0-3.fc26.x86_64                     381/501 
-  Installing  : mesa-dri-drivers-17.0.0-1.fc26.x86_64                   382/501 
+  Installing  : mesa-dri-drivers-17.0.1-1.fc27.x86_64                   382/501 
   Installing  : libblockdev-btrfs-2.4-1.fc26.x86_64                     383/501 
   Installing  : libblockdev-kbd-2.4-1.fc26.x86_64                       384/501 
   Installing  : libblockdev-loop-2.4-1.fc26.x86_64                      385/501 
@@ -1381,7 +1381,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libwayland-client-1.13.0-1.fc26.x86_64                  329/501 
   Verifying   : libwayland-cursor-1.13.0-1.fc26.x86_64                  330/501 
   Verifying   : libxkbcommon-0.7.1-2.fc26.x86_64                        331/501 
-  Verifying   : mesa-libwayland-egl-17.0.0-1.fc26.x86_64                332/501 
+  Verifying   : mesa-libwayland-egl-17.0.1-1.fc27.x86_64                332/501 
   Verifying   : rest-0.8.0-2.fc26.x86_64                                333/501 
   Verifying   : mobile-broadband-provider-info-1.20170105git-2.fc26.n   334/501 
   Verifying   : harfbuzz-1.4.3-1.fc26.x86_64                            335/501 
@@ -1395,7 +1395,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libX11-common-1.6.4-6.fc26.noarch                       343/501 
   Verifying   : libfontenc-1.1.3-4.fc26.x86_64                          344/501 
   Verifying   : libglvnd-1:0.2.999-11.gitdc16f8c.fc26.x86_64            345/501 
-  Verifying   : mesa-libGL-17.0.0-1.fc26.x86_64                         346/501 
+  Verifying   : mesa-libGL-17.0.1-1.fc27.x86_64                         346/501 
   Verifying   : libxkbfile-1.0.9-4.fc26.x86_64                          347/501 
   Verifying   : glib-networking-2.50.0-2.fc26.x86_64                    348/501 
   Verifying   : enchant-1:1.6.0-16.fc26.x86_64                          349/501 
@@ -1437,7 +1437,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libksba-1.3.5-3.fc26.x86_64                             385/501 
   Verifying   : npth-1.3-2.fc26.x86_64                                  386/501 
   Verifying   : fontpackages-filesystem-1.44-18.fc26.noarch             387/501 
-  Verifying   : mesa-libEGL-17.0.0-1.fc26.x86_64                        388/501 
+  Verifying   : mesa-libEGL-17.0.1-1.fc27.x86_64                        388/501 
   Verifying   : at-spi2-core-2.23.90-1.fc26.x86_64                      389/501 
   Verifying   : lcms2-2.8-3.fc26.x86_64                                 390/501 
   Verifying   : libgusb-0.2.9-2.fc26.x86_64                             391/501 
@@ -1449,7 +1449,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libdatrie-0.2.9-4.fc26.x86_64                           397/501 
   Verifying   : libXxf86vm-1.1.4-4.fc26.x86_64                          398/501 
   Verifying   : libdrm-2.4.75-2.fc26.x86_64                             399/501 
-  Verifying   : mesa-libglapi-17.0.0-1.fc26.x86_64                      400/501 
+  Verifying   : mesa-libglapi-17.0.1-1.fc27.x86_64                      400/501 
   Verifying   : hunspell-1.5.4-2.fc26.x86_64                            401/501 
   Verifying   : alsa-lib-1.1.3-2.fc26.x86_64                            402/501 
   Verifying   : cdparanoia-libs-10.2-22.fc26.x86_64                     403/501 
@@ -1468,7 +1468,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : sgpio-1.2.0.10-17.fc26.x86_64                           416/501 
   Verifying   : libpcap-14:1.8.1-3.fc26.x86_64                          417/501 
   Verifying   : python3-pycparser-2.14-10.fc26.noarch                   418/501 
-  Verifying   : mesa-libgbm-17.0.0-1.fc26.x86_64                        419/501 
+  Verifying   : mesa-libgbm-17.0.1-1.fc27.x86_64                        419/501 
   Verifying   : libXtst-1.2.3-2.fc26.x86_64                             420/501 
   Verifying   : jbigkit-libs-2.1-6.fc26.x86_64                          421/501 
   Verifying   : hunspell-en-US-0.20140811.1-6.fc26.noarch               422/501 
@@ -1481,8 +1481,8 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libfdisk-2.29.1-2.fc26.x86_64                           429/501 
   Verifying   : libsmartcols-2.29.1-2.fc26.x86_64                       430/501 
   Verifying   : libutempter-1.1.6-9.fc26.x86_64                         431/501 
-  Verifying   : mesa-dri-drivers-17.0.0-1.fc26.x86_64                   432/501 
-  Verifying   : mesa-filesystem-17.0.0-1.fc26.x86_64                    433/501 
+  Verifying   : mesa-dri-drivers-17.0.1-1.fc27.x86_64                   432/501 
+  Verifying   : mesa-filesystem-17.0.1-1.fc27.x86_64                    433/501 
   Verifying   : coreutils-8.26-7.fc26.x86_64                            434/501 
   Verifying   : coreutils-common-8.26-7.fc26.x86_64                     435/501 
   Verifying   : ncurses-6.0-8.20170212.fc26.x86_64                      436/501 
@@ -1902,13 +1902,13 @@ Installed:
   lzo.x86_64 2.08-9.fc26                                                        
   make.x86_64 1:4.2.1-2.fc26                                                    
   mdadm.x86_64 4.0-1.fc26                                                       
-  mesa-dri-drivers.x86_64 17.0.0-1.fc26                                         
-  mesa-filesystem.x86_64 17.0.0-1.fc26                                          
-  mesa-libEGL.x86_64 17.0.0-1.fc26                                              
-  mesa-libGL.x86_64 17.0.0-1.fc26                                               
-  mesa-libgbm.x86_64 17.0.0-1.fc26                                              
-  mesa-libglapi.x86_64 17.0.0-1.fc26                                            
-  mesa-libwayland-egl.x86_64 17.0.0-1.fc26                                      
+  mesa-dri-drivers.x86_64 17.0.1-1.fc27                                         
+  mesa-filesystem.x86_64 17.0.1-1.fc27                                          
+  mesa-libEGL.x86_64 17.0.1-1.fc27                                              
+  mesa-libGL.x86_64 17.0.1-1.fc27                                               
+  mesa-libgbm.x86_64 17.0.1-1.fc27                                              
+  mesa-libglapi.x86_64 17.0.1-1.fc27                                            
+  mesa-libwayland-egl.x86_64 17.0.1-1.fc27                                      
   mobile-broadband-provider-info.noarch 1.20170105git-2.fc26                    
   mozjs17.x86_64 17.0.0-16.fc26                                                 
   mpfr.x86_64 3.1.5-3.fc27                                                      
