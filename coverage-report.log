@@ -33,7 +33,7 @@ pyanaconda/isys/__init__.py                                             89     6
 pyanaconda/iutil.py                                                    682    324    275     26    48%
 pyanaconda/kexec.py                                                     49     49     12      0     0%
 pyanaconda/keyboard.py                                                 231    176     71      0    20%
-pyanaconda/kickstart.py                                               1375   1144    666      4    12%
+pyanaconda/kickstart.py                                               1377   1145    666      4    12%
 pyanaconda/lifecycle.py                                                 64     16     22      3    71%
 pyanaconda/localization.py                                             268    165    122      4    36%
 pyanaconda/network.py                                                 1096    876    604      7    17%
@@ -140,4 +140,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                27697  23731   9997    216    13%
+TOTAL                                                                27699  23732   9997    216    13%
