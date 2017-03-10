@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:00:00 ago on Wed Mar 08 12:12:17 2017 EST.
+Last metadata expiration check: 0:00:00 ago on Fri Mar 10 08:12:22 2017 EST.
 Dependencies resolved.
 ================================================================================
  Package                     Arch   Version              Repository        Size
@@ -176,7 +176,7 @@ Installing dependencies:
  kbd-legacy                  noarch 2.0.4-2.fc26         anaconda-rawhide 479 k
  kbd-misc                    noarch 2.0.4-2.fc26         anaconda-rawhide 1.4 M
  kexec-tools                 x86_64 2.0.14-4.fc26        anaconda-rawhide 431 k
- keybinder3                  x86_64 0.3.0-7.fc26         anaconda-rawhide  18 k
+ keybinder3                  x86_64 0.3.2-1.fc27         anaconda-rawhide  19 k
  keyutils-libs               x86_64 1.5.9-9.fc26         anaconda-rawhide  44 k
  kmod                        x86_64 24-1.fc26            anaconda-rawhide 112 k
  kmod-libs                   x86_64 24-1.fc26            anaconda-rawhide  60 k
@@ -246,7 +246,7 @@ Installing dependencies:
  libdrm                      x86_64 2.4.75-2.fc26        anaconda-rawhide 153 k
  libedit                     x86_64 3.1-17.20160618cvs.fc26
                                                          anaconda-rawhide  96 k
- libepoxy                    x86_64 1.3.1-4.fc26         anaconda-rawhide 200 k
+ libepoxy                    x86_64 1.4.1-1.fc27         anaconda-rawhide 207 k
  libfdisk                    x86_64 2.29.1-2.fc26        anaconda-rawhide 227 k
  libffi                      x86_64 3.1-10.fc26          anaconda-rawhide  33 k
  libfontenc                  x86_64 1.1.3-4.fc26         anaconda-rawhide  34 k
@@ -340,7 +340,7 @@ Installing dependencies:
  libxklavier                 x86_64 5.4-7.fc26           anaconda-rawhide  67 k
  libxml2                     x86_64 2.9.4-2.fc26         anaconda-rawhide 690 k
  libxshmfence                x86_64 1.2-4.fc26           anaconda-rawhide  10 k
- libxslt                     x86_64 1.1.28-14.fc26       anaconda-rawhide 247 k
+ libxslt                     x86_64 1.1.29-1.fc27        anaconda-rawhide 253 k
  linux-atm-libs              x86_64 2.5.1-16.fc26        anaconda-rawhide  39 k
  lldpad                      x86_64 1.0.1-6.git036e314.fc26
                                                          anaconda-rawhide 287 k
@@ -532,7 +532,7 @@ Total download size: 236 M
 Installed size: 797 M
 Downloading Packages:
 --------------------------------------------------------------------------------
-Total                                           1.7 MB/s | 236 MB     02:15     
+Total                                           5.6 MB/s | 236 MB     00:42     
 Running transaction check
 Transaction check succeeded.
 Running transaction test
@@ -609,7 +609,7 @@ install-info: No such file or directory for /dev/null
   Installing  : sed-4.4-1.fc26.x86_64                                    66/501 
 install-info: No such file or directory for /dev/null
   Installing  : lua-libs-5.3.4-1.fc26.x86_64                             67/501 
-  Installing  : libxslt-1.1.28-14.fc26.x86_64                            68/501 
+  Installing  : libxslt-1.1.29-1.fc27.x86_64                             68/501 
   Installing  : p11-kit-0.23.5-1.fc27.x86_64                             69/501 
   Installing  : libwayland-server-1.13.0-1.fc26.x86_64                   70/501 
   Installing  : libassuan-2.4.3-2.fc26.x86_64                            71/501 
@@ -842,7 +842,7 @@ install-info: No such file or directory for /dev/null
   Installing  : e2fsprogs-1.43.4-2.fc26.x86_64                          298/501 
   Installing  : keyutils-libs-1.5.9-9.fc26.x86_64                       299/501 
   Installing  : libverto-0.2.6-7.fc26.x86_64                            300/501 
-  Installing  : libepoxy-1.3.1-4.fc26.x86_64                            301/501 
+  Installing  : libepoxy-1.4.1-1.fc27.x86_64                            301/501 
   Installing  : libxkbcommon-0.7.1-2.fc26.x86_64                        302/501 
   Installing  : ustr-1.0.4-22.fc26.x86_64                               303/501 
   Installing  : libsemanage-2.6-2.fc27.x86_64                           304/501 
@@ -1019,7 +1019,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Installing  : blivet-gui-2.1.0-1.fc26.noarch                          469/501 
   Installing  : glade-libs-3.20.0-3.fc26.x86_64                         470/501 
   Installing  : anaconda-widgets-27.1-1.fc27.x86_64                     471/501 
-  Installing  : keybinder3-0.3.0-7.fc26.x86_64                          472/501 
+  Installing  : keybinder3-0.3.2-1.fc27.x86_64                          472/501 
   Installing  : libgnomekbd-3.22.0.1-2.fc26.x86_64                      473/501 
   Installing  : libtimezonemap-0.4.5-6.fc26.x86_64                      474/501 
   Installing  : zenity-3.22.0-2.fc26.x86_64                             475/501 
@@ -1253,7 +1253,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libgcrypt-1.7.6-2.fc26.x86_64                           201/501 
   Verifying   : libgpg-error-1.25-2.fc26.x86_64                         202/501 
   Verifying   : libsoup-2.57.1-2.fc26.x86_64                            203/501 
-  Verifying   : libxslt-1.1.28-14.fc26.x86_64                           204/501 
+  Verifying   : libxslt-1.1.29-1.fc27.x86_64                            204/501 
   Verifying   : webkitgtk4-2.15.91-1.fc27.x86_64                        205/501 
   Verifying   : webkitgtk4-jsc-2.15.91-1.fc27.x86_64                    206/501 
   Verifying   : yelp-libs-2:3.22.0-2.fc26.x86_64                        207/501 
@@ -1378,7 +1378,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : libXi-1.7.9-2.fc26.x86_64                               326/501 
   Verifying   : libXinerama-1.1.3-7.fc26.x86_64                         327/501 
   Verifying   : libXrandr-1.5.1-2.fc26.x86_64                           328/501 
-  Verifying   : libepoxy-1.3.1-4.fc26.x86_64                            329/501 
+  Verifying   : libepoxy-1.4.1-1.fc27.x86_64                            329/501 
   Verifying   : libwayland-client-1.13.0-1.fc26.x86_64                  330/501 
   Verifying   : libwayland-cursor-1.13.0-1.fc26.x86_64                  331/501 
   Verifying   : libxkbcommon-0.7.1-2.fc26.x86_64                        332/501 
@@ -1520,7 +1520,7 @@ warning: %post(lvm2-2.02.168-4.fc26.x86_64) scriptlet failed, exit status 1
   Verifying   : anaconda-widgets-27.1-1.fc27.x86_64                     468/501 
   Verifying   : glade-libs-3.20.0-3.fc26.x86_64                         469/501 
   Verifying   : libxklavier-5.4-7.fc26.x86_64                           470/501 
-  Verifying   : keybinder3-0.3.0-7.fc26.x86_64                          471/501 
+  Verifying   : keybinder3-0.3.2-1.fc27.x86_64                          471/501 
   Verifying   : libgnomekbd-3.22.0.1-2.fc26.x86_64                      472/501 
   Verifying   : libtimezonemap-0.4.5-6.fc26.x86_64                      473/501 
   Verifying   : librsvg2-2.40.16-3.fc26.x86_64                          474/501 
@@ -1730,7 +1730,7 @@ Installed:
   kbd-legacy.noarch 2.0.4-2.fc26                                                
   kbd-misc.noarch 2.0.4-2.fc26                                                  
   kexec-tools.x86_64 2.0.14-4.fc26                                              
-  keybinder3.x86_64 0.3.0-7.fc26                                                
+  keybinder3.x86_64 0.3.2-1.fc27                                                
   keyutils-libs.x86_64 1.5.9-9.fc26                                             
   kmod.x86_64 24-1.fc26                                                         
   kmod-libs.x86_64 24-1.fc26                                                    
@@ -1799,7 +1799,7 @@ Installed:
   libdnf.x86_64 0.7.4-1.fc26                                                    
   libdrm.x86_64 2.4.75-2.fc26                                                   
   libedit.x86_64 3.1-17.20160618cvs.fc26                                        
-  libepoxy.x86_64 1.3.1-4.fc26                                                  
+  libepoxy.x86_64 1.4.1-1.fc27                                                  
   libfdisk.x86_64 2.29.1-2.fc26                                                 
   libffi.x86_64 3.1-10.fc26                                                     
   libfontenc.x86_64 1.1.3-4.fc26                                                
@@ -1889,7 +1889,7 @@ Installed:
   libxklavier.x86_64 5.4-7.fc26                                                 
   libxml2.x86_64 2.9.4-2.fc26                                                   
   libxshmfence.x86_64 1.2-4.fc26                                                
-  libxslt.x86_64 1.1.28-14.fc26                                                 
+  libxslt.x86_64 1.1.29-1.fc27                                                  
   linux-atm-libs.x86_64 2.5.1-16.fc26                                           
   lldpad.x86_64 1.0.1-6.git036e314.fc26                                         
   llvm-libs.x86_64 3.9.0-7.fc26                                                 
