@@ -285,7 +285,7 @@ lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 241 tests in 20.705s
+Ran 241 tests in 22.189s
 
 OK
 PASS nosetests.sh (exit status: 0)
