@@ -165,6 +165,8 @@ Check if the empty_ok flag works correctly. ... ok
 Check if quality of an empty password is reported correctly. ... ok
 Check if minimal password length is checked properly. ... ok
 Check if libpwquality gives reasonable numbers & score is assigned correctly. ... ok
+Test if we can download repomd.xml with file:// successfully. ... ok
+Test verification method. ... ok
 Take the biggest mountpoint which can be used for download ... ok
 Take the root for download because there are no other available mountpoints ... ok
 No suitable location is found. ... ok
@@ -251,7 +253,7 @@ lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 251 tests in 21.132s
+Ran 253 tests in 21.410s
 
 OK
 PASS nosetests.sh (exit status: 0)
