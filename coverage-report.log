@@ -78,7 +78,7 @@ pyanaconda/ui/gui/spokes/advstorage/dasd.py                             89     8
 pyanaconda/ui/gui/spokes/advstorage/fcoe.py                             74     74     12      0     0%
 pyanaconda/ui/gui/spokes/advstorage/iscsi.py                           256    256     74      0     0%
 pyanaconda/ui/gui/spokes/advstorage/zfcp.py                            104    104     18      0     0%
-pyanaconda/ui/gui/spokes/blivet_gui.py                                 134    134     24      0     0%
+pyanaconda/ui/gui/spokes/blivet_gui.py                                 137    137     24      0     0%
 pyanaconda/ui/gui/spokes/custom.py                                    1644   1644    645      0     0%
 pyanaconda/ui/gui/spokes/datetime_spoke.py                             653    653    213      0     0%
 pyanaconda/ui/gui/spokes/filter.py                                     434    434    137      0     0%
@@ -140,4 +140,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                27991  23882  10068    220    13%
+TOTAL                                                                27994  23885  10068    220    13%
