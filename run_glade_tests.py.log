@@ -10,7 +10,7 @@ Check that unshown GtkNotebook tabs are not translatable. ... ok
 Check that unshown GtkTreeview column headers are not translatable. ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.294s
+Ran 10 tests in 0.307s
 
 OK
 PASS glade/run_glade_tests.py (exit status: 0)
