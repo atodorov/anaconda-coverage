@@ -24,8 +24,12 @@ driverdisk_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase)
 driverdisk_test_2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
 harddrive_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
 mediacheck_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
-network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
+network_bond_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib/python3.6/site-packages/pykickstart/commands/network.py:385: UserWarning: A network device with the name eth0 has already been defined.
+  warnings.warn(_("A network device with the name %s has already been defined.") % nd.device)
+ok
+network_bond_test2 (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... /usr/lib/python3.6/site-packages/pykickstart/commands/network.py:385: UserWarning: A network device with the name eth0 has already been defined.
+  warnings.warn(_("A network device with the name %s has already been defined.") % nd.device)
+ok
 network_bridge_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
 network_ipv6_only_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
 network_static_test (tests.dracut_tests.parse-kickstart_test.ParseKickstartTestCase) ... ok
@@ -253,7 +257,7 @@ lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 253 tests in 18.517s
+Ran 253 tests in 18.108s
 
 OK
 PASS nosetests.sh (exit status: 0)
