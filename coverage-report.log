@@ -5,7 +5,7 @@ dracut/driver_updates.py                                               472    10
 dracut/parse-kickstart                                                 450     98    239     68    72%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
 pyanaconda/addons.py                                                    96     66     36      0    23%
-pyanaconda/anaconda.py                                                 194    194     60      0     0%
+pyanaconda/anaconda.py                                                 198    198     62      0     0%
 pyanaconda/anaconda_loggers.py                                          28      5      2      1    80%
 pyanaconda/anaconda_logging.py                                         173    118     29      0    27%
 pyanaconda/argument_parsing.py                                         249     75     99      9    62%
@@ -141,4 +141,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                28339  24144  10206    221    13%
+TOTAL                                                                28343  24148  10208    221    13%
