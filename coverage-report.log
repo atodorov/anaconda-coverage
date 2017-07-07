@@ -43,7 +43,7 @@ pyanaconda/ntp.py                                                      111     8
 pyanaconda/payload/__init__.py                                         751    582    289      1    17%
 pyanaconda/payload/dnfpayload.py                                       812    643    289      3    17%
 pyanaconda/payload/livepayload.py                                      312    312    110      0     0%
-pyanaconda/payload/rpmostreepayload.py                                 176    144     44      0    15%
+pyanaconda/payload/rpmostreepayload.py                                 183    151     50      0    14%
 pyanaconda/payload/tarpayload.py                                        39     39      6      0     0%
 pyanaconda/product.py                                                   26      4      4      2    80%
 pyanaconda/progress.py                                                  25      9      0      0    64%
@@ -141,4 +141,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                28343  24148  10208    221    13%
+TOTAL                                                                28350  24155  10214    221    13%

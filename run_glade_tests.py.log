@@ -10,7 +10,7 @@ Reject translatable format string in glade. ... ok
 Check that the invisible_char in glade files is actually a char. ... ok
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.196s
+Ran 10 tests in 0.206s
 
 OK
 PASS glade/run_glade_tests.py (exit status: 0)
