@@ -23,7 +23,7 @@ pyanaconda/ihelp.py                                                     53     5
 pyanaconda/image.py                                                    112     98     46      0     9%
 pyanaconda/installation.py                                             179    179     63      0     0%
 pyanaconda/installation_tasks.py                                       212    212     54      0     0%
-pyanaconda/installclass.py                                             151    151     66      0     0%
+pyanaconda/installclass.py                                             155    155     66      0     0%
 pyanaconda/installclasses/__init__.py                                    0      0      0      0   100%
 pyanaconda/installclasses/centos.py                                     30     30      9      0     0%
 pyanaconda/installclasses/fedora.py                                     31     31     11      0     0%
@@ -85,7 +85,7 @@ pyanaconda/ui/gui/spokes/custom_storage.py                            1644   164
 pyanaconda/ui/gui/spokes/datetime_spoke.py                             657    657    213      0     0%
 pyanaconda/ui/gui/spokes/installation_source.py                        945    945    352      0     0%
 pyanaconda/ui/gui/spokes/keyboard.py                                   381    381    102      0     0%
-pyanaconda/ui/gui/spokes/language_support.py                           104    104     16      0     0%
+pyanaconda/ui/gui/spokes/language_support.py                           108    108     16      0     0%
 pyanaconda/ui/gui/spokes/lib/__init__.py                                 0      0      0      0   100%
 pyanaconda/ui/gui/spokes/lib/accordion.py                              334    334    114      0     0%
 pyanaconda/ui/gui/spokes/lib/cart.py                                   127    127     58      0     0%
@@ -93,7 +93,7 @@ pyanaconda/ui/gui/spokes/lib/custom_storage_helpers.py                 391    39
 pyanaconda/ui/gui/spokes/lib/dasdfmt.py                                 65     65     12      0     0%
 pyanaconda/ui/gui/spokes/lib/detailederror.py                           29     29      8      0     0%
 pyanaconda/ui/gui/spokes/lib/entropy_dialog.py                          49     49      2      0     0%
-pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py                     80     80     18      0     0%
+pyanaconda/ui/gui/spokes/lib/lang_locale_handler.py                     87     87     18      0     0%
 pyanaconda/ui/gui/spokes/lib/passphrase.py                             134    134     29      0     0%
 pyanaconda/ui/gui/spokes/lib/refresh.py                                 46     46      4      0     0%
 pyanaconda/ui/gui/spokes/lib/resize.py                                 284    284    104      0     0%
@@ -103,7 +103,7 @@ pyanaconda/ui/gui/spokes/root_password.py                              115    11
 pyanaconda/ui/gui/spokes/software_selection.py                         320    320    108      0     0%
 pyanaconda/ui/gui/spokes/storage.py                                    718    718    291      0     0%
 pyanaconda/ui/gui/spokes/user.py                                       298    298     96      0     0%
-pyanaconda/ui/gui/spokes/welcome.py                                    172    172     54      0     0%
+pyanaconda/ui/gui/spokes/welcome.py                                    176    176     54      0     0%
 pyanaconda/ui/gui/utils.py                                             236    236     64      0     0%
 pyanaconda/ui/gui/xkl_wrapper.py                                       161    161     44      0     0%
 pyanaconda/ui/helpers.py                                               128    128     32      0     0%
@@ -141,4 +141,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                28350  24155  10214    221    13%
+TOTAL                                                                28369  24174  10214    221    13%
