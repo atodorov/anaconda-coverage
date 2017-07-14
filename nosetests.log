@@ -171,6 +171,7 @@ Check if minimal password length is checked properly. ... ok
 Check if libpwquality gives reasonable numbers & score is assigned correctly. ... ok
 Test if we can download repomd.xml with file:// successfully. ... ok
 Test verification method. ... ok
+Check that requirements work correctly. ... ok
 Take the biggest mountpoint which can be used for download ... ok
 Take the root for download because there are no other available mountpoints ... ok
 No suitable location is found. ... ok
@@ -257,7 +258,7 @@ lun_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 wwpn_name_test (tests.regex_tests.zfcp_name_test.ZFCPNameRegexTestCase) ... ok
 
 ----------------------------------------------------------------------
-Ran 253 tests in 14.432s
+Ran 254 tests in 13.981s
 
 OK
 PASS nosetests.sh (exit status: 0)
