@@ -1,6 +1,6 @@
 Name                                                                 Stmts   Miss Branch BrPart  Cover
 ------------------------------------------------------------------------------------------------------
-anaconda.py                                                            398    398    185      0     0%
+anaconda.py                                                            399    399    185      0     0%
 dracut/driver_updates.py                                               472    101    190     28    75%
 dracut/parse-kickstart                                                 450     98    239     68    72%
 pyanaconda/__init__.py                                                   0      0      0      0   100%
@@ -43,7 +43,7 @@ pyanaconda/ntp.py                                                      111     8
 pyanaconda/payload/__init__.py                                         814    581    305      3    23%
 pyanaconda/payload/dnfpayload.py                                       816    647    293      3    17%
 pyanaconda/payload/livepayload.py                                      312    312    110      0     0%
-pyanaconda/payload/rpmostreepayload.py                                 183    151     50      0    14%
+pyanaconda/payload/rpmostreepayload.py                                 199    166     58      0    13%
 pyanaconda/payload/tarpayload.py                                        39     39      6      0     0%
 pyanaconda/product.py                                                   26      4      4      2    80%
 pyanaconda/progress.py                                                  25      9      0      0    64%
@@ -141,4 +141,4 @@ translation-canary/translation_canary/translatable/__main__.py          10      
 translation-canary/translation_canary/translatable/test_comment.py       3      1      2      1    60%
 translation-canary/translation_canary/translatable/test_markup.py        7      1      4      1    82%
 ------------------------------------------------------------------------------------------------------
-TOTAL                                                                28429  24169  10224    223    13%
+TOTAL                                                                28446  24185  10232    223    13%
